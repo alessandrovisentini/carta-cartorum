@@ -190,6 +190,18 @@ function createRouter() {
 createRouter()
 notifyNav(getFullSlug(window))
 
+// Handle SPA redirect from 404 page (for GitHub Pages)
+// Based on https://github.com/rafgraph/spa-github-pages
+const spaRedirect = sessionStorage.getItem("spa-redirect")
+if (spaRedirect) {
+  sessionStorage.removeItem("spa-redirect")
+  // Navigate to the stored path
+  const redirectUrl = new URL(spaRedirect, window.location.origin)
+  // Use history.replaceState first to update URL, then navigate
+  history.replaceState(null, "", redirectUrl.pathname + redirectUrl.search + redirectUrl.hash)
+  navigate(redirectUrl, false)
+}
+
 if (!customElements.get("route-announcer")) {
   const attrs = {
     "aria-live": "assertive",

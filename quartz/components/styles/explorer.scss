@@ -175,8 +175,10 @@ button.desktop-explorer {
     display: inline-block;
   }
 
-  & div > a:hover {
-    color: var(--tertiary);
+  @media (hover: hover) and (pointer: fine) {
+    & div > a:hover {
+      color: var(--tertiary);
+    }
   }
 
   & div > button {
@@ -216,8 +218,10 @@ li:has(> .folder-outer:not(.open)) > .folder-container > svg {
   transform: rotate(-90deg);
 }
 
-.folder-icon:hover {
-  color: var(--tertiary);
+@media (hover: hover) and (pointer: fine) {
+  .folder-icon:hover {
+    color: var(--tertiary);
+  }
 }
 
 .explorer {

@@ -6,22 +6,22 @@ const NotFound: QuartzComponent = ({ cfg }: QuartzComponentProps) => {
   const url = new URL(`https://${cfg.baseUrl ?? "example.com"}`)
   const baseDir = url.pathname
 
-  // Script to redirect to .html version of the path if it exists
+  // SPA redirect script - stores the original path and redirects to index
+  // Based on https://github.com/rafgraph/spa-github-pages
   const redirectScript = `
     (function() {
-      const path = window.location.pathname;
-      // Don't redirect if already has .html or is root
-      if (path.endsWith('.html') || path === '${baseDir}' || path === '${baseDir}/') return;
+      var path = window.location.pathname;
+      var search = window.location.search;
+      var hash = window.location.hash;
 
-      // Try fetching the .html version
-      const htmlPath = path.endsWith('/') ? path.slice(0, -1) + '.html' : path + '.html';
-      fetch(htmlPath, { method: 'HEAD' })
-        .then(res => {
-          if (res.ok) {
-            window.location.replace(htmlPath);
-          }
-        })
-        .catch(() => {});
+      // Don't redirect if already at base or has .html
+      if (path === '${baseDir}' || path === '${baseDir}/' || path.endsWith('.html')) return;
+
+      // Store the redirect path in sessionStorage
+      sessionStorage.setItem('spa-redirect', path + search + hash);
+
+      // Redirect to base path
+      window.location.replace('${baseDir || "/"}');
     })();
   `
 

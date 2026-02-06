@@ -87,8 +87,12 @@ a {
   transition: color 0.2s ease;
   color: var(--secondary);
 
-  &:hover {
-    color: var(--tertiary);
+  // Only apply hover styles on devices with pointer (not touch)
+  // This prevents the double-tap issue on iOS Safari
+  @media (hover: hover) and (pointer: fine) {
+    &:hover {
+      color: var(--tertiary);
+    }
   }
 
   &.internal {
@@ -102,8 +106,10 @@ a {
       color: var(--secondary);
       opacity: 0.5;
       transition: opacity 0.2s ease;
-      &:hover {
-        opacity: 0.8;
+      @media (hover: hover) and (pointer: fine) {
+        &:hover {
+          opacity: 0.8;
+        }
       }
     }
 
@@ -386,8 +392,10 @@ h6 {
     user-select: none;
   }
 
-  &[id]:hover > a {
-    opacity: 1;
+  @media (hover: hover) and (pointer: fine) {
+    &[id]:hover > a {
+      opacity: 1;
+    }
   }
 
   &:not([id]) > a[role="anchor"] {
