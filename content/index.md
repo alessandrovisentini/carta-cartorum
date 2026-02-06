@@ -1,8 +1,4 @@
----
-title: Home
----
-
-## Carta Iniziorum
+# Carta Iniziorum
 
 - [[Creature]]
 - [[Cronologia]]
@@ -14,5 +10,6 @@ title: Home
 - [[Oggetti]]
 - [[Pantheon]]
 - [[Personaggi]]
+- [[Personaggio]]
 - [[Riepiloghi]]
 - [[Sessioni]]
