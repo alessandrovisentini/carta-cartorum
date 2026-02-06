@@ -1,15 +1,14 @@
 # Carta Iniziorum
 
-- [[Creature]]
-- [[Cronologia]]
-- [[Eventi]]
-- [[Fazioni]]
-- [[Il Sistema di Mondi]]
-- [[Litorale]]
-- [[NPC]]
-- [[Oggetti]]
-- [[Pantheon]]
-- [[Personaggi]]
-- [[Personaggio]]
-- [[Riepiloghi]]
-- [[Sessioni]]
+- [Creature](./Creature/)
+- [Cronologia](./Cronologia/)
+- [Eventi](./Eventi/)
+- [Fazioni](./Fazioni/)
+- [Il Sistema di Mondi](./Il-Sistema-di-Mondi/)
+- [Litorale](./Litorale/)
+- [NPC](./NPC/)
+- [Oggetti](./Oggetti/)
+- [Pantheon](./Pantheon/)
+- [Personaggi](./Personaggi/)
+- [Riepiloghi](./Riepiloghi/)
+- [Sessioni](./Sessioni/)
