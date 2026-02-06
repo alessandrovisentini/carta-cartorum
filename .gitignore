@@ -1,0 +1,34 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Dependencies
+node_modules/
+
+# Build output
+public/
+.quartz-cache/
+tsconfig.tsbuildinfo
+prof/
+
+# Obsidian
+.obsidian/
+private/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environment
+.env
+.env.local
+
+# Replit
+.replit
+replit.nix
