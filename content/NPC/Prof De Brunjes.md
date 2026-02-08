@@ -2,37 +2,40 @@
 
 |                   |                                |
 | ----------------- | ------------------------------ |
-| Nome Completo     | Nicholas Der Brughenriz        |
+| Nome Completo     | Nicolas Der Brugherniz         |
 | Specie            | Umano                          |
 | Affiliazione      | Sentinelle Brune               |
 | Nave              | [[Rivalsa]]                    |
-| Prima Apparizione | [[Sessione 04]]                 |
+| Prima Apparizione | [[Sessione 04]]                |
 
 ## Descrizione
 
-Il Professor De Brunjes (Nicholas Der Brughenriz) è un umano attempato con una carrozzina complessa e tecnologica. Porta un cappello marrone lungo, simbolo delle Sentinelle Brune. È armato con una pistola.
+Il Professor De Brunjes (Nicolas Der Brugherniz) è un umano attempato con una carrozzina complessa e tecnologica[^1]. Porta un cappello marrone lungo, simbolo delle Sentinelle Brune[^1]. È armato con una pistola[^1].
 
 ## Storia nelle Sessioni
 
-- **Sessione 4**: [[Eric]] parla con lui. Espone la sua teoria sui pilastri: sono un pezzo unico, tutti dello stesso materiale, e sembrano tutti collegati a quello che si è acceso (verso la carcassa del [[Megadon]]). "Come se fosse scoppiato." È interessato al bar del gruppo.
-- **Sessione 14**: Accompagna il gruppo al [[Megadon]] per raccogliere sangue più puro. Discute con [[Eric]] di [[Elunavi]] e della Luna Nera. Rivela le sue teorie su **Felcanda** e **Apophtosis**. Al ritorno teorizza che gli abitanti della città potrebbero essere fantasmi o miraggi.
+- **Sessione 4**: [[Eric]] parla con lui[^1]. Espone la sua teoria sui pilastri: un pezzo unico, tutti collegati, "come se fossero scoppiati"[^1].
+- **Sessione 14**: Accompagna il gruppo al [[Megadon]][^2]. Discute con [[Eric]] di [[Elunaui]] e della Luna Nera[^2]. Rivela le teorie su **Felcanda** e **Apophtosis**[^2].
 
 ## Teorie del Professore
 
-### Sui Pilastri
+### Sui Pilastri[^1]
 Sono un pezzo unico, tutti dello stesso materiale e collegati tra loro.
 
-### Su Elunavi e Apophtosis
-- Il [[Megadon]] potrebbe essere il punto in cui è nato il culto della luna nera (**Apophtosis**) come opposto di [[Elunavi]]
-- La luna sembra essere stata corrotta e come rifiuto di Elunavi sia iniziato il culto di Apophtosis
+### Su Elunaui e Apophtosis[^2]
+- Il [[Megadon]] potrebbe essere il punto in cui è nato il culto della luna nera (**Apophtosis**) come opposto di [[Elunaui]]
 - Le **lacrime della luna** servono a creare nuove costellazioni
 
-### Su Felcanda
-- La scomparsa di **Felcanda** da [[Targea]] è avvenuta tutta d'un tratto
-- Il megadon non si è visto da secoli
-- Se il [[Megadon]] che stanno esplorando è davvero Felcanda, sarebbe la più grande scoperta della sua vita
+### Su Felcanda[^2]
+- Se il [[Megadon]] è Felcanda, sarebbe la più grande scoperta della sua vita
 - Felcanda e la fine dell'impero dei draghi sono probabilmente contemporanee (un paio di millenni fa)
 
-### Sulla Città del Megadon
-Teorizza che sia una **città fantasma**: le persone potrebbero essere miraggi, ricordi, o spiriti legati al posto. Strano che sopravvivano senza cibo e al freddo. Rimane però interdetto quando [[Eric]] conferma di aver sentito il tocco materiale della bambina.
+### Sulla Città del Megadon[^2]
+Teorizza che sia una **città fantasma**: le persone potrebbero essere miraggi o spiriti. Rimane interdetto quando [[Eric]] conferma di aver sentito il tocco materiale di [[Lili]].
 
+---
+
+## Fonti
+
+[^1]: [[Recap Sessione 4]]
+[^2]: [[Recap Sessione 14]]

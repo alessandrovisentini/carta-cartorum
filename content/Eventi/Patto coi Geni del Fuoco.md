@@ -3,14 +3,14 @@
 |                   |                       |
 | ----------------- | --------------------- |
 | Tipo              | Patto magico          |
-| Sessione          | [[Sessione 10]] |
+| Sessione          | [[Sessione 10]]       |
 | Parti coinvolte   | Gruppo, [[Argan e Asbad]] |
 
 ## Descrizione
 
-Durante l'esplorazione del vulcano, il gruppo ha stretto un patto con i geni del fuoco [[Argan e Asbad]] nel loro [[Palazzo dei Genii]].
+Durante l'esplorazione del vulcano, il gruppo ha stretto un patto con i geni del fuoco [[Argan e Asbad]] nel loro [[Palazzo dei Genii]][^1].
 
-## Termini del Patto
+## Termini del Patto[^1]
 
 ### Cosa hanno dato i geni:
 - Rimozione delle restrizioni sull'[[Ancora Spaziale]]
@@ -23,25 +23,19 @@ Durante l'esplorazione del vulcano, il gruppo ha stretto un patto con i geni del
 
 ### Clausole:
 - "Se la attivate una volta, poi non saremo più collegati alla gemma, sarà la fine del nostro patto"
-- Se fanno scherzi, i geni minacciano la fonte con cui l'oggetto è collegato (la casa di [[Awen Seife]])
+- Se fanno scherzi, i geni minacciano la fonte con cui l'oggetto è collegato
 
 ## Firma
 
-Il contratto è apparso in infernale sul pavimento del palazzo. È stato firmato col sangue di tutti i membri del gruppo (uno spillo d'oro ha colpito [[Vailendel]] e [[Rosanno]]).
+Il contratto è apparso in infernale sul pavimento del palazzo[^1]. È stato firmato col sangue di tutti i membri del gruppo (uno spillo d'oro ha colpito [[Vailendel]] e [[Rosanno]])[^1].
 
-## Storia nelle Sessioni
+## Sviluppi
 
-- **Sessione 10**: Il patto viene stretto. L'ancora viene posizionata e inizia a emettere calore. [[Bran Lapillo]] rimane sconvolto nel vederla funzionare.
+- **Sessione 13**: [[Pagrax]] confessa il patto al [[Clan Oven|Re Tregron Oven]] e cede l'[[Ancora Spaziale]][^2]. I giganti decidono di affrontare i Geni[^2].
 
-## Relazioni
+---
 
-- [[Argan e Asbad]] - I geni del patto
-- [[Ignemir]] - La sua famiglia (Valmorad) è coinvolta
-- [[Clan Oven]] - Hanno imprigionato il "toro"
-- [[Ancora Spaziale]] - L'oggetto del patto
+## Fonti
 
-## Note
-
-- I geni del fuoco non piegano le parole: mantengono i patti alla lettera
-- Il "toro" imprigionato è probabilmente una creatura o entità importante
-- I geni hanno detto che saranno "felici di rivedere il gruppo e i loro compagni" - potrebbe essere una minaccia velata
+[^1]: [[Recap Sessione 10]]
+[^2]: [[Recap Sessione 13]], "Ocecot Oven"

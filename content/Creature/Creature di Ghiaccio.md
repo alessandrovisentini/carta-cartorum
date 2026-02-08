@@ -4,33 +4,29 @@
 | ----------------- | ----------------------- |
 | Tipo              | Creature fatate         |
 | Affiliazione      | [[Caccia Selvaggia]]    |
-| Prima Apparizione | [[Sessione 12]]   |
+| Prima Apparizione | [[Sessione 12]]         |
 
 ## Descrizione
 
-Le Creature di Ghiaccio sono manifestazioni della [[Caccia Selvaggia]], creature con forme scheletriche da cui escono forme di ghiaccio azzurro. Appaiono in diverse forme:
-- Creature a quattro zampe (dimensioni di un lupo)
-- Creature a due zampe (dimensioni umane)
-- Un centauro (grande come un cavallo)
+Le Creature di Ghiaccio sono manifestazioni della [[Caccia Selvaggia]], creature con forme scheletriche da cui escono forme di ghiaccio azzurro[^1]. Appaiono in diverse forme:
+- Creature a quattro zampe (dimensioni di un lupo)[^1]
+- Creature a due zampe (dimensioni umane)[^1]
+- Un centauro (grande come un cavallo)[^1]
 
-Non hanno orecchie, a differenza dei [[Mastini dalle Orecchie Rosse]] normalmente associati alla Caccia.
+Non hanno orecchie, a differenza dei [[Mastini dalle Orecchie Rosse]] normalmente associati alla Caccia[^1].
 
 ## Storia nelle Sessioni
 
-- **Sessione 12**: Il gruppo le trova alla [[Fontana]] mentre raschiano e si muovono in vari punti. [[Fryolin]], che ha partecipato alla Caccia Selvaggia in passato, non le ha mai viste. Il gruppo le combatte con l'aiuto di [[Vanya]] e [[Bran Lapillo]].
+- **Sessione 12**: Il gruppo le trova alla [[Fontana]] mentre raschiano e si muovono in vari punti[^1]. [[Fryolin]], che ha partecipato alla Caccia Selvaggia in passato, non le ha mai viste[^1]. Il gruppo le combatte con l'aiuto di [[Vanya]] e [[Bran Lapillo]][^1].
 
 ## Bottino
 
-Dai loro corpi si ricavano:
+Dai loro corpi si ricavano[^1]:
 - 5 [[Gemme di Gelatite]]
 - [[Scimitarra del Gelo Eterno]] (dalla lama della falce del centauro) - presa da [[Zamoraz]]
 
-## Relazioni
+---
 
-- [[Caccia Selvaggia]] - Sono sue manifestazioni
-- [[Fryolin]] - Non le ha mai viste nelle cacce precedenti
+## Fonti
 
-## Note
-
-- Sembrano essere una variante rara o nuova della Caccia Selvaggia
-- La loro presenza potrebbe indicare un cambiamento nella natura della Caccia
+[^1]: [[Recap Sessione 12]]

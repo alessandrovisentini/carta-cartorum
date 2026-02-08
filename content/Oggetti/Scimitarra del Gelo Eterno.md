@@ -4,17 +4,18 @@
 | ----------------- | --------------------- |
 | Tipo              | Arma magica           |
 | Proprietario      | [[Zamoraz]]           |
-| Prima Apparizione | [[Sessione 12]] |
+| Prima Apparizione | [[Sessione 12]]       |
 
 ## Descrizione
 
-La Scimitarra del Gelo Eterno è un'arma ricavata dalla lama della falce di un centauro delle [[Creature di Ghiaccio]] della [[Caccia Selvaggia]].
+La Scimitarra del Gelo Eterno è un'arma ricavata dalla lama della falce di un centauro delle [[Creature di Ghiaccio]] della [[Caccia Selvaggia]][^1].
 
 ## Storia nelle Sessioni
 
-- **Sessione 12**: Dopo aver sconfitto le [[Creature di Ghiaccio]] alla [[Fontana]], il gruppo recupera la lama della falce del centauro. Può essere utilizzata come scimitarra. [[Zamoraz]] la tiene.
+- **Sessione 12**: Dopo aver sconfitto le [[Creature di Ghiaccio]] alla [[Fontana]], il gruppo recupera la lama della falce del centauro[^1]. [[Zamoraz]] la tiene[^1].
 
-## Relazioni
+---
 
-- [[Creature di Ghiaccio]] - Provenienza originale
-- [[Caccia Selvaggia]]
+## Fonti
+
+[^1]: [[Recap Sessione 12]]

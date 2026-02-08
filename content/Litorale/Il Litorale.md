@@ -7,45 +7,43 @@
 
 ## Descrizione
 
-Il Litorale è la regione misteriosa dove le tre navi si sono incagliate dopo [[Il Naufragio]]. È un luogo da cui sembra impossibile fuggire.
+Il Litorale è la regione misteriosa dove le tre navi si sono incagliate dopo [[Il Naufragio]][^1]. È un luogo da cui sembra impossibile fuggire[^2].
 
-### Il Mare Misterioso
+### Il Mare Misterioso[^2]
 
-Tutte le imbarcazioni sono lentamente affondate, chi ha provato con molta fatica a farsela a nuoto è affogato lentamente, come se stesse nuotando nella melassa. I velivoli o non si alzano per la mancanza di vento, o per l'improvvisa assenza di venti magici a largo della costa. Quelli che, nonostante tutto, sono scomparsi all'orizzonte, son tornati a riva come relitti dopo pochi giorni.
+Tutte le imbarcazioni sono lentamente affondate. Chi ha provato a nuotare è affogato lentamente, come se stesse nuotando nella melassa. I velivoli o non si alzano per la mancanza di vento, o sono tornati a riva come relitti.
 
 ### I Pilastri
 
-Grandi pilastri di varie tipologie rocciose che si stagliano verso il cielo, sparsi all'orizzonte e sul litorale. Secondo [[Prof De Brunjes]], sono tutti un pezzo unico, dello stesso materiale, e sembrano tutti collegati - "come se fossero scoppiati".
+Grandi pilastri di varie tipologie rocciose che si stagliano verso il cielo[^3]. Secondo [[Prof De Brunjes]], sono tutti un pezzo unico, dello stesso materiale, e sembrano tutti collegati - "come se fossero scoppiati"[^3].
 
-Il pilastro principale (la "Spina Centrale") si trova sul [[Megadon]] ed è alto circa 2 km con un diametro di 400 m. [[Rem]] avverte: "Pilastro pericoloso, rotto, non stare vicini, il rosso dice di stare distanti."
+Il pilastro principale (la "Spina Centrale") si trova sul [[Megadon]] ed è alto circa 2 km con un diametro di 400m[^4]. [[Rem]] avverte: "Pilastro pericoloso, rotto, non stare vicini"[^4].
 
-La pietra dei pilastri può essere scalfita solo dal cuneo di [[Awen Seife]] con il suo nome inciso sopra. Sembra che i pilastri stiano tornando a uno stato di equilibrio - la polvere si ricompone.
+La pietra dei pilastri può essere scalfita solo dal cuneo di [[Awen Seife]][^5].
 
-### Geografia del Litorale
+### Geografia del Litorale[^1]
 
-**Ad ovest** - Una larga laguna paludosa vi separa da quella che sembra essere una grande prateria, che termina a sud in una foresta ai piedi di una catena montuosa. Nella foresta si trova la [[Fontana]] e il palazzo sotterraneo dei [[I Liberi|Liberi]].
+**Ad ovest** - Larga laguna paludosa, prateria, foresta ai piedi di una catena montuosa. Nella foresta: [[Fontana]] e palazzo sotterraneo dei [[I Liberi|Liberi]].
 
-**A est** - Una serie di fiordi e strapiombi di rocce frastagliate portano al [[Vulcano]], dove si trovano l'[[Arco del Clan Oven]] e il [[Palazzo dei Genii]].
+**A est** - Fiordi e strapiombi verso il [[Vulcano]]. [[Arco del Clan Oven]] e [[Palazzo dei Genii]].
 
-**A nord** - La ragione per cui in queste scorse settimane non siete riusciti a prendere il largo: uno strano mare striato, dai colori lattiginosi che spaziano dal ciano al ceruleo, passando per il turchese.
+**A nord** - Mare striato dai colori lattiginosi.
 
-**Sul [[Megadon]]** - La carcassa del Megadon forma colline e montagne a ovest. Contiene città in rovina abitate dagli [[Uomini Serpente]] e il pilastro principale.
+**Sul [[Megadon]]** - Carcassa che forma colline e montagne. Città in rovina con [[Uomini Serpente]].
 
-## Vascelli Naufragati
+## Anomalie[^6]
 
-- [[Rivalsa]]
-- [[Maledizione di Mefisto]]
-- [[Furia di Cernunnos]]
+- Materiali da costruzione trovati sull'isola si degradano e distorcono
+- I pezzi nativi delle navi rimangono stabili
+- Stelle strane e foschia perenne nel cielo
 
-## Abitanti Misteriosi
+---
 
-- [[I Liberi]] - Cercatori, Studiosi e Custodi che abitavano l'isola prima dei naufraghi
-- [[Uomini Serpente]] - Venerano la luna nera, abitano il [[Megadon]]
-- [[Draconoidi]] - Vivono nelle caverne del [[Vulcano]]
+## Fonti
 
-## Note
-
-- Gli animali stanno alla larga dai pilastri
-- I materiali da costruzione trovati sull'isola si degradano e distorcono, mentre i pezzi nativi delle navi rimangono stabili
-- Durante l'inverno, la [[Caccia Selvaggia]] può manifestarsi
-
+[^1]: [[Introduzione]]
+[^2]: [[Recap Sessione 2]]
+[^3]: [[Recap Sessione 4]]
+[^4]: [[Recap Sessione 8]]
+[^5]: [[Recap Sessione 7]], "storia"
+[^6]: [[Sessione 15]]

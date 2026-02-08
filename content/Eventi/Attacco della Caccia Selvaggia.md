@@ -3,18 +3,18 @@
 |                   |                       |
 | ----------------- | --------------------- |
 | Tipo              | Combattimento         |
-| Sessione          | [[Sessione 12]] |
+| Sessione          | [[Sessione 12]]       |
 | Luogo             | [[Fontana]]           |
 
 ## Descrizione
 
-Durante l'inverno, le [[Creature di Ghiaccio]] della [[Caccia Selvaggia]] hanno attaccato la [[Fontana]], intrappolando alcuni membri del gruppo all'interno del palazzo sotterraneo.
+Durante l'inverno, le [[Creature di Ghiaccio]] della [[Caccia Selvaggia]] hanno attaccato la [[Fontana]], intrappolando alcuni membri del gruppo all'interno del palazzo sotterraneo[^1].
 
 ## Antefatto
 
-[[Awen Seife]] sveglia il gruppo nel pieno della notte dicendo che [[Opalix]], [[Merla]], [[Vanya]] e [[Ignemir]] sono in pericolo e nascosti nella fontana. [[Opalix]] aveva sentito ululati dei [[Mastini dalle Orecchie Rosse]].
+[[Awen Seife]] sveglia il gruppo nel pieno della notte dicendo che [[Opalix]], [[Merla]], [[Vanya]] e [[Ignemir]] sono in pericolo[^1]. [[Opalix]] aveva sentito ululati dei [[Mastini dalle Orecchie Rosse]][^1].
 
-## Il Gruppo di Soccorso
+## Il Gruppo di Soccorso[^1]
 
 - [[Zamoraz]] (guida)
 - [[Rosanno]]
@@ -25,34 +25,25 @@ Durante l'inverno, le [[Creature di Ghiaccio]] della [[Caccia Selvaggia]] hanno 
 
 ## Il Viaggio
 
-[[Zamoraz]] guida il gruppo nella bufera di neve, legati con una corda. Avanzata molto difficile. Arrivano alla foresta dove la bufera si è calmata un po'. Dalla cima degli alberi si vedono effetti di miraggio legati alla Caccia Selvaggia.
+[[Zamoraz]] guida il gruppo nella bufera di neve, legati con una corda[^1]. Dalla cima degli alberi si vedono effetti di miraggio legati alla Caccia[^1].
 
 ## Il Combattimento
 
-In prossimità della fontana, il gruppo vede le creature:
+In prossimità della fontana, il gruppo trova[^1]:
 - 4 creature a quattro zampe (dimensioni lupo)
 - 2 creature a due zampe (dimensioni umane)
 - 1 centauro (grande come un cavallo)
 
-Tutte hanno forme scheletriche con ghiaccio azzurro che esce dalle loro sagome. [[Fryolin]] non le riconosce dalle cacce precedenti.
+[[Fryolin]] non le riconosce dalle cacce precedenti[^1]. Il gruppo vince con l'aiuto di [[Vanya]] e [[Bran Lapillo]], che brucia la sua riserva speciale[^1].
 
-Il gruppo vince il combattimento con l'aiuto di [[Vanya]] che esce dalla fontana. [[Bran Lapillo]] brucia tantissima energia, usando la sua riserva speciale.
-
-## Conseguenze
+## Conseguenze[^1]
 
 - L'ascensore per entrare nella fontana viene distrutto
 - Recuperati: 5 [[Gemme di Gelatite]], [[Scimitarra del Gelo Eterno]]
-- [[Bran Lapillo]] è esausto
 - [[Awen Seife]] si arrabbia con Bran per aver usato "quella cosa"
 
-## Relazioni
+---
 
-- [[Caccia Selvaggia]] - La fonte delle creature
-- [[Creature di Ghiaccio]] - I nemici sconfitti
-- [[Fryolin]] - Ha aiutato ma non riconosceva queste creature
-- [[Fontana]] - Il luogo dell'attacco
+## Fonti
 
-## Note
-
-- Questa manifestazione della Caccia sembra diversa dalle precedenti
-- L'inverno sul Litorale è estremamente pericoloso
+[^1]: [[Recap Sessione 12]]

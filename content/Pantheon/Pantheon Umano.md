@@ -1,101 +1,103 @@
 # Pantheon Umano
 
+|                   |                      |
+| ----------------- | -------------------- |
+| Tipo              | Pantheon religioso   |
+| Prima Menzione    | [[Sessione 01]]      |
 
-# Solar
+## Divinità Maggiori
 
-|  |  |
-| ---- | ---- |
-| Titolo | L'unico dio, il benevolo |
-| Dominio | Protettore di tutti gli uomini |
-| Allineamento | Legale Buono |
+### Solar
 
+|             |                                    |
+| ----------- | ---------------------------------- |
+| Titolo      | L'unico dio, il benevolo           |
+| Dominio     | Protettore di tutti gli uomini     |
 
-# Resciani
+Ha assunto alcuni compiti di [[Elunaui]][^1].
 
-|  |  |
-| ---- | ---- |
-| Titolo | Protettrice dei mercanti e viaggiatori |
-| Domini | Accoglienza, spensieratezza, raggiro |
-| Portfolio | Commercio, viaggi |
+### Resciani
 
+|             |                                           |
+| ----------- | ----------------------------------------- |
+| Titolo      | Protettrice dei mercanti e viaggiatori    |
+| Domini      | Accoglienza, spensieratezza, raggiro      |
 
-# Nahil
+### Nahil
 
-|  |  |
-| ---- | ---- |
-| Titolo | Signora del trapasso |
-| Dominio | Dea della morte |
-| Consorte | Elmion (Pantheon Elfico) |
+|             |                           |
+| ----------- | ------------------------- |
+| Titolo      | Signora del trapasso      |
+| Dominio     | Morte                     |
+| Consorte    | Elmion (Pantheon Elfico)  |
 
+Ha assunto alcuni compiti di [[Elunaui]][^1].
 
-# Ptah
+### Ptah
 
-|  |  |
-| ---- | ---- |
-| Titolo | La somma conoscitrice |
-| Dominio | Dea della conoscenza |
-| Note | Venerata in tutti i pantheon |
+|             |                          |
+| ----------- | ------------------------ |
+| Titolo      | La somma conoscitrice    |
+| Dominio     | Conoscenza               |
+| Note        | Venerata in tutti i pantheon |
 
+### Chanda
 
-# Chanda
+|             |                              |
+| ----------- | ---------------------------- |
+| Titolo      | La dama dei venti            |
+| Domini      | Piogge, temporali, fulmini   |
 
-|  |  |
-| ---- | ---- |
-| Titolo | La dama dei venti |
-| Domini | Piogge, temporali, fulmini |
-| Elemento | Aria e tempeste |
+## Divinità Minori
 
-## Divinità minori
+### La Dama Verde
 
+|             |                         |
+| ----------- | ----------------------- |
+| Titolo      | Signora dei boschi      |
+| Dominio     | Natura incontaminata    |
 
-# La Dama Verde
+### Nicneven
 
-|  |  |
-| ---- | ---- |
-| Titolo | Signora dei boschi |
-| Dominio | Natura incontaminata |
+|             |                       |
+| ----------- | --------------------- |
+| Titolo      | La bisbigliata        |
+| Domini      | Inganni, stregoneria  |
+| Ruolo       | Matriarca delle streghe |
 
+### Raelashy
 
-# Nicneven
+|             |                    |
+| ----------- | ------------------ |
+| Titolo      | Re dei lich        |
+| Domini      | Non morte          |
 
-|  |  |
-| ---- | ---- |
-| Titolo | La bisbigliata |
-| Domini | Inganni, stregoneria |
-| Ruolo | Matriarca delle streghe |
+### Munretu
 
+|             |                    |
+| ----------- | ------------------ |
+| Domini      | Sogni, poteri arcani |
 
-# Raelashy
+### Ures
 
-|  |  |
-| ---- | ---- |
-| Titolo | Re dei litch |
-| Domini | Non morte, vita eterna |
-| Allineamento | Malvagio |
+|             |                  |
+| ----------- | ---------------- |
+| Titolo      | Il semina rancore |
+| Dominio     | Guerra           |
 
+### Egleli
 
-# Munretu
+|             |                              |
+| ----------- | ---------------------------- |
+| Titolo      | Protettrice delle donne      |
+| Domini      | Famiglia, donne              |
+| Note        | Venerata sulla [[Maledizione di Mefisto]] |
 
-|  |  |
-| ---- | ---- |
-| Domini | Sogni, poteri arcani |
-| Elemento | Magia |
+La [[Chiesa di Egleli]] guida i peccatori salvabili nel percorso di redenzione[^2].
 
+---
 
-# Ures
+## Fonti
 
-|  |  |
-| ---- | ---- |
-| Titolo | Il semina rancore |
-| Dominio | Guerra |
-| Natura | Conflitto |
-
-
-# Egleli
-
-|  |  |
-| ---- | ---- |
-| Titolo | Protettrice delle donne |
-| Domini | Famiglia, donne |
-| Note | Venerata sulla Maledizione di Mefisto |
-
+[^1]: [[Recap Sessione 14]], "Elunaui"
+[^2]: [[Introduzione]], "La Maledizione di Mefisto"

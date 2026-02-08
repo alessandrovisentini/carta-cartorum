@@ -3,32 +3,27 @@
 |                   |                      |
 | ----------------- | -------------------- |
 | Tipo              | Gemme magiche        |
-| Prima Apparizione | [[Sessione 09]] |
+| Prima Apparizione | [[Sessione 09]]      |
 
 ## Descrizione
 
-Le Gemme del Vuoto sono gemme speciali che [[Ignemir]] conosce. Hanno le seguenti proprietà:
-- Acquisiscono facilmente la magia
-- Sono molto malleabili
+Le Gemme del Vuoto sono gemme speciali che [[Ignemir]] conosce[^1]. Proprietà:
+- Acquisiscono facilmente la magia[^1]
+- Sono molto malleabili[^1]
 
 ## Storia nelle Sessioni
 
-- **Sessione 9**: Nel palazzo sotterraneo sotto la [[Fontana]], [[Ignemir]] riconosce le gemme che brillano intorno all'acquario di [[Murr]]. Le luci diventano più chiare e aumentano nel tempo.
-- **Sessione 14**: Nel faro sulla città del [[Megadon]], il gruppo trova una gemma del vuoto **caricata di rosso** che alimenta il sistema di luce. È leggermente instabile. [[Moli]] la stacca prendendo danno.
+- **Sessione 9**: Nel palazzo sotterraneo sotto la [[Fontana]], [[Ignemir]] riconosce le gemme che brillano intorno all'acquario di [[Murr]][^1]. Le luci diventano più chiare nel tempo[^1].
+- **Sessione 14**: Nel faro sulla città del [[Megadon]], il gruppo trova una gemma del vuoto **caricata di rosso** che alimenta il sistema di luce[^2]. È leggermente instabile. [[Moli]] la stacca prendendo danno[^2].
 
 ## Tipi Conosciuti
 
-- **Gemme normali** - Intorno all'acquario di [[Murr]]
-- **Gemma caricata di rosso** - Nel faro sul [[Megadon]], leggermente instabile
+- **Gemme normali** - Intorno all'acquario di [[Murr]][^1]
+- **Gemma caricata di rosso** - Nel faro sul [[Megadon]], instabile[^2]
 
-## Relazioni
+---
 
-- [[Murr]] - Il suo acquario/prigione è circondato da queste gemme
-- [[Fontana]] - Si trovano nel palazzo sotterraneo
-- [[Megadon]] - Una gemma rossa alimentava il faro
+## Fonti
 
-## Note
-
-- Potrebbero essere usate per contenere o amplificare magia
-- La loro presenza intorno a Murr suggerisce un ruolo nel suo imprigionamento
-- Possono essere caricate (la gemma rossa era instabile)
+[^1]: [[Recap Sessione 9]]
+[^2]: [[Recap Sessione 14]]

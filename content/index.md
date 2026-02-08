@@ -1,7 +1,6 @@
 # Carta Iniziorum
 
 - [Creature](./Creature/)
-- [Cronologia](./Cronologia/)
 - [Eventi](./Eventi/)
 - [Fazioni](./Fazioni/)
 - [Il Sistema di Mondi](./Il-Sistema-di-Mondi/)

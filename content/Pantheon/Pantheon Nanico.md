@@ -1,72 +1,70 @@
 # Pantheon Nanico
 
+|                   |                      |
+| ----------------- | -------------------- |
+| Tipo              | Pantheon religioso   |
+| Prima Menzione    | [[Sessione 01]]      |
 
-# Aule
+## Aule
 
-|  |  |
-| ---- | ---- |
-| Domini | Creazione, guerra, forgia |
-| Ruolo | Patrono degli artigiani |
+|             |                            |
+| ----------- | -------------------------- |
+| Domini      | Creazione, guerra, forgia  |
+| Ruolo       | Patrono degli artigiani    |
 
+## Throrgran
 
-# Throrgran
+|             |                          |
+| ----------- | ------------------------ |
+| Titolo      | Custode dei rancori      |
+| Domini      | Tradizioni, conoscenza   |
+| Note        | Venerato sulla [[Maledizione di Mefisto]] |
 
-|  |  |
-| ---- | ---- |
-| Titolo | Custode dei rancori |
-| Domini | Tradizioni, conoscenza |
-| Note | Venerato sulla Maledizione di Mefisto |
+La [[Setta dei Pazzi Vendicativi]] lo venera[^1].
 
+## Duathal
 
-# Duathal
+|             |                    |
+| ----------- | ------------------ |
+| Domini      | Mare, corsi d'acqua |
 
-|  |  |
-| ---- | ---- |
-| Domini | Mare, corsi d'acqua |
-| Elemento | Acqua |
+## Belenos
 
+|             |                    |
+| ----------- | ------------------ |
+| Titolo      | Lo spaccacieli     |
+| Dominio     | Fulmine            |
 
-# Belenos
+## Baren
 
-|  |  |
-| ---- | ---- |
-| Titolo | Lo spaccacieli |
-| Dominio | Fulmine |
-| Elemento | Aria |
+|             |                                  |
+| ----------- | -------------------------------- |
+| Titolo      | Colui che cammina tra le stelle  |
+| Dominio     | Magia                            |
 
+## Annakar
 
-# Baren
+|             |                                                    |
+| ----------- | -------------------------------------------------- |
+| Titoli      | Madre zelante, astuta figlia, passionevole guerriera |
+| Dominio     | Scaltrezza                                         |
 
-|  |  |
-| ---- | ---- |
-| Titolo | Colui che cammina tra le stelle |
-| Dominio | Magia |
-| Portfolio | Magia cosmica |
+## Zelrun
 
+|             |                              |
+| ----------- | ---------------------------- |
+| Titolo      | Custode delle sale eterne    |
+| Dominio     | Aldilà                       |
 
-# Annakar
+## Ralga
 
-|  |  |
-| ---- | ---- |
-| Titoli | Madre zelante, astuta figlia, passionevole guerriera |
-| Dominio | Scaltrezza |
-| Natura | Aspetti multipli |
+|             |                                    |
+| ----------- | ---------------------------------- |
+| Titolo      | Signora dei campi e dei pascoli   |
+| Dominio     | Raccolti                           |
 
+---
 
-# Zelrun
+## Fonti
 
-|  |  |
-| ---- | ---- |
-| Titolo | Custode delle sale eterne |
-| Dominio | Aldilà |
-| Ruolo | Guardiano delle anime |
-
-
-# Ralga
-
-|  |  |
-| ---- | ---- |
-| Titolo | Signora dei campi e dei pascoli |
-| Dominio | Raccolti |
-| Portfolio | Agricoltura |
-
+[^1]: [[Introduzione]], "La Maledizione di Mefisto"
