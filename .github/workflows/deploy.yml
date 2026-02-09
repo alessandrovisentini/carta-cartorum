@@ -129,9 +129,13 @@ jobs:
         if: steps.changed-files.outputs.has_changes == 'true'
         env:
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+          FILE_LIST: ${{ steps.changed-files.outputs.file_list }}
+          PAGE_URL: ${{ needs.deploy.outputs.page_url }}
         run: |
-          MESSAGE="📜 **La Wiki è stata aggiornata!**\n\n**Pagine modificate:**\n${{ steps.changed-files.outputs.file_list }}\n🔗 Visita la wiki: ${{ needs.deploy.outputs.page_url }}"
+          MESSAGE=$(printf '📜 **La Wiki è stata aggiornata!**\n\n**Pagine modificate:**\n%s\n🔗 Visita la wiki: %s' "$FILE_LIST" "$PAGE_URL")
+
+          PAYLOAD=$(jq -n --arg msg "$MESSAGE" '{content: $msg}')
 
           curl -H "Content-Type: application/json" \
-            -d "{\"content\": \"$MESSAGE\"}" \
+            -d "$PAYLOAD" \
             "$DISCORD_WEBHOOK"
