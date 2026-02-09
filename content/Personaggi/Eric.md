@@ -23,6 +23,7 @@ Su **Apophtosis**: "Coloro che si sono persi. Hanno voltato le spalle, hanno seg
 La cassa consegna uno **scheletro d'oro** di [[Uomini Serpente|uomo serpente]] dicendo che servirà a "chiudere il capitolo di questa deriva, questa maledizione"[^3].
 
 Altre rivelazioni[^3]:
+
 - "La tua famiglia è al fondo della maledizione."
 - "Io ti ho pietrificato perché tu sei la persona giusta in questo momento."
 - Sul **Catrador**: "È un titolo perso nel tempo. Un titolo che NOI abbiamo perso."
