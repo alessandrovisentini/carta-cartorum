@@ -23,6 +23,7 @@ Possiede una stanza dedicata allo studio e all'arte, fredda, con un tavolo su cu
 - **Sessione 12**: Sveglia il gruppo nel pieno della notte per salvare i compagni intrappolati nella [[Fontana]][^6]. Stringe un patto con [[Fryolin]][^6]. Si arrabbia con [[Bran Lapillo]] per aver utilizzato la sua riserva speciale[^6].
 - **Sessione 13**: Esce spesso in spedizione verso le altre navi, tornando sempre più cupa[^7]. Viene rivelato che lei e [[Bran Lapillo]] avevano un patto di non usare il frutto della loro ricerca[^7]. Li ha fatti conoscere **Ziula** (detta "Zi'"), moglie di Bran e allieva di Awen, ora deceduta[^7].
 - **Sessione 15**: Partecipa all'apertura de [[La Rocca dei Conflitti]][^8]. Rivela che [[Queloin Tarasson]] è la sua "ex-capa" e aspetta ancora scuse per l'attrezzatura persa "durante il furto"[^8]. Quando [[Luciano]] menziona la statua misteriosa, reagisce con sudore e occhi sbarrati e lascia il bar[^8].
+- **Sessione 16**: Si è isolata nella sua stanza da diversi giorni, come all'inizio del naufragio[^9]. Il momento con Luciano durante l'inaugurazione sembra averla scossa molto[^9].
 
 ## La Statua Misteriosa
 
@@ -40,3 +41,4 @@ Secondo [[Luciano]], Awen possedeva una statua grande, strana, con punte, bracci
 [^6]: [[Recap Sessione 12]]
 [^7]: [[Recap Sessione 13]]
 [^8]: [[Sessione 15]]
+[^9]: [[Diario Sessione 16]], "Blocco 4 / Sedicesimo giorno di campagna (08 feb. 2026) - la caccia selvaggia"

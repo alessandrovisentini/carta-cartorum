@@ -19,6 +19,8 @@ Stavano trasportando team di scavo, recupero e restauro delle antichità sotterr
 - [[Prof De Brunjes]] - Esperto dei pilastri[^2]
 - [[Luciano]] - Membro disponibile ad aiutare nelle spedizioni[^2]
 - [[Jennifer Yen]], [[Vito]], [[Lorri]], [[Stefi]] - Altri membri[^2]
+- [[Gimbo]] - Ragazzo di 14 anni che fa da intermediario[^7]
+- [[Il Vecchio]] - Orco che custodisce le scorte di sangue di Megadon[^7]
 
 ## Attività sul Litorale
 
@@ -34,6 +36,7 @@ Stavano trasportando team di scavo, recupero e restauro delle antichità sotterr
 - **Sessione 4**: [[Luciano]] e altri membri accompagnano il gruppo al [[Megadon]][^2].
 - **Sessione 14**: Organizzano una spedizione al Megadon per raccogliere sangue più puro[^5]. Usano un bastone con liquido verde e cristallo di [[Gemme di Gelatite|gelatite]] che crea energia elettrostatica[^5].
 - **Sessione 15**: [[Luciano]] rivela ad [[Awen Seife]] che una sua statua si è mossa e saltata in un pilastro[^6].
+- **Sessione 16**: [[Eric]] entra nella Rivalsa con l'aiuto di [[Gimbo]][^7]. L'entrata è uno dei grandi oblò, con tubi attraverso cui scorrono diversi tipi di energia e un ascensore con grate[^7]. Tutti i membri stanno facendo ricerca sul sangue di [[Megadon]] e non c'è possibilità di ottenerne altro[^7].
 
 ---
 
@@ -45,3 +48,4 @@ Stavano trasportando team di scavo, recupero e restauro delle antichità sotterr
 [^4]: [[Recap Sessione 5]], "Nozioni acquisite prima della partenza"
 [^5]: [[Recap Sessione 14]]
 [^6]: [[Sessione 15]], "Rivelazione di Luciano"
+[^7]: [[Diario Sessione 16]], "Blocco 4 / Sedicesimo giorno di campagna (08 feb. 2026) - la caccia selvaggia"

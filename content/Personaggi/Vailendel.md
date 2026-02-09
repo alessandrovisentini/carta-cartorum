@@ -19,6 +19,7 @@ Vailendel è un membro del gruppo con abilità magiche, inclusa la lettura del p
 - **Sessione 10**: Viene colpito dallo spillo d'oro per firmare il [[Patto coi Geni del Fuoco]][^6].
 - **Sessione 11**: [[Opalix]] urla a [[Emiliano]] che Vailendel si ricorda di lui, ma Emiliano non sembra capire[^7].
 - **Sessione 12**: Parte nel gruppo di soccorso alla [[Fontana]][^8].
+- **Sessione 16**: Riceve da [[Ignemir]] la spada lunga in [[Neridium]] (presa dai Giganti del fuoco)[^9]. Combatte contro lupi e creature della [[Caccia Originale]][^9]. Salva [[Eric]] facendogli bere una pozione di guarigione[^9].
 
 ## Note
 
@@ -37,3 +38,4 @@ Vailendel è un membro del gruppo con abilità magiche, inclusa la lettura del p
 [^6]: [[Recap Sessione 10]]
 [^7]: [[Recap Sessione 11]]
 [^8]: [[Recap Sessione 12]]
+[^9]: [[Diario Sessione 16]], "Blocco 4 / Sedicesimo giorno di campagna (08 feb. 2026) - la caccia selvaggia"

@@ -40,14 +40,17 @@ Secondo [[Vanya]], la sua famiglia ha ricevuto del Neridium in dono da dei gigan
 
 - **Sessione 7**: [[Bran Lapillo]] si toglie l'elmo rivelando la sua faccia di fuoco e spiega le proprietà del Neridium[^1]. L'armatura che indossa è fatta di questo materiale[^1].
 - **Sessione 13**: Il gruppo trova un carro della [[Furia di Cernunnos]] con casse piene di oggetti in Neridium nella fortezza dei Giganti[^2]. Contenuto: attrezzi da cucina, piatti, calderone, punte di freccia, 3 spade lunghe, 3 spade corte, una lancia lunga, una faretra[^2]. Valore equivalente: **40.000 monete d'oro**[^2]. L'alabarda **Erelyth** di [[Ignemir]] viene risvegliata da [[Ocecot Oven]][^2].
+- **Sessione 16**: [[Ignemir]] dona la spada lunga in Neridium a [[Vailendel]][^3]. Le armi in Neridium possono aumentare le probabilità che il ghiaccio si sciolga[^3]. Il Neridium dissolve le creature della [[Caccia Originale]] dove le trapassa[^3]. [[La Chierica Misteriosa]] porta un kanabo in Neridium[^3].
 
 ## Possessori Conosciuti
 
 - [[Bran Lapillo]] - Armatura completa[^1]
-- [[Ignemir]] - Alabarda Erelyth, spada lunga, punta di freccia[^2]
+- [[Ignemir]] - Alabarda Erelyth, punta di freccia[^2]
+- [[Vailendel]] - Spada lunga (ricevuta da Ignemir)[^3]
 - [[Fryolin]] - Spada corta (da adattare)[^2]
 - [[Pagrax]] - Spada assorbita nell'occhio, forchetta[^2]
 - [[Merla]] - Boccale[^2]
+- [[La Chierica Misteriosa]] - Kanabo[^3]
 
 ---
 
@@ -55,3 +58,4 @@ Secondo [[Vanya]], la sua famiglia ha ricevuto del Neridium in dono da dei gigan
 
 [^1]: [[Recap Sessione 7]], "storia"
 [^2]: [[Recap Sessione 13]], "Il nerivium"
+[^3]: [[Diario Sessione 16]], "Blocco 4 / Sedicesimo giorno di campagna (08 feb. 2026) - la caccia selvaggia"

@@ -19,6 +19,7 @@ Originariamente il nome era "Benedizione di Mefisto" - la parola "Benedizione" Ã
 - **Sessione 1**: [[Zagres]] (sacerdote di Egleli) e [[Dork Lork]] (sacerdote di Throrgran) sono nominati[^3].
 - **Sessione 5**: Il gruppo visita la Mefisto cercando gli evasi [[Tumba e Simon]][^2]. Incontra [[Kesi]] e [[Zevon]], sacerdoti che li tradiscono[^2].
 - **Sessione 11**: [[Opalix]] si infiltra assumendo l'aspetto di [[Kesi]][^4].
+- **Sessione 16**: [[Vailendel]] cerca di ottenere un carretto e un collare[^5]. Viene cacciato dai "ramini" (equivalenti dei tizzoni per la parte penitenziaria) e quasi si fa arrestare[^5]. Una nana con basettoni lunghi e un dragonide con scaglie scarlatte del culto di Throrgran non sembrano conoscere Torreno[^5].
 
 ## Evasi
 
@@ -36,3 +37,4 @@ Durante l'impatto sul [[Il Litorale|Litorale]], alcuni carcerati sono evasi[^2]:
 [^2]: [[Recap Sessione 5]], "La Maledizione di Mefisto"
 [^3]: [[Recap Sessione 1]]
 [^4]: [[Recap Sessione 11]]
+[^5]: [[Diario Sessione 16]], "Blocco 4 / Sedicesimo giorno di campagna (08 feb. 2026) - la caccia selvaggia"

@@ -17,6 +17,7 @@ Bran Lapillo è un genasi del fuoco, un omone raggomitolato in se stesso, ingobb
 - **Sessione 7**: Si toglie l'elmo rivelando la sua faccia di fuoco[^2]. Parla del [[Neridium]] e delle sue proprietà[^2]. Aiuta a riparare gli spifferi della casa con muschio e resina[^2]. Dona 130 GP per la costruzione del bar[^2].
 - **Sessione 12**: Durante l'[[Attacco della Caccia Selvaggia]], accompagna il gruppo di soccorso alla [[Fontana]][^4]. Usa un pacchetto di metallo speciale che fonde nella sua armatura per combattere le [[Creature di Ghiaccio]][^4]. [[Awen Seife]] si arrabbia con lui per aver utilizzato "quella cosa"[^4].
 - **Sessione 13**: Svela di aver avuto un patto con [[Awen Seife]] che ha dovuto infrangere per salvare il gruppo nella foresta[^5]. Rivela che a farli conoscere è stata **Ziula** (detta "Zi'"), la sua defunta moglie, che era allieva di Awen[^5]. Da quando Ziula è deceduta, Bran e Awen avevano pattuito di non utilizzare il frutto della loro ricerca[^5].
+- **Sessione 16**: Fornisce a [[Ignemir]] legna da ardere e un carretto a due ruote per la spedizione[^6].
 
 ## Ziula (Zi')
 
@@ -31,3 +32,4 @@ La moglie di Bran Lapillo, ora deceduta. Era allieva di [[Awen Seife]] e molto l
 [^3]: [[Recap Sessione 6]]
 [^4]: [[Recap Sessione 12]]
 [^5]: [[Recap Sessione 13]], "Situazione al villaggio"
+[^6]: [[Diario Sessione 16]], "Blocco 4 / Sedicesimo giorno di campagna (08 feb. 2026) - la caccia selvaggia"

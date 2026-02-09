@@ -38,6 +38,7 @@ Eric può celebrare cerimonie religiose e parla la lingua dei serpenti senza ren
 - **Sessione 4**: Parla con il [[Prof De Brunjes]] sui pilastri[^2]. Cattura un [[Uomini Serpente|uomo serpente]] e [[Pagrax]] nella sua cassa[^2]. Le città sul [[Megadon]] gli sono familiari[^2].
 - **Sessione 8**: La cassa viene identificata come reliquia del tempio della luna[^1]. Traduce i cartelli sul Megadon ("Porto Svelto", "Borghi di Mezzo", "Spina Centrale")[^1]. Quando interroga la cassa sul [[Catrador]], subisce conseguenze dolorose[^1].
 - **Sessione 14**: Guida la spedizione al [[Megadon]] con la [[Rivalsa]][^3]. La cassa gli rivela informazioni su Apophtosis e Catrador[^3]. Incontra [[Fannipa]] e [[Lili]], abitanti che seguono ancora Elunaui (~80 persone)[^3]. Scopre di parlare la lingua dei serpenti[^3].
+- **Sessione 16**: Chiede alla cassa informazioni sulla [[Caccia Selvaggia]] e scopre l'esistenza della [[Caccia Originale]] guidata da [[Viredesh]][^4]. Ottiene 6 fiale di sangue di [[Megadon]] dalla [[Rivalsa]] ingannando [[Il Vecchio]][^4]. Usa il teschio dello [[Scheletro d'Oro]] per evocare Putrido e un serpente di fumo[^4]. Cattura nella cassa uno scheletro taurino e un lupo della Caccia[^4].
 
 ---
 
@@ -46,3 +47,4 @@ Eric può celebrare cerimonie religiose e parla la lingua dei serpenti senza ren
 [^1]: [[Recap Sessione 8]]
 [^2]: [[Recap Sessione 4]]
 [^3]: [[Recap Sessione 14]]
+[^4]: [[Diario Sessione 16]], "Blocco 4 / Sedicesimo giorno di campagna (08 feb. 2026) - la caccia selvaggia"

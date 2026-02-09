@@ -9,7 +9,7 @@
 
 ## Descrizione
 
-Fryolin (soprannominata "Frollino" dal gruppo) è una creatura fatata che ha partecipato alla [[Caccia Selvaggia]] in passato[^1]. Si annoia della sua esistenza attuale e cerca qualcosa di emozionante e interessante[^1]. Non vede al buio[^2].
+Fryolin (soprannominata "Frollino" dal gruppo) è una creatura fatata che ha partecipato alla Caccia Selvaggia guidata da **Cernunnos**, arciduca della Corte Splendente[^10]. Si annoia della sua esistenza attuale e cerca qualcosa di emozionante e interessante[^1]. Non vede al buio[^2].
 
 ## Storia nelle Sessioni
 
@@ -18,6 +18,7 @@ Fryolin (soprannominata "Frollino" dal gruppo) è una creatura fatata che ha par
 - **Sessione 13**: Accompagna il gruppo al [[Vulcano]][^2]. Rivela che la morte delle persone attira l'attenzione della [[Caccia Selvaggia]][^4]. Riconosce la [[Madre di tutte le vedove]] come "nella lista nera della regina"[^5]. Si fa trasportare aggrappata ai capelli di [[Ignemir]][^2]. Prende una spada corta in [[Neridium]] dalle casse della [[Furia di Cernunnos|Furia]][^6]. Riconosce il "Signore dei Pipistrelli" come creatura fatata negli arazzi dei Giganti[^7].
 
 - **Sessione 15**: Fa da buttafuori interno a [[La Rocca dei Conflitti]][^8]. Nel soppalco viene avvicinata da ragnetti dei [[I Liberi|Liberi]] che formano parole in silvano: "Sei un guerriero contro i liberi?" Li uccide mentre scrivono "Noi vogliamo solamente pa-"[^9].
+- **Sessione 16**: Non riconosce le creature della [[Caccia Originale]] incontrate alla fontana[^10].
 
 ## La Corte di Fryolin
 
@@ -36,3 +37,4 @@ Uno degli arciduchi della corte di Fryolin è collegato agli insetti - non Cernu
 [^7]: [[Recap Sessione 13]], "L'incontro con il Gigante"
 [^8]: [[Sessione 15]], "La Rocca dei Conflitti"
 [^9]: [[Sessione 15]], "I Ragni e Fryolin"
+[^10]: [[Diario Sessione 16]], "Blocco 4 / Sedicesimo giorno di campagna (08 feb. 2026) - la caccia selvaggia"

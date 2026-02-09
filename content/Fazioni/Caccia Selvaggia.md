@@ -12,7 +12,11 @@ La Caccia Selvaggia è un evento invernale che colpisce [[Targea]], durante il q
 
 Le stagioni sono gestite dalla [[I Regni Fatati|Corte Elementale]], quindi casini nelle stagioni significano casini nelle corti fatate[^2].
 
-## Le Tre Manifestazioni
+## Origini
+
+In origine esisteva solo una Caccia Selvaggia[^7]. Da questa si sono poi originate le tre cacce attuali. Le corti in genere non interagiscono tra loro durante le varie cacce e non sono benevole le une con le altre, sono in una sorta di competizione e hanno diversi livelli di antagonismo basati su chi guida ciascuna[^7].
+
+## Le Tre Manifestazioni (più l'Originale)
 
 La Caccia Selvaggia ha tre aspetti diversi, uno per ogni corte fatata[^1]:
 
@@ -30,6 +34,11 @@ La Caccia Selvaggia ha tre aspetti diversi, uno per ogni corte fatata[^1]:
 - Associata a coloro che scompaiono durante la caccia e riappaiono anni o secoli dopo[^1]
 - A volte tornano senza ricordo della caccia, alcuni si sciolgono subito[^1]
 - Persone escono nella bufera e si perdono[^1]
+
+### Caccia Originale ([[Viredesh]])
+- La prima caccia, da cui le altre si sono originate[^7]
+- Stendardo con artiglio azzurro a forma di goccia al contrario[^7]
+- Vedi: [[Caccia Originale]]
 
 ## Storia
 
@@ -60,6 +69,7 @@ Secondo [[Odar Brandibirra]], in passato la gente lasciava offerte alle fate per
 - **Sessione 13**: [[Fryolin]] rivela che la morte delle persone attira l'attenzione della Caccia[^5].
 - **Sessione 14**: [[Zamoraz]] incontra un cavaliere della Caccia vicino alla città sul [[Megadon]]: creatura con armatura, maschera, elmo con pennacchio di ghiaccio, che cavalca un lupo di ghiaccio[^4].
 - **Sessione 15**: [[Odar Brandibirra]] spiega la vera natura della Caccia: "memoria e rispetto"[^3].
+- **Sessione 16**: [[Eric]] scopre l'esistenza della [[Caccia Originale]] guidata da [[Viredesh]][^7]. Il gruppo attira la Caccia bruciando sangue di [[Megadon]] vicino a un pilastro[^7]. Vengono attaccati da lupi bianchi colossali e scheletri taurini in gelatite[^7].
 
 ---
 
@@ -71,3 +81,4 @@ Secondo [[Odar Brandibirra]], in passato la gente lasciava offerte alle fate per
 [^4]: [[Recap Sessione 14]]
 [^5]: [[Recap Sessione 13]], "Note sull'inverno"
 [^6]: [[Recap Sessione 12]]
+[^7]: [[Diario Sessione 16]], "Blocco 4 / Sedicesimo giorno di campagna (08 feb. 2026) - la caccia selvaggia"
