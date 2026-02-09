@@ -79,5 +79,5 @@ Una seguace di Ptah sulla [[Rivalsa]] usa magia per "far dimenticare le cose" a 
 
 ## Fonti
 
-[^1]: [[Sessione 15]], "Luciano e Ptah"
-[^2]: [[Recap Sessione 8]], "Il patto di Vanya"
+[^1]: [[Sessione 15]]
+[^2]: [[Recap Sessione 8]]

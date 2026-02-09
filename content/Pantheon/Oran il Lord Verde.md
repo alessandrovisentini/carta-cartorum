@@ -19,4 +19,4 @@ Oran il Lord Verde è uno degli arciduchi delle corti fatate, collegato agli ins
 
 ## Fonti
 
-[^1]: [[Sessione 15]], "I Ragni e Fryolin"
+[^1]: [[Sessione 15]]

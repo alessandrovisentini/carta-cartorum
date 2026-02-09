@@ -19,4 +19,4 @@ Zuv è il capo del gruppo di evasi della [[Maledizione di Mefisto]][^1]. A diffe
 
 ## Fonti
 
-[^1]: [[Recap Sessione 5]], "L'alleanza"
+[^1]: [[Recap Sessione 5]]

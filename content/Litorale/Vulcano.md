@@ -42,4 +42,4 @@ Nascosto nelle caverne c'è il [[Palazzo dei Genii]], dove risiedono [[Argan e A
 [^1]: [[Recap Sessione 1]]
 [^2]: [[Recap Sessione 6]]
 [^3]: [[Recap Sessione 10]]
-[^4]: [[Recap Sessione 13]], "La sala del trono"
+[^4]: [[Recap Sessione 13]]

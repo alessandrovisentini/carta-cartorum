@@ -18,4 +18,4 @@ Orco che lavora nella [[Rivalsa]], custodisce le scorte di sangue di [[Megadon]]
 
 ## Fonti
 
-[^1]: [[Diario Sessione 16]], "Blocco 4 / Sedicesimo giorno di campagna (08 feb. 2026) - la caccia selvaggia"
+[^1]: [[Diario Sessione 16]]

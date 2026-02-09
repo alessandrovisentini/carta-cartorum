@@ -48,4 +48,4 @@ Quattro ponti/livelli:[^2]
 [^3]: [[Recap Sessione 6]]
 [^4]: [[Recap Sessione 6]]
 [^5]: [[Recap Sessione 10]]
-[^6]: [[Recap Sessione 13]], "Il nerivium"
+[^6]: [[Recap Sessione 13]]

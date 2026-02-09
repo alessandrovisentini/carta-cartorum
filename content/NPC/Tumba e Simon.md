@@ -33,8 +33,8 @@ Con loro ci sono [[Regrax]] la dragonide ed [[Emiliano]] il gigante[^2]. Tutti e
 
 ## Fonti
 
-[^1]: [[Recap Sessione 5]], "I fratelli Hatata"
-[^2]: [[Recap Sessione 5]], "L'incontro con il mannaro"
-[^3]: [[Recap Sessione 5]], "L'alleanza"
+[^1]: [[Recap Sessione 5]]
+[^2]: [[Recap Sessione 5]]
+[^3]: [[Recap Sessione 5]]
 [^4]: [[Recap Sessione 9]]
 [^5]: [[Recap Sessione 11]]

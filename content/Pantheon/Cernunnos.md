@@ -21,5 +21,5 @@ La Caccia Selvaggia di Cernunnos è la caccia alle anime dannate come purga di c
 
 ## Fonti
 
-[^1]: [[Diario Sessione 16]], "Blocco 4 / Sedicesimo giorno di campagna (08 feb. 2026) - la caccia selvaggia"
+[^1]: [[Diario Sessione 16]]
 [^2]: [[Recap Sessione 4]]

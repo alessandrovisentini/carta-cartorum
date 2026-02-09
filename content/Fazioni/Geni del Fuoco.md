@@ -31,6 +31,6 @@ I Geni del Fuoco hanno un antico conflitto con il [[Clan Oven]][^3]. In passato 
 ## Fonti
 
 [^1]: [[Recap Sessione 10]]
-[^2]: [[Recap Sessione 13]], "Informazioni sui Geni del Fuoco"
-[^3]: [[Recap Sessione 13]], "Ocecot Oven"
-[^4]: [[Recap Sessione 13]], "La sala del trono"
+[^2]: [[Recap Sessione 13]]
+[^3]: [[Recap Sessione 13]]
+[^4]: [[Recap Sessione 13]]

@@ -67,4 +67,4 @@ La [[Setta dei Pazzi Vendicativi]] lo venera[^1].
 
 ## Fonti
 
-[^1]: [[Introduzione]], "La Maledizione di Mefisto"
+[^1]: [[Introduzione]]

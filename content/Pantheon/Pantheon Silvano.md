@@ -17,4 +17,4 @@
 
 ## Fonti
 
-[^1]: [[Introduzione]], "Pantheon Silvano"
+[^1]: [[Introduzione]]

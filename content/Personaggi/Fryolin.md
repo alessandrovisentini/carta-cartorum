@@ -29,12 +29,12 @@ Uno degli arciduchi della corte di Fryolin è collegato agli insetti - non Cernu
 ## Fonti
 
 [^1]: [[Recap Sessione 12]]
-[^2]: [[Recap Sessione 13]], "Attraverso il portale"
+[^2]: [[Recap Sessione 13]]
 [^3]: [[Recap Sessione 12]]
-[^4]: [[Recap Sessione 13]], "Note sull'inverno"
-[^5]: [[Recap Sessione 13]], "La Madre di tutte le Vedove"
-[^6]: [[Recap Sessione 13]], "Il nerivium"
-[^7]: [[Recap Sessione 13]], "L'incontro con il Gigante"
-[^8]: [[Sessione 15]], "La Rocca dei Conflitti"
-[^9]: [[Sessione 15]], "I Ragni e Fryolin"
-[^10]: [[Diario Sessione 16]], "Blocco 4 / Sedicesimo giorno di campagna (08 feb. 2026) - la caccia selvaggia"
+[^4]: [[Recap Sessione 13]]
+[^5]: [[Recap Sessione 13]]
+[^6]: [[Recap Sessione 13]]
+[^7]: [[Recap Sessione 13]]
+[^8]: [[Sessione 15]]
+[^9]: [[Sessione 15]]
+[^10]: [[Diario Sessione 16]]

@@ -76,9 +76,9 @@ Secondo [[Odar Brandibirra]], in passato la gente lasciava offerte alle fate per
 ## Fonti
 
 [^1]: [[Recap Sessione 4]]
-[^2]: [[Recap Sessione 7]], "storia"
-[^3]: [[Sessione 15]], "La Storia di Odar sulla Caccia Selvaggia"
+[^2]: [[Recap Sessione 7]]
+[^3]: [[Sessione 15]]
 [^4]: [[Recap Sessione 14]]
-[^5]: [[Recap Sessione 13]], "Note sull'inverno"
+[^5]: [[Recap Sessione 13]]
 [^6]: [[Recap Sessione 12]]
-[^7]: [[Diario Sessione 16]], "Blocco 4 / Sedicesimo giorno di campagna (08 feb. 2026) - la caccia selvaggia"
+[^7]: [[Diario Sessione 16]]

@@ -38,4 +38,4 @@ Il contratto è apparso in infernale sul pavimento del palazzo[^1]. È stato fir
 ## Fonti
 
 [^1]: [[Recap Sessione 10]]
-[^2]: [[Recap Sessione 13]], "Ocecot Oven"
+[^2]: [[Recap Sessione 13]]

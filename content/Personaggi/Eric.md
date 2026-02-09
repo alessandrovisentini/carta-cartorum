@@ -47,4 +47,4 @@ Eric può celebrare cerimonie religiose e parla la lingua dei serpenti senza ren
 [^1]: [[Recap Sessione 8]]
 [^2]: [[Recap Sessione 4]]
 [^3]: [[Recap Sessione 14]]
-[^4]: [[Diario Sessione 16]], "Blocco 4 / Sedicesimo giorno di campagna (08 feb. 2026) - la caccia selvaggia"
+[^4]: [[Diario Sessione 16]]

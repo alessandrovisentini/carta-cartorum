@@ -42,4 +42,4 @@ Ignemir Valmorad è un tiefling che era con la [[Furia di Cernunnos]] ma non si 
 [^6]: [[Recap Sessione 11]]
 [^7]: [[Recap Sessione 12]]
 [^8]: [[Recap Sessione 13]]
-[^9]: [[Diario Sessione 16]], "Blocco 4 / Sedicesimo giorno di campagna (08 feb. 2026) - la caccia selvaggia"
+[^9]: [[Diario Sessione 16]]

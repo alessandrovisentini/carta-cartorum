@@ -20,4 +20,4 @@ Zevon era un poison tiefling, molto basso, con corna ritorte e pochi capelli, sa
 
 ## Fonti
 
-[^1]: [[Recap Sessione 5]], "L'incontro con il mannaro"
+[^1]: [[Recap Sessione 5]]

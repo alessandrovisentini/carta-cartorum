@@ -16,4 +16,4 @@ Quando [[Eric]] chiede alla cassa se Viredesh è amico o nemico, la cassa rimane
 
 ## Fonti
 
-[^1]: [[Diario Sessione 16]], "Blocco 4 / Sedicesimo giorno di campagna (08 feb. 2026) - la caccia selvaggia"
+[^1]: [[Diario Sessione 16]]

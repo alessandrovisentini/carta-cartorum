@@ -68,4 +68,4 @@ La Rocca dei Conflitti è il bar costruito dal gruppo di avventurieri sul [[Il L
 ## Fonti
 
 [^1]: [[Sessione 15]]
-[^2]: [[Diario Sessione 16]], "Blocco 4 / Sedicesimo giorno di campagna (08 feb. 2026) - la caccia selvaggia"
+[^2]: [[Diario Sessione 16]]

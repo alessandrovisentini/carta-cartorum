@@ -28,8 +28,8 @@ La moglie di Bran Lapillo, ora deceduta. Era allieva di [[Awen Seife]] e molto l
 ## Fonti
 
 [^1]: [[Recap Sessione 1]]
-[^2]: [[Recap Sessione 7]], "storia"
+[^2]: [[Recap Sessione 7]]
 [^3]: [[Recap Sessione 6]]
 [^4]: [[Recap Sessione 12]]
-[^5]: [[Recap Sessione 13]], "Situazione al villaggio"
-[^6]: [[Diario Sessione 16]], "Blocco 4 / Sedicesimo giorno di campagna (08 feb. 2026) - la caccia selvaggia"
+[^5]: [[Recap Sessione 13]]
+[^6]: [[Diario Sessione 16]]

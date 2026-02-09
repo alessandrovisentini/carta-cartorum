@@ -19,4 +19,4 @@ Ocecot Oven è un gigante del fuoco alto circa 14 metri, figlio di [[Re Tregron 
 
 ## Fonti
 
-[^1]: [[Recap Sessione 13]], "Ocecot Oven"
+[^1]: [[Recap Sessione 13]]

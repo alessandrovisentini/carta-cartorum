@@ -34,4 +34,4 @@ Dai loro corpi si ricavano[^1]:
 ## Fonti
 
 [^1]: [[Recap Sessione 12]]
-[^2]: [[Diario Sessione 16]], "Blocco 4 / Sedicesimo giorno di campagna (08 feb. 2026) - la caccia selvaggia"
+[^2]: [[Diario Sessione 16]]

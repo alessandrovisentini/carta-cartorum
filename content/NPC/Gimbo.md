@@ -19,4 +19,4 @@ Ragazzo della [[Rivalsa]] che fa da intermediario per chi vuole parlare con il [
 
 ## Fonti
 
-[^1]: [[Diario Sessione 16]], "Blocco 4 / Sedicesimo giorno di campagna (08 feb. 2026) - la caccia selvaggia"
+[^1]: [[Diario Sessione 16]]

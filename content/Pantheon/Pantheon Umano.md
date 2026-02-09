@@ -99,5 +99,5 @@ La [[Chiesa di Egleli]] guida i peccatori salvabili nel percorso di redenzione[^
 
 ## Fonti
 
-[^1]: [[Recap Sessione 14]], "Elunaui"
-[^2]: [[Introduzione]], "La Maledizione di Mefisto"
+[^1]: [[Recap Sessione 14]]
+[^2]: [[Introduzione]]

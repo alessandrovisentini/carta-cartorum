@@ -29,6 +29,6 @@ I Geni del Fuoco vogliono che il gruppo attivi l'[[Ancora Spaziale]] vicino al T
 
 ## Fonti
 
-[^1]: [[Recap Sessione 13]], "La sala del trono"
-[^2]: [[Recap Sessione 13]], "La Rovina di Roken"
+[^1]: [[Recap Sessione 13]]
+[^2]: [[Recap Sessione 13]]
 [^3]: [[Recap Sessione 10]]

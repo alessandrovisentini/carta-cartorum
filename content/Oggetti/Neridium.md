@@ -56,6 +56,6 @@ Secondo [[Vanya]], la sua famiglia ha ricevuto del Neridium in dono da dei gigan
 
 ## Fonti
 
-[^1]: [[Recap Sessione 7]], "storia"
-[^2]: [[Recap Sessione 13]], "Il nerivium"
-[^3]: [[Diario Sessione 16]], "Blocco 4 / Sedicesimo giorno di campagna (08 feb. 2026) - la caccia selvaggia"
+[^1]: [[Recap Sessione 7]]
+[^2]: [[Recap Sessione 13]]
+[^3]: [[Diario Sessione 16]]

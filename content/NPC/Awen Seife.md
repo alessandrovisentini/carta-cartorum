@@ -41,4 +41,4 @@ Secondo [[Luciano]], Awen possedeva una statua grande, strana, con punte, bracci
 [^6]: [[Recap Sessione 12]]
 [^7]: [[Recap Sessione 13]]
 [^8]: [[Sessione 15]]
-[^9]: [[Diario Sessione 16]], "Blocco 4 / Sedicesimo giorno di campagna (08 feb. 2026) - la caccia selvaggia"
+[^9]: [[Diario Sessione 16]]

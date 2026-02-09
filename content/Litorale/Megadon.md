@@ -42,6 +42,6 @@ Sulle rovine del Megadon c'è una città abitata dagli [[Uomini Serpente]][^2]. 
 [^1]: [[Recap Sessione 1]]
 [^2]: [[Recap Sessione 4]]
 [^3]: [[Recap Sessione 8]]
-[^4]: [[Recap Sessione 5]], "Nozioni acquisite prima della partenza"
+[^4]: [[Recap Sessione 5]]
 [^5]: [[Recap Sessione 10]]
 [^6]: [[Recap Sessione 14]]

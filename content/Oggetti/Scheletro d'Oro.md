@@ -35,4 +35,4 @@ Il teschio può anche evocare una cortina di fumo che si trasforma in un serpent
 ## Fonti
 
 [^1]: [[Recap Sessione 14]]
-[^2]: [[Diario Sessione 16]], "Blocco 4 / Sedicesimo giorno di campagna (08 feb. 2026) - la caccia selvaggia"
+[^2]: [[Diario Sessione 16]]

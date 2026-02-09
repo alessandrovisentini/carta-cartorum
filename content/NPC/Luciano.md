@@ -27,4 +27,4 @@ Nato e cresciuto in una carovana/circo dove tutti erano genitori di tutti, ma no
 [^1]: [[Recap Sessione 2]]
 [^2]: [[Recap Sessione 14]]
 [^3]: [[Recap Sessione 4]]
-[^4]: [[Sessione 15]], "Rivelazione di Luciano"
+[^4]: [[Sessione 15]]

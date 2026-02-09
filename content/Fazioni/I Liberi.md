@@ -39,6 +39,6 @@ Agiscono per conto di "LA VIA"[^1].
 
 [^1]: [[Recap Sessione 8]]
 [^2]: [[Recap Sessione 9]]
-[^3]: [[Recap Sessione 5]], "La fontana"
+[^3]: [[Recap Sessione 5]]
 [^4]: [[Recap Sessione 1]]
-[^5]: [[Sessione 15]], "I Ragni e Fryolin"
+[^5]: [[Sessione 15]]

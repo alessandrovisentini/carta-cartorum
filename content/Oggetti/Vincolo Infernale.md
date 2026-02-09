@@ -18,4 +18,4 @@ Il Vincolo è una fiala di metallo scuro con scritto "VINCOLO" in infernale[^1].
 
 ## Fonti
 
-[^1]: [[Recap Sessione 10]], "Il Palazzo dei Genii"
+[^1]: [[Recap Sessione 10]]

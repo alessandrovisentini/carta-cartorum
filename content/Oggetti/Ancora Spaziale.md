@@ -31,6 +31,6 @@ I [[Geni del Fuoco]] hanno modificato l'ancora in cambio di un patto[^3]:
 ## Fonti
 
 [^1]: [[Recap Sessione 10]]
-[^2]: [[Recap Sessione 13]], "Attraverso il portale"
+[^2]: [[Recap Sessione 13]]
 [^3]: [[Recap Sessione 10]]
-[^4]: [[Recap Sessione 13]], "Ocecot Oven"
+[^4]: [[Recap Sessione 13]]

@@ -26,4 +26,4 @@ Le stagioni sono gestite dalla [[I Regni Fatati|Corte Elementale]], quindi casin
 ## Fonti
 
 [^1]: [[Introduzione]]
-[^2]: [[Recap Sessione 7]], "storia"
+[^2]: [[Recap Sessione 7]]

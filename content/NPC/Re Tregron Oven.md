@@ -28,4 +28,4 @@ Tregron rivela che la sua famiglia fu bandita a causa della "Rovina di Roken"[^1
 
 ## Fonti
 
-[^1]: [[Recap Sessione 13]], "La sala del trono"
+[^1]: [[Recap Sessione 13]]

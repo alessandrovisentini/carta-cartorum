@@ -40,7 +40,7 @@ Una vasca profonda 60m contiene: anelli con pietre preziose, medaglioni con perl
 
 ## Fonti
 
-[^1]: [[Recap Sessione 5]], "La fontana"
+[^1]: [[Recap Sessione 5]]
 [^2]: [[Recap Sessione 9]]
 [^3]: [[Recap Sessione 11]]
 [^4]: [[Recap Sessione 12]]

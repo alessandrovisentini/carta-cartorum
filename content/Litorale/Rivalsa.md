@@ -45,7 +45,7 @@ Stavano trasportando team di scavo, recupero e restauro delle antichità sotterr
 [^1]: [[Introduzione]]
 [^2]: [[Recap Sessione 4]]
 [^3]: [[Recap Sessione 1]]
-[^4]: [[Recap Sessione 5]], "Nozioni acquisite prima della partenza"
+[^4]: [[Recap Sessione 5]]
 [^5]: [[Recap Sessione 14]]
-[^6]: [[Sessione 15]], "Rivelazione di Luciano"
-[^7]: [[Diario Sessione 16]], "Blocco 4 / Sedicesimo giorno di campagna (08 feb. 2026) - la caccia selvaggia"
+[^6]: [[Sessione 15]]
+[^7]: [[Diario Sessione 16]]

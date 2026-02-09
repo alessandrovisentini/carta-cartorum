@@ -19,4 +19,4 @@ Visla è una minotaura che possiede una barca nel villaggio[^1]. È infortunata 
 ## Fonti
 
 [^1]: [[Recap Sessione 1]]
-[^2]: [[Recap Sessione 7]], "storia"
+[^2]: [[Recap Sessione 7]]

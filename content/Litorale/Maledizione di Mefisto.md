@@ -34,7 +34,7 @@ Durante l'impatto sul [[Il Litorale|Litorale]], alcuni carcerati sono evasi[^2]:
 ## Fonti
 
 [^1]: [[Recap Sessione 1]]
-[^2]: [[Recap Sessione 5]], "La Maledizione di Mefisto"
+[^2]: [[Recap Sessione 5]]
 [^3]: [[Recap Sessione 1]]
 [^4]: [[Recap Sessione 11]]
-[^5]: [[Diario Sessione 16]], "Blocco 4 / Sedicesimo giorno di campagna (08 feb. 2026) - la caccia selvaggia"
+[^5]: [[Diario Sessione 16]]

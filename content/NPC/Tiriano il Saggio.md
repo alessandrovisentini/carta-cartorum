@@ -35,6 +35,6 @@ Le Lance di Cernunnos sono coloro che non solo sono sopravvissuti alla Caccia Se
 [^2]: [[Recap Sessione 6]]
 [^3]: [[Recap Sessione 1]]
 [^4]: [[Recap Sessione 4]]
-[^5]: [[Recap Sessione 5]], "Nozioni acquisite prima della partenza"
+[^5]: [[Recap Sessione 5]]
 [^6]: [[Recap Sessione 6]]
 [^7]: [[Recap Sessione 10]]

@@ -26,4 +26,4 @@ La Chiesa di Egleli è una chiesa considerata "buona", presente sulla [[Maledizi
 ## Fonti
 
 [^1]: [[Recap Sessione 1]]
-[^2]: [[Recap Sessione 5]], "La Maledizione di Mefisto"
+[^2]: [[Recap Sessione 5]]

@@ -32,5 +32,5 @@ La [[Caccia Selvaggia]] ha tre aspetti diversi, uno per ogni corte[^2]. Le stagi
 
 [^1]: [[Recap Sessione 4]]
 [^2]: [[Recap Sessione 4]]
-[^3]: [[Recap Sessione 7]], "storia"
-[^4]: [[Sessione 15]], "I Ragni e Fryolin"
+[^3]: [[Recap Sessione 7]]
+[^4]: [[Sessione 15]]

@@ -20,5 +20,5 @@ Una chiave con un labirinto all'estremità, da esporre come oggetto per farsi ri
 
 ## Fonti
 
-[^1]: [[Recap Sessione 5]], "L'alleanza"
+[^1]: [[Recap Sessione 5]]
 [^2]: [[Recap Sessione 11]]

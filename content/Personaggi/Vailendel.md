@@ -33,9 +33,9 @@ Vailendel è un membro del gruppo con abilità magiche, inclusa la lettura del p
 [^1]: [[Recap Sessione 9]]
 [^2]: [[Recap Sessione 2]]
 [^3]: [[Recap Sessione 4]]
-[^4]: [[Recap Sessione 5]], "Nozioni acquisite prima della partenza"
+[^4]: [[Recap Sessione 5]]
 [^5]: [[Recap Sessione 6]]
 [^6]: [[Recap Sessione 10]]
 [^7]: [[Recap Sessione 11]]
 [^8]: [[Recap Sessione 12]]
-[^9]: [[Diario Sessione 16]], "Blocco 4 / Sedicesimo giorno di campagna (08 feb. 2026) - la caccia selvaggia"
+[^9]: [[Diario Sessione 16]]
