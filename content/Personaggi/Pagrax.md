@@ -1,6 +1,6 @@
 # Pagrax
 
-![[pagrax.png]]
+![Pagrax](/img/pagrax.png)
 
 |                   |                      |
 | ----------------- | -------------------- |

@@ -1,5 +1,7 @@
 # Il Litorale
 
+![Mappa del Litorale](/img/Starting_town.jpg)
+
 |                   |                  |
 | ----------------- | ---------------- |
 | Tipo              | Regione          |

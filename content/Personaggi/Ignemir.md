@@ -1,6 +1,6 @@
 # Ignemir
 
-![[ignemir.jpg]]
+![Ignemir](/img/ignemir.jpg)
 
 |                   |                        |
 | ----------------- | ---------------------- |
