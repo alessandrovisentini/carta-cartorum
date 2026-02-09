@@ -1,5 +1,7 @@
 # Ignemir
 
+![[ignemir.jpg]]
+
 |                   |                        |
 | ----------------- | ---------------------- |
 | Tipo              | Personaggio Giocante   |

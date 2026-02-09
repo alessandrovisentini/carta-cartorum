@@ -1,5 +1,7 @@
 # Vailendel
 
+![[vailendel.png]]
+
 |                   |                      |
 | ----------------- | -------------------- |
 | Tipo              | Personaggio Giocante |

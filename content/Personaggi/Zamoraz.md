@@ -1,5 +1,7 @@
 # Zamoraz
 
+![[zamoraz.png]]
+
 |                   |                      |
 | ----------------- | -------------------- |
 | Tipo              | Personaggio Giocante |

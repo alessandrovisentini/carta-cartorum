@@ -1,5 +1,7 @@
 # Vanya
 
+![[vanya.png]]
+
 |                   |                      |
 | ----------------- | -------------------- |
 | Tipo              | Personaggio Giocante |

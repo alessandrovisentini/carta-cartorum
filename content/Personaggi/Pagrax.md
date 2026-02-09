@@ -1,5 +1,7 @@
 # Pagrax
 
+![[pagrax.png]]
+
 |                   |                      |
 | ----------------- | -------------------- |
 | Tipo              | Personaggio Giocante |
