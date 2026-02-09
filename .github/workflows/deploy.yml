@@ -48,7 +48,56 @@ jobs:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
+    outputs:
+      page_url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
+  notify:
+    needs: deploy
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Get changed content files
+        id: changed-files
+        run: |
+          # Get changed markdown files in content directory
+          CHANGED_FILES=$(git diff --name-only HEAD~1 HEAD -- 'content/**/*.md' | head -20)
+
+          if [ -z "$CHANGED_FILES" ]; then
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+            exit 0
+          fi
+
+          echo "has_changes=true" >> $GITHUB_OUTPUT
+
+          # Format the list for Discord (extract just the page names)
+          FILE_LIST=""
+          while IFS= read -r file; do
+            # Extract filename without path and extension
+            PAGE_NAME=$(basename "$file" .md)
+            FILE_LIST="${FILE_LIST}• ${PAGE_NAME}\n"
+          done <<< "$CHANGED_FILES"
+
+          # Store in output (escape for GitHub Actions)
+          echo "file_list<<EOF" >> $GITHUB_OUTPUT
+          echo -e "$FILE_LIST" >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
+
+      - name: Send Discord notification
+        if: steps.changed-files.outputs.has_changes == 'true'
+        env:
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+        run: |
+          # Prepare the message
+          MESSAGE="📜 **La Wiki è stata aggiornata!**\n\n**Pagine modificate:**\n${{ steps.changed-files.outputs.file_list }}\n🔗 Visita la wiki: ${{ needs.deploy.outputs.page_url }}"
+
+          # Send to Discord
+          curl -H "Content-Type: application/json" \
+            -d "{\"content\": \"$MESSAGE\"}" \
+            "$DISCORD_WEBHOOK"
