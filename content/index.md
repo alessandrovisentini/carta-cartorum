@@ -1,3 +1,7 @@
+---
+socialImage: group.png
+---
+
 # Carta Iniziorum
 
 - [Creature](./Creature/)
