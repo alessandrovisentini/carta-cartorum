@@ -20,5 +20,5 @@ Una chiave con un labirinto all'estremità, da esporre come oggetto per farsi ri
 
 ## Fonti
 
-[^1]: [[Recap Sessione 5]]
-[^2]: [[Recap Sessione 11]]
+[^1]: [[Riepiloghi/Zamoraz/Sessione 5]]
+[^2]: [[Riepiloghi/Zamoraz/Sessione 11]]

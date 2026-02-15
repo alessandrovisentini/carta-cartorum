@@ -18,5 +18,5 @@ Secondo gli [[Uomini Serpente]] e [[Fannipa]], Elunaui abbandonò il mondo e ora
 
 ## Fonti
 
-[^1]: [[Recap Sessione 8]]
-[^2]: [[Recap Sessione 14]]
+[^1]: [[Riepiloghi/Zamoraz/Sessione 8]]
+[^2]: [[Riepiloghi/Zamoraz/Sessione 14]]

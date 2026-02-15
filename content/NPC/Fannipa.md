@@ -6,7 +6,7 @@
 | Ruolo             | Sacerdotessa               |
 | Luogo             | Città sul [[Megadon]]      |
 | Culto             | Luna Nera (Apophtosis)     |
-| Prima Apparizione | [[Sessione 14]]            |
+| Prima Apparizione | [[Sessioni/Sessione 14]]            |
 
 ## Descrizione
 
@@ -24,4 +24,4 @@ Fannipa spiega che Elunavi abbandonò il mondo e ora esiste solo la Luna Nera, c
 
 ## Fonti
 
-[^1]: [[Recap Sessione 14]]
+[^1]: [[Riepiloghi/Zamoraz/Sessione 14]]

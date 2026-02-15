@@ -31,11 +31,11 @@ Ha fatto un patto con **Ilev Saaj**, la dea delle frodi[^3]. Porta un anello che
 
 ## Fonti
 
-[^1]: [[Recap Sessione 1]]
-[^2]: [[Recap Sessione 9]]
-[^3]: [[Recap Sessione 8]]
-[^4]: [[Recap Sessione 5]]
-[^5]: [[Recap Sessione 7]]
-[^6]: [[Recap Sessione 11]]
-[^7]: [[Recap Sessione 12]]
-[^8]: [[Recap Sessione 14]]
+[^1]: [[Sessione 1]]
+[^2]: [[Riepiloghi/Zamoraz/Sessione 9]]
+[^3]: [[Riepiloghi/Zamoraz/Sessione 8]]
+[^4]: [[Riepiloghi/Zamoraz/Sessione 5]]
+[^5]: [[Sessione 7]]
+[^6]: [[Riepiloghi/Zamoraz/Sessione 11]]
+[^7]: [[Riepiloghi/Zamoraz/Sessione 12]]
+[^8]: [[Riepiloghi/Zamoraz/Sessione 14]]

@@ -21,5 +21,5 @@ La Caccia Selvaggia di Cernunnos è la caccia alle anime dannate come purga di c
 
 ## Fonti
 
-[^1]: [[Diario Sessione 16]]
-[^2]: [[Recap Sessione 4]]
+[^1]: [[Riepiloghi/Ignemir/Sessione 16]]
+[^2]: [[Sessione 4]]

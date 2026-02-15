@@ -4,7 +4,7 @@
 | ----------------- | -------------------------- |
 | Tipo              | Evento storico             |
 | Coinvolti         | [[Clan Oven]], [[Il Toro]] |
-| Prima Menzione    | [[Sessione 13]]            |
+| Prima Menzione    | [[Sessioni/Sessione 13]]            |
 
 ## Descrizione
 
@@ -24,4 +24,4 @@ La famiglia Roken fu bandita e dovette prendere un nuovo cognome: Oven[^1]. [[Re
 
 ## Fonti
 
-[^1]: [[Recap Sessione 13]]
+[^1]: [[Riepiloghi/Zamoraz/Sessione 13]]

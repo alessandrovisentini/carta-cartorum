@@ -23,9 +23,9 @@ Rosanno è un guerriero del gruppo, esperto in combattimento[^1]. Ha una pistola
 
 ## Fonti
 
-[^1]: [[Recap Sessione 4]]
-[^2]: [[Recap Sessione 7]]
-[^3]: [[Recap Sessione 6]]
-[^4]: [[Recap Sessione 10]]
-[^5]: [[Recap Sessione 12]]
-[^6]: [[Sessione 15]]
+[^1]: [[Sessione 4]]
+[^2]: [[Sessione 7]]
+[^3]: [[Riepiloghi/Zamoraz/Sessione 6]]
+[^4]: [[Riepiloghi/Zamoraz/Sessione 10]]
+[^5]: [[Riepiloghi/Zamoraz/Sessione 12]]
+[^6]: [[Sessioni/Sessione 15]]

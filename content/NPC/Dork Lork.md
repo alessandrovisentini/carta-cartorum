@@ -16,4 +16,4 @@ Dork Lork è un nano, gran sacerdote della [[Setta dei Pazzi Vendicativi|setta d
 
 ## Fonti
 
-[^1]: [[Recap Sessione 1]]
+[^1]: [[Sessione 1]]

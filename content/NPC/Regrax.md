@@ -20,5 +20,5 @@ Regrax è una dragonide evasa dalla [[Maledizione di Mefisto]], alleata di [[Tum
 
 ## Fonti
 
-[^1]: [[Recap Sessione 5]]
-[^2]: [[Recap Sessione 11]]
+[^1]: [[Riepiloghi/Zamoraz/Sessione 5]]
+[^2]: [[Riepiloghi/Zamoraz/Sessione 11]]

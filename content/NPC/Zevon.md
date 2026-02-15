@@ -20,4 +20,4 @@ Zevon era un poison tiefling, molto basso, con corna ritorte e pochi capelli, sa
 
 ## Fonti
 
-[^1]: [[Recap Sessione 5]]
+[^1]: [[Riepiloghi/Zamoraz/Sessione 5]]

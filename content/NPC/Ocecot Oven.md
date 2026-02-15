@@ -5,7 +5,7 @@
 | Specie            | Gigante del Fuoco     |
 | Ruolo             | Figlio del Re         |
 | Affiliazione      | [[Clan Oven]]         |
-| Prima Apparizione | [[Sessione 13]]       |
+| Prima Apparizione | [[Sessioni/Sessione 13]]       |
 
 ## Descrizione
 
@@ -19,4 +19,4 @@ Ocecot Oven è un gigante del fuoco alto circa 14 metri, figlio di [[Re Tregron 
 
 ## Fonti
 
-[^1]: [[Recap Sessione 13]]
+[^1]: [[Riepiloghi/Zamoraz/Sessione 13]]

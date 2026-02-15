@@ -5,7 +5,7 @@
 | Tipo              | Artefatto religioso  |
 | Origine           | La Cassa di Eric     |
 | Proprietario      | [[Eric]]             |
-| Prima Apparizione | [[Sessione 14]]      |
+| Prima Apparizione | [[Sessioni/Sessione 14]]      |
 
 ## Descrizione
 
@@ -34,5 +34,5 @@ Il teschio può anche evocare una cortina di fumo che si trasforma in un serpent
 
 ## Fonti
 
-[^1]: [[Recap Sessione 14]]
-[^2]: [[Diario Sessione 16]]
+[^1]: [[Riepiloghi/Zamoraz/Sessione 14]]
+[^2]: [[Riepiloghi/Ignemir/Sessione 16]]

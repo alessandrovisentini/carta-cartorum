@@ -25,5 +25,5 @@ La Chiesa di Egleli è una chiesa considerata "buona", presente sulla [[Maledizi
 
 ## Fonti
 
-[^1]: [[Recap Sessione 1]]
-[^2]: [[Recap Sessione 5]]
+[^1]: [[Sessione 1]]
+[^2]: [[Riepiloghi/Zamoraz/Sessione 5]]

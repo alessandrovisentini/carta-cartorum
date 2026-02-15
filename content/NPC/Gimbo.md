@@ -5,7 +5,7 @@
 | Tipo              | Umano                |
 | Età               | ~14 anni             |
 | Affiliazione      | [[Rivalsa]]          |
-| Prima Apparizione | [[Sessione 16]]      |
+| Prima Apparizione | [[Sessioni/Sessione 16]]      |
 
 ## Descrizione
 
@@ -19,4 +19,4 @@ Ragazzo della [[Rivalsa]] che fa da intermediario per chi vuole parlare con il [
 
 ## Fonti
 
-[^1]: [[Diario Sessione 16]]
+[^1]: [[Riepiloghi/Ignemir/Sessione 16]]

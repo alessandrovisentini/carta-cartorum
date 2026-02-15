@@ -33,11 +33,11 @@ Merla è una halfling bardo del gruppo, dotata di grande carisma e abilità magi
 
 ## Fonti
 
-[^1]: [[Recap Sessione 1]]
-[^2]: [[Recap Sessione 4]]
-[^3]: [[Recap Sessione 2]]
-[^4]: [[Recap Sessione 4]]
-[^5]: [[Recap Sessione 7]]
-[^6]: [[Recap Sessione 12]]
-[^7]: [[Recap Sessione 13]]
-[^8]: [[Sessione 15]]
+[^1]: [[Sessione 1]]
+[^2]: [[Sessione 4]]
+[^3]: [[Riepiloghi/Zamoraz/Sessione 2]]
+[^4]: [[Sessione 4]]
+[^5]: [[Sessione 7]]
+[^6]: [[Riepiloghi/Zamoraz/Sessione 12]]
+[^7]: [[Riepiloghi/Zamoraz/Sessione 13]]
+[^8]: [[Sessioni/Sessione 15]]

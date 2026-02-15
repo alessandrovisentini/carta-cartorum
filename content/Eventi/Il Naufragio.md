@@ -31,4 +31,4 @@ La [[Maledizione di Mefisto]], ex-areonave penitenziaria, è stata risucchiata d
 ## Fonti
 
 [^1]: [[Introduzione]]
-[^2]: [[Recap Sessione 2]]
+[^2]: [[Riepiloghi/Zamoraz/Sessione 2]]

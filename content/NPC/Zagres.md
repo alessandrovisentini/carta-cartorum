@@ -16,4 +16,4 @@ Zagres è un umano, gran sacerdote della [[Chiesa di Egleli]], la chiesa "buona"
 
 ## Fonti
 
-[^1]: [[Recap Sessione 1]]
+[^1]: [[Sessione 1]]

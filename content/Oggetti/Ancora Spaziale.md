@@ -5,7 +5,7 @@
 | Tipo              | Artefatto magico               |
 | Proprietario      | [[Re Tregron Oven]]            |
 | Ex-Proprietario   | [[Awen Seife]]                 |
-| Prima Apparizione | [[Sessione 10]]                |
+| Prima Apparizione | [[Sessioni/Sessione 10]]                |
 
 ## Descrizione
 
@@ -30,7 +30,7 @@ I [[Geni del Fuoco]] hanno modificato l'ancora in cambio di un patto[^3]:
 
 ## Fonti
 
-[^1]: [[Recap Sessione 10]]
-[^2]: [[Recap Sessione 13]]
-[^3]: [[Recap Sessione 10]]
-[^4]: [[Recap Sessione 13]]
+[^1]: [[Riepiloghi/Zamoraz/Sessione 10]]
+[^2]: [[Riepiloghi/Zamoraz/Sessione 13]]
+[^3]: [[Riepiloghi/Zamoraz/Sessione 10]]
+[^4]: [[Riepiloghi/Zamoraz/Sessione 13]]

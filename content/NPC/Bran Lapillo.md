@@ -27,9 +27,9 @@ La moglie di Bran Lapillo, ora deceduta. Era allieva di [[Awen Seife]] e molto l
 
 ## Fonti
 
-[^1]: [[Recap Sessione 1]]
-[^2]: [[Recap Sessione 7]]
-[^3]: [[Recap Sessione 6]]
-[^4]: [[Recap Sessione 12]]
-[^5]: [[Recap Sessione 13]]
-[^6]: [[Diario Sessione 16]]
+[^1]: [[Sessione 1]]
+[^2]: [[Sessione 7]]
+[^3]: [[Riepiloghi/Zamoraz/Sessione 6]]
+[^4]: [[Riepiloghi/Zamoraz/Sessione 12]]
+[^5]: [[Riepiloghi/Zamoraz/Sessione 13]]
+[^6]: [[Riepiloghi/Ignemir/Sessione 16]]

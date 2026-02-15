@@ -22,5 +22,5 @@ Queloin Tarasson è una Attalwen (mezza elfa e mezza nana), capitana della [[Riv
 ## Fonti
 
 [^1]: [[Introduzione]]
-[^2]: [[Sessione 15]]
-[^3]: [[Recap Sessione 5]]
+[^2]: [[Sessioni/Sessione 15]]
+[^3]: [[Riepiloghi/Zamoraz/Sessione 5]]

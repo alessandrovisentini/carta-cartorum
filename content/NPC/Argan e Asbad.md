@@ -4,7 +4,7 @@
 | ----------------- | -------------------------- |
 | Tipo              | Geni del Fuoco             |
 | Luogo             | [[Palazzo dei Genii]]      |
-| Prima Apparizione | [[Sessione 10]]            |
+| Prima Apparizione | [[Sessioni/Sessione 10]]            |
 
 ## Descrizione
 
@@ -32,6 +32,6 @@ I [[Clan Oven|Giganti]] usarono un patto con i Geni per vincolare "la Rovina di 
 
 ## Fonti
 
-[^1]: [[Recap Sessione 10]]
-[^2]: [[Recap Sessione 13]]
-[^3]: [[Recap Sessione 13]]
+[^1]: [[Riepiloghi/Zamoraz/Sessione 10]]
+[^2]: [[Riepiloghi/Zamoraz/Sessione 13]]
+[^3]: [[Riepiloghi/Zamoraz/Sessione 13]]

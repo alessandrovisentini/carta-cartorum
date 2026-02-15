@@ -30,10 +30,10 @@ Zamoraz è un ranger del gruppo, spesso scelto come guida designata per le spedi
 
 ## Fonti
 
-[^1]: [[Recap Sessione 1]]
-[^2]: [[Recap Sessione 9]]
-[^3]: [[Recap Sessione 2]]
-[^4]: [[Recap Sessione 7]]
-[^5]: [[Recap Sessione 10]]
-[^6]: [[Recap Sessione 12]]
-[^7]: [[Recap Sessione 14]]
+[^1]: [[Sessione 1]]
+[^2]: [[Riepiloghi/Zamoraz/Sessione 9]]
+[^3]: [[Riepiloghi/Zamoraz/Sessione 2]]
+[^4]: [[Sessione 7]]
+[^5]: [[Riepiloghi/Zamoraz/Sessione 10]]
+[^6]: [[Riepiloghi/Zamoraz/Sessione 12]]
+[^7]: [[Riepiloghi/Zamoraz/Sessione 14]]

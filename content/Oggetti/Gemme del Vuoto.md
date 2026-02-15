@@ -25,5 +25,5 @@ Le Gemme del Vuoto sono gemme speciali che [[Ignemir]] conosce[^1]. Proprietà:
 
 ## Fonti
 
-[^1]: [[Recap Sessione 9]]
-[^2]: [[Recap Sessione 14]]
+[^1]: [[Riepiloghi/Zamoraz/Sessione 9]]
+[^2]: [[Riepiloghi/Zamoraz/Sessione 14]]

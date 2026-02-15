@@ -40,7 +40,7 @@ Una vasca profonda 60m contiene: anelli con pietre preziose, medaglioni con perl
 
 ## Fonti
 
-[^1]: [[Recap Sessione 5]]
-[^2]: [[Recap Sessione 9]]
-[^3]: [[Recap Sessione 11]]
-[^4]: [[Recap Sessione 12]]
+[^1]: [[Riepiloghi/Zamoraz/Sessione 5]]
+[^2]: [[Riepiloghi/Zamoraz/Sessione 9]]
+[^3]: [[Riepiloghi/Zamoraz/Sessione 11]]
+[^4]: [[Riepiloghi/Zamoraz/Sessione 12]]

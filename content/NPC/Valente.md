@@ -22,5 +22,5 @@ Rappresenta una delle migliori menti della [[Furia di Cernunnos]] e supervisiona
 
 ## Fonti
 
-[^1]: [[Recap Sessione 6]]
-[^2]: [[Recap Sessione 10]]
+[^1]: [[Riepiloghi/Zamoraz/Sessione 6]]
+[^2]: [[Riepiloghi/Zamoraz/Sessione 10]]

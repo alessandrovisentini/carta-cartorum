@@ -18,4 +18,4 @@ Umberto è un mezzo-gigante minatore che lavora all'avamposto del [[Vulcano]][^1
 
 ## Fonti
 
-[^1]: [[Recap Sessione 6]]
+[^1]: [[Riepiloghi/Zamoraz/Sessione 6]]

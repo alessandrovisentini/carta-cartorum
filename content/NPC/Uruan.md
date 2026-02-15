@@ -22,5 +22,5 @@ Uruan è conosciuto come "il Satiro" ed è uno dei luogotenenti di [[Tiriano il 
 
 ## Fonti
 
-[^1]: [[Recap Sessione 6]]
-[^2]: [[Recap Sessione 4]]
+[^1]: [[Riepiloghi/Zamoraz/Sessione 6]]
+[^2]: [[Sessione 4]]

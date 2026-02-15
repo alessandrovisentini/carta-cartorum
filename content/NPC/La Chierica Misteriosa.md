@@ -4,7 +4,7 @@
 | ----------------- | ---------------------- |
 | Specie            | Elfa (alto lignaggio)  |
 | Collegamento      | [[Ignemir]]            |
-| Prima Apparizione | [[Sessione 16]]        |
+| Prima Apparizione | [[Sessioni/Sessione 16]]        |
 
 ## Descrizione
 
@@ -29,4 +29,4 @@ Può lanciare incantesimi di cura che ripristinano punti vita a tutti gli alleat
 
 ## Fonti
 
-[^1]: [[Diario Sessione 16]]
+[^1]: [[Riepiloghi/Ignemir/Sessione 16]]

@@ -33,12 +33,12 @@ Secondo [[Luciano]], Awen possedeva una statua grande, strana, con punte, bracci
 
 ## Fonti
 
-[^1]: [[Recap Sessione 1]]
-[^2]: [[Recap Sessione 7]]
-[^3]: [[Recap Sessione 4]]
-[^4]: [[Recap Sessione 5]]
-[^5]: [[Recap Sessione 10]]
-[^6]: [[Recap Sessione 12]]
-[^7]: [[Recap Sessione 13]]
-[^8]: [[Sessione 15]]
-[^9]: [[Diario Sessione 16]]
+[^1]: [[Sessione 1]]
+[^2]: [[Sessione 7]]
+[^3]: [[Sessione 4]]
+[^4]: [[Riepiloghi/Zamoraz/Sessione 5]]
+[^5]: [[Riepiloghi/Zamoraz/Sessione 10]]
+[^6]: [[Riepiloghi/Zamoraz/Sessione 12]]
+[^7]: [[Riepiloghi/Zamoraz/Sessione 13]]
+[^8]: [[Sessioni/Sessione 15]]
+[^9]: [[Riepiloghi/Ignemir/Sessione 16]]

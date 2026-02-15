@@ -4,7 +4,7 @@
 | ----------------- | ----------------------- |
 | Tipo              | Creature fatate         |
 | Affiliazione      | [[Caccia Selvaggia]]    |
-| Prima Apparizione | [[Sessione 12]]         |
+| Prima Apparizione | [[Sessioni/Sessione 12]]         |
 
 ## Descrizione
 
@@ -33,5 +33,5 @@ Dai loro corpi si ricavano[^1]:
 
 ## Fonti
 
-[^1]: [[Recap Sessione 12]]
-[^2]: [[Diario Sessione 16]]
+[^1]: [[Riepiloghi/Zamoraz/Sessione 12]]
+[^2]: [[Riepiloghi/Ignemir/Sessione 16]]

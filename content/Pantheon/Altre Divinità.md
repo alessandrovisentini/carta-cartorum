@@ -75,5 +75,5 @@ Divinità della luna il cui culto è semiscomparso da secoli[^2]. I suoi compiti
 ## Fonti
 
 [^1]: [[Introduzione]]
-[^2]: [[Recap Sessione 14]]
-[^3]: [[Sessione 15]]
+[^2]: [[Riepiloghi/Zamoraz/Sessione 14]]
+[^3]: [[Sessioni/Sessione 15]]

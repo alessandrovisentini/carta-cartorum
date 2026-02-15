@@ -79,5 +79,5 @@ Una seguace di Ptah sulla [[Rivalsa]] usa magia per "far dimenticare le cose" a 
 
 ## Fonti
 
-[^1]: [[Sessione 15]]
-[^2]: [[Recap Sessione 8]]
+[^1]: [[Sessioni/Sessione 15]]
+[^2]: [[Riepiloghi/Zamoraz/Sessione 8]]

@@ -56,6 +56,6 @@ Secondo [[Vanya]], la sua famiglia ha ricevuto del Neridium in dono da dei gigan
 
 ## Fonti
 
-[^1]: [[Recap Sessione 7]]
-[^2]: [[Recap Sessione 13]]
-[^3]: [[Diario Sessione 16]]
+[^1]: [[Sessione 7]]
+[^2]: [[Riepiloghi/Zamoraz/Sessione 13]]
+[^3]: [[Riepiloghi/Ignemir/Sessione 16]]

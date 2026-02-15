@@ -5,7 +5,7 @@
 | Tipo              | Palazzo fatato        |
 | Abitanti          | [[Argan e Asbad]]     |
 | Luogo             | Caverne del [[Vulcano]] |
-| Prima Apparizione | [[Sessione 10]]       |
+| Prima Apparizione | [[Sessioni/Sessione 10]]       |
 
 ## Descrizione
 
@@ -39,4 +39,4 @@ I geni comunicano attraverso le tende che prendono forma di labbra.
 
 ## Fonti
 
-[^1]: [[Recap Sessione 10]]
+[^1]: [[Riepiloghi/Zamoraz/Sessione 10]]

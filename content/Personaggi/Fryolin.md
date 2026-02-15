@@ -5,7 +5,7 @@
 | Tipo              | Personaggio Giocante   |
 | Soprannome        | Frollino               |
 | Affiliazione      | [[Caccia Selvaggia]]   |
-| Prima Apparizione | [[Sessione 12]]        |
+| Prima Apparizione | [[Sessioni/Sessione 12]]        |
 
 ## Descrizione
 
@@ -28,13 +28,13 @@ Uno degli arciduchi della corte di Fryolin è collegato agli insetti - non Cernu
 
 ## Fonti
 
-[^1]: [[Recap Sessione 12]]
-[^2]: [[Recap Sessione 13]]
-[^3]: [[Recap Sessione 12]]
-[^4]: [[Recap Sessione 13]]
-[^5]: [[Recap Sessione 13]]
-[^6]: [[Recap Sessione 13]]
-[^7]: [[Recap Sessione 13]]
-[^8]: [[Sessione 15]]
-[^9]: [[Sessione 15]]
-[^10]: [[Diario Sessione 16]]
+[^1]: [[Riepiloghi/Zamoraz/Sessione 12]]
+[^2]: [[Riepiloghi/Zamoraz/Sessione 13]]
+[^3]: [[Riepiloghi/Zamoraz/Sessione 12]]
+[^4]: [[Riepiloghi/Zamoraz/Sessione 13]]
+[^5]: [[Riepiloghi/Zamoraz/Sessione 13]]
+[^6]: [[Riepiloghi/Zamoraz/Sessione 13]]
+[^7]: [[Riepiloghi/Zamoraz/Sessione 13]]
+[^8]: [[Sessioni/Sessione 15]]
+[^9]: [[Sessioni/Sessione 15]]
+[^10]: [[Riepiloghi/Ignemir/Sessione 16]]

@@ -5,7 +5,7 @@
 | Tipo              | Arciduca Fatato            |
 | Corte             | [[I Regni Fatati]]         |
 | Dominio           | Insetti                    |
-| Prima Menzione    | [[Sessione 15]]            |
+| Prima Menzione    | [[Sessioni/Sessione 15]]            |
 
 ## Descrizione
 
@@ -19,4 +19,4 @@ Oran il Lord Verde è uno degli arciduchi delle corti fatate, collegato agli ins
 
 ## Fonti
 
-[^1]: [[Sessione 15]]
+[^1]: [[Sessioni/Sessione 15]]

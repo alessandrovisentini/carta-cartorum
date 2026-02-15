@@ -164,20 +164,20 @@ Uno degli arciduchi della corte di Fryolin è collegato agli insetti: non [[Cern
 
 ## Fonti
 
-[^1]: [[Diario Sessione 15]], struttura del bar
-[^2]: [[Diario Sessione 15]], menu
-[^3]: [[Diario Sessione 15]], ruoli
-[^4]: [[Diario Sessione 15]], preparazione apertura
-[^5]: [[Diario Sessione 15]], invitati di Merla
-[^6]: [[Diario Sessione 15]], altri inviti
-[^7]: [[Diario Sessione 15]], eventi della serata
-[^8]: [[Diario Sessione 15]], elfo Damm
-[^9]: [[Diario Sessione 15]], Rosanno e Queloin
-[^10]: [[Diario Sessione 15]], arrivo di Bran e Awen
-[^11]: [[Diario Sessione 15]], rivelazioni di Awen
-[^12]: [[Diario Sessione 15]], rivelazione di Luciano
-[^13]: [[Diario Sessione 15]], la nana e Luciano
-[^14]: [[Diario Sessione 15]], storia di Odar sulla caccia selvaggia
-[^15]: [[Diario Sessione 15]], rivelazioni di Odar
-[^16]: [[Diario Sessione 15]], visione dell'aasimar
-[^17]: [[Diario Sessione 15]], i ragni e Fryolin
+[^1]: [[Riepiloghi/Ignemir/Sessione 15]], struttura del bar
+[^2]: [[Riepiloghi/Ignemir/Sessione 15]], menu
+[^3]: [[Riepiloghi/Ignemir/Sessione 15]], ruoli
+[^4]: [[Riepiloghi/Ignemir/Sessione 15]], preparazione apertura
+[^5]: [[Riepiloghi/Ignemir/Sessione 15]], invitati di Merla
+[^6]: [[Riepiloghi/Ignemir/Sessione 15]], altri inviti
+[^7]: [[Riepiloghi/Ignemir/Sessione 15]], eventi della serata
+[^8]: [[Riepiloghi/Ignemir/Sessione 15]], elfo Damm
+[^9]: [[Riepiloghi/Ignemir/Sessione 15]], Rosanno e Queloin
+[^10]: [[Riepiloghi/Ignemir/Sessione 15]], arrivo di Bran e Awen
+[^11]: [[Riepiloghi/Ignemir/Sessione 15]], rivelazioni di Awen
+[^12]: [[Riepiloghi/Ignemir/Sessione 15]], rivelazione di Luciano
+[^13]: [[Riepiloghi/Ignemir/Sessione 15]], la nana e Luciano
+[^14]: [[Riepiloghi/Ignemir/Sessione 15]], storia di Odar sulla caccia selvaggia
+[^15]: [[Riepiloghi/Ignemir/Sessione 15]], rivelazioni di Odar
+[^16]: [[Riepiloghi/Ignemir/Sessione 15]], visione dell'aasimar
+[^17]: [[Riepiloghi/Ignemir/Sessione 15]], i ragni e Fryolin

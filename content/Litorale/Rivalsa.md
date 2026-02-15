@@ -43,9 +43,9 @@ Stavano trasportando team di scavo, recupero e restauro delle antichità sotterr
 ## Fonti
 
 [^1]: [[Introduzione]]
-[^2]: [[Recap Sessione 4]]
-[^3]: [[Recap Sessione 1]]
-[^4]: [[Recap Sessione 5]]
-[^5]: [[Recap Sessione 14]]
-[^6]: [[Sessione 15]]
-[^7]: [[Diario Sessione 16]]
+[^2]: [[Sessione 4]]
+[^3]: [[Sessione 1]]
+[^4]: [[Riepiloghi/Zamoraz/Sessione 5]]
+[^5]: [[Riepiloghi/Zamoraz/Sessione 14]]
+[^6]: [[Sessioni/Sessione 15]]
+[^7]: [[Riepiloghi/Ignemir/Sessione 16]]

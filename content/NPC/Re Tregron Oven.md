@@ -5,7 +5,7 @@
 | Specie            | Gigante del Fuoco     |
 | Titolo            | Re, "Sua Fiammità"    |
 | Affiliazione      | [[Clan Oven]]         |
-| Prima Apparizione | [[Sessione 13]]       |
+| Prima Apparizione | [[Sessioni/Sessione 13]]       |
 
 ## Descrizione
 
@@ -28,4 +28,4 @@ Tregron rivela che la sua famiglia fu bandita a causa della "Rovina di Roken"[^1
 
 ## Fonti
 
-[^1]: [[Recap Sessione 13]]
+[^1]: [[Riepiloghi/Zamoraz/Sessione 13]]

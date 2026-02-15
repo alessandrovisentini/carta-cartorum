@@ -21,5 +21,5 @@ Sono i racconti più infausti legati alla [[Caccia Selvaggia]][^1].
 
 ## Fonti
 
-[^1]: [[Recap Sessione 4]]
-[^2]: [[Recap Sessione 12]]
+[^1]: [[Sessione 4]]
+[^2]: [[Riepiloghi/Zamoraz/Sessione 12]]

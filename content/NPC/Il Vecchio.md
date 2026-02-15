@@ -4,7 +4,7 @@
 | ----------------- | -------------------- |
 | Specie            | Orco                 |
 | Affiliazione      | [[Rivalsa]]          |
-| Prima Apparizione | [[Sessione 16]]      |
+| Prima Apparizione | [[Sessioni/Sessione 16]]      |
 
 ## Descrizione
 
@@ -18,4 +18,4 @@ Orco che lavora nella [[Rivalsa]], custodisce le scorte di sangue di [[Megadon]]
 
 ## Fonti
 
-[^1]: [[Diario Sessione 16]]
+[^1]: [[Riepiloghi/Ignemir/Sessione 16]]

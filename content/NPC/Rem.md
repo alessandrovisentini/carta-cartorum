@@ -30,5 +30,5 @@ Può scomporsi in minuscoli ragni per muoversi e osservare, poi riunirsi in un u
 
 ## Fonti
 
-[^1]: [[Recap Sessione 8]]
-[^2]: [[Recap Sessione 14]]
+[^1]: [[Riepiloghi/Zamoraz/Sessione 8]]
+[^2]: [[Riepiloghi/Zamoraz/Sessione 14]]

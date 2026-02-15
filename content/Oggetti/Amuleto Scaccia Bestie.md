@@ -23,4 +23,4 @@ L'Amuleto Scaccia Bestie è una pianta con proprietà magiche che respinge le be
 
 ## Fonti
 
-[^1]: [[Recap Sessione 9]]
+[^1]: [[Riepiloghi/Zamoraz/Sessione 9]]

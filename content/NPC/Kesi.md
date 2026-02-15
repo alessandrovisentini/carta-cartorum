@@ -20,4 +20,4 @@ Kesi era una mezzorca sacerdotessa di Egleli sulla [[Maledizione di Mefisto]][^1
 
 ## Fonti
 
-[^1]: [[Recap Sessione 5]]
+[^1]: [[Riepiloghi/Zamoraz/Sessione 5]]

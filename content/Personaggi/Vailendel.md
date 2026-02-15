@@ -32,12 +32,12 @@ Vailendel è un membro del gruppo con abilità magiche, inclusa la lettura del p
 
 ## Fonti
 
-[^1]: [[Recap Sessione 9]]
-[^2]: [[Recap Sessione 2]]
-[^3]: [[Recap Sessione 4]]
-[^4]: [[Recap Sessione 5]]
-[^5]: [[Recap Sessione 6]]
-[^6]: [[Recap Sessione 10]]
-[^7]: [[Recap Sessione 11]]
-[^8]: [[Recap Sessione 12]]
-[^9]: [[Diario Sessione 16]]
+[^1]: [[Riepiloghi/Zamoraz/Sessione 9]]
+[^2]: [[Riepiloghi/Zamoraz/Sessione 2]]
+[^3]: [[Sessione 4]]
+[^4]: [[Riepiloghi/Zamoraz/Sessione 5]]
+[^5]: [[Riepiloghi/Zamoraz/Sessione 6]]
+[^6]: [[Riepiloghi/Zamoraz/Sessione 10]]
+[^7]: [[Riepiloghi/Zamoraz/Sessione 11]]
+[^8]: [[Riepiloghi/Zamoraz/Sessione 12]]
+[^9]: [[Riepiloghi/Ignemir/Sessione 16]]

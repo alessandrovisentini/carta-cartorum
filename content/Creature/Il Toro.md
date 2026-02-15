@@ -6,7 +6,7 @@
 | Altro Nome        | La Rovina di Roken         |
 | Status            | Imprigionato               |
 | Luogo             | [[Vulcano]] (fortezza)     |
-| Prima Menzione    | [[Sessione 10]]            |
+| Prima Menzione    | [[Sessioni/Sessione 10]]            |
 
 ## Descrizione
 
@@ -29,6 +29,6 @@ I Geni del Fuoco vogliono che il gruppo attivi l'[[Ancora Spaziale]] vicino al T
 
 ## Fonti
 
-[^1]: [[Recap Sessione 13]]
-[^2]: [[Recap Sessione 13]]
-[^3]: [[Recap Sessione 10]]
+[^1]: [[Riepiloghi/Zamoraz/Sessione 13]]
+[^2]: [[Riepiloghi/Zamoraz/Sessione 13]]
+[^3]: [[Riepiloghi/Zamoraz/Sessione 10]]

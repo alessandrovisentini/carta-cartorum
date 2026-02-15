@@ -99,5 +99,5 @@ La [[Chiesa di Egleli]] guida i peccatori salvabili nel percorso di redenzione[^
 
 ## Fonti
 
-[^1]: [[Recap Sessione 14]]
+[^1]: [[Riepiloghi/Zamoraz/Sessione 14]]
 [^2]: [[Introduzione]]

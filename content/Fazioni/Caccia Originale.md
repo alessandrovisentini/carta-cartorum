@@ -5,7 +5,7 @@
 | Tipo              | Fazione fatata               |
 | Leader            | [[Viredesh]]                 |
 | Simbolo           | Artiglio azzurro a goccia    |
-| Prima Menzione    | [[Sessione 16]]              |
+| Prima Menzione    | [[Sessioni/Sessione 16]]              |
 
 ## Descrizione
 
@@ -25,4 +25,4 @@ In origine esisteva solo la Caccia Originale[^1]. Le corti che guidano le varie 
 
 ## Fonti
 
-[^1]: [[Diario Sessione 16]]
+[^1]: [[Riepiloghi/Ignemir/Sessione 16]]

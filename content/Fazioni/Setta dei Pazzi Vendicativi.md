@@ -24,4 +24,4 @@ I Vindicatori di Throrgran sono una setta religiosa presente sulla [[Maledizione
 
 ## Fonti
 
-[^1]: [[Recap Sessione 1]]
+[^1]: [[Sessione 1]]

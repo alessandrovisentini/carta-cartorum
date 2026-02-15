@@ -3,7 +3,7 @@
 |                   |                        |
 | ----------------- | ---------------------- |
 | Tipo              | Personaggio Giocante   |
-| Prima Apparizione | [[Sessione 11]]        |
+| Prima Apparizione | [[Sessioni/Sessione 11]]        |
 
 ## Descrizione
 
@@ -17,9 +17,9 @@ Hoot è un membro del gruppo con abilità di spionaggio e furtività. Tende a op
 
 ## Fonti
 
-[^1]: [[Recap Sessione 11]]
-[^2]: [[Recap Sessione 11]]
-[^3]: [[Recap Sessione 11]]
-[^4]: [[Recap Sessione 11]]
-[^5]: [[Recap Sessione 11]]
-[^6]: [[Recap Sessione 11]]
+[^1]: [[Riepiloghi/Zamoraz/Sessione 11]]
+[^2]: [[Riepiloghi/Zamoraz/Sessione 11]]
+[^3]: [[Riepiloghi/Zamoraz/Sessione 11]]
+[^4]: [[Riepiloghi/Zamoraz/Sessione 11]]
+[^5]: [[Riepiloghi/Zamoraz/Sessione 11]]
+[^6]: [[Riepiloghi/Zamoraz/Sessione 11]]

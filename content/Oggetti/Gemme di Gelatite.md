@@ -3,7 +3,7 @@
 |                   |                       |
 | ----------------- | --------------------- |
 | Tipo              | Gemme magiche         |
-| Prima Apparizione | [[Sessione 12]]       |
+| Prima Apparizione | [[Sessioni/Sessione 12]]       |
 
 ## Descrizione
 
@@ -20,6 +20,6 @@ La [[Rivalsa]] stava viaggiando verso un nuovo sito di ricerca sulla gelatite pr
 
 ## Fonti
 
-[^1]: [[Recap Sessione 12]]
+[^1]: [[Riepiloghi/Zamoraz/Sessione 12]]
 [^2]: [[Introduzione]]
-[^3]: [[Recap Sessione 14]]
+[^3]: [[Riepiloghi/Zamoraz/Sessione 14]]

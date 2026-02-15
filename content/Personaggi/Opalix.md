@@ -22,8 +22,8 @@ Opalix è un changeling del gruppo, con abilità magiche di incantamento[^1]. Pu
 
 ## Fonti
 
-[^1]: [[Recap Sessione 5]]
-[^2]: [[Recap Sessione 11]]
-[^3]: [[Recap Sessione 8]]
-[^4]: [[Recap Sessione 12]]
-[^5]: [[Sessione 15]]
+[^1]: [[Riepiloghi/Zamoraz/Sessione 5]]
+[^2]: [[Riepiloghi/Zamoraz/Sessione 11]]
+[^3]: [[Riepiloghi/Zamoraz/Sessione 8]]
+[^4]: [[Riepiloghi/Zamoraz/Sessione 12]]
+[^5]: [[Sessioni/Sessione 15]]

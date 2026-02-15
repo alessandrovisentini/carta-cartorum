@@ -36,12 +36,12 @@ Ignemir Valmorad è un tiefling che era con la [[Furia di Cernunnos]] ma non si 
 
 ## Fonti
 
-[^1]: [[Recap Sessione 2]]
-[^2]: [[Recap Sessione 5]]
-[^3]: [[Recap Sessione 6]]
-[^4]: [[Recap Sessione 9]]
-[^5]: [[Recap Sessione 10]]
-[^6]: [[Recap Sessione 11]]
-[^7]: [[Recap Sessione 12]]
-[^8]: [[Recap Sessione 13]]
-[^9]: [[Diario Sessione 16]]
+[^1]: [[Riepiloghi/Zamoraz/Sessione 2]]
+[^2]: [[Riepiloghi/Zamoraz/Sessione 5]]
+[^3]: [[Riepiloghi/Zamoraz/Sessione 6]]
+[^4]: [[Riepiloghi/Zamoraz/Sessione 9]]
+[^5]: [[Riepiloghi/Zamoraz/Sessione 10]]
+[^6]: [[Riepiloghi/Zamoraz/Sessione 11]]
+[^7]: [[Riepiloghi/Zamoraz/Sessione 12]]
+[^8]: [[Riepiloghi/Zamoraz/Sessione 13]]
+[^9]: [[Riepiloghi/Ignemir/Sessione 16]]

@@ -24,6 +24,6 @@ Emiliano è un gigante evaso dalla [[Maledizione di Mefisto]], alleato di [[Tumb
 
 ## Fonti
 
-[^1]: [[Recap Sessione 5]]
-[^2]: [[Recap Sessione 11]]
-[^3]: [[Recap Sessione 6]]
+[^1]: [[Riepiloghi/Zamoraz/Sessione 5]]
+[^2]: [[Riepiloghi/Zamoraz/Sessione 11]]
+[^3]: [[Riepiloghi/Zamoraz/Sessione 6]]

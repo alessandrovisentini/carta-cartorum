@@ -24,7 +24,7 @@ Nato e cresciuto in una carovana/circo dove tutti erano genitori di tutti, ma no
 
 ## Fonti
 
-[^1]: [[Recap Sessione 2]]
-[^2]: [[Recap Sessione 14]]
-[^3]: [[Recap Sessione 4]]
-[^4]: [[Sessione 15]]
+[^1]: [[Riepiloghi/Zamoraz/Sessione 2]]
+[^2]: [[Riepiloghi/Zamoraz/Sessione 14]]
+[^3]: [[Sessione 4]]
+[^4]: [[Sessioni/Sessione 15]]

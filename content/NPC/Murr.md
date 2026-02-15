@@ -33,4 +33,4 @@ Murr rivela che:[^1]
 
 ## Fonti
 
-[^1]: [[Recap Sessione 9]]
+[^1]: [[Riepiloghi/Zamoraz/Sessione 9]]

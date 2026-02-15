@@ -23,4 +23,4 @@ Le Tute da Palombaro sono equipaggiamenti speciali trovati nel palazzo sotterran
 
 ## Fonti
 
-[^1]: [[Recap Sessione 9]]
+[^1]: [[Riepiloghi/Zamoraz/Sessione 9]]

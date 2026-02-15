@@ -4,7 +4,7 @@
 | ----------------- | --------------------- |
 | Tipo              | Arma magica           |
 | Proprietario      | [[Zamoraz]]           |
-| Prima Apparizione | [[Sessione 12]]       |
+| Prima Apparizione | [[Sessioni/Sessione 12]]       |
 
 ## Descrizione
 
@@ -18,4 +18,4 @@ La Scimitarra del Gelo Eterno è un'arma ricavata dalla lama della falce di un c
 
 ## Fonti
 
-[^1]: [[Recap Sessione 12]]
+[^1]: [[Riepiloghi/Zamoraz/Sessione 12]]

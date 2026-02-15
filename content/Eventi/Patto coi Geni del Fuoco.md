@@ -3,7 +3,7 @@
 |                   |                       |
 | ----------------- | --------------------- |
 | Tipo              | Patto magico          |
-| Sessione          | [[Sessione 10]]       |
+| Sessione          | [[Sessioni/Sessione 10]]       |
 | Parti coinvolte   | Gruppo, [[Argan e Asbad]] |
 
 ## Descrizione
@@ -37,5 +37,5 @@ Il contratto è apparso in infernale sul pavimento del palazzo[^1]. È stato fir
 
 ## Fonti
 
-[^1]: [[Recap Sessione 10]]
-[^2]: [[Recap Sessione 13]]
+[^1]: [[Riepiloghi/Zamoraz/Sessione 10]]
+[^2]: [[Riepiloghi/Zamoraz/Sessione 13]]

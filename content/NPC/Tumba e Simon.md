@@ -33,8 +33,8 @@ Con loro ci sono [[Regrax]] la dragonide ed [[Emiliano]] il gigante[^2]. Tutti e
 
 ## Fonti
 
-[^1]: [[Recap Sessione 5]]
-[^2]: [[Recap Sessione 5]]
-[^3]: [[Recap Sessione 5]]
-[^4]: [[Recap Sessione 9]]
-[^5]: [[Recap Sessione 11]]
+[^1]: [[Riepiloghi/Zamoraz/Sessione 5]]
+[^2]: [[Riepiloghi/Zamoraz/Sessione 5]]
+[^3]: [[Riepiloghi/Zamoraz/Sessione 5]]
+[^4]: [[Riepiloghi/Zamoraz/Sessione 9]]
+[^5]: [[Riepiloghi/Zamoraz/Sessione 11]]

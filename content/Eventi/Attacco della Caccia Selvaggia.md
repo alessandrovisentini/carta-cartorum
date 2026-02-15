@@ -3,7 +3,7 @@
 |                   |                       |
 | ----------------- | --------------------- |
 | Tipo              | Combattimento         |
-| Sessione          | [[Sessione 12]]       |
+| Sessione          | [[Sessioni/Sessione 12]]       |
 | Luogo             | [[Fontana]]           |
 
 ## Descrizione
@@ -46,4 +46,4 @@ In prossimità della fontana, il gruppo trova[^1]:
 
 ## Fonti
 
-[^1]: [[Recap Sessione 12]]
+[^1]: [[Riepiloghi/Zamoraz/Sessione 12]]

@@ -19,5 +19,5 @@ I serpenti marini sono creature lunghe circa 6 metri che si muovono sul pelo del
 
 ## Fonti
 
-[^1]: [[Recap Sessione 10]]
-[^2]: [[Recap Sessione 4]]
+[^1]: [[Riepiloghi/Zamoraz/Sessione 10]]
+[^2]: [[Sessione 4]]

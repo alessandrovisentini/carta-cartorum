@@ -5,7 +5,7 @@
 | Tipo              | Creature elementali        |
 | Membri noti       | [[Argan e Asbad]]          |
 | Sede              | [[Palazzo dei Genii]]      |
-| Prima Menzione    | [[Sessione 10]]            |
+| Prima Menzione    | [[Sessioni/Sessione 10]]            |
 
 ## Descrizione
 
@@ -30,7 +30,7 @@ I Geni del Fuoco hanno un antico conflitto con il [[Clan Oven]][^3]. In passato 
 
 ## Fonti
 
-[^1]: [[Recap Sessione 10]]
-[^2]: [[Recap Sessione 13]]
-[^3]: [[Recap Sessione 13]]
-[^4]: [[Recap Sessione 13]]
+[^1]: [[Riepiloghi/Zamoraz/Sessione 10]]
+[^2]: [[Riepiloghi/Zamoraz/Sessione 13]]
+[^3]: [[Riepiloghi/Zamoraz/Sessione 13]]
+[^4]: [[Riepiloghi/Zamoraz/Sessione 13]]

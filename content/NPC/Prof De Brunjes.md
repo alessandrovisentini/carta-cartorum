@@ -37,5 +37,5 @@ Teorizza che sia una **città fantasma**: le persone potrebbero essere miraggi o
 
 ## Fonti
 
-[^1]: [[Recap Sessione 4]]
-[^2]: [[Recap Sessione 14]]
+[^1]: [[Sessione 4]]
+[^2]: [[Riepiloghi/Zamoraz/Sessione 14]]

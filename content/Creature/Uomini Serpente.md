@@ -25,6 +25,6 @@ Gli Uomini Serpente venerano **Apophtosis**, la luna nera, che secondo il [[Prof
 
 ## Fonti
 
-[^1]: [[Recap Sessione 4]]
-[^2]: [[Recap Sessione 8]]
-[^3]: [[Recap Sessione 14]]
+[^1]: [[Sessione 4]]
+[^2]: [[Riepiloghi/Zamoraz/Sessione 8]]
+[^3]: [[Riepiloghi/Zamoraz/Sessione 14]]

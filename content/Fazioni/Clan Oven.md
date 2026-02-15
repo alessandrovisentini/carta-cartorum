@@ -5,7 +5,7 @@
 | Tipo              | Clan di giganti       |
 | Status            | Banditi               |
 | Nome Precedente   | Famiglia Roken        |
-| Prima Menzione    | [[Sessione 10]]       |
+| Prima Menzione    | [[Sessioni/Sessione 10]]       |
 
 ## Descrizione
 
@@ -51,7 +51,7 @@ I Giganti crearono una fiala di metallo per i Geni del Fuoco[^2]. Il secondo fig
 
 ## Fonti
 
-[^1]: [[Recap Sessione 10]]
-[^2]: [[Recap Sessione 13]]
-[^3]: [[Recap Sessione 13]]
-[^4]: [[Recap Sessione 6]]
+[^1]: [[Riepiloghi/Zamoraz/Sessione 10]]
+[^2]: [[Riepiloghi/Zamoraz/Sessione 13]]
+[^3]: [[Riepiloghi/Zamoraz/Sessione 13]]
+[^4]: [[Riepiloghi/Zamoraz/Sessione 6]]

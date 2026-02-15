@@ -19,7 +19,11 @@ Usa `/wiki-notes` seguito dal tipo di operazione:
 ## Percorsi
 
 - **Base campagna:** `Campagne/Universe 2 (WM)/Current Era/`
-- **Fonte dati (UNICA):** `Riepiloghi/Riepiloghi Sessione *.md`
+- **Fonte dati (UNICA):** `Riepiloghi/**/*.md` (tutti i file `.md` in tutte le sottocartelle)
+  - Le sottocartelle sono organizzate per personaggio/prospettiva (es. `Ignemir/`, `Opalix/`, `Zamoraz/`)
+  - Ogni sottocartella contiene file `Sessione X.md` dalla prospettiva di quel personaggio
+  - La stessa sessione può avere resoconti diversi in sottocartelle diverse: sono TUTTI fonti valide
+  - File nella root di `Riepiloghi/` (es. `Introduzione.md`) sono anch'essi fonti valide
 - **Destinazioni note:**
   - `NPC/` - Personaggi non giocanti
   - `Personaggi/` - Personaggi giocanti
@@ -36,13 +40,13 @@ Usa `/wiki-notes` seguito dal tipo di operazione:
 
 ### Fonte di Verità
 
-**CRITICO:** Usa SOLO i file `Riepiloghi Sessione X.md` nella cartella `Riepiloghi` come fonte di informazioni. NON usare:
+**CRITICO:** Usa SOLO i file `.md` nella cartella `Riepiloghi/` e nelle sue sottocartelle come fonte di informazioni. NON usare:
 - Note create precedentemente da questo skill
 - Altre cartelle o file della wiki
 - Recap o riassunti
 - Informazioni inventate o dedotte
 
-Se un'informazione non è nei Diari, non includerla.
+Se un'informazione non è nei Riepiloghi, non includerla.
 
 ### Stile di Scrittura
 
@@ -86,8 +90,8 @@ Ogni nota deve seguire questo schema (ometti sezioni vuote):
 
 ## Fonti
 
-[^1]: [[Riepiloghi Sessione X]]
-[^2]: [[Riepiloghi Sessione Y]]
+[^1]: [[Sottocartella/Sessione X]]
+[^2]: [[Sottocartella/Sessione Y]]
 ```
 
 ### Link Obsidian
@@ -105,7 +109,7 @@ Ogni nota deve seguire questo schema (ometti sezioni vuote):
 Usa il sistema di footnote di Obsidian/Markdown in stile Wikipedia:
 
 1. **Nel testo**: Inserisci `[^N]` dopo ogni informazione citata
-2. **In fondo**: Elenca ogni fonte con `[^N]: [[Riepiloghi]], "Capitolo"`
+2. **In fondo**: Elenca ogni fonte con `[^N]: [[Sottocartella/Sessione X]]`
 
 **Sintassi:**
 ```markdown
@@ -115,23 +119,23 @@ Simon può trasformarsi in mannaro[^1] e ha stretto un'alleanza con il gruppo[^2
 
 ## Fonti
 
-[^1]: [[Riepiloghi Sessione 5]]
-[^2]: [[Riepiloghi Sessione 5]]
+[^1]: [[Ignemir/Sessione 5]]
+[^2]: [[Zamoraz/Sessione 5]]
 ```
 
 **Regole:**
 - Ogni affermazione significativa deve avere la sua nota
-- Indica sempre il capitolo/sezione specifica del Riepiloghi
+- Indica sempre la sottocartella e la sessione specifica (es. `[[Ignemir/Sessione 5]]`, `[[Opalix/Sessione 17]]`)
 - Usa numeri progressivi `[^1]`, `[^2]`, `[^3]`...
-- Se più informazioni vengono dallo stesso capitolo, possono condividere la nota
-- Il capitolo è il titolo della sezione `###` o `##` del Riepiloghi
+- Se più informazioni vengono dallo stesso file, possono condividere la nota
+- Se la stessa informazione appare in più prospettive, cita la fonte più dettagliata
 
 ## Procedura di Lavoro
 
 ### Per Scansione (`/wiki-notes scan`)
 
-1. Leggi tutti i file `Riepiloghi Sessione *.md` in `Riepiloghi/`
-2. Estrai entità menzionate (NPC, luoghi, oggetti, fazioni, creature)
+1. Leggi tutti i file `.md` in `Riepiloghi/` e nelle sue sottocartelle (es. `Riepiloghi/Ignemir/*.md`, `Riepiloghi/Opalix/*.md`, `Riepiloghi/Zamoraz/*.md`)
+2. Estrai entità menzionate (NPC, luoghi, oggetti, fazioni, creature) da tutte le prospettive
 3. Confronta con note esistenti nelle cartelle di destinazione
 4. Elenca:
    - Note mancanti da creare
@@ -139,18 +143,18 @@ Simon può trasformarsi in mannaro[^1] e ha stretto un'alleanza con il gruppo[^2
 
 ### Per Creazione (`/wiki-notes create [tipo] [nome]`)
 
-1. Cerca il nome in tutti i Diari
-2. Raccogli TUTTE le menzioni e informazioni
-3. Annota il capitolo esatto (titolo `##` o `###`) di ogni informazione
+1. Cerca il nome in tutti i file di tutte le sottocartelle di `Riepiloghi/`
+2. Raccogli TUTTE le menzioni e informazioni da ogni prospettiva
+3. Annota la sottocartella e sessione esatta di ogni informazione
 4. Crea la nota nel formato corretto nella cartella appropriata
 5. Inserisci note a piè di pagina `[^N]` per ogni informazione
-6. Compila la sezione Fonti con Riepiloghi e capitolo per ogni nota
+6. Compila la sezione Fonti con sottocartella e sessione per ogni nota (es. `[[Ignemir/Sessione 5]]`)
 
 ### Per Aggiornamento (`/wiki-notes update [nome]`)
 
 1. Leggi la nota esistente
-2. Cerca nuove menzioni nei Diari non ancora incluse
-3. Annota il capitolo esatto di ogni nuova informazione
+2. Cerca nuove menzioni in tutti i file di tutte le sottocartelle non ancora incluse
+3. Annota la sottocartella e sessione esatta di ogni nuova informazione
 4. Aggiorna la sezione "Storia nelle Sessioni" con nuove note `[^N]`
 5. Aggiungi le nuove fonti alla sezione Fonti (continua la numerazione)
 6. NON modificare informazioni esistenti a meno che siano errate
@@ -180,12 +184,12 @@ Gemello eterozigote, mezza età, capelli corti a caschetto[^1]. Ha due tatuaggi 
 
 ## Fonti
 
-[^1]: [[Riepiloghi Sessione 5]]
-[^2]: [[Riepiloghi Sessione 5]]
-[^3]: [[Riepiloghi Sessione 5]]
-[^4]: [[Riepiloghi Sessione 5]]
-[^5]: [[Riepiloghi Sessione 5]]
-[^6]: [[Riepiloghi Sessione 5]]
+[^1]: [[Ignemir/Sessione 5]]
+[^2]: [[Ignemir/Sessione 5]]
+[^3]: [[Ignemir/Sessione 5]]
+[^4]: [[Zamoraz/Sessione 5]]
+[^5]: [[Zamoraz/Sessione 5]]
+[^6]: [[Ignemir/Sessione 5]]
 ```
 
 ### Oggetto
@@ -216,8 +220,8 @@ Amuleto che trasporta suoni, odori, calore e oggetti dal luogo in cui è posizio
 
 ## Fonti
 
-[^1]: [[Riepiloghi Sessione 10]]
-[^2]: [[Riepiloghi Sessione 10]]
+[^1]: [[Ignemir/Sessione 10]]
+[^2]: [[Ignemir/Sessione 10]]
 ```
 
 ### Fazione
@@ -244,8 +248,8 @@ Vogliono che il gruppo attivi l'[[Ancora Spaziale]] vicino al Toro imprigionato 
 
 ## Fonti
 
-[^1]: [[Riepiloghi Sessione 10]]
-[^2]: [[Riepiloghi Sessione 10]]
+[^1]: [[Ignemir/Sessione 10]]
+[^2]: [[Ignemir/Sessione 10]]
 ```
 
 ## Checklist Qualità
@@ -254,7 +258,7 @@ Prima di salvare una nota, verifica:
 
 - [ ] Tutte le informazioni provengono dai Diari
 - [ ] Ogni affermazione ha la sua nota a piè di pagina `[^N]`
-- [ ] Ogni nota indica Riepiloghi e capitolo specifico
+- [ ] Ogni nota indica sottocartella e sessione specifica (es. `[[Ignemir/Sessione 5]]`)
 - [ ] Nessuna frase di riempimento o ridondante
 - [ ] Link Obsidian corretti
 - [ ] Sezione Fonti presente con tutte le note

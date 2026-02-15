@@ -19,4 +19,4 @@ Lill è un ragno che fa parte dei Cercatori, uno dei tre gruppi dei [[I Liberi|L
 
 ## Fonti
 
-[^1]: [[Recap Sessione 1]]
+[^1]: [[Sessione 1]]

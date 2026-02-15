@@ -20,6 +20,6 @@ Il Lupercalico è una capra antropomorfa con occhi gialli, capelli ricci, barbet
 
 ## Fonti
 
-[^1]: [[Recap Sessione 6]]
-[^2]: [[Recap Sessione 9]]
-[^3]: [[Recap Sessione 8]]
+[^1]: [[Riepiloghi/Zamoraz/Sessione 6]]
+[^2]: [[Riepiloghi/Zamoraz/Sessione 9]]
+[^3]: [[Riepiloghi/Zamoraz/Sessione 8]]

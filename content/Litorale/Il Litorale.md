@@ -44,8 +44,8 @@ La pietra dei pilastri può essere scalfita solo dal cuneo di [[Awen Seife]][^5]
 ## Fonti
 
 [^1]: [[Introduzione]]
-[^2]: [[Recap Sessione 2]]
-[^3]: [[Recap Sessione 4]]
-[^4]: [[Recap Sessione 8]]
-[^5]: [[Recap Sessione 7]]
-[^6]: [[Sessione 15]]
+[^2]: [[Riepiloghi/Zamoraz/Sessione 2]]
+[^3]: [[Sessione 4]]
+[^4]: [[Riepiloghi/Zamoraz/Sessione 8]]
+[^5]: [[Sessione 7]]
+[^6]: [[Sessioni/Sessione 15]]

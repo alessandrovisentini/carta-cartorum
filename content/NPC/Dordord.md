@@ -5,7 +5,7 @@
 | Specie            | Nano                   |
 | Soprannome        | Mano Monca             |
 | Nave              | [[Furia di Cernunnos]] |
-| Prima Apparizione | [[Sessione 10]]        |
+| Prima Apparizione | [[Sessioni/Sessione 10]]        |
 
 ## Descrizione
 
@@ -24,4 +24,4 @@ Dordord, detto "Mano Monca", è un nano dalla barba rossa membro della [[Furia d
 
 ## Fonti
 
-[^1]: [[Recap Sessione 10]]
+[^1]: [[Riepiloghi/Zamoraz/Sessione 10]]

@@ -45,7 +45,7 @@ Eric può celebrare cerimonie religiose e parla la lingua dei serpenti senza ren
 
 ## Fonti
 
-[^1]: [[Recap Sessione 8]]
-[^2]: [[Recap Sessione 4]]
-[^3]: [[Recap Sessione 14]]
-[^4]: [[Diario Sessione 16]]
+[^1]: [[Riepiloghi/Zamoraz/Sessione 8]]
+[^2]: [[Sessione 4]]
+[^3]: [[Riepiloghi/Zamoraz/Sessione 14]]
+[^4]: [[Riepiloghi/Ignemir/Sessione 16]]

@@ -39,9 +39,9 @@ Sulle rovine del Megadon c'è una città abitata dagli [[Uomini Serpente]][^2]. 
 
 ## Fonti
 
-[^1]: [[Recap Sessione 1]]
-[^2]: [[Recap Sessione 4]]
-[^3]: [[Recap Sessione 8]]
-[^4]: [[Recap Sessione 5]]
-[^5]: [[Recap Sessione 10]]
-[^6]: [[Recap Sessione 14]]
+[^1]: [[Sessione 1]]
+[^2]: [[Sessione 4]]
+[^3]: [[Riepiloghi/Zamoraz/Sessione 8]]
+[^4]: [[Riepiloghi/Zamoraz/Sessione 5]]
+[^5]: [[Riepiloghi/Zamoraz/Sessione 10]]
+[^6]: [[Riepiloghi/Zamoraz/Sessione 14]]

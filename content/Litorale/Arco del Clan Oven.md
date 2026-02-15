@@ -36,5 +36,5 @@ I [[Draconoidi]] nelle caverne hanno costruito una replica dell'arco, alta circa
 
 ## Fonti
 
-[^1]: [[Recap Sessione 6]]
-[^2]: [[Recap Sessione 10]]
+[^1]: [[Riepiloghi/Zamoraz/Sessione 6]]
+[^2]: [[Riepiloghi/Zamoraz/Sessione 10]]

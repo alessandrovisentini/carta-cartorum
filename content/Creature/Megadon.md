@@ -58,9 +58,9 @@ Nella città secondaria c'è un faro[^5]:
 
 ## Fonti
 
-[^1]: [[Recap Sessione 2]]
-[^2]: [[Recap Sessione 5]]
-[^3]: [[Recap Sessione 4]]
-[^4]: [[Recap Sessione 14]]
-[^5]: [[Recap Sessione 14]]
-[^6]: [[Recap Sessione 8]]
+[^1]: [[Riepiloghi/Zamoraz/Sessione 2]]
+[^2]: [[Riepiloghi/Zamoraz/Sessione 5]]
+[^3]: [[Sessione 4]]
+[^4]: [[Riepiloghi/Zamoraz/Sessione 14]]
+[^5]: [[Riepiloghi/Zamoraz/Sessione 14]]
+[^6]: [[Riepiloghi/Zamoraz/Sessione 8]]

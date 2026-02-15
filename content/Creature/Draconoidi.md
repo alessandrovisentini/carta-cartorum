@@ -4,7 +4,7 @@
 | ----------------- | --------------------- |
 | Tipo              | Creature sotterranee  |
 | Luogo             | Caverne del vulcano   |
-| Prima Apparizione | [[Sessione 10]]       |
+| Prima Apparizione | [[Sessioni/Sessione 10]]       |
 
 ## Descrizione
 
@@ -22,5 +22,5 @@ Secondo [[Pagrax]], queste creature sono state **create artificialmente per serv
 
 ## Fonti
 
-[^1]: [[Recap Sessione 10]]
-[^2]: [[Recap Sessione 13]]
+[^1]: [[Riepiloghi/Zamoraz/Sessione 10]]
+[^2]: [[Riepiloghi/Zamoraz/Sessione 13]]

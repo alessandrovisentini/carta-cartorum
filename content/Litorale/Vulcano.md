@@ -39,7 +39,7 @@ Nascosto nelle caverne c'è il [[Palazzo dei Genii]], dove risiedono [[Argan e A
 
 ## Fonti
 
-[^1]: [[Recap Sessione 1]]
-[^2]: [[Recap Sessione 6]]
-[^3]: [[Recap Sessione 10]]
-[^4]: [[Recap Sessione 13]]
+[^1]: [[Sessione 1]]
+[^2]: [[Riepiloghi/Zamoraz/Sessione 6]]
+[^3]: [[Riepiloghi/Zamoraz/Sessione 10]]
+[^4]: [[Riepiloghi/Zamoraz/Sessione 13]]

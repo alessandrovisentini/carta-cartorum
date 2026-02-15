@@ -4,7 +4,7 @@
 | ----------------- | --------------------- |
 | Tipo              | Fiala magica          |
 | Status            | Spezzata              |
-| Prima Apparizione | [[Sessione 10]]       |
+| Prima Apparizione | [[Sessioni/Sessione 10]]       |
 
 ## Descrizione
 
@@ -18,4 +18,4 @@ Il Vincolo è una fiala di metallo scuro con scritto "VINCOLO" in infernale[^1].
 
 ## Fonti
 
-[^1]: [[Recap Sessione 10]]
+[^1]: [[Riepiloghi/Zamoraz/Sessione 10]]

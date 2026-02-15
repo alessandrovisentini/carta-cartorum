@@ -27,9 +27,9 @@ Pagrax è un membro del gruppo con conoscenze sulla [[Caccia Selvaggia]] e capac
 
 ## Fonti
 
-[^1]: [[Recap Sessione 4]]
-[^2]: [[Recap Sessione 6]]
-[^3]: [[Recap Sessione 7]]
-[^4]: [[Recap Sessione 12]]
-[^5]: [[Recap Sessione 13]]
-[^6]: [[Sessione 15]]
+[^1]: [[Sessione 4]]
+[^2]: [[Riepiloghi/Zamoraz/Sessione 6]]
+[^3]: [[Sessione 7]]
+[^4]: [[Riepiloghi/Zamoraz/Sessione 12]]
+[^5]: [[Riepiloghi/Zamoraz/Sessione 13]]
+[^6]: [[Sessioni/Sessione 15]]

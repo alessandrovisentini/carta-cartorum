@@ -4,7 +4,7 @@
 | ----------------- | ---------------------- |
 | Tipo              | Entità fatata          |
 | Ruolo             | Leader della [[Caccia Originale]] |
-| Prima Menzione    | [[Sessione 16]]        |
+| Prima Menzione    | [[Sessioni/Sessione 16]]        |
 
 ## Descrizione
 
@@ -16,4 +16,4 @@ Quando [[Eric]] chiede alla cassa se Viredesh è amico o nemico, la cassa rimane
 
 ## Fonti
 
-[^1]: [[Diario Sessione 16]]
+[^1]: [[Riepiloghi/Ignemir/Sessione 16]]

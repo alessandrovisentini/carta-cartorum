@@ -4,7 +4,7 @@
 | ----------------- | -------------------------- |
 | Specie            | Bambina Serpente           |
 | Luogo             | Città sul [[Megadon]]      |
-| Prima Apparizione | [[Sessione 14]]            |
+| Prima Apparizione | [[Sessioni/Sessione 14]]            |
 
 ## Descrizione
 
@@ -18,4 +18,4 @@ Lili è una bambina serpente, figlia di [[Fannipa]][^1].
 
 ## Fonti
 
-[^1]: [[Recap Sessione 14]]
+[^1]: [[Riepiloghi/Zamoraz/Sessione 14]]

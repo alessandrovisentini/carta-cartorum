@@ -33,8 +33,8 @@ Durante l'impatto sul [[Il Litorale|Litorale]], alcuni carcerati sono evasi[^2]:
 
 ## Fonti
 
-[^1]: [[Recap Sessione 1]]
-[^2]: [[Recap Sessione 5]]
-[^3]: [[Recap Sessione 1]]
-[^4]: [[Recap Sessione 11]]
-[^5]: [[Diario Sessione 16]]
+[^1]: [[Sessione 1]]
+[^2]: [[Riepiloghi/Zamoraz/Sessione 5]]
+[^3]: [[Sessione 1]]
+[^4]: [[Riepiloghi/Zamoraz/Sessione 11]]
+[^5]: [[Riepiloghi/Ignemir/Sessione 16]]

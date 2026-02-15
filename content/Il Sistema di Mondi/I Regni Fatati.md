@@ -30,7 +30,7 @@ La [[Caccia Selvaggia]] ha tre aspetti diversi, uno per ogni corte[^2]. Le stagi
 
 ## Fonti
 
-[^1]: [[Recap Sessione 4]]
-[^2]: [[Recap Sessione 4]]
-[^3]: [[Recap Sessione 7]]
-[^4]: [[Sessione 15]]
+[^1]: [[Sessione 4]]
+[^2]: [[Sessione 4]]
+[^3]: [[Sessione 7]]
+[^4]: [[Sessioni/Sessione 15]]

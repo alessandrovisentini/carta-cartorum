@@ -4,7 +4,7 @@
 | ----------------- | ---------------------- |
 | Specie            | Nano                   |
 | Affiliazione      | [[Rivalsa]]            |
-| Prima Apparizione | [[Sessione 15]]        |
+| Prima Apparizione | [[Sessioni/Sessione 15]]        |
 
 ## Descrizione
 
@@ -31,4 +31,4 @@ Odar ha fatto offerte alle fate fin da piccolo ma da quando è arrivato sul [[Il
 
 ## Fonti
 
-[^1]: [[Sessione 15]]
+[^1]: [[Sessioni/Sessione 15]]

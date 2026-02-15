@@ -19,5 +19,5 @@ Ben è un centauro membro dell'equipaggio della [[Furia di Cernunnos]][^1].
 
 ## Fonti
 
-[^1]: [[Recap Sessione 4]]
-[^2]: [[Recap Sessione 10]]
+[^1]: [[Sessione 4]]
+[^2]: [[Riepiloghi/Zamoraz/Sessione 10]]

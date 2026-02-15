@@ -31,10 +31,10 @@ Le Lance di Cernunnos sono coloro che non solo sono sopravvissuti alla Caccia Se
 
 ## Fonti
 
-[^1]: [[Recap Sessione 4]]
-[^2]: [[Recap Sessione 6]]
-[^3]: [[Recap Sessione 1]]
-[^4]: [[Recap Sessione 4]]
-[^5]: [[Recap Sessione 5]]
-[^6]: [[Recap Sessione 6]]
-[^7]: [[Recap Sessione 10]]
+[^1]: [[Sessione 4]]
+[^2]: [[Riepiloghi/Zamoraz/Sessione 6]]
+[^3]: [[Sessione 1]]
+[^4]: [[Sessione 4]]
+[^5]: [[Riepiloghi/Zamoraz/Sessione 5]]
+[^6]: [[Riepiloghi/Zamoraz/Sessione 6]]
+[^7]: [[Riepiloghi/Zamoraz/Sessione 10]]

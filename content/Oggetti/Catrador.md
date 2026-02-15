@@ -21,5 +21,5 @@ Secondo [[Murr]], il simbolo Y rappresenta Catrador[^2]. È collegato ai [[I Lib
 
 ## Fonti
 
-[^1]: [[Recap Sessione 4]]
-[^2]: [[Recap Sessione 9]]
+[^1]: [[Sessione 4]]
+[^2]: [[Riepiloghi/Zamoraz/Sessione 9]]

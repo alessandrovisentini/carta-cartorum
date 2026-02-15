@@ -37,8 +37,8 @@ Agiscono per conto di "LA VIA"[^1].
 
 ## Fonti
 
-[^1]: [[Recap Sessione 8]]
-[^2]: [[Recap Sessione 9]]
-[^3]: [[Recap Sessione 5]]
-[^4]: [[Recap Sessione 1]]
-[^5]: [[Sessione 15]]
+[^1]: [[Riepiloghi/Zamoraz/Sessione 8]]
+[^2]: [[Riepiloghi/Zamoraz/Sessione 9]]
+[^3]: [[Riepiloghi/Zamoraz/Sessione 5]]
+[^4]: [[Sessione 1]]
+[^5]: [[Sessioni/Sessione 15]]
