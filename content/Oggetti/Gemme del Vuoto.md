@@ -20,6 +20,7 @@ Le Gemme del Vuoto sono gemme speciali che [[Ignemir]] conosce[^1]. Proprietà:
 
 - **Gemme normali** - Intorno all'acquario di [[Murr]][^1]
 - **Gemma caricata di rosso** - Nel faro sul [[Megadon]], instabile[^2]
+- **Gemma del vuoto scarica** - Trovata tra gli strumenti distrutti nella stanza di [[Awen Seife]] dopo l'esplosione[^3]
 
 ---
 
@@ -27,3 +28,4 @@ Le Gemme del Vuoto sono gemme speciali che [[Ignemir]] conosce[^1]. Proprietà:
 
 [^1]: [[Riepiloghi/Zamoraz/Sessione 9]]
 [^2]: [[Riepiloghi/Zamoraz/Sessione 14]]
+[^3]: [[Riepiloghi/Zamoraz/Sessione 17]]

@@ -21,6 +21,7 @@ Zamoraz è un ranger del gruppo, spesso scelto come guida designata per le spedi
 - **Sessione 10**: Guida la spedizione al [[Vulcano]][^5]. Tiene l'[[Ancora Spaziale]] nella sua giacca[^5].
 - **Sessione 12**: Guida il gruppo di soccorso alla [[Fontana]] nella bufera[^6]. Ottiene la [[Scimitarra del Gelo Eterno]][^6].
 - **Sessione 14**: Turbato dalla possibile rottura del patto con i [[Argan e Asbad|Geni del Fuoco]][^7]. Accompagna [[Eric]] e [[Vanya]] al [[Megadon]][^7]. Costruisce rifugi nella neve ogni sera[^7]. Durante il turno di guardia avvista un **cavaliere della Caccia Selvaggia**: creatura con armatura, maschera, elmo con pennacchio di ghiaccio, che cavalca un lupo di ghiaccio[^7].
+- **Sessione 17**: Pulisce il vomito di [[Eric]] al bar[^8]. La cassa dice nella sua testa che lui ha già visto "il Rosso"[^8]. Cura Eric con la magia dopo l'esplosione nella stanza di [[Awen Seife]][^9]. Il suo taccuino riporta che l'origine della gelatite è collegata a [[Viredesh]][^9]. Offre la sua stanza a [[Bran Lapillo]] per Awen e dorme nella stanza distrutta[^9].
 
 ## Equipaggiamento
 
@@ -37,3 +38,5 @@ Zamoraz è un ranger del gruppo, spesso scelto come guida designata per le spedi
 [^5]: [[Riepiloghi/Zamoraz/Sessione 10]]
 [^6]: [[Riepiloghi/Zamoraz/Sessione 12]]
 [^7]: [[Riepiloghi/Zamoraz/Sessione 14]]
+[^8]: [[Riepiloghi/Ignemir/Sessione 17]]
+[^9]: [[Riepiloghi/Zamoraz/Sessione 17]]

@@ -37,6 +37,7 @@ Stavano trasportando team di scavo, recupero e restauro delle antichità sotterr
 - **Sessione 14**: Organizzano una spedizione al Megadon per raccogliere sangue più puro[^5]. Usano un bastone con liquido verde e cristallo di [[Gemme di Gelatite|gelatite]] che crea energia elettrostatica[^5].
 - **Sessione 15**: [[Luciano]] rivela ad [[Awen Seife]] che una sua statua si è mossa e saltata in un pilastro[^6].
 - **Sessione 16**: [[Eric]] entra nella Rivalsa con l'aiuto di [[Gimbo]][^7]. L'entrata è uno dei grandi oblò, con tubi attraverso cui scorrono diversi tipi di energia e un ascensore con grate[^7]. Tutti i membri stanno facendo ricerca sul sangue di [[Megadon]] e non c'è possibilità di ottenerne altro[^7].
+- **Sessione 17**: Hanno mandato ad [[Awen Seife]] una lettera di scuse e gli attrezzi recuperati, tutti tranne un piccolo martello in argento[^8]. I fratelli capitani avevano regalato il martello ad Awen anni fa[^8]. [[Luciano]] ha rivelato a [[Vanya]] che sulla Rivalsa c'è un portale che inghiotte qualsiasi cosa, nel luogo dove i manovali vanno a pisciare[^9].
 
 ---
 
@@ -49,3 +50,5 @@ Stavano trasportando team di scavo, recupero e restauro delle antichità sotterr
 [^5]: [[Riepiloghi/Zamoraz/Sessione 14]]
 [^6]: [[Sessioni/Sessione 15]]
 [^7]: [[Riepiloghi/Ignemir/Sessione 16]]
+[^8]: [[Riepiloghi/Zamoraz/Sessione 17]]
+[^9]: [[Riepiloghi/Opalix/Sessione 17]]

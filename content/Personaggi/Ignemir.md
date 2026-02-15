@@ -25,6 +25,7 @@ Ignemir Valmorad è un tiefling che era con la [[Furia di Cernunnos]] ma non si 
 - **Sessione 12**: Intrappolato nella [[Fontana]] durante l'[[Attacco della Caccia Selvaggia]][^7].
 - **Sessione 13**: Attiva l'[[Ancora Spaziale]] con la parola "Merla Vulpercarico"[^8]. Rivela di aver trovato la fiala (rotta) che i Giganti avevano creato per i Geni[^8]. La sua alabarda **Erelyth** viene risvegliata da [[Ocecot Oven]][^8].
 - **Sessione 16**: Sembra turbato dal ritorno dal [[Vulcano]], dorme poco e medita in presenza dell'alabarda[^9]. Ha sogni ricorrenti con un tempio votivo in fiamme e piccole voci che chiedono aiuto[^9]. Durante il combattimento contro la [[Caccia Originale]], cade privo di sensi e sente una voce sussurrare "Fidati..."[^9]. Fiamme di fuoco fatuo lo avvolgono e da esse emerge [[La Chierica Misteriosa]][^9]. Di Ignemir non rimane nulla, ma il giorno dopo torna al villaggio con i compagni[^9]. Dona la spada lunga in nerivium a [[Vailendel]][^9].
+- **Sessione 17**: Rientra dalla palude sconvolto, getta le pagine del suo diario su un tavolo ed esce subito senza proferire parola, poi va a letto[^10].
 
 ## Equipaggiamento
 
@@ -45,3 +46,4 @@ Ignemir Valmorad è un tiefling che era con la [[Furia di Cernunnos]] ma non si 
 [^7]: [[Riepiloghi/Zamoraz/Sessione 12]]
 [^8]: [[Riepiloghi/Zamoraz/Sessione 13]]
 [^9]: [[Riepiloghi/Ignemir/Sessione 16]]
+[^10]: [[Riepiloghi/Opalix/Sessione 17]]

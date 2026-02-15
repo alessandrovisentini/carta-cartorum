@@ -38,6 +38,7 @@ Quattro ponti/livelli:[^2]
 - **Sessione 6**: Il gruppo visita l'avamposto sul [[Vulcano]] scoprendo le miniere di pietra nera[^4].
 - **Sessione 10**: [[Dordord]] rivela che [[Tiriano il Saggio]] è sempre al [[Megadon]] a studiare la [[Madre di tutte le vedove]][^5].
 - **Sessione 13**: Il gruppo trova casse della Furia piene di [[Neridium]] nella fortezza dei Giganti[^6].
+- **Sessione 17**: All'interno della Furia ci sono attriti tra persone di alto lignaggio[^7]. Un gruppo non legato a [[Uruan]] né al gruppo altolocato sta organizzando spedizioni verso il [[Megadon]] o verso l'ultima posizione nota di [[Tiriano il Saggio|Tiriano]] e [[Valente]][^7]. L'unico orefice della Furia fa parte del gruppo altolocato[^7].
 
 ---
 
@@ -49,3 +50,4 @@ Quattro ponti/livelli:[^2]
 [^4]: [[Riepiloghi/Zamoraz/Sessione 6]]
 [^5]: [[Riepiloghi/Zamoraz/Sessione 10]]
 [^6]: [[Riepiloghi/Zamoraz/Sessione 13]]
+[^7]: [[Riepiloghi/Ignemir/Sessione 17]]

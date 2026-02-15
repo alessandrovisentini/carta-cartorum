@@ -70,6 +70,7 @@ Secondo [[Odar Brandibirra]], in passato la gente lasciava offerte alle fate per
 - **Sessione 14**: [[Zamoraz]] incontra un cavaliere della Caccia vicino alla città sul [[Megadon]]: creatura con armatura, maschera, elmo con pennacchio di ghiaccio, che cavalca un lupo di ghiaccio[^4].
 - **Sessione 15**: [[Odar Brandibirra]] spiega la vera natura della Caccia: "memoria e rispetto"[^3].
 - **Sessione 16**: [[Eric]] scopre l'esistenza della [[Caccia Originale]] guidata da [[Viredesh]][^7]. Il gruppo attira la Caccia bruciando sangue di [[Megadon]] vicino a un pilastro[^7]. Vengono attaccati da lupi bianchi colossali e scheletri taurini in gelatite[^7].
+- **Sessione 17**: Viene chiarito che le creature di gelatite sono non-morte (con energia di necromanzia), mentre i lupi bianchi sono evocati e si sciolgono[^8]. La gelatite potrebbe essere collegata a [[Viredesh]][^8].
 
 ---
 
@@ -82,3 +83,4 @@ Secondo [[Odar Brandibirra]], in passato la gente lasciava offerte alle fate per
 [^5]: [[Riepiloghi/Zamoraz/Sessione 13]]
 [^6]: [[Riepiloghi/Zamoraz/Sessione 12]]
 [^7]: [[Riepiloghi/Ignemir/Sessione 16]]
+[^8]: [[Riepiloghi/Ignemir/Sessione 17]]

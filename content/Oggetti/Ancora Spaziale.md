@@ -19,6 +19,10 @@ Si attiva con la parola chiave "Merla Vulpercarico"[^2].
 
 - **Sessione 13**: [[Ignemir]] la attiva con la parola segreta per teletrasportare il gruppo nel [[Vulcano]][^2]. Dopo aver confessato tutto al [[Clan Oven|Re Tregron Oven]], [[Pagrax]] cede l'ancora al re[^4].
 
+## Situazione Attuale
+
+Il gruppo possiede 3 ancore in totale: una sola è stabilizzata, le altre 2 sono ancora rischiose da usare[^5]. [[Vailendel]] propone di trovare modi per stabilizzare anche le altre due, per muoversi più facilmente[^5].
+
 ## Il Patto coi Geni
 
 I [[Geni del Fuoco]] hanno modificato l'ancora in cambio di un patto[^3]:
@@ -34,3 +38,4 @@ I [[Geni del Fuoco]] hanno modificato l'ancora in cambio di un patto[^3]:
 [^2]: [[Riepiloghi/Zamoraz/Sessione 13]]
 [^3]: [[Riepiloghi/Zamoraz/Sessione 10]]
 [^4]: [[Riepiloghi/Zamoraz/Sessione 13]]
+[^5]: [[Riepiloghi/Opalix/Sessione 17]]

@@ -11,7 +11,7 @@
 
 I Geni del Fuoco sono creature ibride della Corte Elementale, in contatto con angeli e demoni[^1]. Hanno un potere superiore rispetto agli altri geni e sono ancora più vincolati a leggi e patti[^1]. Perseguono una vocazione artistica e andare contro il loro concetto di bello/arte va immensamente contro le loro persone[^2].
 
-È molto raro vedere due geni assieme[^2].
+È molto raro vedere due geni assieme[^2]. [[Vailendel]] propone la teoria che Argan e Asbad siano in realtà un unico genio appassionato di teatro: la prima volta si sono manifestati come drappi rossi a forma di bocche parlanti, richiamando le tende rosse di un sipario[^5].
 
 ## Regole dei Patti
 
@@ -34,3 +34,4 @@ I Geni del Fuoco hanno un antico conflitto con il [[Clan Oven]][^3]. In passato 
 [^2]: [[Riepiloghi/Zamoraz/Sessione 13]]
 [^3]: [[Riepiloghi/Zamoraz/Sessione 13]]
 [^4]: [[Riepiloghi/Zamoraz/Sessione 13]]
+[^5]: [[Riepiloghi/Ignemir/Sessione 17]]

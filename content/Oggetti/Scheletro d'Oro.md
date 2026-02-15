@@ -11,6 +11,8 @@
 
 Scheletro d'oro di [[Uomini Serpente|uomo serpente]] con volto rettile, tre braccia e coda[^1]. Consegnato dalla cassa a Eric con le parole: "Questo dovrebbe darti gli strumenti per chiudere il capitolo di questa deriva, questa maledizione. Io ho necessità che queste creature cessino di esistere."[^1]
 
+La parte in oro è un involucro che contiene una maledizione (la stessa per tutto lo scheletro)[^3]. Il serpente contro cui il gruppo ha combattuto, quando è morto, è stato circondato da bende come una mummia[^3].
+
 ## Utilizzo
 
 Eric può usare il teschio dello scheletro per evocare creature[^2].
@@ -36,3 +38,4 @@ Il teschio può anche evocare una cortina di fumo che si trasforma in un serpent
 
 [^1]: [[Riepiloghi/Zamoraz/Sessione 14]]
 [^2]: [[Riepiloghi/Ignemir/Sessione 16]]
+[^3]: [[Riepiloghi/Zamoraz/Sessione 17]]

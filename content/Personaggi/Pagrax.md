@@ -18,6 +18,11 @@ Pagrax è un membro del gruppo con conoscenze sulla [[Caccia Selvaggia]] e capac
 - **Sessione 12**: Parte nel gruppo di soccorso alla [[Fontana]][^4].
 - **Sessione 13**: Guida la spedizione al [[Vulcano]] attraverso l'[[Ancora Spaziale]][^5]. Tocca lo scudo dell'Annunciatoio e si ferisce[^5]. Confessa il patto con i [[Argan e Asbad|Geni del Fuoco]] a [[Clan Oven|Re Tregron Oven]][^5]. Cede l'ancora al re[^5]. Prende una forchetta in [[Neridium]][^5]. **Evento misterioso**: avvicina una spada in Neridium al proprio occhio e la assorbe senza rendersene conto[^5].
 - **Sessione 15**: Fa il barista a [[La Rocca dei Conflitti]][^6]. Un aasimar gli trasmette visioni di creature meccaniche simili a fate costruite con sangue di [[Megadon]][^6].
+- **Sessione 17**: Riconosce il circolo di divinazione nella stanza di [[Awen Seife]] dopo l'esplosione[^7]. Chiede ad Awen della statua e di [[Lysantir Seife]][^7]. Riceve la cassa da [[Eric]], che lo ritiene l'unico abbastanza potente da resistere alla sua influenza[^8]. Dietro il focus arcano nell'occhio vuoto di Pagrax, Eric vede una faccetta sorridente fatta di lucine[^8]. Supervisiona la cerimonia lunare di Eric[^8].
+
+## Natura del Potere
+
+L'origine del potere di Pagrax è mista (druido + warlock) e innaturale[^8]. Eric non riesce a collegarlo a nessun credo conosciuto[^8]. Ha una cavità oculare vuota da cui vede senza problemi[^8].
 
 ## Note
 
@@ -33,3 +38,5 @@ Pagrax è un membro del gruppo con conoscenze sulla [[Caccia Selvaggia]] e capac
 [^4]: [[Riepiloghi/Zamoraz/Sessione 12]]
 [^5]: [[Riepiloghi/Zamoraz/Sessione 13]]
 [^6]: [[Sessioni/Sessione 15]]
+[^7]: [[Riepiloghi/Zamoraz/Sessione 17]]
+[^8]: [[Riepiloghi/Ignemir/Sessione 17]]

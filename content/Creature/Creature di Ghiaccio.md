@@ -15,6 +15,8 @@ Le Creature di Ghiaccio sono manifestazioni della [[Caccia Selvaggia]], creature
 
 Non hanno orecchie, a differenza dei [[Mastini dalle Orecchie Rosse]] normalmente associati alla Caccia[^1].
 
+Le creature scheletriche di gelatite sono creature non-morte: [[Fryolin]] e [[Eric]] rilevano energie di necromanzia provenienti da esse[^3]. I lupi bianchi invece NON sono bestie di gelatite: sono evocati e si sciolgono quando sconfitti, a differenza delle creature di gelatite che rimangono[^3].
+
 ## Storia nelle Sessioni
 
 - **Sessione 12**: Il gruppo le trova alla [[Fontana]] mentre raschiano e si muovono in vari punti[^1]. [[Fryolin]], che ha partecipato alla Caccia Selvaggia in passato, non le ha mai viste[^1]. Il gruppo le combatte con l'aiuto di [[Vanya]] e [[Bran Lapillo]][^1].
@@ -35,3 +37,4 @@ Dai loro corpi si ricavano[^1]:
 
 [^1]: [[Riepiloghi/Zamoraz/Sessione 12]]
 [^2]: [[Riepiloghi/Ignemir/Sessione 16]]
+[^3]: [[Riepiloghi/Ignemir/Sessione 17]]

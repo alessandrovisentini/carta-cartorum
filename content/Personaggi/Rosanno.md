@@ -18,6 +18,7 @@ Rosanno è un guerriero del gruppo, esperto in combattimento[^1]. Ha una pistola
 - **Sessione 10**: Lancia sporcizia per testare il muro invisibile[^4]. Prova a bruciare le tende del [[Palazzo dei Genii]][^4]. Viene colpito dallo spillo d'oro per il patto[^4].
 - **Sessione 12**: Parte nel gruppo di soccorso alla [[Fontana]][^5].
 - **Sessione 15**: Cucina a [[La Rocca dei Conflitti]] insieme a [[Zamoraz]][^6].
+- **Sessione 17**: Menziona un amico di nome **Hegel**[^7]. Aiuta a mettere a posto la stanza di [[Awen Seife]] dopo l'esplosione[^8].
 
 ---
 
@@ -29,3 +30,5 @@ Rosanno è un guerriero del gruppo, esperto in combattimento[^1]. Ha una pistola
 [^4]: [[Riepiloghi/Zamoraz/Sessione 10]]
 [^5]: [[Riepiloghi/Zamoraz/Sessione 12]]
 [^6]: [[Sessioni/Sessione 15]]
+[^7]: [[Riepiloghi/Ignemir/Sessione 17]]
+[^8]: [[Riepiloghi/Zamoraz/Sessione 17]]

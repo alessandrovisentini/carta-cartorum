@@ -9,7 +9,7 @@
 
 Le Gemme di Gelatite sono gemme speciali che si trovano all'interno delle [[Creature di Ghiaccio]] della [[Caccia Selvaggia]][^1].
 
-La [[Rivalsa]] stava viaggiando verso un nuovo sito di ricerca sulla gelatite prima del naufragio[^2].
+La [[Rivalsa]] stava viaggiando verso un nuovo sito di ricerca sulla gelatite prima del naufragio[^2]. Secondo il taccuino di [[Zamoraz]], l'origine della gelatite è connessa a [[Viredesh]][^4].
 
 ## Storia nelle Sessioni
 
@@ -23,3 +23,4 @@ La [[Rivalsa]] stava viaggiando verso un nuovo sito di ricerca sulla gelatite pr
 [^1]: [[Riepiloghi/Zamoraz/Sessione 12]]
 [^2]: [[Introduzione]]
 [^3]: [[Riepiloghi/Zamoraz/Sessione 14]]
+[^4]: [[Riepiloghi/Zamoraz/Sessione 17]]

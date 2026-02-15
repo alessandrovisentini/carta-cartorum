@@ -26,6 +26,7 @@ Ha fatto un patto con **Ilev Saaj**, la dea delle frodi[^3]. Porta un anello che
 - **Sessione 11**: Terrorizzata quando [[Hoot]] sbuca nella foresta[^6].
 - **Sessione 12**: Intrappolata nella [[Fontana]], esce e aiuta nel combattimento contro le [[Creature di Ghiaccio]][^7].
 - **Sessione 14**: Parla con [[Luciano]] che le racconta la sua storia[^8]. Accompagna [[Eric]] e [[Zamoraz]] al [[Megadon]][^8]. Esplora il faro con Eric[^8].
+- **Sessione 17**: Cerca orefici in giro per il villaggio: sulla [[Rivalsa]] ci sono persone che sanno lavorare le pietre[^9]. Il suo anello, appoggiato alla cassa di [[Eric]], la trasforma in uno specchio/disco fluttuante[^9]. L'anello posto sopra la Y della pergamena la fa illuminare[^9]. Nella stanza di [[Awen Seife]] trova strumenti distrutti e una [[Gemme del Vuoto|gemma del vuoto]] scarica[^10].
 
 ---
 
@@ -39,3 +40,5 @@ Ha fatto un patto con **Ilev Saaj**, la dea delle frodi[^3]. Porta un anello che
 [^6]: [[Riepiloghi/Zamoraz/Sessione 11]]
 [^7]: [[Riepiloghi/Zamoraz/Sessione 12]]
 [^8]: [[Riepiloghi/Zamoraz/Sessione 14]]
+[^9]: [[Riepiloghi/Ignemir/Sessione 17]]
+[^10]: [[Riepiloghi/Zamoraz/Sessione 17]]

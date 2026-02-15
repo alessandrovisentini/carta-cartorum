@@ -62,6 +62,7 @@ La Rocca dei Conflitti è il bar costruito dal gruppo di avventurieri sul [[Il L
 ## Storia nelle Sessioni
 
 - **Sessione 16**: Il bar è aperto da un po'[^2]. [[Awen Seife]] è rimasta in camera sua per diversi giorni dopo l'inaugurazione[^2].
+- **Sessione 17**: Il gruppo si riunisce al bar per condividere informazioni[^3]. Un tè di fungo allucinogeno ed erbe invernali acuisce l'ingegno dei presenti[^3]. Esplosione nella stanza di [[Awen Seife]] causa danni a chi è nelle vicinanze[^3].
 
 ---
 
@@ -69,3 +70,4 @@ La Rocca dei Conflitti è il bar costruito dal gruppo di avventurieri sul [[Il L
 
 [^1]: [[Sessioni/Sessione 15]]
 [^2]: [[Riepiloghi/Ignemir/Sessione 16]]
+[^3]: [[Riepiloghi/Opalix/Sessione 17]]

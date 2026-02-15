@@ -38,6 +38,7 @@ La pietra dei pilastri può essere scalfita solo dal cuneo di [[Awen Seife]][^5]
 - Materiali da costruzione trovati sull'isola si degradano e distorcono
 - I pezzi nativi delle navi rimangono stabili
 - Stelle strane e foschia perenne nel cielo
+- Persone non legate alle tre navi risultano scomparse: si sono mosse volontariamente nel mare di nebbia[^7]. Alcuni nella [[Furia di Cernunnos]] si sono spinti nella foresta e hanno trovato strani simboli[^7]
 
 ---
 
@@ -49,3 +50,4 @@ La pietra dei pilastri può essere scalfita solo dal cuneo di [[Awen Seife]][^5]
 [^4]: [[Riepiloghi/Zamoraz/Sessione 8]]
 [^5]: [[Sessione 7]]
 [^6]: [[Sessioni/Sessione 15]]
+[^7]: [[Riepiloghi/Ignemir/Sessione 17]]
