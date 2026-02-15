@@ -4,6 +4,8 @@ socialImage: group.png
 
 # Carta Iniziorum
 
+![Il Gruppo](/img/group.png)
+
 - [Creature](./Creature/)
 - [Eventi](./Eventi/)
 - [Fazioni](./Fazioni/)
