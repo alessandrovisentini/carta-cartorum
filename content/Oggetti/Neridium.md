@@ -32,7 +32,7 @@ Il Neridium è una lega metallica rara con molte proprietà speciali, la princip
 
 ## Creazione
 
-Il Neridium viene creato, non estratto naturalmente[^1]. I [[Giganti del Fuoco]] sono i creatori di questo materiale[^2].
+Il Neridium viene creato, non estratto naturalmente[^1]. I Giganti del Fuoco sono i creatori di questo materiale[^2].
 
 Secondo [[Vanya]], la sua famiglia ha ricevuto del Neridium in dono da dei giganti[^1].
 

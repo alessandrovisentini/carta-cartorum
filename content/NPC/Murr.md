@@ -10,7 +10,7 @@
 
 Murr è un genio dell'acqua imprigionato in un grande cilindro/acquario (circa 20m di diametro, 10m di altezza) nel palazzo sotterraneo sotto la [[Fontana]][^1]. L'acqua nella teca è torbida e Murr appare come un volto liquefatto che fluttua all'interno[^1]. Dice di essere "dappertutto dentro questa teca"[^1].
 
-È stato rinchiuso da qualcuno il cui nome è magicamente censurato - quando cerca di pronunciarlo si sente un suono stridulo, una voce sovrastata da un ruggito mostruoso[^1]. Rinchiuso da centinaia di anni[^1]. I suoi simili vivono nel [[Palazzo Zaffiro]] nella [[I Regni Fatati|Corte Elementale]][^1].
+È stato rinchiuso da qualcuno il cui nome è magicamente censurato - quando cerca di pronunciarlo si sente un suono stridulo, una voce sovrastata da un ruggito mostruoso[^1]. Rinchiuso da centinaia di anni[^1]. I suoi simili vivono nel Palazzo Zaffiro nella [[I Regni Fatati|Corte Elementale]][^1].
 
 ## Il Patto con i Liberi
 

@@ -2,7 +2,7 @@
 
 |          |                                      |
 | -------- | ------------------------------------ |
-| Tipo     | Ex-areonave del culto di [[Mefisto]] |
+| Tipo     | Ex-areonave del culto di Mefisto |
 | Capitani | [[Zagres]], [[Dork Lork]]            |
 | Prima Apparizione | [[Timeline/Timeline|Sessione 01]]         |
 

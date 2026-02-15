@@ -18,7 +18,7 @@ Stavano trasportando team di scavo, recupero e restauro delle antichità sotterr
 - 3 navi con professori, studenti e "sentinelle" pesantemente armate con armi da fuoco e cilindri elettrici[^1]
 - [[Prof De Brunjes]] - Esperto dei pilastri[^2]
 - [[Luciano]] - Membro disponibile ad aiutare nelle spedizioni[^2]
-- [[Jennifer Yen]], [[Vito]], [[Lorri]], [[Stefi]] - Altri membri[^2]
+- Jennifer Yen, Vito, Lorri, Stefi - Altri membri[^2]
 - [[Gimbo]] - Ragazzo di 14 anni che fa da intermediario[^7]
 - [[Il Vecchio]] - Orco che custodisce le scorte di sangue di Megadon[^7]
 
