@@ -4,7 +4,7 @@
 | ----------------- | -------------------- |
 | Tipo              | Luogo geografico     |
 | Posizione         | Est del Litorale     |
-| Prima Menzione    | [[Sessione 01]]      |
+| Prima Menzione    | [[Timeline/Timeline|Sessione 01]]      |
 
 ## Descrizione
 
@@ -39,7 +39,7 @@ Nascosto nelle caverne c'è il [[Palazzo dei Genii]], dove risiedono [[Argan e A
 
 ## Fonti
 
-[^1]: [[Sessione 1]]
+[^1]: [[Timeline/Timeline|Sessione 01]]
 [^2]: [[Riepiloghi/Zamoraz/Sessione 6]]
 [^3]: [[Riepiloghi/Zamoraz/Sessione 10]]
 [^4]: [[Riepiloghi/Zamoraz/Sessione 13]]

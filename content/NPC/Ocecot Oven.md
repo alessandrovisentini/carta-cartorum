@@ -5,7 +5,7 @@
 | Specie            | Gigante del Fuoco     |
 | Ruolo             | Figlio del Re         |
 | Affiliazione      | [[Clan Oven]]         |
-| Prima Apparizione | [[Sessioni/Sessione 13]]       |
+| Prima Apparizione | [[Timeline/Timeline|Sessione 13]]       |
 
 ## Descrizione
 

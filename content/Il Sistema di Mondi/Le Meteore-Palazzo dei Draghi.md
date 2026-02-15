@@ -3,7 +3,7 @@
 |                   |                      |
 | ----------------- | -------------------- |
 | Tipo              | Piano d'esistenza    |
-| Prima Menzione    | [[Sessione 01]]      |
+| Prima Menzione    | [[Timeline/Timeline|Sessione 01]]      |
 
 ## Descrizione
 

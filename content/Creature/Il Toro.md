@@ -6,7 +6,7 @@
 | Altro Nome        | La Rovina di Roken         |
 | Status            | Imprigionato               |
 | Luogo             | [[Vulcano]] (fortezza)     |
-| Prima Menzione    | [[Sessioni/Sessione 10]]            |
+| Prima Menzione    | [[Timeline/Timeline|Sessione 10]]            |
 
 ## Descrizione
 

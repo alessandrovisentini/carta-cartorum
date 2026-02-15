@@ -4,7 +4,7 @@
 | ----------------- | -------------------------- |
 | Tipo              | Entità/Simbolo misterioso  |
 | Simbolo           | Y                          |
-| Prima Menzione    | [[Sessione 04]]            |
+| Prima Menzione    | [[Timeline/Timeline|Sessione 04]]            |
 
 ## Descrizione
 
@@ -33,7 +33,7 @@ La cassa di [[Eric]] conferma che Catrador "è un titolo perso nel tempo. Un tit
 
 ## Fonti
 
-[^1]: [[Sessione 4]]
+[^1]: [[Timeline/Timeline|Sessione 04]]
 [^2]: [[Riepiloghi/Zamoraz/Sessione 9]]
 [^3]: [[Riepiloghi/Zamoraz/Sessione 17]]
 [^4]: [[Riepiloghi/Ignemir/Sessione 17]]

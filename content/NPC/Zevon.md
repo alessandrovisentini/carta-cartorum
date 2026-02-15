@@ -6,7 +6,7 @@
 | Ruolo             | Sacerdote                  |
 | Affiliazione      | [[Maledizione di Mefisto]] |
 | Status            | Deceduto                   |
-| Prima Apparizione | [[Sessione 05]]            |
+| Prima Apparizione | [[Timeline/Timeline|Sessione 05]]            |
 
 ## Descrizione
 

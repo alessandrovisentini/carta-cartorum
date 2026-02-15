@@ -4,7 +4,7 @@
 | ----------------- | -------------------- |
 | Tipo              | Struttura antica     |
 | Luogo             | Foresta              |
-| Prima Apparizione | [[Sessione 05]]      |
+| Prima Apparizione | [[Timeline/Timeline|Sessione 05]]      |
 
 ## Descrizione
 

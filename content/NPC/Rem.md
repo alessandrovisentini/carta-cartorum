@@ -5,7 +5,7 @@
 | Specie            | Ragno                |
 | Ruolo             | Cercatore            |
 | Affiliazione      | [[I Liberi]]         |
-| Prima Apparizione | [[Sessione 08]]      |
+| Prima Apparizione | [[Timeline/Timeline|Sessione 08]]      |
 
 ## Descrizione
 

@@ -3,7 +3,7 @@
 |                   |                       |
 | ----------------- | --------------------- |
 | Tipo              | Patto magico          |
-| Sessione          | [[Sessioni/Sessione 10]]       |
+| Sessione          | [[Timeline/Timeline|Sessione 10]]       |
 | Parti coinvolte   | Gruppo, [[Argan e Asbad]] |
 
 ## Descrizione

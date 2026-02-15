@@ -5,7 +5,7 @@
 | Tipo              | Scavatrice delle profondità                 |
 | Istituzione       | Università magica delle Sentinelle Brune    |
 | Capitani          | [[Queloin Tarasson]] e [[Loinque Tarasson]] |
-| Prima Apparizione | [[Sessione 01]]                             |
+| Prima Apparizione | [[Timeline/Timeline|Sessione 01]]                             |
 
 ## Descrizione
 
@@ -44,11 +44,11 @@ Stavano trasportando team di scavo, recupero e restauro delle antichità sotterr
 ## Fonti
 
 [^1]: [[Introduzione]]
-[^2]: [[Sessione 4]]
-[^3]: [[Sessione 1]]
+[^2]: [[Timeline/Timeline|Sessione 04]]
+[^3]: [[Timeline/Timeline|Sessione 01]]
 [^4]: [[Riepiloghi/Zamoraz/Sessione 5]]
 [^5]: [[Riepiloghi/Zamoraz/Sessione 14]]
-[^6]: [[Sessioni/Sessione 15]]
+[^6]: [[Timeline/Timeline|Sessione 15]]
 [^7]: [[Riepiloghi/Ignemir/Sessione 16]]
 [^8]: [[Riepiloghi/Zamoraz/Sessione 17]]
 [^9]: [[Riepiloghi/Opalix/Sessione 17]]

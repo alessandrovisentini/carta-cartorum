@@ -5,7 +5,7 @@
 | Specie            | Gigante (cinghiale mannaro)|
 | Status            | Evaso                      |
 | Affiliazione      | [[I Liberi]] (alleato)     |
-| Prima Menzione    | [[Sessione 05]]            |
+| Prima Menzione    | [[Timeline/Timeline|Sessione 05]]            |
 
 ## Descrizione
 

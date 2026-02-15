@@ -4,7 +4,7 @@
 | ----------------- | ---------------------- |
 | Specie            | Elfa (alto lignaggio)  |
 | Collegamento      | [[Ignemir]]            |
-| Prima Apparizione | [[Sessioni/Sessione 16]]        |
+| Prima Apparizione | [[Timeline/Timeline|Sessione 16]]        |
 
 ## Descrizione
 

@@ -5,7 +5,7 @@
 |                   |                      |
 | ----------------- | -------------------- |
 | Tipo              | Personaggio Giocante |
-| Prima Apparizione | [[Sessione 04]]      |
+| Prima Apparizione | [[Timeline/Timeline|Sessione 04]]      |
 
 ## Descrizione
 
@@ -32,11 +32,11 @@ L'origine del potere di Pagrax è mista (druido + warlock) e innaturale[^8]. Eri
 
 ## Fonti
 
-[^1]: [[Sessione 4]]
+[^1]: [[Timeline/Timeline|Sessione 04]]
 [^2]: [[Riepiloghi/Zamoraz/Sessione 6]]
-[^3]: [[Sessione 7]]
+[^3]: [[Timeline/Timeline|Sessione 07]]
 [^4]: [[Riepiloghi/Zamoraz/Sessione 12]]
 [^5]: [[Riepiloghi/Zamoraz/Sessione 13]]
-[^6]: [[Sessioni/Sessione 15]]
+[^6]: [[Timeline/Timeline|Sessione 15]]
 [^7]: [[Riepiloghi/Zamoraz/Sessione 17]]
 [^8]: [[Riepiloghi/Ignemir/Sessione 17]]

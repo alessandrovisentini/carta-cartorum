@@ -4,7 +4,7 @@
 | ----------------- | -------------------------- |
 | Ruolo             | Fondatore delle [[Sentinelle Brune]] |
 | Discendenti       | [[Awen Seife]]             |
-| Prima Menzione    | [[Sessione 17]]            |
+| Prima Menzione    | [[Timeline/Timeline|Sessione 17]]            |
 
 ## Descrizione
 
@@ -19,4 +19,4 @@ Lysantir Seife è un avo di [[Awen Seife]] e uno dei fondatori delle [[Sentinell
 ## Fonti
 
 [^1]: [[Riepiloghi/Zamoraz/Sessione 17]]
-[^2]: [[Sessioni/Sessione 15]]
+[^2]: [[Timeline/Timeline|Sessione 15]]

@@ -4,7 +4,7 @@
 | ----------------- | -------------------- |
 | Tipo              | Creatura colossale   |
 | Status            | Morto                |
-| Prima Apparizione | [[Sessione 02]]      |
+| Prima Apparizione | [[Timeline/Timeline|Sessione 02]]      |
 
 ## Descrizione
 
@@ -60,7 +60,7 @@ Nella città secondaria c'è un faro[^5]:
 
 [^1]: [[Riepiloghi/Zamoraz/Sessione 2]]
 [^2]: [[Riepiloghi/Zamoraz/Sessione 5]]
-[^3]: [[Sessione 4]]
+[^3]: [[Timeline/Timeline|Sessione 04]]
 [^4]: [[Riepiloghi/Zamoraz/Sessione 14]]
 [^5]: [[Riepiloghi/Zamoraz/Sessione 14]]
 [^6]: [[Riepiloghi/Zamoraz/Sessione 8]]

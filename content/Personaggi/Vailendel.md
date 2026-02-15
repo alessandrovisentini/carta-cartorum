@@ -5,7 +5,7 @@
 |                   |                      |
 | ----------------- | -------------------- |
 | Tipo              | Personaggio Giocante |
-| Prima Apparizione | [[Sessione 02]]      |
+| Prima Apparizione | [[Timeline/Timeline|Sessione 02]]      |
 
 ## Descrizione
 
@@ -35,7 +35,7 @@ Vailendel è un membro del gruppo con abilità magiche, inclusa la lettura del p
 
 [^1]: [[Riepiloghi/Zamoraz/Sessione 9]]
 [^2]: [[Riepiloghi/Zamoraz/Sessione 2]]
-[^3]: [[Sessione 4]]
+[^3]: [[Timeline/Timeline|Sessione 04]]
 [^4]: [[Riepiloghi/Zamoraz/Sessione 5]]
 [^5]: [[Riepiloghi/Zamoraz/Sessione 6]]
 [^6]: [[Riepiloghi/Zamoraz/Sessione 10]]

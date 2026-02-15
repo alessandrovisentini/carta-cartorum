@@ -4,7 +4,7 @@
 | ----------------- | -------------------------- |
 | Specie            | Bambina Serpente           |
 | Luogo             | Città sul [[Megadon]]      |
-| Prima Apparizione | [[Sessioni/Sessione 14]]            |
+| Prima Apparizione | [[Timeline/Timeline|Sessione 14]]            |
 
 ## Descrizione
 

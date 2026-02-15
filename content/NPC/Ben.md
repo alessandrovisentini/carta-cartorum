@@ -4,7 +4,7 @@
 | ----------------- | ---------------------- |
 | Specie            | Centauro               |
 | Nave              | [[Furia di Cernunnos]] |
-| Prima Apparizione | [[Sessione 04]]        |
+| Prima Apparizione | [[Timeline/Timeline|Sessione 04]]        |
 
 ## Descrizione
 
@@ -19,5 +19,5 @@ Ben è un centauro membro dell'equipaggio della [[Furia di Cernunnos]][^1].
 
 ## Fonti
 
-[^1]: [[Sessione 4]]
+[^1]: [[Timeline/Timeline|Sessione 04]]
 [^2]: [[Riepiloghi/Zamoraz/Sessione 10]]

@@ -5,7 +5,7 @@
 | Specie            | Gigante del Fuoco     |
 | Titolo            | Re, "Sua Fiammità"    |
 | Affiliazione      | [[Clan Oven]]         |
-| Prima Apparizione | [[Sessioni/Sessione 13]]       |
+| Prima Apparizione | [[Timeline/Timeline|Sessione 13]]       |
 
 ## Descrizione
 

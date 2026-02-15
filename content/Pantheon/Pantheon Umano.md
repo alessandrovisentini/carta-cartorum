@@ -3,7 +3,7 @@
 |                   |                      |
 | ----------------- | -------------------- |
 | Tipo              | Pantheon religioso   |
-| Prima Menzione    | [[Sessione 01]]      |
+| Prima Menzione    | [[Timeline/Timeline|Sessione 01]]      |
 
 ## Divinità Maggiori
 

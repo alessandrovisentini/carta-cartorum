@@ -4,7 +4,7 @@
 | ----------------- | -------------------- |
 | Tipo              | Personaggio Giocante |
 | Religione         | [[Elunaui]]          |
-| Prima Apparizione | [[Sessione 04]]      |
+| Prima Apparizione | [[Timeline/Timeline|Sessione 04]]      |
 
 ## Descrizione
 
@@ -55,7 +55,7 @@ Eric può celebrare cerimonie religiose e parla la lingua dei serpenti senza ren
 ## Fonti
 
 [^1]: [[Riepiloghi/Zamoraz/Sessione 8]]
-[^2]: [[Sessione 4]]
+[^2]: [[Timeline/Timeline|Sessione 04]]
 [^3]: [[Riepiloghi/Zamoraz/Sessione 14]]
 [^4]: [[Riepiloghi/Ignemir/Sessione 16]]
 [^5]: [[Riepiloghi/Ignemir/Sessione 17]]

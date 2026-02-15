@@ -5,7 +5,7 @@
 | Specie            | Dragonide (cinghiale mannaro)|
 | Status            | Evasa                      |
 | Affiliazione      | [[I Liberi]] (alleata)     |
-| Prima Menzione    | [[Sessione 05]]            |
+| Prima Menzione    | [[Timeline/Timeline|Sessione 05]]            |
 
 ## Descrizione
 

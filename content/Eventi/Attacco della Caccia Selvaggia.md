@@ -3,7 +3,7 @@
 |                   |                       |
 | ----------------- | --------------------- |
 | Tipo              | Combattimento         |
-| Sessione          | [[Sessioni/Sessione 12]]       |
+| Sessione          | [[Timeline/Timeline|Sessione 12]]       |
 | Luogo             | [[Fontana]]           |
 
 ## Descrizione

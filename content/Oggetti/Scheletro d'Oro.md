@@ -5,7 +5,7 @@
 | Tipo              | Artefatto religioso  |
 | Origine           | La Cassa di Eric     |
 | Proprietario      | [[Eric]]             |
-| Prima Apparizione | [[Sessioni/Sessione 14]]      |
+| Prima Apparizione | [[Timeline/Timeline|Sessione 14]]      |
 
 ## Descrizione
 

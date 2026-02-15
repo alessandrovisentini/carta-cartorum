@@ -5,7 +5,7 @@
 | Tipo              | Umano                |
 | Età               | ~14 anni             |
 | Affiliazione      | [[Rivalsa]]          |
-| Prima Apparizione | [[Sessioni/Sessione 16]]      |
+| Prima Apparizione | [[Timeline/Timeline|Sessione 16]]      |
 
 ## Descrizione
 

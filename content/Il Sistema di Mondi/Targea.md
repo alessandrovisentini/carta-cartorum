@@ -3,7 +3,7 @@
 |                   |                      |
 | ----------------- | -------------------- |
 | Tipo              | Mondo                |
-| Prima Menzione    | [[Sessione 01]]      |
+| Prima Menzione    | [[Timeline/Timeline|Sessione 01]]      |
 
 ## Descrizione
 
@@ -26,4 +26,4 @@ Le stagioni sono gestite dalla [[I Regni Fatati|Corte Elementale]], quindi casin
 ## Fonti
 
 [^1]: [[Introduzione]]
-[^2]: [[Sessione 7]]
+[^2]: [[Timeline/Timeline|Sessione 07]]

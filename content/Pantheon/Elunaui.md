@@ -4,7 +4,7 @@
 | ----------------- | -------------------------- |
 | Tipo              | Divinità                   |
 | Dominio           | Luna                       |
-| Prima Menzione    | [[Sessione 08]]            |
+| Prima Menzione    | [[Timeline/Timeline|Sessione 08]]            |
 
 ## Descrizione
 

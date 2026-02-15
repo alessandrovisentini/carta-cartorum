@@ -8,7 +8,7 @@
 | Razza             | Tiefling               |
 | Famiglia          | Valmorad               |
 | Ex-Affiliazione   | [[Furia di Cernunnos]] |
-| Prima Apparizione | [[Sessione 02]]        |
+| Prima Apparizione | [[Timeline/Timeline|Sessione 02]]        |
 
 ## Descrizione
 

@@ -4,7 +4,7 @@
 | ----------------- | -------------------------- |
 | Tipo              | Organizzazione religiosa   |
 | Nave              | [[Maledizione di Mefisto]] |
-| Prima Menzione    | [[Sessione 01]]            |
+| Prima Menzione    | [[Timeline/Timeline|Sessione 01]]            |
 
 ## Descrizione
 
@@ -25,5 +25,5 @@ La Chiesa di Egleli è una chiesa considerata "buona", presente sulla [[Maledizi
 
 ## Fonti
 
-[^1]: [[Sessione 1]]
+[^1]: [[Timeline/Timeline|Sessione 01]]
 [^2]: [[Riepiloghi/Zamoraz/Sessione 5]]

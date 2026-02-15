@@ -3,7 +3,7 @@
 |                   |                      |
 | ----------------- | -------------------- |
 | Tipo              | Divinità varie       |
-| Prima Menzione    | [[Sessione 01]]      |
+| Prima Menzione    | [[Timeline/Timeline|Sessione 01]]      |
 
 ## Lorangarosch
 
@@ -76,4 +76,4 @@ Divinità della luna il cui culto è semiscomparso da secoli[^2]. I suoi compiti
 
 [^1]: [[Introduzione]]
 [^2]: [[Riepiloghi/Zamoraz/Sessione 14]]
-[^3]: [[Sessioni/Sessione 15]]
+[^3]: [[Timeline/Timeline|Sessione 15]]

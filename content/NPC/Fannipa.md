@@ -6,7 +6,7 @@
 | Ruolo             | Sacerdotessa               |
 | Luogo             | Città sul [[Megadon]]      |
 | Culto             | Luna Nera (Apophtosis)     |
-| Prima Apparizione | [[Sessioni/Sessione 14]]            |
+| Prima Apparizione | [[Timeline/Timeline|Sessione 14]]            |
 
 ## Descrizione
 

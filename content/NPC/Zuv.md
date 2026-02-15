@@ -5,7 +5,7 @@
 | Ruolo             | Capo dei ribelli           |
 | Status            | Prigioniero (volontario)   |
 | Luogo             | [[Maledizione di Mefisto]] |
-| Prima Menzione    | [[Sessione 05]]            |
+| Prima Menzione    | [[Timeline/Timeline|Sessione 05]]            |
 
 ## Descrizione
 

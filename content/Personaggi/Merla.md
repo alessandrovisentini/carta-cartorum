@@ -5,7 +5,7 @@
 | Tipo              | Personaggio Giocante |
 | Razza             | Halfling             |
 | Classe            | Bardo                |
-| Prima Apparizione | [[Sessione 01]]      |
+| Prima Apparizione | [[Timeline/Timeline|Sessione 01]]      |
 
 ## Descrizione
 
@@ -33,11 +33,11 @@ Merla è una halfling bardo del gruppo, dotata di grande carisma e abilità magi
 
 ## Fonti
 
-[^1]: [[Sessione 1]]
-[^2]: [[Sessione 4]]
+[^1]: [[Timeline/Timeline|Sessione 01]]
+[^2]: [[Timeline/Timeline|Sessione 04]]
 [^3]: [[Riepiloghi/Zamoraz/Sessione 2]]
-[^4]: [[Sessione 4]]
-[^5]: [[Sessione 7]]
+[^4]: [[Timeline/Timeline|Sessione 04]]
+[^5]: [[Timeline/Timeline|Sessione 07]]
 [^6]: [[Riepiloghi/Zamoraz/Sessione 12]]
 [^7]: [[Riepiloghi/Zamoraz/Sessione 13]]
-[^8]: [[Sessioni/Sessione 15]]
+[^8]: [[Timeline/Timeline|Sessione 15]]

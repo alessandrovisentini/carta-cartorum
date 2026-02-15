@@ -5,7 +5,7 @@
 | Tipo              | Arciduca fatato      |
 | Corte             | Corte Splendente     |
 | Ruolo             | Leader della Caccia  |
-| Prima Menzione    | [[Sessione 04]]      |
+| Prima Menzione    | [[Timeline/Timeline|Sessione 04]]      |
 
 ## Descrizione
 
@@ -22,4 +22,4 @@ La Caccia Selvaggia di Cernunnos è la caccia alle anime dannate come purga di c
 ## Fonti
 
 [^1]: [[Riepiloghi/Ignemir/Sessione 16]]
-[^2]: [[Sessione 4]]
+[^2]: [[Timeline/Timeline|Sessione 04]]

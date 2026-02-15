@@ -6,7 +6,7 @@
 | Ruolo       | Capitana                      |
 | Nave        | [[Rivalsa]]                   |
 | Professione | Ricercatrice delle profondità |
-| Prima Menzione | [[Sessione 01]]            |
+| Prima Menzione | [[Timeline/Timeline|Sessione 01]]            |
 
 ## Descrizione
 
@@ -23,6 +23,6 @@ Queloin Tarasson è una Attalwen (mezza elfa e mezza nana), capitana della [[Riv
 ## Fonti
 
 [^1]: [[Introduzione]]
-[^2]: [[Sessioni/Sessione 15]]
+[^2]: [[Timeline/Timeline|Sessione 15]]
 [^3]: [[Riepiloghi/Zamoraz/Sessione 5]]
 [^4]: [[Riepiloghi/Zamoraz/Sessione 17]]

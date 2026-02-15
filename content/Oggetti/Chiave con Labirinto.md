@@ -5,7 +5,7 @@
 | Tipo              | Artefatto magico           |
 | Proprietario      | [[Vanya]]                  |
 | Origine           | [[Tumba e Simon]]          |
-| Prima Apparizione | [[Sessione 05]]            |
+| Prima Apparizione | [[Timeline/Timeline|Sessione 05]]            |
 
 ## Descrizione
 

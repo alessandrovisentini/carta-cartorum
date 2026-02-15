@@ -4,7 +4,7 @@
 | ----------------- | ---------------------- |
 | Tipo              | Evento fatato          |
 | Periodo           | Inverno                |
-| Prima Menzione    | [[Sessione 04]]        |
+| Prima Menzione    | [[Timeline/Timeline|Sessione 04]]        |
 
 ## Descrizione
 
@@ -76,9 +76,9 @@ Secondo [[Odar Brandibirra]], in passato la gente lasciava offerte alle fate per
 
 ## Fonti
 
-[^1]: [[Sessione 4]]
-[^2]: [[Sessione 7]]
-[^3]: [[Sessioni/Sessione 15]]
+[^1]: [[Timeline/Timeline|Sessione 04]]
+[^2]: [[Timeline/Timeline|Sessione 07]]
+[^3]: [[Timeline/Timeline|Sessione 15]]
 [^4]: [[Riepiloghi/Zamoraz/Sessione 14]]
 [^5]: [[Riepiloghi/Zamoraz/Sessione 13]]
 [^6]: [[Riepiloghi/Zamoraz/Sessione 12]]

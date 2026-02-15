@@ -4,7 +4,7 @@
 | ----------------- | --------------------- |
 | Tipo              | Fiala magica          |
 | Status            | Spezzata              |
-| Prima Apparizione | [[Sessioni/Sessione 10]]       |
+| Prima Apparizione | [[Timeline/Timeline|Sessione 10]]       |
 
 ## Descrizione
 

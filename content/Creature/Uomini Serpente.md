@@ -4,7 +4,7 @@
 | ----------------- | -------------------- |
 | Tipo              | Umanoidi rettiliani  |
 | Luogo             | [[Megadon]]          |
-| Prima Apparizione | [[Sessione 04]]      |
+| Prima Apparizione | [[Timeline/Timeline|Sessione 04]]      |
 
 ## Descrizione
 
@@ -25,6 +25,6 @@ Gli Uomini Serpente venerano **Apophtosis**, la luna nera, che secondo il [[Prof
 
 ## Fonti
 
-[^1]: [[Sessione 4]]
+[^1]: [[Timeline/Timeline|Sessione 04]]
 [^2]: [[Riepiloghi/Zamoraz/Sessione 8]]
 [^3]: [[Riepiloghi/Zamoraz/Sessione 14]]

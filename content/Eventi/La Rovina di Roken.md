@@ -4,7 +4,7 @@
 | ----------------- | -------------------------- |
 | Tipo              | Evento storico             |
 | Coinvolti         | [[Clan Oven]], [[Il Toro]] |
-| Prima Menzione    | [[Sessioni/Sessione 13]]            |
+| Prima Menzione    | [[Timeline/Timeline|Sessione 13]]            |
 
 ## Descrizione
 

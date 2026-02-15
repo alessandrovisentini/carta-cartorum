@@ -6,7 +6,7 @@
 | ----------------- | -------------------- |
 | Tipo              | Personaggio Giocante |
 | Classe            | Stregone/Mago        |
-| Prima Apparizione | [[Sessione 01]]      |
+| Prima Apparizione | [[Timeline/Timeline|Sessione 01]]      |
 
 ## Descrizione
 
@@ -32,11 +32,11 @@ Ha fatto un patto con **Ilev Saaj**, la dea delle frodi[^3]. Porta un anello che
 
 ## Fonti
 
-[^1]: [[Sessione 1]]
+[^1]: [[Timeline/Timeline|Sessione 01]]
 [^2]: [[Riepiloghi/Zamoraz/Sessione 9]]
 [^3]: [[Riepiloghi/Zamoraz/Sessione 8]]
 [^4]: [[Riepiloghi/Zamoraz/Sessione 5]]
-[^5]: [[Sessione 7]]
+[^5]: [[Timeline/Timeline|Sessione 07]]
 [^6]: [[Riepiloghi/Zamoraz/Sessione 11]]
 [^7]: [[Riepiloghi/Zamoraz/Sessione 12]]
 [^8]: [[Riepiloghi/Zamoraz/Sessione 14]]

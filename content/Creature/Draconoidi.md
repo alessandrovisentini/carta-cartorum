@@ -4,7 +4,7 @@
 | ----------------- | --------------------- |
 | Tipo              | Creature sotterranee  |
 | Luogo             | Caverne del vulcano   |
-| Prima Apparizione | [[Sessioni/Sessione 10]]       |
+| Prima Apparizione | [[Timeline/Timeline|Sessione 10]]       |
 
 ## Descrizione
 

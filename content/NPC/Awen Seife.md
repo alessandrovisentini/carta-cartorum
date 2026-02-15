@@ -5,7 +5,7 @@
 | Specie            | Elfa                 |
 | Professione       | Scultrice, Artista   |
 | Affiliazione      | Ex-[[Rivalsa]]       |
-| Prima Apparizione | [[Sessione 01]]      |
+| Prima Apparizione | [[Timeline/Timeline|Sessione 01]]      |
 
 ## Descrizione
 
@@ -38,14 +38,14 @@ Awen sa che la parola "catrador" non piace alle fate[^11]. Ne aveva parlato da o
 
 ## Fonti
 
-[^1]: [[Sessione 1]]
-[^2]: [[Sessione 7]]
-[^3]: [[Sessione 4]]
+[^1]: [[Timeline/Timeline|Sessione 01]]
+[^2]: [[Timeline/Timeline|Sessione 07]]
+[^3]: [[Timeline/Timeline|Sessione 04]]
 [^4]: [[Riepiloghi/Zamoraz/Sessione 5]]
 [^5]: [[Riepiloghi/Zamoraz/Sessione 10]]
 [^6]: [[Riepiloghi/Zamoraz/Sessione 12]]
 [^7]: [[Riepiloghi/Zamoraz/Sessione 13]]
-[^8]: [[Sessioni/Sessione 15]]
+[^8]: [[Timeline/Timeline|Sessione 15]]
 [^9]: [[Riepiloghi/Ignemir/Sessione 16]]
 [^10]: [[Riepiloghi/Zamoraz/Sessione 17]]
 [^11]: [[Riepiloghi/Ignemir/Sessione 17]]

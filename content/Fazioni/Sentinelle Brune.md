@@ -5,7 +5,7 @@
 | Tipo              | Università magica          |
 | Fondatori         | [[Lysantir Seife]]         |
 | Nave              | [[Rivalsa]]                |
-| Prima Menzione    | [[Sessione 01]]            |
+| Prima Menzione    | [[Timeline/Timeline|Sessione 01]]            |
 
 ## Descrizione
 
@@ -22,5 +22,5 @@ Le Sentinelle Brune sono un'università magica specializzata nella ricerca delle
 ## Fonti
 
 [^1]: [[Introduzione]]
-[^2]: [[Sessione 4]]
+[^2]: [[Timeline/Timeline|Sessione 04]]
 [^3]: [[Riepiloghi/Zamoraz/Sessione 17]]

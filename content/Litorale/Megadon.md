@@ -4,7 +4,7 @@
 | ----------------- | -------------------------- |
 | Tipo              | Carcassa colossale         |
 | Posizione         | Ovest del Litorale         |
-| Prima Menzione    | [[Sessione 01]]            |
+| Prima Menzione    | [[Timeline/Timeline|Sessione 01]]            |
 
 ## Descrizione
 
@@ -39,8 +39,8 @@ Sulle rovine del Megadon c'è una città abitata dagli [[Uomini Serpente]][^2]. 
 
 ## Fonti
 
-[^1]: [[Sessione 1]]
-[^2]: [[Sessione 4]]
+[^1]: [[Timeline/Timeline|Sessione 01]]
+[^2]: [[Timeline/Timeline|Sessione 04]]
 [^3]: [[Riepiloghi/Zamoraz/Sessione 8]]
 [^4]: [[Riepiloghi/Zamoraz/Sessione 5]]
 [^5]: [[Riepiloghi/Zamoraz/Sessione 10]]

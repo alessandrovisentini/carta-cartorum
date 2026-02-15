@@ -5,7 +5,7 @@
 | Soprannome        | "Il Satiro"            |
 | Ruolo             | Luogotenente           |
 | Nave              | [[Furia di Cernunnos]] |
-| Prima Apparizione | [[Sessione 04]]        |
+| Prima Apparizione | [[Timeline/Timeline|Sessione 04]]        |
 
 ## Descrizione
 
@@ -23,4 +23,4 @@ Uruan è conosciuto come "il Satiro" ed è uno dei luogotenenti di [[Tiriano il 
 ## Fonti
 
 [^1]: [[Riepiloghi/Zamoraz/Sessione 6]]
-[^2]: [[Sessione 4]]
+[^2]: [[Timeline/Timeline|Sessione 04]]

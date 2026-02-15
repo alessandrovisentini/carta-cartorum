@@ -4,7 +4,7 @@
 | ----------------- | ---------------------- |
 | Titolo            | Condottiero, Capitano  |
 | Nave              | [[Furia di Cernunnos]] |
-| Prima Apparizione | [[Sessione 01]]        |
+| Prima Apparizione | [[Timeline/Timeline|Sessione 01]]        |
 
 ## Descrizione
 
@@ -31,10 +31,10 @@ Le Lance di Cernunnos sono coloro che non solo sono sopravvissuti alla Caccia Se
 
 ## Fonti
 
-[^1]: [[Sessione 4]]
+[^1]: [[Timeline/Timeline|Sessione 04]]
 [^2]: [[Riepiloghi/Zamoraz/Sessione 6]]
-[^3]: [[Sessione 1]]
-[^4]: [[Sessione 4]]
+[^3]: [[Timeline/Timeline|Sessione 01]]
+[^4]: [[Timeline/Timeline|Sessione 04]]
 [^5]: [[Riepiloghi/Zamoraz/Sessione 5]]
 [^6]: [[Riepiloghi/Zamoraz/Sessione 6]]
 [^7]: [[Riepiloghi/Zamoraz/Sessione 10]]

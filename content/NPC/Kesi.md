@@ -6,7 +6,7 @@
 | Ruolo             | Sacerdotessa               |
 | Affiliazione      | [[Maledizione di Mefisto]] |
 | Status            | Deceduta                   |
-| Prima Apparizione | [[Sessione 05]]            |
+| Prima Apparizione | [[Timeline/Timeline|Sessione 05]]            |
 
 ## Descrizione
 

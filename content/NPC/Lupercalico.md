@@ -4,7 +4,7 @@
 | ----------------- | ---------------------- |
 | Specie            | Capra antropomorfa     |
 | Nave              | [[Furia di Cernunnos]] |
-| Prima Apparizione | [[Sessione 06]]        |
+| Prima Apparizione | [[Timeline/Timeline|Sessione 06]]        |
 
 ## Descrizione
 

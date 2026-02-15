@@ -6,7 +6,7 @@
 | Specie            | Umano                          |
 | Affiliazione      | Sentinelle Brune               |
 | Nave              | [[Rivalsa]]                    |
-| Prima Apparizione | [[Sessione 04]]                |
+| Prima Apparizione | [[Timeline/Timeline|Sessione 04]]                |
 
 ## Descrizione
 
@@ -37,5 +37,5 @@ Teorizza che sia una **città fantasma**: le persone potrebbero essere miraggi o
 
 ## Fonti
 
-[^1]: [[Sessione 4]]
+[^1]: [[Timeline/Timeline|Sessione 04]]
 [^2]: [[Riepiloghi/Zamoraz/Sessione 14]]

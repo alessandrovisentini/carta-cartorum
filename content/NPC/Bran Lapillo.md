@@ -4,7 +4,7 @@
 | ----------------- | ----------------------------------- |
 | Specie            | Genasi del fuoco                    |
 | Professione       | Guardia del corpo di [[Awen Seife]] |
-| Prima Apparizione | [[Sessione 01]]                     |
+| Prima Apparizione | [[Timeline/Timeline|Sessione 01]]                     |
 
 ## Descrizione
 
@@ -32,8 +32,8 @@ Bran e [[Awen Seife]] sono stati ospiti alla [[I Regni Fatati|Corte Splendente]]
 
 ## Fonti
 
-[^1]: [[Sessione 1]]
-[^2]: [[Sessione 7]]
+[^1]: [[Timeline/Timeline|Sessione 01]]
+[^2]: [[Timeline/Timeline|Sessione 07]]
 [^3]: [[Riepiloghi/Zamoraz/Sessione 6]]
 [^4]: [[Riepiloghi/Zamoraz/Sessione 12]]
 [^5]: [[Riepiloghi/Zamoraz/Sessione 13]]

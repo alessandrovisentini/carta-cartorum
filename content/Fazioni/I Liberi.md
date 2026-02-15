@@ -4,7 +4,7 @@
 | ----------------- | -------------------------- |
 | Tipo              | Organizzazione misteriosa  |
 | Simbolo           | V (o Y per Catrador)       |
-| Prima Menzione    | [[Sessione 01]]            |
+| Prima Menzione    | [[Timeline/Timeline|Sessione 01]]            |
 
 ## Descrizione
 
@@ -45,6 +45,6 @@ I Tre Suoni (risata, lamento di dolore, ruggito) potrebbero essere collegati all
 [^1]: [[Riepiloghi/Zamoraz/Sessione 8]]
 [^2]: [[Riepiloghi/Zamoraz/Sessione 9]]
 [^3]: [[Riepiloghi/Zamoraz/Sessione 5]]
-[^4]: [[Sessione 1]]
-[^5]: [[Sessioni/Sessione 15]]
+[^4]: [[Timeline/Timeline|Sessione 01]]
+[^5]: [[Timeline/Timeline|Sessione 15]]
 [^6]: [[Riepiloghi/Ignemir/Sessione 17]]

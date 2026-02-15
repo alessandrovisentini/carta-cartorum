@@ -4,7 +4,7 @@
 | ----------------- | -------------------------- |
 | Tipo              | Geni del Fuoco             |
 | Luogo             | [[Palazzo dei Genii]]      |
-| Prima Apparizione | [[Sessioni/Sessione 10]]            |
+| Prima Apparizione | [[Timeline/Timeline|Sessione 10]]            |
 
 ## Descrizione
 

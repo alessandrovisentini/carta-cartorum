@@ -6,7 +6,7 @@
 | Titolo            | Sommo Segnarancori                 |
 | Affiliazione      | [[Setta dei Pazzi Vendicativi]]    |
 | Nave              | [[Maledizione di Mefisto]]         |
-| Prima Menzione    | [[Sessione 01]]                    |
+| Prima Menzione    | [[Timeline/Timeline|Sessione 01]]                    |
 
 ## Descrizione
 
@@ -16,4 +16,4 @@ Dork Lork è un nano, gran sacerdote della [[Setta dei Pazzi Vendicativi|setta d
 
 ## Fonti
 
-[^1]: [[Sessione 1]]
+[^1]: [[Timeline/Timeline|Sessione 01]]

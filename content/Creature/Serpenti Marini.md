@@ -4,7 +4,7 @@
 | ----------------- | --------------------- |
 | Tipo              | Creature marine       |
 | Lunghezza         | Circa 6 metri         |
-| Prima Apparizione | [[Sessione 04]]       |
+| Prima Apparizione | [[Timeline/Timeline|Sessione 04]]       |
 
 ## Descrizione
 
@@ -20,4 +20,4 @@ I serpenti marini sono creature lunghe circa 6 metri che si muovono sul pelo del
 ## Fonti
 
 [^1]: [[Riepiloghi/Zamoraz/Sessione 10]]
-[^2]: [[Sessione 4]]
+[^2]: [[Timeline/Timeline|Sessione 04]]

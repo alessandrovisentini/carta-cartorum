@@ -4,11 +4,11 @@
 | ----------------- | ----------------------------------- |
 | Tipo              | Bar / Taverna                       |
 | Proprietari       | Il gruppo di avventurieri           |
-| Prima Apparizione | [[Sessioni/Sessione 15]]                     |
+| Prima Apparizione | [[Timeline/Timeline|Sessione 15]]                     |
 
 ## Descrizione
 
-La Rocca dei Conflitti è il bar costruito dal gruppo di avventurieri sul [[Il Litorale|Litorale]][^1]. Inaugurato durante la [[Sessioni/Sessione 15]][^1].
+La Rocca dei Conflitti è il bar costruito dal gruppo di avventurieri sul [[Il Litorale|Litorale]][^1]. Inaugurato durante la [[Timeline/Timeline|Sessione 15]][^1].
 
 ## Struttura[^1]
 
@@ -68,6 +68,6 @@ La Rocca dei Conflitti è il bar costruito dal gruppo di avventurieri sul [[Il L
 
 ## Fonti
 
-[^1]: [[Sessioni/Sessione 15]]
+[^1]: [[Timeline/Timeline|Sessione 15]]
 [^2]: [[Riepiloghi/Ignemir/Sessione 16]]
 [^3]: [[Riepiloghi/Opalix/Sessione 17]]

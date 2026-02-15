@@ -3,7 +3,7 @@
 |                   |                      |
 | ----------------- | -------------------- |
 | Tipo              | Piano d'esistenza    |
-| Prima Menzione    | [[Sessione 04]]      |
+| Prima Menzione    | [[Timeline/Timeline|Sessione 04]]      |
 
 ## Descrizione
 
@@ -30,7 +30,7 @@ La [[Caccia Selvaggia]] ha tre aspetti diversi, uno per ogni corte[^2]. Le stagi
 
 ## Fonti
 
-[^1]: [[Sessione 4]]
-[^2]: [[Sessione 4]]
-[^3]: [[Sessione 7]]
-[^4]: [[Sessioni/Sessione 15]]
+[^1]: [[Timeline/Timeline|Sessione 04]]
+[^2]: [[Timeline/Timeline|Sessione 04]]
+[^3]: [[Timeline/Timeline|Sessione 07]]
+[^4]: [[Timeline/Timeline|Sessione 15]]

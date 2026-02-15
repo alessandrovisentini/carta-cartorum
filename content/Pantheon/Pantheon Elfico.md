@@ -3,7 +3,7 @@
 |                   |                      |
 | ----------------- | -------------------- |
 | Tipo              | Pantheon religioso   |
-| Prima Menzione    | [[Sessione 01]]      |
+| Prima Menzione    | [[Timeline/Timeline|Sessione 01]]      |
 
 ## Elmion
 
@@ -79,5 +79,5 @@ Una seguace di Ptah sulla [[Rivalsa]] usa magia per "far dimenticare le cose" a 
 
 ## Fonti
 
-[^1]: [[Sessioni/Sessione 15]]
+[^1]: [[Timeline/Timeline|Sessione 15]]
 [^2]: [[Riepiloghi/Zamoraz/Sessione 8]]

@@ -6,7 +6,7 @@
 | ----------------- | -------------------- |
 | Tipo              | Personaggio Giocante |
 | Classe            | Ranger               |
-| Prima Apparizione | [[Sessione 01]]      |
+| Prima Apparizione | [[Timeline/Timeline|Sessione 01]]      |
 
 ## Descrizione
 
@@ -31,10 +31,10 @@ Zamoraz è un ranger del gruppo, spesso scelto come guida designata per le spedi
 
 ## Fonti
 
-[^1]: [[Sessione 1]]
+[^1]: [[Timeline/Timeline|Sessione 01]]
 [^2]: [[Riepiloghi/Zamoraz/Sessione 9]]
 [^3]: [[Riepiloghi/Zamoraz/Sessione 2]]
-[^4]: [[Sessione 7]]
+[^4]: [[Timeline/Timeline|Sessione 07]]
 [^5]: [[Riepiloghi/Zamoraz/Sessione 10]]
 [^6]: [[Riepiloghi/Zamoraz/Sessione 12]]
 [^7]: [[Riepiloghi/Zamoraz/Sessione 14]]

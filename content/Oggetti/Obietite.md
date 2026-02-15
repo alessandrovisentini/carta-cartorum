@@ -3,7 +3,7 @@
 |                   |                      |
 | ----------------- | -------------------- |
 | Tipo              | Pietra misteriosa    |
-| Prima Menzione    | [[Sessione 11]]      |
+| Prima Menzione    | [[Timeline/Timeline|Sessione 11]]      |
 
 ## Descrizione
 

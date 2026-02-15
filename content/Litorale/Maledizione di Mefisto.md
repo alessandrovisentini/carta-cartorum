@@ -4,7 +4,7 @@
 | -------- | ------------------------------------ |
 | Tipo     | Ex-areonave del culto di [[Mefisto]] |
 | Capitani | [[Zagres]], [[Dork Lork]]            |
-| Prima Apparizione | [[Sessione 01]]         |
+| Prima Apparizione | [[Timeline/Timeline|Sessione 01]]         |
 
 ## Descrizione
 
@@ -33,8 +33,8 @@ Durante l'impatto sul [[Il Litorale|Litorale]], alcuni carcerati sono evasi[^2]:
 
 ## Fonti
 
-[^1]: [[Sessione 1]]
+[^1]: [[Timeline/Timeline|Sessione 01]]
 [^2]: [[Riepiloghi/Zamoraz/Sessione 5]]
-[^3]: [[Sessione 1]]
+[^3]: [[Timeline/Timeline|Sessione 01]]
 [^4]: [[Riepiloghi/Zamoraz/Sessione 11]]
 [^5]: [[Riepiloghi/Ignemir/Sessione 16]]

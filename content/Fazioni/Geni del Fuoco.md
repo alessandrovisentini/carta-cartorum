@@ -5,7 +5,7 @@
 | Tipo              | Creature elementali        |
 | Membri noti       | [[Argan e Asbad]]          |
 | Sede              | [[Palazzo dei Genii]]      |
-| Prima Menzione    | [[Sessioni/Sessione 10]]            |
+| Prima Menzione    | [[Timeline/Timeline|Sessione 10]]            |
 
 ## Descrizione
 

@@ -4,7 +4,7 @@
 | ----------------- | ------------------------------------ |
 | Tipo              | Creature fatate                      |
 | Affiliazione      | [[Caccia Selvaggia]] (Corte Crepuscolare) |
-| Prima Menzione    | [[Sessione 04]]                      |
+| Prima Menzione    | [[Timeline/Timeline|Sessione 04]]                      |
 
 ## Descrizione
 
@@ -21,5 +21,5 @@ Sono i racconti più infausti legati alla [[Caccia Selvaggia]][^1].
 
 ## Fonti
 
-[^1]: [[Sessione 4]]
+[^1]: [[Timeline/Timeline|Sessione 04]]
 [^2]: [[Riepiloghi/Zamoraz/Sessione 12]]

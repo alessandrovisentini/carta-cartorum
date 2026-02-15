@@ -4,7 +4,7 @@
 | ----------------- | ---------------------- |
 | Tipo              | Creatura leggendaria   |
 | Status            | Ricercata              |
-| Prima Menzione    | [[Sessioni/Sessione 10]]        |
+| Prima Menzione    | [[Timeline/Timeline|Sessione 10]]        |
 
 ## Descrizione
 
@@ -26,6 +26,6 @@ Nessuno della Furia l'ha mai vista in faccia[^2].
 
 ## Fonti
 
-[^1]: [[Sessione 4]]
+[^1]: [[Timeline/Timeline|Sessione 04]]
 [^2]: [[Riepiloghi/Zamoraz/Sessione 10]]
 [^3]: [[Riepiloghi/Zamoraz/Sessione 13]]

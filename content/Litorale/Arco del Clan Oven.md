@@ -5,7 +5,7 @@
 | Tipo              | Struttura monumentale |
 | Costruttori       | [[Clan Oven]]         |
 | Luogo             | [[Vulcano]]           |
-| Prima Apparizione | [[Sessione 06]]       |
+| Prima Apparizione | [[Timeline/Timeline|Sessione 06]]       |
 
 ## Descrizione
 

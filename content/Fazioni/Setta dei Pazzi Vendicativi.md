@@ -5,7 +5,7 @@
 | Tipo              | Organizzazione religiosa   |
 | Divinità          | Throrgran                  |
 | Nave              | [[Maledizione di Mefisto]] |
-| Prima Menzione    | [[Sessione 01]]            |
+| Prima Menzione    | [[Timeline/Timeline|Sessione 01]]            |
 
 ## Descrizione
 
@@ -24,4 +24,4 @@ I Vindicatori di Throrgran sono una setta religiosa presente sulla [[Maledizione
 
 ## Fonti
 
-[^1]: [[Sessione 1]]
+[^1]: [[Timeline/Timeline|Sessione 01]]

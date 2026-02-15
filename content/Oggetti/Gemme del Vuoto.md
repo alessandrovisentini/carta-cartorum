@@ -3,7 +3,7 @@
 |                   |                      |
 | ----------------- | -------------------- |
 | Tipo              | Gemme magiche        |
-| Prima Apparizione | [[Sessione 09]]      |
+| Prima Apparizione | [[Timeline/Timeline|Sessione 09]]      |
 
 ## Descrizione
 

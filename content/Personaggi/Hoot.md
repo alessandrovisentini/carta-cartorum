@@ -3,7 +3,7 @@
 |                   |                        |
 | ----------------- | ---------------------- |
 | Tipo              | Personaggio Giocante   |
-| Prima Apparizione | [[Sessioni/Sessione 11]]        |
+| Prima Apparizione | [[Timeline/Timeline|Sessione 11]]        |
 
 ## Descrizione
 

@@ -5,7 +5,7 @@
 | Tipo              | Clan di giganti       |
 | Status            | Banditi               |
 | Nome Precedente   | Famiglia Roken        |
-| Prima Menzione    | [[Sessioni/Sessione 10]]       |
+| Prima Menzione    | [[Timeline/Timeline|Sessione 10]]       |
 
 ## Descrizione
 

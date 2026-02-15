@@ -5,7 +5,7 @@
 | Tipo              | Fazione fatata               |
 | Leader            | [[Viredesh]]                 |
 | Simbolo           | Artiglio azzurro a goccia    |
-| Prima Menzione    | [[Sessioni/Sessione 16]]              |
+| Prima Menzione    | [[Timeline/Timeline|Sessione 16]]              |
 
 ## Descrizione
 

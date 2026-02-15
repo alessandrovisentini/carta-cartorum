@@ -3,14 +3,14 @@
 |                   |                      |
 | ----------------- | -------------------- |
 | Tipo              | Pantheon religioso   |
-| Prima Menzione    | [[Sessione 01]]      |
+| Prima Menzione    | [[Timeline/Timeline|Sessione 01]]      |
 
 ## La Madre Verde (Ilezeia)
 
 |                   |                        |
 | ----------------- | ---------------------- |
 | Nome arcaico      | Ilezeia (poco conosciuto) |
-| Natura            | Divinità unica silvana |
+| Natura            | Divinità unica silvana[^1] |
 | Dominio           | Totalità della natura  |
 
 ---

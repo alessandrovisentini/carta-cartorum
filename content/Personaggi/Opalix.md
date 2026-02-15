@@ -4,7 +4,7 @@
 | ----------------- | -------------------- |
 | Tipo              | Personaggio Giocante |
 | Razza             | Changeling           |
-| Prima Apparizione | [[Sessione 05]]      |
+| Prima Apparizione | [[Timeline/Timeline|Sessione 05]]      |
 
 ## Descrizione
 
@@ -27,6 +27,6 @@ Opalix è un changeling del gruppo, con abilità magiche di incantamento[^1]. Pu
 [^2]: [[Riepiloghi/Zamoraz/Sessione 11]]
 [^3]: [[Riepiloghi/Zamoraz/Sessione 8]]
 [^4]: [[Riepiloghi/Zamoraz/Sessione 12]]
-[^5]: [[Sessioni/Sessione 15]]
+[^5]: [[Timeline/Timeline|Sessione 15]]
 [^6]: [[Riepiloghi/Ignemir/Sessione 17]]
 [^7]: [[Riepiloghi/Zamoraz/Sessione 17]]

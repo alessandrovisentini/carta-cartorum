@@ -5,7 +5,7 @@
 | Tipo              | Artefatto magico               |
 | Proprietario      | [[Re Tregron Oven]]            |
 | Ex-Proprietario   | [[Awen Seife]]                 |
-| Prima Apparizione | [[Sessioni/Sessione 10]]                |
+| Prima Apparizione | [[Timeline/Timeline|Sessione 10]]                |
 
 ## Descrizione
 

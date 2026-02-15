@@ -5,7 +5,7 @@
 | Tipo              | Palazzo fatato        |
 | Abitanti          | [[Argan e Asbad]]     |
 | Luogo             | Caverne del [[Vulcano]] |
-| Prima Apparizione | [[Sessioni/Sessione 10]]       |
+| Prima Apparizione | [[Timeline/Timeline|Sessione 10]]       |
 
 ## Descrizione
 

@@ -4,7 +4,7 @@
 | ----------------- | --------------------- |
 | Tipo              | Arma magica           |
 | Proprietario      | [[Zamoraz]]           |
-| Prima Apparizione | [[Sessioni/Sessione 12]]       |
+| Prima Apparizione | [[Timeline/Timeline|Sessione 12]]       |
 
 ## Descrizione
 

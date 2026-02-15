@@ -5,7 +5,7 @@
 | Tipo              | Dreki colossale (80 metri)               |
 | Comandante        | [[Tiriano il Saggio]]                    |
 | Vessillo          | Due occhi rossi di lacrime su campo nero |
-| Prima Apparizione | [[Sessione 01]]                          |
+| Prima Apparizione | [[Timeline/Timeline|Sessione 01]]                          |
 
 ## Descrizione
 
@@ -44,7 +44,7 @@ Quattro ponti/livelli:[^2]
 
 ## Fonti
 
-[^1]: [[Sessione 4]]
+[^1]: [[Timeline/Timeline|Sessione 04]]
 [^2]: [[Riepiloghi/Zamoraz/Sessione 6]]
 [^3]: [[Riepiloghi/Zamoraz/Sessione 6]]
 [^4]: [[Riepiloghi/Zamoraz/Sessione 6]]

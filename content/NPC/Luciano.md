@@ -5,7 +5,7 @@
 | Specie            | Umano                |
 | Età               | Circa 40 anni        |
 | Nave              | [[Rivalsa]]          |
-| Prima Apparizione | [[Sessione 02]]      |
+| Prima Apparizione | [[Timeline/Timeline|Sessione 02]]      |
 
 ## Descrizione
 
@@ -27,7 +27,7 @@ Nato e cresciuto in una carovana/circo dove tutti erano genitori di tutti, ma no
 
 [^1]: [[Riepiloghi/Zamoraz/Sessione 2]]
 [^2]: [[Riepiloghi/Zamoraz/Sessione 14]]
-[^3]: [[Sessione 4]]
-[^4]: [[Sessioni/Sessione 15]]
+[^3]: [[Timeline/Timeline|Sessione 04]]
+[^4]: [[Timeline/Timeline|Sessione 15]]
 [^5]: [[Riepiloghi/Zamoraz/Sessione 17]]
 [^6]: [[Riepiloghi/Opalix/Sessione 17]]

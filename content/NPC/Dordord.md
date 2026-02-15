@@ -5,7 +5,7 @@
 | Specie            | Nano                   |
 | Soprannome        | Mano Monca             |
 | Nave              | [[Furia di Cernunnos]] |
-| Prima Apparizione | [[Sessioni/Sessione 10]]        |
+| Prima Apparizione | [[Timeline/Timeline|Sessione 10]]        |
 
 ## Descrizione
 
