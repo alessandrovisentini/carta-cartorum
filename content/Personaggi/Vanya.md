@@ -1,6 +1,6 @@
 # Vanya
 
-![Vanya](/img/vanya.png)
+![Vanya](/Images/vanya.png)
 
 |                   |                      |
 | ----------------- | -------------------- |

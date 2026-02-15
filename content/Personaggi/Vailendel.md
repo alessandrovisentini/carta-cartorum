@@ -1,6 +1,6 @@
 # Vailendel
 
-![Vailendel](/img/vailendel.png)
+![Vailendel](/Images/vailendel.png)
 
 |                   |                      |
 | ----------------- | -------------------- |

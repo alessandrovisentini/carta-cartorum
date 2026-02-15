@@ -1,6 +1,6 @@
 # Zamoraz
 
-![Zamoraz](/img/zamoraz.png)
+![Zamoraz](/Images/zamoraz.png)
 
 |                   |                      |
 | ----------------- | -------------------- |

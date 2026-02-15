@@ -1,6 +1,6 @@
 # Il Litorale
 
-![Mappa del Litorale](/img/Starting_town.jpg)
+![Mappa del Litorale](/Images/Starting_town.jpg)
 
 |                   |                  |
 | ----------------- | ---------------- |
