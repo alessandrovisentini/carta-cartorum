@@ -125,14 +125,51 @@ jobs:
             --generate-notes \
             --latest
 
+      - name: Get commit messages since last release
+        if: steps.changed-files.outputs.has_changes == 'true'
+        id: commit-messages
+        run: |
+          LAST_TAG=$(git tag --sort=-v:refname | head -1)
+
+          if [ -z "$LAST_TAG" ]; then
+            COMMITS=$(git log --pretty=format:"%s" -n 10)
+          else
+            COMMITS=$(git log "$LAST_TAG"..HEAD --pretty=format:"%s")
+          fi
+
+          if [ -z "$COMMITS" ]; then
+            echo "commit_list=" >> $GITHUB_OUTPUT
+            exit 0
+          fi
+
+          TOTAL=$(echo "$COMMITS" | wc -l)
+          MAX_SHOWN=10
+
+          COMMIT_LIST=""
+          COUNT=0
+          while IFS= read -r msg; do
+            COUNT=$((COUNT + 1))
+            if [ "$COUNT" -gt "$MAX_SHOWN" ]; then
+              REMAINING=$((TOTAL - MAX_SHOWN))
+              COMMIT_LIST="${COMMIT_LIST}...e altri ${REMAINING} commit\n"
+              break
+            fi
+            COMMIT_LIST="${COMMIT_LIST}• ${msg}\n"
+          done <<< "$COMMITS"
+
+          echo "commit_list<<EOF" >> $GITHUB_OUTPUT
+          echo -e "$COMMIT_LIST" >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
+
       - name: Send Discord notification
         if: steps.changed-files.outputs.has_changes == 'true'
         env:
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
           FILE_LIST: ${{ steps.changed-files.outputs.file_list }}
+          COMMIT_LIST: ${{ steps.commit-messages.outputs.commit_list }}
           PAGE_URL: ${{ needs.deploy.outputs.page_url }}
         run: |
-          MESSAGE=$(printf '📜 **La Wiki è stata aggiornata!**\n\n**Pagine modificate:**\n%s\n🔗 Visita la wiki: %s' "$FILE_LIST" "$PAGE_URL")
+          MESSAGE=$(printf '📜 **La Wiki è stata aggiornata!**\n\n**Commit:**\n%s\n**Pagine modificate:**\n%s\n🔗 Visita la wiki: %s' "$COMMIT_LIST" "$FILE_LIST" "$PAGE_URL")
 
           PAYLOAD=$(jq -n --arg msg "$MESSAGE" '{content: $msg}')
 
