@@ -4,12 +4,12 @@
 | ----------------- | -------------------- |
 | Specie            | Ragno                |
 | Ruolo             | Cercatore            |
-| Affiliazione      | [[I Liberi]]         |
+| Affiliazione      | [[Fazioni/Liberi]]         |
 | Prima Apparizione | [[Timeline/Timeline|Sessione 08]]      |
 
 ## Descrizione
 
-Rem è un grande ragno (circa 70cm) cercatore dei [[I Liberi]][^1]. Ha una grossa cicatrice a forma di X sulla schiena che si unisce a un disegno di una V sul suo addome - lo stesso simbolo visto sui pali delle inferriate nella foresta[^1]. La V è sovrastata dalle cicatrici[^3].
+Rem è un grande ragno (circa 70cm) cercatore dei [[Fazioni/Liberi]][^1]. Ha una grossa cicatrice a forma di X sulla schiena che si unisce a un disegno di una V sul suo addome - lo stesso simbolo visto sui pali delle inferriate nella foresta[^1]. La V è sovrastata dalle cicatrici[^3].
 
 Può scomporsi in minuscoli ragni per muoversi e osservare, poi riunirsi in un unico corpo[^1].
 

@@ -1,4 +1,4 @@
-# I Liberi
+# Liberi
 
 |                   |                            |
 | ----------------- | -------------------------- |
@@ -10,7 +10,7 @@
 
 I Liberi sono un'antica organizzazione misteriosa che opera sull'isola del [[Il Litorale|Litorale]][^1]. Sono divisi in tre gruppi o razze, ognuno con un proprio alfabeto[^2]:
 
-1. **Cercatori** - Hanno forma di ragni. Agiscono come occhi per mantenere la pace sull'isola[^1]. Esempi: [[Lill]], [[Rem]][^6]
+1. **Cercatori** - Hanno forma di ragni. Agiscono come occhi per mantenere la pace sull'isola[^1]. Esempi: [[Lil]], [[Rem]][^6]
 2. **Studiosi** - Risiedono sottoterra ("stanno sotto")[^6]. Collegati alle orme di ratto e piccole tute da palombaro viste sotto la [[Fontana]][^6]. Hanno problemi di ratti[^2]
 3. **Custodi** - Funzione non ancora chiara. Potrebbero essere dei leoni, in base al sigillo di ceralacca (muso felino con criniera) sul biglietto ricevuto da [[Vanya]][^6]
 
@@ -27,7 +27,7 @@ Agiscono per conto di "LA VIA"[^1].
 
 ## Storia nelle Sessioni
 
-- **Sessione 1**: [[Lill]], un cercatore ragno, incontra il gruppo nella laguna[^4].
+- **Sessione 1**: [[Lil]], un cercatore ragno, incontra il gruppo nella laguna[^4].
 - **Sessione 5**: Il simbolo V viene notato sulle inferriate della foresta vicino alla [[Fontana]][^3].
 - **Sessione 8**: [[Rem]] rivela informazioni sui Liberi e i loro tre gruppi[^1].
 - **Sessione 9**: [[Murr]] menziona il patto con i Liberi e spiega i tre alfabeti[^2].

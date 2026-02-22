@@ -15,7 +15,7 @@ Si attiva con la parola chiave "Merla Vulpercarico"[^2].
 
 ## Storia nelle Sessioni
 
-- **Sessione 10**: [[Awen Seife]] la consegna al gruppo per posizionarla nel [[Vulcano]] e portare tepore in casa[^1]. Al [[Palazzo dei Genii]], i geni [[Argan e Asbad]] rimuovono le restrizioni sull'ancora in cambio di un patto: devono attivarla vicino al "toro" imprigionato dai giganti[^3]. L'ancora viene posizionata a lato della porta del palazzo dei geni, dove fluttua[^3].
+- **Sessione 10**: [[Awen Seife]] la consegna al gruppo per posizionarla nel [[Vulcano]] e portare tepore in casa[^1]. Al [[Palazzo dei Genii]], i geni [[Argan e Asvad]] rimuovono le restrizioni sull'ancora in cambio di un patto: devono attivarla vicino al "toro" imprigionato dai giganti[^3]. L'ancora viene posizionata a lato della porta del palazzo dei geni, dove fluttua[^3].
 
 - **Sessione 13**: [[Ignemir]] la attiva con la parola segreta per teletrasportare il gruppo nel [[Vulcano]][^2]. Dopo aver confessato tutto al [[Clan Oven|Re Tregron Oven]], [[Pagrax]] cede l'ancora al re[^4].
 

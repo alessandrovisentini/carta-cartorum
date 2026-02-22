@@ -1,4 +1,4 @@
-# Argan e Asbad
+# Argan e Asvad
 
 |                   |                            |
 | ----------------- | -------------------------- |
@@ -8,7 +8,7 @@
 
 ## Descrizione
 
-Argan e Asbad sono due geni del fuoco che risiedono in un palazzo nascosto nelle caverne del [[Vulcano]][^1]. Il loro palazzo ha pavimento di piastrelle e oro, pareti con bassorilievi, una cupola di vetro viola che fa entrare luce simile al sole, e forte odore di incenso senza fonte visibile[^1]. Comunicano attraverso tende a forma di labbra che parlano[^1].
+Argan e Asvad sono due geni del fuoco che risiedono in un palazzo nascosto nelle caverne del [[Vulcano]][^1]. Il loro palazzo ha pavimento di piastrelle e oro, pareti con bassorilievi, una cupola di vetro viola che fa entrare luce simile al sole, e forte odore di incenso senza fonte visibile[^1]. Comunicano attraverso tende a forma di labbra che parlano[^1].
 
 ## Natura dei Geni del Fuoco
 

@@ -8,7 +8,7 @@
 
 ## Descrizione
 
-Gli Uomini Serpente sono creature umanoidi con scaglie argentate e criniere molto colorate ma non di colori accesi[^1]. Portano armi e sono ostili verso gli intrusi[^1]. Secondo i [[I Liberi|Cercatori]], venerano la luna nera[^2].
+Gli Uomini Serpente sono creature umanoidi con scaglie argentate e criniere molto colorate ma non di colori accesi, con tre braccia, il busto umanoide e una grossa coda di serpente dalla vita in giù[^1]. Portano armi e sono ostili verso gli intrusi[^1]. Secondo i [[Fazioni/Liberi|Cercatori]], venerano la luna nera[^2].
 
 ## Apophtosis e la Luna Nera
 

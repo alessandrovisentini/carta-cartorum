@@ -12,7 +12,7 @@ La Rocca dei Conflitti è il bar costruito dal gruppo di avventurieri sul [[Il L
 
 ## Struttura[^1]
 
-- **Riscaldamento**: [[Neridium]] sotto il pavimento
+- **Riscaldamento**: [[Nerivium]] sotto il pavimento
 - **Soppalco**: Scricchiolante, con legno che cresce (le sedie crescono attorno ai clienti seduti)
 - **Zona principale**: Bar + mini cucina
 - **Capacità**: 25-30 persone sedute, 50 in piedi
@@ -57,7 +57,7 @@ La Rocca dei Conflitti è il bar costruito dal gruppo di avventurieri sul [[Il L
 - [[Luciano]] rivela informazioni sulla statua di [[Awen Seife]][^1]
 - [[Odar Brandibirra]] racconta storie sulla [[Caccia Selvaggia]][^1]
 - Un aasimar trasmette visioni inquietanti a [[Pagrax]][^1]
-- Ragni dei [[I Liberi|Liberi]] cercano di comunicare con [[Fryolin]][^1]
+- Ragni dei [[Fazioni/Liberi|Liberi]] cercano di comunicare con [[Fryolin]][^1]
 
 ## Storia nelle Sessioni
 

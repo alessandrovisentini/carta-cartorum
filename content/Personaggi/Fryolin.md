@@ -15,9 +15,9 @@ Fryolin (soprannominata "Frollino" dal gruppo) è una creatura fatata che ha par
 
 - **Sessione 12**: Appare fuori nella melma durante la bufera di neve, incontra un mega albero parlante che la aiuta a tornare in superficie uscendo dal pavimento[^1]. [[Awen Seife]] stringe un patto con lei: Fryolin aiuterà il gruppo in cambio di un favore futuro[^1]. Sa che gli effetti di miraggio nella foresta sono legati alla [[Caccia Selvaggia]][^3]. Non riconosce le [[Creature di Ghiaccio]] incontrate alla [[Fontana]]: nota che i [[Mastini dalle Orecchie Rosse]] hanno le orecchie rosse, mentre queste creature non hanno orecchie[^3].
 
-- **Sessione 13**: Accompagna il gruppo al [[Vulcano]][^2]. Rivela che la morte delle persone attira l'attenzione della [[Caccia Selvaggia]][^4]. Riconosce la [[Madre di tutte le vedove]] come "nella lista nera della regina"[^5]. Si fa trasportare aggrappata ai capelli di [[Ignemir]][^2]. Prende una spada corta in [[Neridium]] dalle casse della [[Furia di Cernunnos|Furia]][^6]. Riconosce il "Signore dei Pipistrelli" come creatura fatata negli arazzi dei Giganti[^7].
+- **Sessione 13**: Accompagna il gruppo al [[Vulcano]][^2]. Rivela che la morte delle persone attira l'attenzione della [[Caccia Selvaggia]][^4]. Riconosce la [[Madre di tutte le vedove]] come "nella lista nera della regina"[^5]. Si fa trasportare aggrappata ai capelli di [[Ignemir]][^2]. Prende una spada corta in [[Nerivium]] dalle casse della [[Furia di Cernunnos|Furia]][^6]. Riconosce il "Signore dei Pipistrelli" come creatura fatata negli arazzi dei Giganti[^7].
 
-- **Sessione 15**: Fa da buttafuori interno a [[La Rocca dei Conflitti]][^8]. Nel soppalco viene avvicinata da ragnetti dei [[I Liberi|Liberi]] che formano parole in silvano: "Sei un guerriero contro i liberi?" Li uccide mentre scrivono "Noi vogliamo solamente pa-"[^9].
+- **Sessione 15**: Fa da buttafuori interno a [[La Rocca dei Conflitti]][^8]. Nel soppalco viene avvicinata da ragnetti dei [[Fazioni/Liberi|Liberi]] che formano parole in silvano: "Sei un guerriero contro i liberi?" Li uccide mentre scrivono "Noi vogliamo solamente pa-"[^9].
 - **Sessione 16**: Non riconosce le creature della [[Caccia Originale]] incontrate alla fontana[^10].
 
 ## La Corte di Fryolin

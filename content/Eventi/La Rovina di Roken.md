@@ -14,7 +14,7 @@ La Rovina di Roken è un evento storico molto conosciuto che coinvolge la famigl
 
 La famiglia Roken si vantava di aver sconfitto mostri molto potenti, esponendo le loro prede[^1]. Fu creato un mostro - [[Il Toro]], composto dall'unione di creature mostruose - apposta per ribellarsi alla loro millantata supremazia[^1].
 
-I giganti usarono un patto con i [[Argan e Asbad|Geni del Fuoco]] per vincolare la creatura, imprigionandola nella fortezza del [[Vulcano]][^1].
+I giganti usarono un patto con i [[Argan e Asvad|Geni del Fuoco]] per vincolare la creatura, imprigionandola nella fortezza del [[Vulcano]][^1].
 
 ## Conseguenze
 

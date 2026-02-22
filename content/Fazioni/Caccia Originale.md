@@ -19,7 +19,7 @@ In origine esisteva solo la Caccia Originale[^1]. Le corti che guidano le varie 
 
 ## Creature
 
-Le creature della Caccia Originale includono lupi bianchi evocati (che si sciolgono) e creature scheletriche di gelatite che sono non-morte[^2]. Le armi in [[Neridium]] sono efficaci contro di esse[^1]. La [[Scimitarra del Gelo Eterno]] di [[Zamoraz]] ricorda le armi impugnate da queste creature[^2].
+Le creature della Caccia Originale includono lupi bianchi evocati (che si sciolgono) e creature scheletriche di gelatite che sono non-morte[^2]. Le armi in [[Nerivium]] sono efficaci contro di esse[^1]. La [[Scimitarra del Gelo Eterno]] di [[Zamoraz]] ricorda le armi impugnate da queste creature[^2].
 
 ## Storia nelle Sessioni
 

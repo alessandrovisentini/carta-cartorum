@@ -31,13 +31,13 @@ Quattro ponti/livelli:[^2]
 - Gestiscono l'avamposto al [[Vulcano]] con 30-40 persone[^4]
 - Estraggono pietra nera dalle miniere e la portano all'[[Arco del Clan Oven]][^4]
 - Conducono spedizioni al [[Megadon]] per studiare la [[Madre di tutte le vedove]][^5]
-- Commerciano [[Neridium]] con i [[Clan Oven|Giganti del Fuoco]][^6]
+- Commerciano [[Nerivium]] con i [[Clan Oven|Giganti del Fuoco]][^6]
 
 ## Storia nelle Sessioni
 
 - **Sessione 6**: Il gruppo visita l'avamposto sul [[Vulcano]] scoprendo le miniere di pietra nera[^4].
 - **Sessione 10**: [[Dordord]] rivela che [[Tiriano il Saggio]] è sempre al [[Megadon]] a studiare la [[Madre di tutte le vedove]][^5].
-- **Sessione 13**: Il gruppo trova casse della Furia piene di [[Neridium]] nella fortezza dei Giganti[^6].
+- **Sessione 13**: Il gruppo trova casse della Furia piene di [[Nerivium]] nella fortezza dei Giganti[^6].
 - **Sessione 17**: All'interno della Furia ci sono attriti tra persone di alto lignaggio[^7]. Un gruppo non legato a [[Uruan]] né al gruppo altolocato sta organizzando spedizioni verso il [[Megadon]] o verso l'ultima posizione nota di [[Tiriano il Saggio|Tiriano]] e [[Valente]][^7]. L'unico orefice della Furia fa parte del gruppo altolocato[^7].
 
 ---

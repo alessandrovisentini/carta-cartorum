@@ -4,11 +4,11 @@
 | ----------------- | --------------------- |
 | Tipo              | Patto magico          |
 | Sessione          | [[Timeline/Timeline|Sessione 10]]       |
-| Parti coinvolte   | Gruppo, [[Argan e Asbad]] |
+| Parti coinvolte   | Gruppo, [[Argan e Asvad]] |
 
 ## Descrizione
 
-Durante l'esplorazione del vulcano, il gruppo ha stretto un patto con i geni del fuoco [[Argan e Asbad]] nel loro [[Palazzo dei Genii]][^1].
+Durante l'esplorazione del vulcano, il gruppo ha stretto un patto con i geni del fuoco [[Argan e Asvad]] nel loro [[Palazzo dei Genii]][^1].
 
 ## Termini del Patto[^1]
 

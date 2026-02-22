@@ -3,7 +3,7 @@
 |                   |                            |
 | ----------------- | -------------------------- |
 | Tipo              | Creature elementali        |
-| Membri noti       | [[Argan e Asbad]]          |
+| Membri noti       | [[Argan e Asvad]]          |
 | Sede              | [[Palazzo dei Genii]]      |
 | Prima Menzione    | [[Timeline/Timeline|Sessione 10]]            |
 
@@ -23,7 +23,7 @@ I Geni del Fuoco hanno un antico conflitto con il [[Clan Oven]][^3]. In passato 
 
 ## Storia nelle Sessioni
 
-- **Sessione 10**: Il gruppo incontra [[Argan e Asbad]] nel [[Palazzo dei Genii]] e stringe il [[Patto coi Geni del Fuoco]][^1].
+- **Sessione 10**: Il gruppo incontra [[Argan e Asvad]] nel [[Palazzo dei Genii]] e stringe il [[Patto coi Geni del Fuoco]][^1].
 - **Sessione 13**: [[Awen Seife]] rivela che non è conveniente cercare scappatoie nei patti con i Geni[^2]. I giganti decidono di affrontarli dopo la confessione del gruppo[^4].
 
 ---

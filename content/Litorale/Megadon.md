@@ -29,7 +29,7 @@ Sulle rovine del Megadon c'è una città abitata dagli [[Uomini Serpente]][^2]. 
 
 ## Storia nelle Sessioni
 
-- **Sessione 1**: [[Lill]] menziona la carcassa a 2-3 giorni di cammino[^1].
+- **Sessione 1**: [[Lil]] menziona la carcassa a 2-3 giorni di cammino[^1].
 - **Sessione 2**: Prima spedizione per raccogliere sangue[^4].
 - **Sessione 4**: Il gruppo esplora la città e combatte gli [[Uomini Serpente]][^2].
 - **Sessione 8**: [[Rem]] avverte del pilastro pericoloso[^3].

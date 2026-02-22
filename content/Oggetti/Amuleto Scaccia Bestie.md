@@ -1,9 +1,9 @@
 # Amuleto Scaccia Bestie
 
-|                   |                      |
-| ----------------- | -------------------- |
-| Tipo              | Pianta magica        |
-| Prima Apparizione | [[Timeline/Timeline|Sessione 09]]      |
+|                   |                     |               |
+| ----------------- | ------------------- | ------------- |
+| Tipo              | Pianta magica       |               |
+| Prima Apparizione | [[Timeline/Timeline | Sessione 09]] |
 
 ## Descrizione
 

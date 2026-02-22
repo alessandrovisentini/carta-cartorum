@@ -46,7 +46,7 @@ La Caccia Selvaggia ha iniziato ad avere importanza durante il declino della raz
 
 ## Protezione dalle Fate
 
-Secondo [[Odar Brandibirra]], in passato la gente lasciava offerte alle fate per proteggersi[^3]. Le fate non rapiscono indiscriminatamente, ma solo gli irrispettosi[^3].
+Secondo [[Odar Brandibirra]], in passato la gente lasciava offerte alle fate per proteggersi[^3]. Le fate non rapiscono indiscriminatamente, ma solo gli irrispettosi, le persone che si macchiavano di hybris venivano portate via[^3].
 
 > "La caccia non è violenza indiscriminata, ma è memoria e rispetto. Ciò che sta più in alto di noi deve rimanere lì ed è giusto che sia ricordato."[^3]
 

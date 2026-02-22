@@ -4,7 +4,7 @@
 | ----------------- | -------------------------- |
 | Specie            | Umani (cinghiali mannari)  |
 | Status            | Evasi                      |
-| Affiliazione      | [[I Liberi]] (alleati)     |
+| Affiliazione      | [[Fazioni/Liberi]] (alleati)     |
 | Prima Apparizione | [[Timeline/Timeline|Sessione 05]]            |
 
 ## Descrizione

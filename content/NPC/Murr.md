@@ -14,7 +14,7 @@ Murr è un genio dell'acqua imprigionato in un grande cilindro/acquario (circa 2
 
 ## Il Patto con i Liberi
 
-Murr ha fatto un patto con [[I Liberi]]: in cambio della libertà, continua a produrre acqua per la fontana[^1].
+Murr ha fatto un patto con [[Fazioni/Liberi]]: in cambio della libertà, continua a produrre acqua per la fontana[^1].
 
 Rivela che [[Tumba e Simon|Tumba e Simon]] gli hanno chiesto 3 desideri a testa e che "hanno già gli strumenti per liberarlo"[^1].
 

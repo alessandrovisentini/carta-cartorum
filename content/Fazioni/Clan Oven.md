@@ -27,7 +27,7 @@ Questo mostro è il **Toro**, una maledizione vivente[^2].
 
 Il Toro è visibile nella sala del trono: un grandissimo toro di metallo bronzeo (cinque volte un toro normale) imprigionato sotto una lastra di cristallo, legato da grosse catene nere e rosse con lucchetti[^3]. È ancora vivo - si intravedono sbuffi neri dalle narici[^3].
 
-I Giganti usarono un patto con i [[Geni del Fuoco]] per vincolare la creatura[^2]. I Geni ([[Argan e Asbad]]) ora vogliono liberarlo tramite l'[[Ancora Spaziale]][^1].
+I Giganti usarono un patto con i [[Geni del Fuoco]] per vincolare la creatura[^2]. I Geni ([[Argan e Asvad]]) ora vogliono liberarlo tramite l'[[Ancora Spaziale]][^1].
 
 ## La Fortezza nel Vulcano
 

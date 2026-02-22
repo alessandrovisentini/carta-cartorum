@@ -17,7 +17,7 @@ Opalix è un changeling del gruppo, con abilità magiche di incantamento[^1]. Pu
 - **Sessione 11**: Assume l'aspetto della defunta [[Kesi]], rivelando a tutti la sua natura di changeling[^2]. I vestiti da mago gli stanno strettissimi[^2]. Si infiltra nella [[Maledizione di Mefisto]][^2].
 - **Sessione 12**: Intrappolato nella [[Fontana]] durante l'[[Attacco della Caccia Selvaggia]][^4]. [[Awen Seife]] crea una statua in sua forma che può comunicare con lui a distanza[^4].
 - **Sessione 15**: Sta al bar e disegna bersagli a pagamento a [[La Rocca dei Conflitti]][^5]. Usa la penna magica per le comande[^5].
-- **Sessione 17**: Analizza il biglietto dei [[I Liberi|Liberi]]: la carta aveva proprietà magiche di trasmutazione ora esaurite, con residui nella lettera miniata verde della Y[^6]. Collega i tre mostri del trip da funghetti ai due alfabeti decifrati[^6]. Riconosce che la ceralacca del biglietto di [[Vanya]] non è un trifoglio e un sole ma un muso felino con criniera (leone)[^6]. Ricorda che [[Murr]] disse che Y è il simbolo del [[Catrador]] dei Liberi[^6]. Nella stanza di [[Awen Seife]] dopo l'esplosione, la V lo inquieta nel rapporto con la propria magia[^7].
+- **Sessione 17**: Analizza il biglietto dei [[Fazioni/Liberi|Liberi]]: la carta aveva proprietà magiche di trasmutazione ora esaurite, con residui nella lettera miniata verde della Y[^6]. Collega i tre mostri del trip da funghetti ai due alfabeti decifrati[^6]. Riconosce che la ceralacca del biglietto di [[Vanya]] non è un trifoglio e un sole ma un muso felino con criniera (leone)[^6]. Ricorda che [[Murr]] disse che Y è il simbolo del [[Catrador]] dei Liberi[^6]. Nella stanza di [[Awen Seife]] dopo l'esplosione, la V lo inquieta nel rapporto con la propria magia[^7].
 
 ---
 

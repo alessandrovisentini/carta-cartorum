@@ -13,7 +13,7 @@ Oran il Lord Verde è uno degli arciduchi delle corti fatate, collegato agli ins
 
 ## Storia nelle Sessioni
 
-- **Sessione 15**: Ragni dei [[I Liberi|Liberi]] cercano di comunicare con [[Fryolin]] formando parole in silvano[^1]. Si rivela che Oran il Lord Verde è uno degli arciduchi della corte di Fryolin[^1].
+- **Sessione 15**: Ragni dei [[Fazioni/Liberi|Liberi]] cercano di comunicare con [[Fryolin]] formando parole in silvano[^1]. Si rivela che Oran il Lord Verde è uno degli arciduchi della corte di Fryolin[^1].
 
 ---
 

@@ -3,13 +3,13 @@
 |                   |                       |
 | ----------------- | --------------------- |
 | Tipo              | Palazzo fatato        |
-| Abitanti          | [[Argan e Asbad]]     |
+| Abitanti          | [[Argan e Asvad]]     |
 | Luogo             | Caverne del [[Vulcano]] |
 | Prima Apparizione | [[Timeline/Timeline|Sessione 10]]       |
 
 ## Descrizione
 
-Il Palazzo dei Genii è una struttura completamente aliena nascosta nelle caverne del [[Vulcano]], dove risiedono i geni del fuoco [[Argan e Asbad]][^1].
+Il Palazzo dei Genii è una struttura completamente aliena nascosta nelle caverne del [[Vulcano]], dove risiedono i geni del fuoco [[Argan e Asvad]][^1].
 
 ### Esterno[^1]
 - Facciata completamente d'oro con arco a sesto acuto arabeggiante

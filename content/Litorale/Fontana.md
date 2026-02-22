@@ -12,7 +12,7 @@ La Fontana è un grande complesso al centro della foresta, composto da una fonta
 
 ## La Barriera
 
-Un muro a secco in rovina di materiale verde scuro con una lunga inferriata alta circa 6 metri circonda la fontana[^1]. Alcuni punti sono divelti. Su alcune punte c'è l'incisione di una "V" - il simbolo dei [[I Liberi|Liberi]][^1].
+Un muro a secco in rovina di materiale verde scuro con una lunga inferriata alta circa 6 metri circonda la fontana[^1]. Alcuni punti sono divelti. Su alcune punte c'è l'incisione di una "V" - il simbolo dei [[Fazioni/Liberi|Liberi]][^1].
 
 ## Il Palazzo Sotterraneo
 

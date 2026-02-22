@@ -1,11 +1,11 @@
 # Chiave con Labirinto
 
-|                   |                            |
-| ----------------- | -------------------------- |
-| Tipo              | Artefatto magico           |
-| Proprietario      | [[Vanya]]                  |
-| Origine           | [[Tumba e Simon]]          |
-| Prima Apparizione | [[Timeline/Timeline|Sessione 05]]            |
+|                   |                     |               |
+| ----------------- | ------------------- | ------------- |
+| Tipo              | Artefatto magico    |               |
+| Proprietario      | [[Vanya]]           |               |
+| Origine           | [[Tumba e Simon]]   |               |
+| Prima Apparizione | [[Timeline/Timeline | Sessione 05]] |
 
 ## Descrizione
 

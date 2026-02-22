@@ -25,7 +25,7 @@ La pietra dei pilastri può essere scalfita solo dal cuneo di [[Awen Seife]][^5]
 
 ### Geografia del Litorale[^1]
 
-**Ad ovest** - Larga laguna paludosa, prateria, foresta ai piedi di una catena montuosa. Nella foresta: [[Fontana]] e palazzo sotterraneo dei [[I Liberi|Liberi]].
+**Ad ovest** - Larga laguna paludosa, prateria, foresta ai piedi di una catena montuosa. Nella foresta: [[Fontana]] e palazzo sotterraneo dei [[Fazioni/Liberi|Liberi]].
 
 **A est** - Fiordi e strapiombi verso il [[Vulcano]]. [[Arco del Clan Oven]] e [[Palazzo dei Genii]].
 

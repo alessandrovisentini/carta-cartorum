@@ -8,13 +8,13 @@
 
 ## Descrizione
 
-Catrador è un nome misterioso trovato inciso su un regolo in pietra insieme al nome di [[Awen Seife]][^1]. È scritto in una versione bizzarra di silvano, molto più vecchio del resto delle scritte[^1].
+Catrador è una parola misteriosa incisa su un regolo in pietra insieme al nome di [[Awen Seife]][^1]. È scritto in una versione bizzarra di silvano, molto più vecchio del resto delle scritte[^1].
 
-Secondo [[Murr]], il simbolo Y rappresenta Catrador[^2]. È collegato ai [[I Liberi|Liberi]] e alle pergamene antiche con tre alfabeti[^2].
+Secondo [[Murr]], il simbolo Y è l'iniziale del Catrador dei Liberi[^2]. È collegato ai [[Fazioni/Liberi|Liberi]] e alle pergamene antiche con tre alfabeti[^2].
 
 ## La Parola e le Fate
 
-La parola "catrador" non piace alle fate[^3]. [[Awen Seife]] ne parlò alla [[I Regni Fatati|Corte Splendente]], provocando profondo turbamento tra gli esseri fatati: lo sguardo di [[Cernunnos]] cambiò e [[Bran Lapillo]] dovette usare mezzi estremi per fuggire[^3].
+La parola "Catrador" non piace alle fate[^3]. [[Awen Seife]] ne parlò alla [[I Regni Fatati|Corte Splendente]], provocando profondo turbamento tra gli esseri fatati: lo sguardo di [[Cernunnos]] cambiò e [[Bran Lapillo]] dovette usare mezzi estremi per fuggire[^3].
 
 ## Il Biglietto
 

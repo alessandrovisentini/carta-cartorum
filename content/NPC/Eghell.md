@@ -1,0 +1,2 @@
+
+Amico filosofo di [[Rosanno]] 

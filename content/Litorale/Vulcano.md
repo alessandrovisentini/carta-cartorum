@@ -26,7 +26,7 @@ Sul fianco sud c'è l'[[Arco del Clan Oven]], un arco trionfale alto 40 metri co
 
 ## Il Palazzo dei Genii
 
-Nascosto nelle caverne c'è il [[Palazzo dei Genii]], dove risiedono [[Argan e Asbad]][^3].
+Nascosto nelle caverne c'è il [[Palazzo dei Genii]], dove risiedono [[Argan e Asvad]][^3].
 
 ## Storia nelle Sessioni
 

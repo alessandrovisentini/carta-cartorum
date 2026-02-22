@@ -14,7 +14,7 @@ Figura esile e slanciata, lenta e leggera nelle movenze[^1]. Capelli con franget
 
 ## Equipaggiamento
 
-- **Kanabo** in [[Neridium]] - Arma da guerra simile a una mazza contundente, molto pesante ma che lei trasporta senza difficoltà[^1]
+- **Kanabo** in [[Nerivium]] - Arma da guerra simile a una mazza contundente, molto pesante ma che lei trasporta senza difficoltà[^1]
 - **Amuleto** con il simbolo di una stretta barca stilizzata[^1]
 
 ## Capacità

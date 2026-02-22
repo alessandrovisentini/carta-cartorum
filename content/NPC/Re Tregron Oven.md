@@ -13,7 +13,7 @@ Re Tregron Oven è l'ultimo figlio della casata Roken, la stirpe reale dei Gigan
 
 ## La Rovina di Roken
 
-Tregron rivela che la sua famiglia fu bandita a causa della "Rovina di Roken"[^1]. I Roken si vantavano di aver sconfitto mostri potenti, fino a che non fu creato un mostro - composto dall'unione di creature mostruose - per ribellarsi alla loro millantata supremazia: il Toro[^1]. I Giganti usarono un patto con i [[Argan e Asbad|Geni del Fuoco]] per vincolare la creatura[^1].
+Tregron rivela che la sua famiglia fu bandita a causa della "Rovina di Roken"[^1]. I Roken si vantavano di aver sconfitto mostri potenti, fino a che non fu creato un mostro - composto dall'unione di creature mostruose - per ribellarsi alla loro millantata supremazia: il Toro[^1]. I Giganti usarono un patto con i [[Argan e Asvad|Geni del Fuoco]] per vincolare la creatura[^1].
 
 ## Famiglia
 

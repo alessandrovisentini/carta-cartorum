@@ -2,17 +2,17 @@
 
 ![Ignemir](/Images/ignemir.jpg)
 
-|                   |                        |
-| ----------------- | ---------------------- |
-| Tipo              | Personaggio Giocante   |
-| Razza             | Tiefling               |
-| Famiglia          | Valmorad               |
-| Ex-Affiliazione   | [[Furia di Cernunnos]] |
-| Prima Apparizione | [[Timeline/Timeline|Sessione 02]]        |
+|                   |                        |               |
+| ----------------- | ---------------------- | ------------- |
+| Tipo              | Personaggio Giocante   |               |
+| Razza             | Tiefling               |               |
+| Famiglia          | Valmorath              |               |
+| Ex-Affiliazione   | [[Furia di Cernunnos]] |               |
+| Prima Apparizione | [[Timeline/Timeline    | Sessione 02]] |
 
 ## Descrizione
 
-Ignemir Valmorad è un tiefling che era con la [[Furia di Cernunnos]] ma non si fida di loro[^1]. Ha affinità con il fuoco e la magia elementale[^1].
+Ignemir Valmorath è un tiefling che era con la [[Furia di Cernunnos]] ma non si fida di loro[^1]. Ha affinità con il fuoco e la magia elementale[^1].
 
 ## Storia nelle Sessioni
 
@@ -20,7 +20,7 @@ Ignemir Valmorad è un tiefling che era con la [[Furia di Cernunnos]] ma non si 
 - **Sessione 5**: Esplora la foresta e combatte contro [[Tumba e Simon|Simon]][^2].
 - **Sessione 6**: Spia la [[Furia di Cernunnos]] ma viene visto dal [[Lupercalico]][^3]. Scambia informazioni sulla foresta per una mappa del [[Vulcano]][^3].
 - **Sessione 9**: Rende [[Vanya]] invisibile per prendere erbe[^4]. Riconosce le [[Gemme del Vuoto]][^4]. Promette a [[Murr]] che tornerà[^4].
-- **Sessione 10**: La sua famiglia (Valmorad) viene riconosciuta dai geni [[Argan e Asbad]][^5]. Il suo nome e status vengono usati nel [[Patto coi Geni del Fuoco]][^5].
+- **Sessione 10**: La sua famiglia (Valmorath) viene riconosciuta dai geni [[Argan e Asvad]][^5]. Il suo nome e status vengono usati nel [[Patto coi Geni del Fuoco]][^5].
 - **Sessione 11**: Viene avvisato da [[Hoot]] con un biglietto: "Ignemir, ti stanno seguendo"[^6].
 - **Sessione 12**: Intrappolato nella [[Fontana]] durante l'[[Attacco della Caccia Selvaggia]][^7].
 - **Sessione 13**: Attiva l'[[Ancora Spaziale]] con la parola "Merla Vulpercarico"[^8]. Rivela di aver trovato la fiala (rotta) che i Giganti avevano creato per i Geni[^8]. La sua alabarda **Erelyth** viene risvegliata da [[Ocecot Oven]][^8].
@@ -29,9 +29,9 @@ Ignemir Valmorad è un tiefling che era con la [[Furia di Cernunnos]] ma non si 
 
 ## Equipaggiamento
 
-- **Erelyth** - Alabarda in [[Neridium]] risvegliato (critici 19-20, +1d6 danni da fuoco)[^8]
-- Spada lunga in [[Neridium]][^8]
-- Punta di freccia in [[Neridium]][^8]
+- **Erelyth** - Alabarda in [[Nerivium]] risvegliato (critici 19-20, +1d6 danni da fuoco)[^8]
+- Spada lunga in [[Nerivium]][^8]
+- Punta di freccia in [[Nerivium]][^8]
 
 ---
 

@@ -1,12 +1,12 @@
 # Kesi
 
-|                   |                            |
-| ----------------- | -------------------------- |
-| Specie            | Mezzorca                   |
-| Ruolo             | Sacerdotessa               |
-| Affiliazione      | [[Maledizione di Mefisto]] |
-| Status            | Deceduta                   |
-| Prima Apparizione | [[Timeline/Timeline|Sessione 05]]            |
+|                   |                            |               |
+| ----------------- | -------------------------- | ------------- |
+| Specie            | Mezzorca                   |               |
+| Ruolo             | Sacerdotessa               |               |
+| Affiliazione      | [[Maledizione di Mefisto]] |               |
+| Status            | Deceduta                   |               |
+| Prima Apparizione | [[Timeline/Timeline        | Sessione 05]] |
 
 ## Descrizione
 

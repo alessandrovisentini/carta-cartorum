@@ -2,11 +2,11 @@
 
 ![Vanya](/Images/vanya.png)
 
-|                   |                      |
-| ----------------- | -------------------- |
-| Tipo              | Personaggio Giocante |
-| Classe            | Stregone/Mago        |
-| Prima Apparizione | [[Timeline/Timeline|Sessione 01]]      |
+|                   |                      |               |
+| ----------------- | -------------------- | ------------- |
+| Tipo              | Personaggio Giocante |               |
+| Classe            | Warlock              |               |
+| Prima Apparizione | [[Timeline/Timeline  | Sessione 01]] |
 
 ## Descrizione
 
@@ -14,13 +14,13 @@ Vanya è una maga del gruppo specializzata in magia elementale, in particolare f
 
 ## Segreto
 
-Ha fatto un patto con **Ilev Saaj**, la dea delle frodi[^3]. Porta un anello che i [[I Liberi|Cercatori]] riconoscono e che li fa fidare di lei[^3]. L'anello fa illuminare la Y sulle pergamene misteriose[^3].
+Ha fatto un patto con **Ilev Saaj**, la dea delle frodi[^3]. Porta un anello che i [[Fazioni/Liberi|Cercatori]] riconoscono e che li fa fidare di lei[^3]. L'anello fa illuminare la Y sulle pergamene misteriose[^3].
 
 ## Storia nelle Sessioni
 
 - **Sessione 1**: Colpisce anguille e pesci con un fulmine sull'acqua, ma danneggia anche la barca[^1].
 - **Sessione 5**: Guida designata per la spedizione nella foresta[^4]. Cerca di attirare l'attenzione di [[Tiriano il Saggio]] con una danza dei fuochi[^4]. Tiene la chiave con labirinto data da [[Tumba e Simon|Simon]][^4].
-- **Sessione 7**: Riceve un abito da [[Awen Seife]][^5]. La sua famiglia ha ricevuto [[Neridium]] in dono da giganti[^5].
+- **Sessione 7**: Riceve un abito da [[Awen Seife]][^5]. La sua famiglia ha ricevuto [[Nerivium]] in dono da giganti[^5].
 - **Sessione 8**: Svela di avere fatto un patto con Ilev Saaj[^3]. Una voce suadente la convince quasi a far sanguinare la conca del pilastro[^3].
 - **Sessione 9**: Resa invisibile da [[Ignemir]], prende erbe [[Amuleto Scaccia Bestie|scaccia bestie]][^2]. Alla [[Fontana]], svuota la piscina e si tuffa per esplorare[^2]. Trova Bronsa per [[Zamoraz]][^2].
 - **Sessione 11**: Terrorizzata quando [[Hoot]] sbuca nella foresta[^6].
