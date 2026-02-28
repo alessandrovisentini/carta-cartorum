@@ -11,8 +11,8 @@
 I Liberi sono un'antica organizzazione misteriosa che opera sull'isola del [[Il Litorale|Litorale]][^1]. Sono divisi in tre gruppi o razze, ognuno con un proprio alfabeto[^2]:
 
 1. **Cercatori** - Hanno forma di ragni. Agiscono come occhi per mantenere la pace sull'isola[^1]. Esempi: [[Lil]], [[Rem]][^6]
-2. **Studiosi** - Risiedono sottoterra ("stanno sotto")[^6]. Collegati alle orme di ratto e piccole tute da palombaro viste sotto la [[Fontana]][^6]. Hanno problemi di ratti[^2]
-3. **Custodi** - Funzione non ancora chiara. Potrebbero essere dei leoni, in base al sigillo di ceralacca (muso felino con criniera) sul biglietto ricevuto da [[Vanya]][^6]
+2. **Studiosi** - Termine ampio e generico[^7]. Sono topi che risiedono sottoterra, sotto la [[Fontana]][^7]. Indossano piccole [[Tute da Palombaro|tute da palombaro]] e mantengono l'acqua in funzione per le famiglie sotto la superficie[^7]. Esempi: [[Miglio]], [[Orzo]][^7]
+3. **Custodi** - Funzione non ancora chiara. Potrebbero essere dei leoni, in base al sigillo di ceralacca (muso felino con criniera) sul biglietto ricevuto da [[Vanya]][^6]. Il [[Catrador]] dei Liberi dovrebbe essere in superficie a tenere d'occhio i nuovi arrivati: è molto grande e ha una criniera[^7]
 
 Agiscono per conto di "LA VIA"[^1].
 
@@ -33,6 +33,7 @@ Agiscono per conto di "LA VIA"[^1].
 - **Sessione 9**: [[Murr]] menziona il patto con i Liberi e spiega i tre alfabeti[^2].
 - **Sessione 15**: Ragni dei Liberi cercano di comunicare con [[Fryolin]] in silvano: "Sei un guerriero contro i liberi?" e "Noi vogliamo solamente pa-" (interrotto)[^5].
 - **Sessione 17**: L'anello di [[Vanya]] tocca la cassa di [[Eric]] e la cassa rivela: "Voi avete aperto una connessione con i Liberi"[^6]. La cassa conferma che la V non rappresenta [[Viredesh]][^6]. [[Rem]] in passato aveva parlato di "il Rosso" che non vuole ci si avvicini al pilastro; la cassa dice che "è da molto che non si fa chiamare così" e che [[Zamoraz]] lo ha già visto[^6].
+- **Sessione 18**: Il gruppo incontra gli Studiosi (topi) sotto la [[Fontana]][^7]. [[Miglio]] spiega il saluto: alzare il braccio e chiedere "La via?"; chi conosce il saluto completo è un Libero[^7]. I topi chiamano "banditi" i nuovi arrivati sull'isola ("Banditi da Targea"), e devono capire chi è pericoloso e chi no[^7]. I ragni sono irraggiungibili perché "banditi" in superficie impediscono la comunicazione[^7]. La cassa di [[Eric]] dice a [[Pagrax]] che i Liberi sono banditi e che Pagrax è una minaccia più grande di [[Viredesh]][^7].
 
 ## Possibili Connessioni
 
@@ -48,3 +49,4 @@ I Tre Suoni (risata, lamento di dolore, ruggito) potrebbero essere collegati all
 [^4]: [[Timeline/Timeline|Sessione 01]]
 [^5]: [[Timeline/Timeline|Sessione 15]]
 [^6]: [[Riepiloghi/Ignemir/Sessione 17]]
+[^7]: [[Riepiloghi/Ignemir/Sessione 18]]

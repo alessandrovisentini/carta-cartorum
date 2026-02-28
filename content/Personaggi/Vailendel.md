@@ -23,6 +23,7 @@ Vailendel è un membro del gruppo con abilità magiche, inclusa la lettura del p
 - **Sessione 12**: Parte nel gruppo di soccorso alla [[Fontana]][^8].
 - **Sessione 16**: Riceve da [[Ignemir]] la spada lunga in [[Nerivium]] (presa dai Giganti del fuoco)[^9]. Combatte contro lupi e creature della [[Caccia Originale]][^9]. Salva [[Eric]] facendogli bere una pozione di guarigione[^9].
 - **Sessione 17**: La [[Scimitarra del Gelo Eterno]] di [[Zamoraz]] gli ricorda le armi dei mostri della [[Caccia Selvaggia]] fronteggiati con [[Eric]] e [[Ignemir]][^10]. Propone la teoria che [[Argan e Asvad]] siano in realtà un unico genio appassionato di teatro[^10]. Legge il pensiero di [[Awen Seife]]: vede puntini rossi che diventano immagini di frustrazione, dolore, Eric e i suoi pezzi che Awen cerca di rimettere insieme più volte senza riuscirci[^10]. Propone di stabilizzare le due ancore ancora rischiose[^11].
+- **Sessione 18**: Porta con sé una delle ancore incomplete di [[Awen Seife|Awen]] (portale tra due luoghi distanti)[^12]. Cerca di trovare un accordo tra il [[Lupercalico]] e [[Murr]], proponendo di usare il secondo desiderio per potenziare l'[[Ancora Spaziale|ancora]][^12]. Prova a lanciare amicizia sul Lupercalico ma non conosce l'incantesimo[^12]. Posiziona l'ancora in un corridoio laterale barricato sotto la [[Fontana]], nascondendola sotto macerie[^12]. Dopo il passaggio attraverso l'ancora, avrà una parte del corpo che prude per la prossima sessione[^12].
 
 ## Note
 
@@ -44,3 +45,4 @@ Vailendel è un membro del gruppo con abilità magiche, inclusa la lettura del p
 [^9]: [[Riepiloghi/Ignemir/Sessione 16]]
 [^10]: [[Riepiloghi/Ignemir/Sessione 17]]
 [^11]: [[Riepiloghi/Opalix/Sessione 17]]
+[^12]: [[Riepiloghi/Ignemir/Sessione 18]]

@@ -19,6 +19,7 @@ Rosanno è un guerriero del gruppo, esperto in combattimento[^1]. Ha una pistola
 - **Sessione 12**: Parte nel gruppo di soccorso alla [[Fontana]][^5].
 - **Sessione 15**: Cucina a [[La Rocca dei Conflitti]] insieme a [[Zamoraz]][^6].
 - **Sessione 17**: Menziona un amico di nome **Hegel**[^7]. Aiuta a mettere a posto la stanza di [[Awen Seife]] dopo l'esplosione[^8].
+- **Sessione 18**: Aiuta [[Ignemir]] a spostare i resti dell'ascensore sotto la [[Fontana]][^9]. Estrae la pistola contro il [[Lupercalico]][^9]. Spinge il Lupercalico mentre è in volo, facendo cadere una chiave dalla sua mano (recuperata da [[Hoot]])[^9]. Nota che le luci blu delle [[Gemme del Vuoto]] stanno diventando rosse[^9].
 
 ---
 
@@ -32,3 +33,4 @@ Rosanno è un guerriero del gruppo, esperto in combattimento[^1]. Ha una pistola
 [^6]: [[Timeline/Timeline|Sessione 15]]
 [^7]: [[Riepiloghi/Ignemir/Sessione 17]]
 [^8]: [[Riepiloghi/Zamoraz/Sessione 17]]
+[^9]: [[Riepiloghi/Ignemir/Sessione 18]]

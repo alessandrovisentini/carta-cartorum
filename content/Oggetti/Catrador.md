@@ -28,6 +28,7 @@ La cassa di [[Eric]] conferma che Catrador "è un titolo perso nel tempo. Un tit
 - **Sessione 9**: [[Murr]] rivela che il simbolo Y rappresenta Catrador[^2].
 - **Sessione 14**: La cassa dice a [[Eric]] che Catrador è "un titolo perso nel tempo"[^5].
 - **Sessione 17**: [[Opalix]] ricorda che [[Murr]] disse che Y è il simbolo del Catrador dei Liberi[^4]. La ceralacca del biglietto viene riconosciuta come un leone[^4]. [[Awen Seife]] rivela di aver menzionato il catrador alla Corte Splendente, causando una reazione estrema[^3].
+- **Sessione 18**: Il [[Lupercalico]] conferma che Catrador è il titolo del suo sire, che chiama "il Giullare", signore di un'altra Corte[^6]. [[Orzo]] dice che il loro Catrador dovrebbe essere in superficie a tenere d'occhio i nuovi arrivati: "è molto grande, ha una criniera"[^6].
 
 ---
 
@@ -38,3 +39,4 @@ La cassa di [[Eric]] conferma che Catrador "è un titolo perso nel tempo. Un tit
 [^3]: [[Riepiloghi/Zamoraz/Sessione 17]]
 [^4]: [[Riepiloghi/Ignemir/Sessione 17]]
 [^5]: [[Riepiloghi/Zamoraz/Sessione 14]]
+[^6]: [[Riepiloghi/Ignemir/Sessione 18]]

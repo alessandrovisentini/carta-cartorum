@@ -19,14 +19,16 @@ Pagrax è un membro del gruppo con conoscenze sulla [[Caccia Selvaggia]] e capac
 - **Sessione 13**: Guida la spedizione al [[Vulcano]] attraverso l'[[Ancora Spaziale]][^5]. Tocca lo scudo dell'Annunciatoio e si ferisce[^5]. Confessa il patto con i [[Argan e Asvad|Geni del Fuoco]] a [[Clan Oven|Re Tregron Oven]][^5]. Cede l'ancora al re[^5]. Prende una forchetta in [[Nerivium]][^5]. **Evento misterioso**: avvicina una spada in Neridium al proprio occhio e la assorbe senza rendersene conto[^5].
 - **Sessione 15**: Fa il barista a [[La Rocca dei Conflitti]][^6]. Un aasimar gli trasmette visioni di creature meccaniche simili a fate costruite con sangue di [[Megadon]][^6].
 - **Sessione 17**: Riconosce il circolo di divinazione nella stanza di [[Awen Seife]] dopo l'esplosione[^7]. Chiede ad Awen della statua e di [[Lysantir Seife]][^7]. Riceve la cassa da [[Eric]], che lo ritiene l'unico abbastanza potente da resistere alla sua influenza[^8]. Dietro il focus arcano nell'occhio vuoto di Pagrax, Eric vede una faccetta sorridente fatta di lucine[^8]. Supervisiona la cerimonia lunare di Eric[^8].
+- **Sessione 18**: Si presenta alla cassa come "Pagrax Tornworth, figlio della casata Traxejean"[^9]. Comunica telepaticamente con la cassa di [[Eric]] chiedendo di [[Viredesh]] e del legame tra [[Caccia Selvaggia]] e [[Fazioni/Liberi|Liberi]][^9]. La cassa lo avverte che ospita in sé qualcosa che essa non vorrebbe vedere e minaccia conseguenze[^9]. Ottiene 3 livelli di stanchezza, il corpo si prosciuga e le estremità formicolano[^9]. La cassa lo definisce "una minaccia più grande di Viredesh"[^9].
 
 ## Natura del Potere
 
-L'origine del potere di Pagrax è mista (druido + warlock) e innaturale[^8]. Eric non riesce a collegarlo a nessun credo conosciuto[^8]. Ha una cavità oculare vuota da cui vede senza problemi[^8].
+L'origine del potere di Pagrax è mista (druido + warlock) e innaturale[^8]. Eric non riesce a collegarlo a nessun credo conosciuto[^8]. Ha una cavità oculare vuota da cui vede senza problemi[^8]. La cassa di Eric percepisce in Pagrax qualcosa di pericoloso e lo ritiene una minaccia[^9].
 
 ## Note
 
 - "Speranza non muore ma fiducia sì" è diventato un detto del gruppo[^1]
+- Nome completo: Pagrax Tornworth, figlio della casata Traxejean[^9]
 
 ---
 
@@ -40,3 +42,4 @@ L'origine del potere di Pagrax è mista (druido + warlock) e innaturale[^8]. Eri
 [^6]: [[Timeline/Timeline|Sessione 15]]
 [^7]: [[Riepiloghi/Zamoraz/Sessione 17]]
 [^8]: [[Riepiloghi/Ignemir/Sessione 17]]
+[^9]: [[Riepiloghi/Ignemir/Sessione 18]]

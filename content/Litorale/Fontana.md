@@ -35,6 +35,7 @@ Una vasca profonda 60m contiene: anelli con pietre preziose, medaglioni con perl
 - **Sessione 9**: Il gruppo esplora il palazzo sotterraneo e incontra [[Murr]][^2].
 - **Sessione 11**: Il gruppo incontra gli evasi alla fontana[^3]. Inizia l'[[Attacco della Caccia Selvaggia]][^3].
 - **Sessione 12**: Le [[Creature di Ghiaccio]] attaccano la fontana[^4]. L'ascensore viene distrutto durante il salvataggio[^4].
+- **Sessione 18**: Il gruppo ritorna alla fontana, che continua ad erogare acqua nonostante il ghiaccio[^5]. Si vedono le conseguenze della palla di fuoco di [[Vanya]][^5]. L'ascensore è distrutto: i resti vengono spostati per liberare la via[^5]. Il [[Lupercalico]] viene trovato nella sala di [[Murr]] e rompe la teca di vetro, liberando il genio[^5]. [[Murr]] esaudisce tre desideri e poi scompare, catturato dalla V[^5]. Le [[Gemme del Vuoto]] passano da luce blu a rossa, segnalando pericolo[^5]. In stanze adiacenti vengono scoperti i topi ([[Miglio]], [[Orzo]]), che sono gli Studiosi dei [[Fazioni/Liberi|Liberi]] e mantengono il flusso d'acqua[^5]. [[Vailendel]] posiziona un'[[Ancora Spaziale|ancora]] in un corridoio laterale barricato[^5].
 
 ---
 
@@ -44,3 +45,4 @@ Una vasca profonda 60m contiene: anelli con pietre preziose, medaglioni con perl
 [^2]: [[Riepiloghi/Zamoraz/Sessione 9]]
 [^3]: [[Riepiloghi/Zamoraz/Sessione 11]]
 [^4]: [[Riepiloghi/Zamoraz/Sessione 12]]
+[^5]: [[Riepiloghi/Ignemir/Sessione 18]]

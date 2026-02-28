@@ -29,6 +29,7 @@ La cassa di [[Eric]] afferma chiaramente che la V che si trova in giro NON sta p
 
 - **Sessione 16**: [[Eric]] chiede alla cassa informazioni e scopre il nome Viredesh come leader della [[Caccia Originale]][^4]. La cassa rimane in silenzio quando Eric chiede se Viredesh è amico o nemico[^4].
 - **Sessione 17**: [[Pagrax]] rivela la storia di Viredesh come drago caduto[^1]. [[Opalix]] e [[Vailendel]] aggiungono che è stato sconfitto da un'alleanza tra draghi e non-draghi[^1]. La cassa conferma che la V non rappresenta Viredesh[^3].
+- **Sessione 18**: [[Pagrax]] chiede alla cassa se Viredesh è ancora in vita. La cassa risponde che non si sa se sia vivo o semplicemente scomparso, ed è difficile comprendere quando una tale calamità si spegne[^5]. La sua esistenza e il suo ricordo sono un pericolo: il fatto che il nome esista ancora è un problema[^5].
 
 ---
 
@@ -38,3 +39,4 @@ La cassa di [[Eric]] afferma chiaramente che la V che si trova in giro NON sta p
 [^2]: [[Riepiloghi/Zamoraz/Sessione 17]]
 [^3]: [[Riepiloghi/Ignemir/Sessione 17]]
 [^4]: [[Riepiloghi/Ignemir/Sessione 16]]
+[^5]: [[Riepiloghi/Ignemir/Sessione 18]]

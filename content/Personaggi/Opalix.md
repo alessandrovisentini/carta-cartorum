@@ -18,6 +18,7 @@ Opalix è un changeling del gruppo, con abilità magiche di incantamento[^1]. Pu
 - **Sessione 12**: Intrappolato nella [[Fontana]] durante l'[[Attacco della Caccia Selvaggia]][^4]. [[Awen Seife]] crea una statua in sua forma che può comunicare con lui a distanza[^4].
 - **Sessione 15**: Sta al bar e disegna bersagli a pagamento a [[La Rocca dei Conflitti]][^5]. Usa la penna magica per le comande[^5].
 - **Sessione 17**: Analizza il biglietto dei [[Fazioni/Liberi|Liberi]]: la carta aveva proprietà magiche di trasmutazione ora esaurite, con residui nella lettera miniata verde della Y[^6]. Collega i tre mostri del trip da funghetti ai due alfabeti decifrati[^6]. Riconosce che la ceralacca del biglietto di [[Vanya]] non è un trifoglio e un sole ma un muso felino con criniera (leone)[^6]. Ricorda che [[Murr]] disse che Y è il simbolo del [[Catrador]] dei Liberi[^6]. Nella stanza di [[Awen Seife]] dopo l'esplosione, la V lo inquieta nel rapporto con la propria magia[^7].
+- **Sessione 18**: Guida designata della missione[^8]. Usa detect magic su [[Hoot]] (nulla di strano sui tatuaggi rossi)[^8]. Ha con sé una fiala curativa e un pezzo di carta con energia di trasmutazione[^8]. Descrive i pinguini a [[Rosanno]][^8]. Lancia amicizia sul [[Lupercalico]], ma l'incantesimo viene riflesso su di lui[^8]. Sotto l'influenza del Lupercalico, colpisce il vetro della teca con il suo libro degli incantesimi[^8]. Una magia di comprensione del linguaggio rimbalza dal libro: perde il draconico e l'elfico, impara il primordiale e la lingua degli orchi[^8]. Incontra i topi Studiosi ([[Miglio]]) e chiede di [[Rem]][^8]. Mostra la pergamena con i tre alfabeti a [[Miglio]][^8]. Chiede ai topi cosa fa il loro [[Catrador]][^8].
 
 ---
 
@@ -30,3 +31,4 @@ Opalix è un changeling del gruppo, con abilità magiche di incantamento[^1]. Pu
 [^5]: [[Timeline/Timeline|Sessione 15]]
 [^6]: [[Riepiloghi/Ignemir/Sessione 17]]
 [^7]: [[Riepiloghi/Zamoraz/Sessione 17]]
+[^8]: [[Riepiloghi/Ignemir/Sessione 18]]

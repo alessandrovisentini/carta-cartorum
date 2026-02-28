@@ -23,6 +23,10 @@ Si attiva con la parola chiave "Merla Vulpercarico"[^2].
 
 Il gruppo possiede 3 ancore in totale: una sola è stabilizzata, le altre 2 sono ancora rischiose da usare[^5]. [[Vailendel]] propone di trovare modi per stabilizzare anche le altre due, per muoversi più facilmente[^5].
 
+Una delle ancore incomplete (portale che collega due posti lontani) è stata potenziata da [[Murr]] come secondo desiderio ed è ora funzionante[^6]. [[Vailendel]] l'ha posizionata in un corridoio laterale barricato sotto la [[Fontana]], nascosta sotto alcune macerie[^6]. Il portale consente di sentire i compagni al villaggio (tra cui [[Bran Lapillo|Bran]])[^6].
+
+Il passaggio attraverso il portale può causare effetti collaterali temporanei[^6].
+
 ## Il Patto coi Geni
 
 I [[Geni del Fuoco]] hanno modificato l'ancora in cambio di un patto[^3]:
@@ -39,3 +43,4 @@ I [[Geni del Fuoco]] hanno modificato l'ancora in cambio di un patto[^3]:
 [^3]: [[Riepiloghi/Zamoraz/Sessione 10]]
 [^4]: [[Riepiloghi/Zamoraz/Sessione 13]]
 [^5]: [[Riepiloghi/Opalix/Sessione 17]]
+[^6]: [[Riepiloghi/Ignemir/Sessione 18]]
