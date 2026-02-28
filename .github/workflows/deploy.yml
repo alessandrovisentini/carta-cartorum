@@ -37,6 +37,11 @@ jobs:
         env:
           BASE_URL: alessandrovisentini.github.io/carta-cartorum
 
+      - name: Generate changelogs
+        run: |
+          chmod +x generate-changelog.sh
+          ./generate-changelog.sh public/changelog
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
@@ -107,6 +112,7 @@ jobs:
           echo "EOF" >> $GITHUB_OUTPUT
 
       - name: Create release
+        id: create-release
         if: steps.changed-files.outputs.has_changes == 'true'
         env:
           GH_TOKEN: ${{ github.token }}
@@ -119,6 +125,8 @@ jobs:
             MINOR=$(echo "$LAST_TAG" | sed 's/v0\.\([0-9]*\)\..*/\1/')
             NEW_TAG="v0.$((MINOR + 1)).0"
           fi
+
+          echo "new_tag=$NEW_TAG" >> $GITHUB_OUTPUT
 
           gh release create "$NEW_TAG" \
             --title "Wiki Update $NEW_TAG" \
@@ -168,8 +176,11 @@ jobs:
           FILE_LIST: ${{ steps.changed-files.outputs.file_list }}
           COMMIT_LIST: ${{ steps.commit-messages.outputs.commit_list }}
           PAGE_URL: ${{ needs.deploy.outputs.page_url }}
+          NEW_TAG: ${{ steps.create-release.outputs.new_tag }}
         run: |
-          MESSAGE=$(printf '📜 **La Wiki è stata aggiornata!**\n\n**Commit:**\n%s\n**Pagine modificate:**\n%s\n🔗 Visita la wiki: %s' "$COMMIT_LIST" "$FILE_LIST" "$PAGE_URL")
+          CHANGELOG_URL="${PAGE_URL}changelog/${NEW_TAG}.html"
+
+          MESSAGE=$(printf '📜 **La Wiki è stata aggiornata!**\n\n**Commit:**\n%s\n**Pagine modificate:**\n%s\n📝 Vedi le modifiche: %s\n🔗 Visita la wiki: %s' "$COMMIT_LIST" "$FILE_LIST" "$CHANGELOG_URL" "$PAGE_URL")
 
           PAYLOAD=$(jq -n --arg msg "$MESSAGE" '{content: $msg}')
 

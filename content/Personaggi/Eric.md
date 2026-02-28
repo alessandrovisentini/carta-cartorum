@@ -8,7 +8,7 @@
 
 ## Descrizione
 
-Eric è un membro del gruppo che possiede una misteriosa cassa, una reliquia del tempio della luna[^1]. Ha una connessione particolare con il [[Megadon]] - le città in rovina sul suo corpo gli sono familiari[^2]. È un sacerdote di **Elunaui**, una religione semiscomparsa da secoli[^3].
+Eric è un membro del gruppo che possiede una misteriosa cassa, una reliquia del Tempio della Luna[^1]. Ha una connessione particolare con il [[Megadon]] - le città in rovina sul suo corpo gli sono familiari[^2]. È un sacerdote di **Elunaui**, una religione semiscomparsa da secoli[^3].
 
 ## L'Anello di Eric
 
