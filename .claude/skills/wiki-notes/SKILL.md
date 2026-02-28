@@ -33,6 +33,7 @@ Usa `/wiki-notes` seguito dal tipo di operazione:
   - `Oggetti/` - Oggetti e artefatti
   - `Eventi/` - Eventi significativi
   - `Pantheon/` - Divinità e religioni
+- **Timeline:** `Timeline/Timeline.md` - Riepilogo cronologico di tutte le sessioni
 - **Nuove Destinazioni**
   - Puoi creare nuove destinazioni se inesistenti
 
@@ -158,6 +159,34 @@ Simon può trasformarsi in mannaro[^1] e ha stretto un'alleanza con il gruppo[^2
 4. Aggiorna la sezione "Storia nelle Sessioni" con nuove note `[^N]`
 5. Aggiungi le nuove fonti alla sezione Fonti (continua la numerazione)
 6. NON modificare informazioni esistenti a meno che siano errate
+
+### Timeline
+
+Quando si processa una nuova sessione (non ancora presente in `Timeline/Timeline.md`), aggiungere un riepilogo cronologico alla Timeline.
+
+**Formato:**
+
+```markdown
+---
+
+## Sessione XX - [Titolo breve]
+
+|              |                |
+| ------------ | -------------- |
+| Data         | [GG/MM/AAAA]  |
+
+[Riepilogo in un singolo paragrafo]
+
+**Riepiloghi:** [[Riepiloghi/Sottocartella/Sessione XX|Sessione XX (Personaggio)]]
+```
+
+**Regole:**
+- Il riepilogo deve essere un **singolo paragrafo** continuo, della stessa lunghezza degli altri nella Timeline
+- Leggi le sessioni precedenti nella Timeline per calibrare tono e lunghezza
+- Includi solo gli eventi principali, non ogni dettaglio
+- Usa lo stesso stile narrativo delle altre sessioni (terza persona, tempo presente)
+- Collega i link alle sessioni di tutte le prospettive disponibili (es. Ignemir, Zamoraz, Opalix)
+- Se la sessione appartiene a un nuovo Blocco, aggiungi l'intestazione `# Blocco N` prima della sessione
 
 ## Esempi di Formato
 
