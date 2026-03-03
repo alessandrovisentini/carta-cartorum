@@ -29,6 +29,7 @@ La cassa di [[Eric]] conferma che Catrador "è un titolo perso nel tempo. Un tit
 - **Sessione 14**: La cassa dice a [[Eric]] che Catrador è "un titolo perso nel tempo"[^5].
 - **Sessione 17**: [[Opalix]] ricorda che [[Murr]] disse che Y è il simbolo del Catrador dei Liberi[^4]. La ceralacca del biglietto viene riconosciuta come un leone[^4]. [[Awen Seife]] rivela di aver menzionato il catrador alla Corte Splendente, causando una reazione estrema[^3].
 - **Sessione 18**: Il [[Lupercalico]] conferma che Catrador è il titolo del suo sire, che chiama "il Giullare", signore di un'altra Corte[^6]. [[Orzo]] dice che il loro Catrador dovrebbe essere in superficie a tenere d'occhio i nuovi arrivati: "è molto grande, ha una criniera"[^6].
+- **Sessione 19**: La parola "catrador" viene trovata anche sulla chiave del [[Lupercalico]], scritta in silvano, insieme ai due simboli del [[Il Cuneo|cuneo]] e alla parola "olwen" in un mix di druidico e comune[^7]. I ragni informatori raccontano una storia in cui menzionano i catrador come entità con cui vivevano insieme ai custodi e ai cercatori[^7]. In un'altra storia, i catrador non ci sono più, tutti tranne uno "Y", che è in due forme: YEORL e YWAVEN — "sono 2 Y ma una persona"[^7]. [[Merla]] chiede se Y è un leone e i ragni ruggiscono in risposta[^7].
 
 ---
 
@@ -40,3 +41,4 @@ La cassa di [[Eric]] conferma che Catrador "è un titolo perso nel tempo. Un tit
 [^4]: [[Riepiloghi/Ignemir/Sessione 17]]
 [^5]: [[Riepiloghi/Zamoraz/Sessione 14]]
 [^6]: [[Riepiloghi/Ignemir/Sessione 18]]
+[^7]: [[Riepiloghi/Pagrax/Sessione 19]]

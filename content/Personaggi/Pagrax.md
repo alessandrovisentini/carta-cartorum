@@ -20,6 +20,7 @@ Pagrax è un membro del gruppo con conoscenze sulla [[Caccia Selvaggia]] e capac
 - **Sessione 15**: Fa il barista a [[La Rocca dei Conflitti]][^6]. Un aasimar gli trasmette visioni di creature meccaniche simili a fate costruite con sangue di [[Megadon]][^6].
 - **Sessione 17**: Riconosce il circolo di divinazione nella stanza di [[Awen Seife]] dopo l'esplosione[^7]. Chiede ad Awen della statua e di [[Lysantir Seife]][^7]. Riceve la cassa da [[Eric]], che lo ritiene l'unico abbastanza potente da resistere alla sua influenza[^8]. Dietro il focus arcano nell'occhio vuoto di Pagrax, Eric vede una faccetta sorridente fatta di lucine[^8]. Supervisiona la cerimonia lunare di Eric[^8].
 - **Sessione 18**: Si presenta alla cassa come "Pagrax Tornworth, figlio della casata Traxejean"[^9]. Comunica telepaticamente con la cassa di [[Eric]] chiedendo di [[Viredesh]] e del legame tra [[Caccia Selvaggia]] e [[Fazioni/Liberi|Liberi]][^9]. La cassa lo avverte che ospita in sé qualcosa che essa non vorrebbe vedere e minaccia conseguenze[^9]. Ottiene 3 livelli di stanchezza, il corpo si prosciuga e le estremità formicolano[^9]. La cassa lo definisce "una minaccia più grande di Viredesh"[^9].
+- **Sessione 19**: Apre una bottiglia di Nocivo prenotata da [[Uruan]], con l'idea di rabboccarla con della neve[^10]. Quando [[Vanya]] chiede del suo patrono, ammette di saperne quanto loro e lo chiama "Ignazio", ma cambia discorso in fretta[^10]. Convince [[Hoot]] a riempire la bottiglia con la neve[^10]. Osservando la [[Chiave con Labirinto|chiave]] del [[Lupercalico]], riconosce sulla chiave gli stessi simboli presenti sul [[Il Cuneo|cuneo]], la parola "[[Catrador]]" in silvano e la parola "olwen" in un mix di druidico e comune[^10]. Parla con [[Amigo]] (rospo) e [[Racafatacost]] (ragno) estratti dal cappello di [[Merla]][^10]. Uccide una creaturina d'aglio durante il [[Eventi/Furto alla Rocca dei Conflitti|furto al bar]][^10]. Intuisce che il ravanello lasciato dal ladro è infuso di magia[^10]. Riceve da Vanya l'anello e la chiave per indagarci[^10].
 
 ## Natura del Potere
 
@@ -29,6 +30,7 @@ L'origine del potere di Pagrax è mista (druido + warlock) e innaturale[^8]. Eri
 
 - "Speranza non muore ma fiducia sì" è diventato un detto del gruppo[^1]
 - Nome completo: Pagrax Tornworth, figlio della casata Traxejean[^9]
+- Il suo patrono si chiama "Ignazio" (o almeno così lo chiama lui)[^10]
 
 ---
 
@@ -43,3 +45,4 @@ L'origine del potere di Pagrax è mista (druido + warlock) e innaturale[^8]. Eri
 [^7]: [[Riepiloghi/Zamoraz/Sessione 17]]
 [^8]: [[Riepiloghi/Ignemir/Sessione 17]]
 [^9]: [[Riepiloghi/Ignemir/Sessione 18]]
+[^10]: [[Riepiloghi/Pagrax/Sessione 19]]

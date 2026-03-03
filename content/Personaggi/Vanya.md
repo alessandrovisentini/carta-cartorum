@@ -27,6 +27,7 @@ Ha fatto un patto con **Ilev Saaj**, la dea delle frodi[^3]. Porta un anello che
 - **Sessione 12**: Intrappolata nella [[Fontana]], esce e aiuta nel combattimento contro le [[Creature di Ghiaccio]][^7].
 - **Sessione 14**: Parla con [[Luciano]] che le racconta la sua storia[^8]. Accompagna [[Eric]] e [[Zamoraz]] al [[Megadon]][^8]. Esplora il faro con Eric[^8].
 - **Sessione 17**: Cerca orefici in giro per il villaggio: sulla [[Rivalsa]] ci sono persone che sanno lavorare le pietre[^9]. Il suo anello, appoggiato alla cassa di [[Eric]], la trasforma in uno specchio/disco fluttuante[^9]. L'anello posto sopra la Y della pergamena la fa illuminare[^9]. Nella stanza di [[Awen Seife]] trova strumenti distrutti e una [[Gemme del Vuoto|gemma del vuoto]] scarica[^10].
+- **Sessione 19**: Beve il Nocivo di [[Uruan]] e con il "coraggio liquido" fa spostare il cappuccio di [[Hoot]] per vederlo, causando una scaramuccia[^11]. Chiede a [[Pagrax]] del suo patrono[^11]. Sprona il gruppo a partire all'avventura[^11]. Usa una palla di fuoco contro la figura misteriosa durante il [[Eventi/Furto alla Rocca dei Conflitti|furto al bar]], mandandola a terra e bruciandole i vestiti[^11]. Viene ferita gravemente da una creaturina d'aglio[^11]. Uccide l'ultimo aglio con un fulmine preciso[^11]. Consegna l'anello e la [[Chiave con Labirinto|chiave]] a [[Pagrax]] per le indagini[^11].
 
 ---
 
@@ -42,3 +43,4 @@ Ha fatto un patto con **Ilev Saaj**, la dea delle frodi[^3]. Porta un anello che
 [^8]: [[Riepiloghi/Zamoraz/Sessione 14]]
 [^9]: [[Riepiloghi/Ignemir/Sessione 17]]
 [^10]: [[Riepiloghi/Zamoraz/Sessione 17]]
+[^11]: [[Riepiloghi/Pagrax/Sessione 19]]

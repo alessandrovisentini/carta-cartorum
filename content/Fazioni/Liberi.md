@@ -34,6 +34,7 @@ Agiscono per conto di "LA VIA"[^1].
 - **Sessione 15**: Ragni dei Liberi cercano di comunicare con [[Fryolin]] in silvano: "Sei un guerriero contro i liberi?" e "Noi vogliamo solamente pa-" (interrotto)[^5].
 - **Sessione 17**: L'anello di [[Vanya]] tocca la cassa di [[Eric]] e la cassa rivela: "Voi avete aperto una connessione con i Liberi"[^6]. La cassa conferma che la V non rappresenta [[Viredesh]][^6]. [[Rem]] in passato aveva parlato di "il Rosso" che non vuole ci si avvicini al pilastro; la cassa dice che "è da molto che non si fa chiamare così" e che [[Zamoraz]] lo ha già visto[^6].
 - **Sessione 18**: Il gruppo incontra gli Studiosi (topi) sotto la [[Fontana]][^7]. [[Miglio]] spiega il saluto: alzare il braccio e chiedere "La via?"; chi conosce il saluto completo è un Libero[^7]. I topi chiamano "banditi" i nuovi arrivati sull'isola ("Banditi da Targea"), e devono capire chi è pericoloso e chi no[^7]. I ragni sono irraggiungibili perché "banditi" in superficie impediscono la comunicazione[^7]. La cassa di [[Eric]] dice a [[Pagrax]] che i Liberi sono banditi e che Pagrax è una minaccia più grande di [[Viredesh]][^7].
+- **Sessione 19**: Un rospo ([[Amigo]]) estratto dal cappello di [[Merla]] non dà risposte chiare sull'essere un Libero: "l'unica risposta possibile è che lo è"[^8]. Descrive i pilastri come "alberi scuri con foglie rosse"[^8]. Un ragno ([[Racafatacost]]) e la sua dozzina di compagni si rivelano non essere cercatori, ma "quelli che informano i cercatori"[^8]. Attendono la serata attorno alla tela in cui un cercatore racconta una storia con tutti i suoi intrecci[^8]. Dicono che il gruppo non può partecipare perché "vivono nei posti che cambiano" e hanno schiacciato loro amici[^8]. Raccontano la storia del grande albero, che era enorme poi è morto e diventato triste e curvo, perdendo le "zampe"[^8]. Abitavano con custodi, cercatori e i catrador[^8]. In un'altra storia i catrador non ci sono più, tranne uno "Y" in due forme: YEORL e YWAVEN[^8]. Quando [[Merla]] chiede se Y è un leone, i ragni ruggiscono; quando menziona "V", si disperdono[^8]. Un topo ([[NPC/37|37]]) dice di essere uno studioso, vive in un laboratorio sotterraneo dove altri topi sperimentano su di lui facendogli trovare una pietra nera[^8].
 
 ## Possibili Connessioni
 
@@ -50,3 +51,4 @@ I Tre Suoni (risata, lamento di dolore, ruggito) potrebbero essere collegati all
 [^5]: [[Timeline/Timeline|Sessione 15]]
 [^6]: [[Riepiloghi/Ignemir/Sessione 17]]
 [^7]: [[Riepiloghi/Ignemir/Sessione 18]]
+[^8]: [[Riepiloghi/Pagrax/Sessione 19]]
