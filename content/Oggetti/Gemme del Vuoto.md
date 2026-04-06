@@ -20,6 +20,7 @@ Non sono una risorsa mineraria estratta, ma una sostanza amorfa generata da lavo
 - **Sessione 9**: Nel palazzo sotterraneo sotto la [[Fontana]], [[Ignemir]] riconosce le gemme che brillano intorno all'acquario di [[Murr]][^1]. Le luci diventano più chiare nel tempo[^1].
 - **Sessione 14**: Nel faro sulla città del [[Megadon]], il gruppo trova una gemma del vuoto **caricata di rosso** che alimenta il sistema di luce[^2]. È leggermente instabile. Moli la stacca prendendo danno[^2].
 - **Sessione 18**: Le gemme illuminano di luce blu la sala di [[Murr]][^4]. Dopo la distruzione della teca, le luci blu diventano rosse, segnalando pericolo[^4].
+- **Sessione 21**: Nel [[Panopticon Carcerario]] le gemme del vuoto sono azzurre[^5]. Dopo un'ora di permanenza, virano all'arancione[^5].
 
 ## Tipi Conosciuti
 
@@ -35,3 +36,4 @@ Non sono una risorsa mineraria estratta, ma una sostanza amorfa generata da lavo
 [^2]: [[Riepiloghi/Zamoraz/Sessione 14]]
 [^3]: [[Riepiloghi/Zamoraz/Sessione 17]]
 [^4]: [[Riepiloghi/Ignemir/Sessione 18]]
+[^5]: [[Riepiloghi/Ignemir/Sessione 21]]

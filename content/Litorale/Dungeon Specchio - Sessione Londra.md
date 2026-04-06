@@ -11,6 +11,8 @@
 
 Dungeon sotterraneo in cui [[Fryolin]] e [[Loskio Menenghio]] vengono teletrasportati accidentalmente invece che alle Corti Fatate[^1]. Il luogo è buio, illuminato da gemme del vuoto azzurre[^2], e presenta elementi inquietanti come porte intrappolate e creature mostruose.
 
+**Nota**: Questo dungeon corrisponde al [[Panopticon Carcerario]], accessibile anche tramite lo [[Specchio dei Liberi]].
+
 ## Caratteristiche
 
 ### Serrature Intrappolate

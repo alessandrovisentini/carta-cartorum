@@ -28,6 +28,7 @@ Ha fatto un patto con **Ilev Saaj**, la dea delle frodi[^3]. Porta un anello che
 - **Sessione 14**: Parla con [[Luciano]] che le racconta la sua storia[^8]. Accompagna [[Eric]] e [[Zamoraz]] al [[Megadon]][^8]. Esplora il faro con Eric[^8].
 - **Sessione 17**: Cerca orefici in giro per il villaggio: sulla [[Rivalsa]] ci sono persone che sanno lavorare le pietre[^9]. Il suo anello, appoggiato alla cassa di [[Eric]], la trasforma in uno specchio/disco fluttuante[^9]. L'anello posto sopra la Y della pergamena la fa illuminare[^9]. Nella stanza di [[Awen Seife]] trova strumenti distrutti e una [[Gemme del Vuoto|gemma del vuoto]] scarica[^10].
 - **Sessione 19**: Beve il Nocivo di [[Uruan]] e con il "coraggio liquido" fa spostare il cappuccio di [[Hoot]] per vederlo, causando una scaramuccia[^11]. Chiede a [[Pagrax]] del suo patrono[^11]. Sprona il gruppo a partire all'avventura[^11]. Usa una palla di fuoco contro la figura misteriosa durante il [[Eventi/Furto alla Rocca dei Conflitti|furto al bar]], mandandola a terra e bruciandole i vestiti[^11]. Viene ferita gravemente da una creaturina d'aglio[^11]. Uccide l'ultimo aglio con un fulmine preciso[^11]. Consegna l'anello e la [[Chiave con Labirinto|chiave]] a [[Pagrax]] per le indagini[^11].
+- **Sessione 21**: Convince [[Bran Lapillo|Bran]] ad entrare nel [[Panopticon Carcerario|dungeon]] con il gruppo mentre [[Awen Seife]] sta meglio[^12]. Fa toccare cassa e anello per aprire lo [[Specchio dei Liberi]][^12]. Lancia l'incantesimo Comando per allontanare il [[Doppelganger]][^12]. Lancia una palla di fuoco contro la porta 6, infliggendo 29 danni[^12]. Il mostro oltre la porta cambia forma[^12]. Usa Tongues sulle scritte del dungeon, ma non riconosce alcun alfabeto noto[^12]. Porge la [[Chiave con Labirinto]] a [[Pagrax]] per aprire la [[Porta con Pelle Mutaforma|porta intrappolata]][^12]. All'uscita dal dungeon assume sembianze maschili[^12].
 
 ---
 
@@ -44,3 +45,4 @@ Ha fatto un patto con **Ilev Saaj**, la dea delle frodi[^3]. Porta un anello che
 [^9]: [[Riepiloghi/Ignemir/Sessione 17]]
 [^10]: [[Riepiloghi/Zamoraz/Sessione 17]]
 [^11]: [[Riepiloghi/Pagrax/Sessione 19]]
+[^12]: [[Riepiloghi/Ignemir/Sessione 21]]

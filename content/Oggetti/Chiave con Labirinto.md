@@ -17,6 +17,7 @@ Una chiave con un labirinto all'estremità, da esporre come oggetto per farsi ri
 - **Sessione 11**: La chiave con gemma rosa apre il collare di Simon[^2].
 - **Sessione 18**: [[Hoot]] recupera una seconda chiave caduta dalla mano del [[Lupercalico]], su cui nota delle scritte[^3].
 - **Sessione 19**: [[Hoot]] mostra la chiave del [[Lupercalico]] (chiamato "il giullare del fauno") al gruppo[^4]. [[Pagrax]] e [[Vanya]] riconoscono sulla chiave gli stessi 2 simboli presenti sul [[Il Cuneo|cuneo]], la parola "[[Catrador]]" in silvano e la parola "olwen" in un mix di druidico e comune[^4]. Vanya consegna anello e chiave a Pagrax per indagarci[^4].
+- **Sessione 21**: [[Vanya]] porge la chiave con il labirinto a [[Pagrax]][^5]. Con mano magica, dalla distanza di 9 metri, Pagrax prova ad aprire la serratura della [[Porta con Pelle Mutaforma|porta intrappolata]][^5]. La chiave, come un magnete, fa di tutto per non entrare[^5].
 
 ---
 
@@ -26,3 +27,4 @@ Una chiave con un labirinto all'estremità, da esporre come oggetto per farsi ri
 [^2]: [[Riepiloghi/Zamoraz/Sessione 11]]
 [^3]: [[Riepiloghi/Ignemir/Sessione 18]]
 [^4]: [[Riepiloghi/Pagrax/Sessione 19]]
+[^5]: [[Riepiloghi/Ignemir/Sessione 21]]
