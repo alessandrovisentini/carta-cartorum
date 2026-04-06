@@ -20,6 +20,7 @@ Rosanno è un guerriero del gruppo, esperto in combattimento[^1]. Ha una pistola
 - **Sessione 15**: Cucina a [[La Rocca dei Conflitti]] insieme a [[Zamoraz]][^6].
 - **Sessione 17**: Menziona un amico di nome **Hegel**[^7]. Aiuta a mettere a posto la stanza di [[Awen Seife]] dopo l'esplosione[^8].
 - **Sessione 18**: Aiuta [[Ignemir]] a spostare i resti dell'ascensore sotto la [[Fontana]][^9]. Estrae la pistola contro il [[Lupercalico]][^9]. Spinge il Lupercalico mentre è in volo, facendo cadere una chiave dalla sua mano (recuperata da [[Hoot]])[^9]. Nota che le luci blu delle [[Gemme del Vuoto]] stanno diventando rosse[^9].
+- **Sessione 20**: Riceve una pozione rosa da [[Ignemir]] con l'indicazione di usarla "se le cose si mettono male"[^10]. Entra nello specchio insieme a [[Eric]][^10]. Tenta di aprire le serrature nel dungeon con la [[Chiave con Labirinto\|chiave del Lupercalico]], attivando trappole di aghi[^10]. Attacca di sorpresa una [[Creature del Dungeon Specchio\|creatura del dungeon]] sparandole in volto con la pistola[^10]. Durante il combattimento viene inghiottito da un mostro e subisce 17 danni da acido prima che [[Eric]] lo costringa a sputarlo[^10]. Si risveglia nella cucina del bar dopo la morte della creatura[^10].
 
 ---
 
@@ -34,3 +35,4 @@ Rosanno è un guerriero del gruppo, esperto in combattimento[^1]. Ha una pistola
 [^7]: [[Riepiloghi/Ignemir/Sessione 17]]
 [^8]: [[Riepiloghi/Zamoraz/Sessione 17]]
 [^9]: [[Riepiloghi/Ignemir/Sessione 18]]
+[^10]: [[Riepiloghi/Ignemir/Sessione 20]]

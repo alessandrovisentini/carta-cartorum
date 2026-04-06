@@ -18,6 +18,7 @@ Non è uno dei [[Fazioni/Liberi|Liberi]][^4]. È in missione per il suo sire, ch
 - **Sessione 8**: La mappa consegnata è di un piccolo tempio votivo dedicato a una creatura del fuoco - divinità elementale della [[I Regni Fatati|corte elementale delle fate]][^3].
 - **Sessione 9**: [[Vanya]] lo rivede mentre prende erba puzzolente contro i cinghiali[^2]. Appare più alto e più giovane[^2]. Vuole un sacchetto con 6 piante e usa un piccolo vortice per farle scomparire[^2].
 - **Sessione 18**: Trovato nel palazzo sotto la [[Fontana]] vicino alla struttura di [[Murr]][^4]. Dice di aver già espresso il suo unico desiderio e offre i restanti due al gruppo[^4]. Intende liberare Murr per conto del suo sire[^4]. Riflette l'incantesimo di amicizia di [[Opalix]] contro di lui[^4]. Colpisce il vetro della teca fino a distruggerla[^4]. Dopo la liberazione di Murr e la sua scomparsa, ride e saltella esaltato: "Ci è cascato! I Geni pensano di essere più furbi"[^4]. [[Rosanno]] lo spinge in volo e una chiave cade dalla sua mano[^4]. Scompare in un turbinio di foglie[^4].
+- **Sessione 20**: La sua [[Chiave con Labirinto|chiave]] viene usata da [[Ignemir]] per tentare di aprire le serrature nel dungeon dello specchio[^5]. La chiave attiva trappole (fiammate, aghi, getti d'aria) ma non apre la porta[^5]. Rimane fredda anche dopo aver attivato una fiammata[^5].
 
 ---
 
@@ -27,3 +28,4 @@ Non è uno dei [[Fazioni/Liberi|Liberi]][^4]. È in missione per il suo sire, ch
 [^2]: [[Riepiloghi/Zamoraz/Sessione 9]]
 [^3]: [[Riepiloghi/Zamoraz/Sessione 8]]
 [^4]: [[Riepiloghi/Ignemir/Sessione 18]]
+[^5]: [[Riepiloghi/Ignemir/Sessione 20]]
