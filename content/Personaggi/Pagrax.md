@@ -22,6 +22,7 @@ Pagrax è un membro del gruppo con conoscenze sulla [[Caccia Selvaggia]] e capac
 - **Sessione 18**: Si presenta alla cassa come "Pagrax Tornworth, figlio della casata Traxejean"[^9]. Comunica telepaticamente con la cassa di [[Eric]] chiedendo di [[Viredesh]] e del legame tra [[Caccia Selvaggia]] e [[Fazioni/Liberi|Liberi]][^9]. La cassa lo avverte che ospita in sé qualcosa che essa non vorrebbe vedere e minaccia conseguenze[^9]. Ottiene 3 livelli di stanchezza, il corpo si prosciuga e le estremità formicolano[^9]. La cassa lo definisce "una minaccia più grande di Viredesh"[^9].
 - **Sessione 19**: Apre una bottiglia di Nocivo prenotata da [[Uruan]], con l'idea di rabboccarla con della neve[^10]. Quando [[Vanya]] chiede del suo patrono, ammette di saperne quanto loro e lo chiama "Ignazio", ma cambia discorso in fretta[^10]. Convince [[Hoot]] a riempire la bottiglia con la neve[^10]. Osservando la [[Chiave con Labirinto|chiave]] del [[Lupercalico]], riconosce sulla chiave gli stessi simboli presenti sul [[Il Cuneo|cuneo]], la parola "[[Catrador]]" in silvano e la parola "olwen" in un mix di druidico e comune[^10]. Parla con [[Amigo]] (rospo) e [[Racafatacost]] (ragno) estratti dal cappello di [[Merla]][^10]. Uccide una creaturina d'aglio durante il [[Eventi/Furto alla Rocca dei Conflitti|furto al bar]][^10]. Intuisce che il ravanello lasciato dal ladro è infuso di magia[^10]. Riceve da Vanya l'anello e la chiave per indagarci[^10].
 - **Sessione 20**: Restituisce la cassa a [[Eric]] dopo averla custodita[^11]. Racconta di una visione: una mano enorme con dita lunghe e molte più falangi del normale, collegata al nome "[[L'Osservatore]]" o "Ignazio"[^11]. La cassa di Eric lo rifiuta quando prova a connettersi, definendolo "mostro"[^11]. Unisce anello e cassa per creare lo specchio-porta[^11]. Attraversa per primo lo specchio ed entra nel dungeon[^11]. Ha con sé la [[Chiave con Labirinto|chiave del Lupercalico]][^11]. Si trasforma in mastino con monocolo per annusare le serrature — [[Moli]] lo colpisce spaventato[^11]. Consegna la chiave a [[Ignemir]] per tentare di aprire le toppe[^11]. Durante il combattimento con le [[Creature del Dungeon Specchio|creature del dungeon]], lancia olio contro una creatura[^11]. Uccide il mostro finale con frantumare, facendolo implodere[^11]. Scompare insieme alla creatura mentre i compagni si risvegliano nel bar[^11].
+- **Sessione Londra**: Si ritrova nella grotta dove appare [[Fryolin]] con [[Loskio Menenghio]] tramite pergamena-portale, al posto di un mostro a cui aveva fatto esplodere la testa[^12]. Descrive le creature appena viste come mostruosamente grandi[^12]. Mostra una porta e chiede di riposarsi stremato dalla battaglia[^13]. Quando Loskio tenta di aprire una serratura intrappolata, [[Fryolin]] estrae la sciabola ma questa diventa una clava e Pagrax smette di parlare[^14]. Più curvo e vicino al terreno, nota orme di [[Doppelganger]] lungo il corridoio[^15]. Si trasforma in mastino per sentire aria fresca, ma sente solo un odore dolciastro che lo attira[^16]. Inizia a procedere in direzione delle orme pericolose, ringhiando a Loskio dopo essere stato schiacciato dal tentativo di cavalcarlo[^17]. Fryolin riesce a fermarlo convincendolo ad andare a sinistra[^17]. In forma mastino sente che sul fondo del precipizio ci sono ossa che lo tentano[^18]. Torna in forma dragonide nella stanza circolare con le 13 porte[^19]. Fa cadere la clava per decidere casualmente quale porta aprire[^20]. Si nasconde dietro la pedana alta pochi centimetri[^20]. Scopre che la creatura di carne viene curata da attacchi elettrici[^21]. Le fa esplodere la spalla, uccidendola[^21]. Gioisce della kill prima di rendersi conto di essere bloccato chissà dove con chissà quanti mostri dietro ogni porta[^22].
 
 ## Natura del Potere
 
@@ -48,3 +49,14 @@ L'origine del potere di Pagrax è mista (druido + warlock) e innaturale[^8]. Eri
 [^9]: [[Riepiloghi/Ignemir/Sessione 18]]
 [^10]: [[Riepiloghi/Pagrax/Sessione 19]]
 [^11]: [[Riepiloghi/Zamoraz/Sessione 20]]
+[^12]: [[Riepiloghi/Fryolin/Sessione Londra]]
+[^13]: [[Riepiloghi/Fryolin/Sessione Londra]]
+[^14]: [[Riepiloghi/Fryolin/Sessione Londra]]
+[^15]: [[Riepiloghi/Fryolin/Sessione Londra]]
+[^16]: [[Riepiloghi/Fryolin/Sessione Londra]]
+[^17]: [[Riepiloghi/Fryolin/Sessione Londra]]
+[^18]: [[Riepiloghi/Fryolin/Sessione Londra]]
+[^19]: [[Riepiloghi/Fryolin/Sessione Londra]]
+[^20]: [[Riepiloghi/Fryolin/Sessione Londra]]
+[^21]: [[Riepiloghi/Fryolin/Sessione Londra]]
+[^22]: [[Riepiloghi/Fryolin/Sessione Londra]]

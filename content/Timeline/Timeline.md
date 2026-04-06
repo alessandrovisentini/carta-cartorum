@@ -249,3 +249,16 @@ Il gruppo è alla Rocca dei Conflitti a lavorare di notte. Vanya, dopo aver bevu
 Eric torna dal tuffo con capelli più bianchi e volto ringiovanito, raccontando di aver incontrato Ooursell — un gigantesco gufo con molti occhi — durante la meditazione. Pagrax restituisce la cassa riportando una visione inquietante: una mano enorme con falangi innaturali e il nome "l'Osservatore", titolo legato a un culto segreto di nicchia. La cassa avverte Eric che Pagrax è un predatore, "non il messo ma il vessillo" — riferendosi alla divinità a cui è connesso — e di "dormire con un occhio aperto." Pagrax e Eric uniscono anello e cassa, trasformandola in uno specchio fluttuante: la porta verso i Liberi si è aperta. Il gruppo attraversa lo specchio entrando in un dungeon buio con gemme del vuoto azzurre e scritte parziali in alfabeto dei Liberi. Zamoraz subisce 13 danni psichici da dita invisibili all'ingresso. Scoprono orme umanoidi allungate di 60 cm e serrature multiple con simboli sconosciuti. Le luci passano da blu a rosse mentre due creature mostruose — umanoidi scheletrici alti fino a 5,50 m, fatti di nervi e muscoli con bocche formate dal nulla — si avvicinano parlando di "topi maledetti" e della porta. Zamoraz rende una creatura amichevole ma Rosanno le spara innescando il combattimento. Durante lo scontro una creatura divora l'altra e moltiplica le sue braccia, inghiottendo Rosanno prima che Eric la costringa a sputarlo. Pagrax uccide il mostro con frantumare: la creatura implode risucchiando tutti. Ignemir, Zamoraz, Rosanno ed Eric si risvegliano nella cucina del bar — Pagrax è scomparso. Bran consegna un messaggio della Furia: "Preparatevi ad accogliere il Cavaliere della Cenere - I.L'E".
 
 **Riepiloghi:** [[Riepiloghi/Ignemir/Sessione 20|Sessione 20 (Ignemir)]] - [[Riepiloghi/Zamoraz/Sessione 20|Sessione 20 (Zamoraz)]]
+
+---
+
+## Sessione Londra - Il Dungeon della Pergamena
+
+|              |                |
+| ------------ | -------------- |
+| Data         | Blocco 4       |
+| Tipo         | Sessione Speciale |
+
+Fryolin, pentita di aver schiacciato dei ragni, tenta invano di seguirli quando incontra Loskio Menenghio, un uomo tartaruga con cui faceva i turni di guardia alle Corti Ancestrali. Loskio, catturato durante una missione importante e mandato sulla Maledizione di Mefisto, possiede una pergamena-portale per tornare alla corte fatata. Tuttavia, aprendo la pergamena vengono teletrasportati in una grotta dove trovano Pagrax, stremato da un combattimento appena concluso contro un mostro. Esplorano il dungeon trovando serrature intrappolate, una porta coperta da una pelle pallida che urla quando viene toccata, orme di doppelganger giganti e un precipizio pieno di ossa in putrefazione. Raggiungono una stanza circolare con 13 porte identiche e gemme del vuoto sul soffitto. Quando aprono la seconda porta, la prima si chiude e dalla seconda emerge una bestia enorme fatta di pezzi di carne che viene curata da attacchi elettrici e prende metà danno da attacchi corpo a corpo. Dopo un combattimento brutale, Pagrax fa esplodere la spalla della creatura uccidendola. Il trio resta intrappolato nel dungeon, ignaro di quanti mostri li attendano dietro le altre porte.
+
+**Riepiloghi:** [[Riepiloghi/Fryolin/Sessione Londra|Sessione Londra (Fryolin)]]
