@@ -4,7 +4,7 @@
 | ----------------- | -------------------- |
 | Tipo              | Creatura mostruosa   |
 | Luogo             | [[Panopticon Carcerario]] |
-| Prima Apparizione | [[Timeline/Timeline\|Sessione 21]] |
+| Prima Apparizione | [[Timeline/Timeline\|Sessione 22]] |
 
 ## Descrizione
 
@@ -26,7 +26,7 @@ Il mostro colpisce Pagrax sulla nuca[^4]. Dalla nuca fuoriescono fiamme (Hellish
 
 ## Fonti
 
-[^1]: [[Riepiloghi/Ignemir/Sessione 21]]
-[^2]: [[Riepiloghi/Ignemir/Sessione 21]]
-[^3]: [[Riepiloghi/Ignemir/Sessione 21]]
-[^4]: [[Riepiloghi/Ignemir/Sessione 21]]
+[^1]: [[Riepiloghi/Ignemir/Sessione 22]]
+[^2]: [[Riepiloghi/Ignemir/Sessione 22]]
+[^3]: [[Riepiloghi/Ignemir/Sessione 22]]
+[^4]: [[Riepiloghi/Ignemir/Sessione 22]]

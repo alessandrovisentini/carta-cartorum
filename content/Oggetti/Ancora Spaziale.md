@@ -27,7 +27,7 @@ Una delle ancore incomplete (portale che collega due posti lontani) è stata pot
 
 Il passaggio attraverso il portale può causare effetti collaterali temporanei[^6].
 
-Nella Sessione 21, [[Bran Lapillo]] consegna l'ultima ancora disponibile, non potenziata, avvertendo che attraversarla potrebbe essere rischioso[^7]. Posizionata vicino alla porta intrappolata nel dungeon, l'ancora si attiva ma funziona a scatti: il portale sfarfalla e si riduce ad ogni passaggio[^7]. All'uscita, Ignemir perde la barba, Vanya assume sembianze maschili, Bran ha fiamme bianche[^7]. [[Pagrax]], [[Moli]] e [[Zamoraz]] non riemergono dal portale[^7].
+Nella Sessione 22, [[Bran Lapillo]] consegna l'ultima ancora disponibile, non potenziata, avvertendo che attraversarla potrebbe essere rischioso[^7]. Posizionata vicino alla porta intrappolata nel dungeon, l'ancora si attiva ma funziona a scatti: il portale sfarfalla e si riduce ad ogni passaggio[^7]. All'uscita, Ignemir perde la barba, Vanya assume sembianze maschili, Bran ha fiamme bianche[^7]. [[Pagrax]], [[Moli]] e [[Zamoraz]] non riemergono dal portale[^7].
 
 ## Il Patto coi Geni
 
@@ -46,4 +46,4 @@ I [[Geni del Fuoco]] hanno modificato l'ancora in cambio di un patto[^3]:
 [^4]: [[Riepiloghi/Zamoraz/Sessione 13]]
 [^5]: [[Riepiloghi/Opalix/Sessione 17]]
 [^6]: [[Riepiloghi/Ignemir/Sessione 18]]
-[^7]: [[Riepiloghi/Ignemir/Sessione 21]]
+[^7]: [[Riepiloghi/Ignemir/Sessione 22]]

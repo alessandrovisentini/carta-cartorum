@@ -51,17 +51,17 @@ Conduce a un corridoio dritto di 2.0m x 3.0m, senza luci, senza feritoie[^5]. Il
 ## Storia nelle Sessioni
 
 - **Sessione 20**: Il gruppo attraversa lo [[Specchio dei Liberi]] ed entra nel dungeon[^1]. Combattono creature mostruose[^1]. [[Pagrax]] scompare dopo aver usato frantumare[^1].
-- **Sessione 21**: Seconda esplorazione con [[Zamoraz]], [[Vanya]], [[Ignemir]] e [[Bran Lapillo|Bran]][^2]. Trovano [[Pagrax]] addormentato al centro, ma si rivela un [[Doppelganger]][^2]. Uccidono due mostri ([[Doppelganger]] e [[Creature/Troll|Troll]])[^6]. Seguono le orme di [[Loskio Menenghio|Loskio]] fino alla porta 12, dove restano intrappolati in un loop[^5]. [[Ignemir]] squarcia la [[Porta con Pelle Mutaforma|porta con la pelle]], che urla come un allarme[^7]. Tentano di aprire la serratura con la [[Chiave con Labirinto]], ma la chiave viene respinta magneticamente[^7]. [[Ignemir]] prova a scassinarla e viene schiacciato contro il muro subendo 18 danni[^7]. Posizionano un'[[Ancora Spaziale]] vicino alla porta: si attiva a scatti[^8]. Ignemir è l'ultimo a uscire e sente un rumore simile a vetro che si infrange[^8].
+- **Sessione 22**: Seconda esplorazione con [[Zamoraz]], [[Vanya]], [[Ignemir]] e [[Bran Lapillo|Bran]][^2]. Trovano [[Pagrax]] addormentato al centro, ma si rivela un [[Doppelganger]][^2]. Uccidono due mostri ([[Doppelganger]] e [[Creature/Troll|Troll]])[^6]. Seguono le orme di [[Loskio Menenghio|Loskio]] fino alla porta 12, dove restano intrappolati in un loop[^5]. [[Ignemir]] squarcia la [[Porta con Pelle Mutaforma|porta con la pelle]], che urla come un allarme[^7]. Tentano di aprire la serratura con la [[Chiave con Labirinto]], ma la chiave viene respinta magneticamente[^7]. [[Ignemir]] prova a scassinarla e viene schiacciato contro il muro subendo 18 danni[^7]. Posizionano un'[[Ancora Spaziale]] vicino alla porta: si attiva a scatti[^8]. Ignemir è l'ultimo a uscire e sente un rumore simile a vetro che si infrange[^8].
 
 ---
 
 ## Fonti
 
 [^1]: [[Riepiloghi/Ignemir/Sessione 20]]
-[^2]: [[Riepiloghi/Ignemir/Sessione 21]]
-[^3]: [[Riepiloghi/Ignemir/Sessione 21]]
-[^4]: [[Riepiloghi/Ignemir/Sessione 21]]
-[^5]: [[Riepiloghi/Ignemir/Sessione 21]]
-[^6]: [[Riepiloghi/Ignemir/Sessione 21]]
-[^7]: [[Riepiloghi/Ignemir/Sessione 21]]
-[^8]: [[Riepiloghi/Ignemir/Sessione 21]]
+[^2]: [[Riepiloghi/Ignemir/Sessione 22]]
+[^3]: [[Riepiloghi/Ignemir/Sessione 22]]
+[^4]: [[Riepiloghi/Ignemir/Sessione 22]]
+[^5]: [[Riepiloghi/Ignemir/Sessione 22]]
+[^6]: [[Riepiloghi/Ignemir/Sessione 22]]
+[^7]: [[Riepiloghi/Ignemir/Sessione 22]]
+[^8]: [[Riepiloghi/Ignemir/Sessione 22]]

@@ -4,7 +4,7 @@
 | ----------------- | -------------------- |
 | Tipo              | Creatura/Oggetto maledetto |
 | Luogo             | [[Panopticon Carcerario]] |
-| Prima Apparizione | [[Timeline/Timeline\|Sessione 21]] |
+| Prima Apparizione | [[Timeline/Timeline\|Sessione 22]] |
 
 ## Descrizione
 
@@ -36,7 +36,7 @@ La [[Chiave con Labirinto]] viene respinta magneticamente quando [[Pagrax]] prov
 
 ## Fonti
 
-[^1]: [[Riepiloghi/Ignemir/Sessione 21]]
-[^2]: [[Riepiloghi/Ignemir/Sessione 21]]
-[^3]: [[Riepiloghi/Ignemir/Sessione 21]]
-[^4]: [[Riepiloghi/Ignemir/Sessione 21]]
+[^1]: [[Riepiloghi/Ignemir/Sessione 22]]
+[^2]: [[Riepiloghi/Ignemir/Sessione 22]]
+[^3]: [[Riepiloghi/Ignemir/Sessione 22]]
+[^4]: [[Riepiloghi/Ignemir/Sessione 22]]

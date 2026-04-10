@@ -5,7 +5,7 @@
 | Tipo              | Creatura mostruosa         |
 | Dimensioni        | Enorme                     |
 | Composizione      | Grossi pezzi di carne      |
-| Prima Apparizione | [[Timeline/Timeline\|Sessione Londra]] |
+| Prima Apparizione | [[Timeline/Timeline\|Sessione 21]] |
 
 ## Descrizione
 
@@ -18,7 +18,7 @@ Bestia enorme composta da vari e grossi pezzi di carne[^1]. Creatura altamente r
 
 ## Storia nelle Sessioni
 
-- **Sessione Londra**: Emerge dalla seconda porta aperta nella stanza circolare con 13 porte identiche[^1]. [[Fryolin]] le sferra micidiali fendenti con la spada[^3]. [[Loskio Menenghio]] le lancia scaglie del suo guscio come shuriken[^3]. [[Pagrax]] scopre casualmente la sua debolezza agli attacchi elettrici[^2]. Alla fine dello scontro, Pagrax le fa esplodere la spalla uccidendola[^3].
+- **Sessione 21**: Emerge dalla seconda porta aperta nella stanza circolare con 13 porte identiche[^1]. [[Fryolin]] le sferra micidiali fendenti con la spada[^3]. [[Loskio Menenghio]] le lancia scaglie del suo guscio come shuriken[^3]. [[Pagrax]] scopre casualmente la sua debolezza agli attacchi elettrici[^2]. Alla fine dello scontro, Pagrax le fa esplodere la spalla uccidendola[^3].
 
 ---
 

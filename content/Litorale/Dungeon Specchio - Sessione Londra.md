@@ -5,7 +5,7 @@
 | Tipo              | Luogo sotterraneo          |
 | Accesso           | Tramite pergamena-portale (malfunzionamento) |
 | Illuminazione     | [[Gemme del Vuoto]] azzurre|
-| Prima Apparizione | [[Timeline/Timeline\|Sessione Londra]] |
+| Prima Apparizione | [[Timeline/Timeline\|Sessione 21]] |
 
 ## Descrizione
 

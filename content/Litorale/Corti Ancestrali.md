@@ -3,7 +3,7 @@
 |                   |                            |
 | ----------------- | -------------------------- |
 | Tipo              | Luogo - Corti Fatate       |
-| Prima Menzione    | [[Timeline/Timeline\|Sessione Londra]] |
+| Prima Menzione    | [[Timeline/Timeline\|Sessione 21]] |
 
 ## Descrizione
 
@@ -11,7 +11,7 @@ Corti fatate dove [[Fryolin]] e [[Loskio Menenghio]] facevano i turni di guardia
 
 ## Storia nelle Sessioni
 
-- **Sessione Londra**: Loskio propone a Fryolin di tornare alle Corti usando una pergamena-portale, dicendo che "almeno è più interessante di lavorare in un bar"[^1]. Tuttavia, la pergamena li teletrasporta in un dungeon invece che alle Corti, forse per un malfunzionamento[^1].
+- **Sessione 21**: Loskio propone a Fryolin di tornare alle Corti usando una pergamena-portale, dicendo che "almeno è più interessante di lavorare in un bar"[^1]. Tuttavia, la pergamena li teletrasporta in un dungeon invece che alle Corti, forse per un malfunzionamento[^1].
 
 ---
 
