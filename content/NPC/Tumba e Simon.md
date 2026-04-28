@@ -21,6 +21,10 @@ Simon può trasformarsi in cinghialoide: creatura nuda ricolma di peluria, volto
 
 - **Sessione 11**: Il gruppo li incontra alla [[Fontana]] insieme a [[Emiliano]] e [[Regrax]][^5]. La chiave con gemma rosa apre il collare di Simon[^5]. Simon rivela la posizione delle gallerie sotto un grande argano nella foresta[^5].
 
+## L'Orecchino
+
+[[Hoot]] possiede un orecchino rubato che presenta motivi ad onde simili ai tatuaggi di Simon[^6]. Secondo [[Opalix]], è un residuo o scarto magico che richiama una qualche casata nobiliare[^6].
+
 ## Crimini Accusati
 
 Secondo la [[Maledizione di Mefisto]]: spaccio e frode legati a droghe da guerra, coinvolgimento in un omicidio eclatante con vittime tra cui bambini, diffusione di sostanze pericolose[^1].
@@ -38,3 +42,4 @@ Con loro ci sono [[Regrax]] la dragonide ed [[Emiliano]] il gigante[^2]. Tutti e
 [^3]: [[Riepiloghi/Zamoraz/Sessione 5]]
 [^4]: [[Riepiloghi/Zamoraz/Sessione 9]]
 [^5]: [[Riepiloghi/Zamoraz/Sessione 11]]
+[^6]: [[Riepiloghi/Ignemir/Sessione 23]]

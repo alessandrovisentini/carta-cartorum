@@ -29,6 +29,8 @@ Il passaggio attraverso il portale può causare effetti collaterali temporanei[^
 
 Nella Sessione 22, [[Bran Lapillo]] consegna l'ultima ancora disponibile, non potenziata, avvertendo che attraversarla potrebbe essere rischioso[^7]. Posizionata vicino alla porta intrappolata nel dungeon, l'ancora si attiva ma funziona a scatti: il portale sfarfalla e si riduce ad ogni passaggio[^7]. All'uscita, Ignemir perde la barba, Vanya assume sembianze maschili, Bran ha fiamme bianche[^7]. [[Pagrax]], [[Moli]] e [[Zamoraz]] non riemergono dal portale[^7].
 
+Nella Sessione 23, [[Bran Lapillo]] porta con sé un'ancora che si illumina di luce bluastra nella stiva della [[Furia di Cernunnos]]: da essa emerge [[La Spada]][^8]. Dopo lo scontro, [[Vailendel]] ed [[Eric]] si tuffano nel portale ancora aperto all'inseguimento: trovano orme draconiche che entrano nel portale senza uscirne, e [[Eric]] percepisce che qualcosa di esterno ha interferito con il normale funzionamento del portale[^8]. Attraversare il portale causa ancora effetti collaterali: [[Bran Lapillo]] acquisisce un forte odore di pesce stantio, [[Hoot]] d'ora in avanti vedrà nello spettro blu-grigio[^8]. Il footnote [^6] della sessione 23 chiarisce che scegliendo la destinazione con la sola volontà è possibile selezionare dove uscire dal portale[^8].
+
 ## Il Patto coi Geni
 
 I [[Geni del Fuoco]] hanno modificato l'ancora in cambio di un patto[^3]:
@@ -47,3 +49,4 @@ I [[Geni del Fuoco]] hanno modificato l'ancora in cambio di un patto[^3]:
 [^5]: [[Riepiloghi/Opalix/Sessione 17]]
 [^6]: [[Riepiloghi/Ignemir/Sessione 18]]
 [^7]: [[Riepiloghi/Ignemir/Sessione 22]]
+[^8]: [[Riepiloghi/Ignemir/Sessione 23]]

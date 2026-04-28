@@ -20,6 +20,7 @@ Nato e cresciuto in una carovana/circo dove tutti erano genitori di tutti, ma no
 - **Sessione 14**: Racconta la sua storia a [[Vanya]][^2]. Mette il gruppo in lista sotto falsi nomi per la spedizione al [[Megadon]][^2].
 - **Sessione 15**: Partecipa all'apertura de [[La Rocca dei Conflitti]] con 9 amici dalla [[Rivalsa]][^4]. Rivela ad [[Awen Seife]] informazioni sulla sua statua misteriosa: "La tua statua si muoveva... quella nera con una punta bianca in mano. Parlava in una lingua strana. Poi è saltata in uno dei pilastri e puf."[^4]
 - **Sessione 17**: Le sue rivelazioni sulla statua spingono [[Awen Seife]] a tentare un rituale di divinazione con [[Obietite]] per rintracciare la statua[^5]. Ha anche rivelato a [[Vanya]] che sulla [[Rivalsa]] c'è un portale che inghiotte qualsiasi cosa[^6].
+- **Sessione 23**: Sopravvive all'attacco della [[Caccia Selvaggia]] al villaggio[^7].
 
 ---
 
@@ -31,3 +32,4 @@ Nato e cresciuto in una carovana/circo dove tutti erano genitori di tutti, ma no
 [^4]: [[Timeline/Timeline|Sessione 15]]
 [^5]: [[Riepiloghi/Zamoraz/Sessione 17]]
 [^6]: [[Riepiloghi/Opalix/Sessione 17]]
+[^7]: [[Riepiloghi/Ignemir/Sessione 23]]

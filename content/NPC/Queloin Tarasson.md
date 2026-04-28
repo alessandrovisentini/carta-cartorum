@@ -18,6 +18,10 @@ Queloin Tarasson è una Attalwen (mezza elfa e mezza nana), capitana della [[Riv
 - Ha litigato con [[Awen Seife]], motivo per cui Awen ha lasciato la [[Rivalsa]][^3].
 - Insieme al fratello [[Loinque Tarasson]], ha regalato ad Awen un piccolo martello in argento[^4].
 
+## Storia nelle Sessioni
+
+- **Sessione 23**: Muore durante l'attacco della [[Caccia Selvaggia]] al villaggio[^5].
+
 ---
 
 ## Fonti
@@ -26,3 +30,4 @@ Queloin Tarasson è una Attalwen (mezza elfa e mezza nana), capitana della [[Riv
 [^2]: [[Timeline/Timeline|Sessione 15]]
 [^3]: [[Riepiloghi/Zamoraz/Sessione 5]]
 [^4]: [[Riepiloghi/Zamoraz/Sessione 17]]
+[^5]: [[Riepiloghi/Ignemir/Sessione 23]]

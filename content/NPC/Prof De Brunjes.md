@@ -16,6 +16,7 @@ Il Professor De Brunjes (Nicolas Der Brugherniz) è un umano attempato con una c
 
 - **Sessione 4**: [[Eric]] parla con lui[^1]. Espone la sua teoria sui pilastri: un pezzo unico, tutti collegati, "come se fossero scoppiati"[^1].
 - **Sessione 14**: Accompagna il gruppo al [[Megadon]][^2]. Discute con [[Eric]] di [[Elunaui]] e della Luna Nera[^2]. Rivela le teorie su **Felcanda** e **Apophtosis**[^2].
+- **Sessione 23**: Muore durante l'attacco della [[Caccia Selvaggia]] al villaggio[^3].
 
 ## Teorie del Professore
 
@@ -39,3 +40,4 @@ Teorizza che sia una **città fantasma**: le persone potrebbero essere miraggi o
 
 [^1]: [[Timeline/Timeline|Sessione 04]]
 [^2]: [[Riepiloghi/Zamoraz/Sessione 14]]
+[^3]: [[Riepiloghi/Ignemir/Sessione 23]]

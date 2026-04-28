@@ -15,9 +15,14 @@ Il messaggio, firmato da "I.L'E", recita: "Preparatevi ad accogliere il Cavalier
 
 [[Bran Lapillo]] ha consegnato questo messaggio al gruppo dopo che sono tornati dal dungeon dello specchio[^1].
 
+## Storia nelle Sessioni
+
+- **Sessione 23**: Un Cavaliere su un cavallo in parte nero e in parte azzurro guida la [[Caccia Selvaggia]] nell'attacco al villaggio[^3]. Porta un vessillo con un "dente affilato" (un'elsa)[^3]. Il gruppo non è sicuro se si tratti del Cavaliere della Cenere[^3].
+
 ---
 
 ## Fonti
 
 [^1]: [[Riepiloghi/Ignemir/Sessione 20]]
 [^2]: [[Riepiloghi/Zamoraz/Sessione 20]]
+[^3]: [[Riepiloghi/Ignemir/Sessione 23]]

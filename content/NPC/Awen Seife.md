@@ -26,10 +26,11 @@ Possiede una stanza dedicata allo studio e all'arte, fredda, con un tavolo su cu
 - **Sessione 16**: Si è isolata nella sua stanza da diversi giorni, come all'inizio del naufragio[^9]. Il momento con Luciano durante l'inaugurazione sembra averla scossa molto[^9].
 - **Sessione 17**: Riceve una fiala di sangue di [[Megadon]] da [[Eric]] come ringraziamento per averlo ricomposto[^10]. Usa l'obietite e il sangue di Megadon come catalizzatore per tentare un rituale di divinazione per rintracciare la statua[^11]. Il rituale causa un'esplosione che la riduce in pessime condizioni: bruciature, tagli, capelli bruciati, spalla destra dislocata[^10]. Al centro della stanza appare una V formata da bolle di muco nero che si riassorbe nel pavimento[^11]. Rivela che la statua era in un posto buio sottoterra, si è girata e poi è esploso tutto[^11]. Rivela che la statua era di obietite, dedicata al suo avo **[[Lysantir Seife]]**, fondatore delle [[Sentinelle Brune]][^10]. Aveva perso un piccolo martello in argento, regalo dei fratelli capitani della [[Rivalsa]][^10]. La cassa di [[Eric]] si trasforma nel martello quando Eric le invia l'immagine mentale[^11]. Awen riconosce il martello e ricorda di aver tentato più volte di ricostruire Eric, fallendo e dimenticando ogni volta[^10]. L'energia del martello fluisce verso Awen attraverso le crepe del pavimento, curandola, ma il martello si incrina[^10].
 - **Sessione 20**: Si sta riprendendo dalle ferite dell'esplosione, tenuta in cura[^12]. [[Bran Lapillo]] sta lentamente ricostruendo la porta della sua stanza[^12].
+- **Sessione 23**: Racconta alla mensa la storia dell'oblietite[^13]. Non aveva mai visto il materiale prima di riceverlo come regalo con l'incarico di scolpire una statua[^13]. Aveva usato la [[Cassa di Eric]] (in forma di martello) come strumento: fu il primo oggetto a scalfire l'oblietite[^13]. La statua raffigurava [[Malthael Tarasson]], antenato elfico dei fratelli Tarasson, come regalo per [[Queloin Tarasson]] e [[Loinque Tarasson]][^13]. Mentre ci lavorava percepì qualcosa di alieno e negativo[^13]. Comprende ora che il martello, il forziere di Eric e la cassa sono lo stesso oggetto[^13]. Posa la mano sul [[Il Cuneo|cuneo]] permettendo a [[Hoot]] di estrarne una porzione di oblietite[^13].
 
 ## La Statua Misteriosa
 
-Secondo [[Luciano]], Awen possedeva una statua grande, strana, con punte, braccio brutto, nera con una punta bianca in mano. Parlava in una lingua strana, poi è saltata in uno dei pilastri e sparita[^8]. La statua era di obietite, dedicata a [[Lysantir Seife]], e Awen ci stava lavorando con il cuneo[^11].
+Secondo [[Luciano]], Awen possedeva una statua grande, strana, con punte, braccio brutto, nera con una punta bianca in mano. Parlava in una lingua strana, poi è saltata in uno dei pilastri e sparita[^8]. La statua raffigurava [[Malthael Tarasson]] (antenato elfico della casata Tarasson), era in oblietite e fu commissionata come regalo per i capitani della [[Rivalsa]][^13]. Awen ci lavorava con il [[Il Cuneo|cuneo]] e la [[Cassa di Eric]] (in forma di martello)[^13]. Non fu mai completata e scomparve con il naufragio[^13].
 
 ## Il Catrador e la Corte Splendente
 
@@ -51,3 +52,4 @@ Awen sa che la parola "catrador" non piace alle fate[^11]. Ne aveva parlato da o
 [^10]: [[Riepiloghi/Zamoraz/Sessione 17]]
 [^11]: [[Riepiloghi/Ignemir/Sessione 17]]
 [^12]: [[Riepiloghi/Ignemir/Sessione 20]]
+[^13]: [[Riepiloghi/Ignemir/Sessione 23]]

@@ -71,6 +71,7 @@ Secondo [[Odar Brandibirra]], in passato la gente lasciava offerte alle fate per
 - **Sessione 15**: [[Odar Brandibirra]] spiega la vera natura della Caccia: "memoria e rispetto"[^3].
 - **Sessione 16**: [[Eric]] scopre l'esistenza della [[Caccia Originale]] guidata da [[Viredesh]][^7]. Il gruppo attira la Caccia bruciando sangue di [[Megadon]] vicino a un pilastro[^7]. Vengono attaccati da lupi bianchi colossali e scheletri taurini in gelatite[^7].
 - **Sessione 17**: Viene chiarito che le creature di gelatite sono non-morte (con energia di necromanzia), mentre i lupi bianchi sono evocati e si sciolgono[^8]. La gelatite potrebbe essere collegata a [[Viredesh]][^8].
+- **Sessione 23**: Il Cavaliere appare con uno stendardo recante un "dente affilato" — identificato come un'elsa, non una goccia come si pensava[^9]. Con lui lupi, centauri e altre creature scoccano frecce sul villaggio (nessuna raggiunge la [[Furia di Cernunnos]])[^9]. Le persone catturate dalla Caccia diventano blocchi di ghiaccio o si sbriciolano come neve[^9]. Le creature attaccano la [[Rivalsa]] con intenti distruttivi, facendo crollare parte della struttura[^9]. Il Cavaliere attraversa il villaggio in linea retta verso il primo ponte verso la Rivalsa[^9]. Al termine, la Caccia si muove verso il [[Megadon]] e la fiamma azzurra sopra di esso si spegne[^9]. Morti: [[Prof De Brunjes|professor Nicholas Der Brughenriz]], [[Gimbo]], [[Queloin Tarasson]]. Sopravvissuto: [[Luciano]][^9]. Awen ipotizza che la Caccia cercasse di soddisfare un bisogno intrinseco di caccia, oppure stesse cercando qualcosa rubato alle fate[^9]. La Caccia ha ottenuto più di quanto stesse cercando[^9].
 
 ---
 
@@ -84,3 +85,4 @@ Secondo [[Odar Brandibirra]], in passato la gente lasciava offerte alle fate per
 [^6]: [[Riepiloghi/Zamoraz/Sessione 12]]
 [^7]: [[Riepiloghi/Ignemir/Sessione 16]]
 [^8]: [[Riepiloghi/Ignemir/Sessione 17]]
+[^9]: [[Riepiloghi/Ignemir/Sessione 23]]
