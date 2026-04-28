@@ -20,6 +20,8 @@ Opalix è un changeling del gruppo, con abilità magiche di incantamento[^1]. Pu
 - **Sessione 17**: Analizza il biglietto dei [[Fazioni/Liberi|Liberi]]: la carta aveva proprietà magiche di trasmutazione ora esaurite, con residui nella lettera miniata verde della Y[^6]. Collega i tre mostri del trip da funghetti ai due alfabeti decifrati[^6]. Riconosce che la ceralacca del biglietto di [[Vanya]] non è un trifoglio e un sole ma un muso felino con criniera (leone)[^6]. Ricorda che [[Murr]] disse che Y è il simbolo del [[Catrador]] dei Liberi[^6]. Nella stanza di [[Awen Seife]] dopo l'esplosione, la V lo inquieta nel rapporto con la propria magia[^7].
 - **Sessione 18**: Guida designata della missione[^8]. Usa detect magic su [[Hoot]] (nulla di strano sui tatuaggi rossi)[^8]. Ha con sé una fiala curativa e un pezzo di carta con energia di trasmutazione[^8]. Descrive i pinguini a [[Rosanno]][^8]. Lancia amicizia sul [[Lupercalico]], ma l'incantesimo viene riflesso su di lui[^8]. Sotto l'influenza del Lupercalico, colpisce il vetro della teca con il suo libro degli incantesimi[^8]. Una magia di comprensione del linguaggio rimbalza dal libro: perde il draconico e l'elfico, impara il primordiale e la lingua degli orchi[^8]. Incontra i topi Studiosi ([[Miglio]]) e chiede di [[Rem]][^8]. Mostra la pergamena con i tre alfabeti a [[Miglio]][^8]. Chiede ai topi cosa fa il loro [[Catrador]][^8].
 
+- **Sessione 24**: Rivela alla compagnia la propria identità di changeling e la storia del maestro **[[Uvarax Fenkenkabradon]]** (dragonide), assassinato dal Consiglio di **Picco d'Ilezeia** — trovato avvelenato con dell'inchiostro — a causa delle ricerche segrete che conducevano insieme sui mutaforma[^9]. Opalix si incolpa per aver tenuto nascosta la ricerca. Svela la natura dei changeling: i genitori scambiano i propri figli alla nascita con neonati di altre creature; Opalix fu scambiato con una bambina mezzelfa lasciata di fronte al monastero[^9]. Uvarax trovò Opalix con le sembianze di una mezzelfa, mantenute per vent'anni[^9]. Dopo la morte di Uvarax e la lettura dei libri di ricerca da parte del Consiglio, Opalix assunse le sembianze di una genasi dell'acqua e lasciò Picco d'Ilezeia[^9]. Può assumere la forma di creature viste almeno una volta; ha visto il proprio vero volto una sola volta, a dodici anni[^9]. "La mia razza sta scontando una colpa solo esistendo."[^9]
+
 ---
 
 ## Fonti
@@ -32,3 +34,4 @@ Opalix è un changeling del gruppo, con abilità magiche di incantamento[^1]. Pu
 [^6]: [[Riepiloghi/Ignemir/Sessione 17]]
 [^7]: [[Riepiloghi/Zamoraz/Sessione 17]]
 [^8]: [[Riepiloghi/Ignemir/Sessione 18]]
+[^9]: [[Riepiloghi/Ignemir/Sessione 24]]

@@ -29,6 +29,8 @@ Zamoraz è un ranger del gruppo, spesso scelto come guida designata per le spedi
 
 - [[Scimitarra del Gelo Eterno]][^6]
 
+- **Sessione 24**: Rivela le origini: nato in una famiglia di dragonidi, fuggì nella foresta innevata sentendo di aver deluso i genitori per una responsabilità mancata (l'uscio dell'ovile)[^12]. Visse diversi anni con una strega anziana (umanoide), che lo accudì e gli insegnò tutto ciò che sapeva sulla magia[^12]. Si unì poi alle esplorazioni della [[Rivalsa]] per vedere il mondo[^12]. Rivela cosa accadde dopo il dungeon: rimasto intrappolato nel passaggio d'uscita, si trovò in un luogo con una grande creatura a forma di albero; lì incontrò **[[Buffolo]]**, un topo idraulico degli Studiosi dei [[Fazioni/Liberi|Liberi]], prigioniero come lui[^12]. Zamoraz fu espulso dall'albero da un getto d'acqua in pressione dalla parte inferiore della fontana — di Buffolo nessuna traccia[^12].
+
 ---
 
 ## Fonti
@@ -44,3 +46,4 @@ Zamoraz è un ranger del gruppo, spesso scelto come guida designata per le spedi
 [^9]: [[Riepiloghi/Zamoraz/Sessione 17]]
 [^10]: [[Riepiloghi/Zamoraz/Sessione 20]]
 [^11]: [[Riepiloghi/Ignemir/Sessione 22]]
+[^12]: [[Riepiloghi/Ignemir/Sessione 24]]

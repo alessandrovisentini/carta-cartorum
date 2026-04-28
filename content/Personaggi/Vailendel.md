@@ -30,6 +30,8 @@ Vailendel è un membro del gruppo con abilità magiche, inclusa la lettura del p
 - Ha un amico gigante che è un evaso ([[Emiliano]])[^7]
 - Conosce [[Uruan]] dal passato, non si fida di lui[^3]
 
+- **Sessione 24**: Rivela che prima del naufragio ha servito per diversi anni come combattente nella compagnia di [[Uruan]] (luogotenente della [[Furia di Cernunnos]]), insieme a [[Emiliano]] il gigante[^13]. Ha scelto di lasciare la vecchia compagnia per tornare a casa; la nave su cui viaggiava con altri passeggeri è caduta nel naufragio, e si è risvegliato su questo litorale[^13].
+
 ---
 
 ## Fonti
@@ -46,3 +48,4 @@ Vailendel è un membro del gruppo con abilità magiche, inclusa la lettura del p
 [^10]: [[Riepiloghi/Ignemir/Sessione 17]]
 [^11]: [[Riepiloghi/Opalix/Sessione 17]]
 [^12]: [[Riepiloghi/Ignemir/Sessione 18]]
+[^13]: [[Riepiloghi/Ignemir/Sessione 24]]

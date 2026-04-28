@@ -30,6 +30,8 @@ Ha fatto un patto con **Ilev Saaj**, la dea delle frodi[^3]. Porta un anello che
 - **Sessione 19**: Beve il Nocivo di [[Uruan]] e con il "coraggio liquido" fa spostare il cappuccio di [[Hoot]] per vederlo, causando una scaramuccia[^11]. Chiede a [[Pagrax]] del suo patrono[^11]. Sprona il gruppo a partire all'avventura[^11]. Usa una palla di fuoco contro la figura misteriosa durante il [[Eventi/Furto alla Rocca dei Conflitti|furto al bar]], mandandola a terra e bruciandole i vestiti[^11]. Viene ferita gravemente da una creaturina d'aglio[^11]. Uccide l'ultimo aglio con un fulmine preciso[^11]. Consegna l'anello e la [[Chiave con Labirinto|chiave]] a [[Pagrax]] per le indagini[^11].
 - **Sessione 22**: Convince [[Bran Lapillo|Bran]] ad entrare nel [[Panopticon Carcerario|dungeon]] con il gruppo mentre [[Awen Seife]] sta meglio[^12]. Fa toccare cassa e anello per aprire lo [[Specchio dei Liberi]][^12]. Lancia l'incantesimo Comando per allontanare il [[Doppelganger]][^12]. Lancia una palla di fuoco contro la porta 6, infliggendo 29 danni[^12]. Il mostro oltre la porta cambia forma[^12]. Usa Tongues sulle scritte del dungeon, ma non riconosce alcun alfabeto noto[^12]. Porge la [[Chiave con Labirinto]] a [[Pagrax]] per aprire la [[Porta con Pelle Mutaforma|porta intrappolata]][^12]. All'uscita dal dungeon assume sembianze maschili[^12].
 
+- **Sessione 24**: Mostra alla compagnia la grande ascia portata dall'inizio dell'avventura — sottratta alla propria madre prima di partire[^13]. Rivela le origini: appartiene a una famiglia nobile drow del sottosuolo, parte di una società matriarcale costretta a compiere scorribande in superficie[^13]. Il primo contatto con [[Ilev'saaj]] (dea delle frodi) avvenne tramite una sua sacerdotessa: Vanya chiese di poter diventare donna (in precedenza aveva un aspetto diverso)[^13]. La dea concesse il desiderio ma le impedì di tornare al villaggio natale[^13]. Vanya visse sola in superficie di Targea, poi si arruolò come guardia con [[Merla]] e [[Pagrax]][^13].
+
 ---
 
 ## Fonti
@@ -46,3 +48,4 @@ Ha fatto un patto con **Ilev Saaj**, la dea delle frodi[^3]. Porta un anello che
 [^10]: [[Riepiloghi/Zamoraz/Sessione 17]]
 [^11]: [[Riepiloghi/Pagrax/Sessione 19]]
 [^12]: [[Riepiloghi/Ignemir/Sessione 22]]
+[^13]: [[Riepiloghi/Ignemir/Sessione 24]]

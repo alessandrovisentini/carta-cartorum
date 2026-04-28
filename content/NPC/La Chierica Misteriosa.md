@@ -1,10 +1,13 @@
 # La Chierica Misteriosa
 
+> **Identità rivelata in Sessione 24**: [[Erelyth]]
+
 |                   |                        |
 | ----------------- | ---------------------- |
 | Specie            | Elfa (alto lignaggio)  |
+| Vera identità     | [[Erelyth]]            |
 | Collegamento      | [[Ignemir]]            |
-| Prima Apparizione | [[Timeline/Timeline|Sessione 16]]        |
+| Prima Apparizione | [[Timeline/Timeline\|Sessione 16]]        |
 
 ## Descrizione
 
