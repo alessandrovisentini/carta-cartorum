@@ -30,6 +30,7 @@ Dopo l'esplosione, polverina di obietite era conficcata ovunque nella stanza[^3]
 - **Sessione 11**: [[Opalix]] chiede informazioni su questa pietra durante le sue indagini nel villaggio[^1].
 - **Sessione 17**: [[Awen Seife]] la usa in un rituale di divinazione che causa un'esplosione[^2]. La statua che aveva creato era fatta di obietite[^3].
 - **Sessione 23**: [[Awen Seife]] racconta la storia dell'oblietite: non l'aveva mai vista prima di riceverla come regalo, e solo il martello-cassa di Eric fu il primo strumento a scalfirla[^4]. [[Hoot]] ricava una piccola porzione di frammento per costruire un'arma contundente, attivando il cuneo tramite la mano di Awen[^4].
+- **Sessione 25**: La scimitarra in [[Nerivium]] di Pagrax e il frammento di oblietite si respingono come magneti senza riuscire a toccarsi[^5]. Eric usa l'incantesimo "identificare" su un grosso frammento di pilastro: all'interno del cristallo del nero inizia a muoversi formando un nucleo; Eric percepisce una profonda nausea; il blocco si spezza in due porzioni che scivolano l'una sull'altra senza produrre alcun suono di rottura, asperità o scorrimento[^5]. Il pilastro non sembra una sostanza minerale: appare come qualcosa che si è solidificato o condensato, più che un cristallo[^5]. [[Awen Seife]] accetta di lavorare il frammento di Hoot per ricavarne una scimitarra[^5].
 
 ---
 
@@ -39,3 +40,4 @@ Dopo l'esplosione, polverina di obietite era conficcata ovunque nella stanza[^3]
 [^2]: [[Riepiloghi/Opalix/Sessione 17]]
 [^3]: [[Riepiloghi/Zamoraz/Sessione 17]]
 [^4]: [[Riepiloghi/Ignemir/Sessione 23]]
+[^5]: [[Riepiloghi/Ignemir/Sessione 25]]

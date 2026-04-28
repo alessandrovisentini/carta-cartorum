@@ -31,6 +31,8 @@ Nella Sessione 22, [[Bran Lapillo]] consegna l'ultima ancora disponibile, non po
 
 Nella Sessione 23, [[Bran Lapillo]] porta con sé un'ancora che si illumina di luce bluastra nella stiva della [[Furia di Cernunnos]]: da essa emerge [[La Spada]][^8]. Dopo lo scontro, [[Vailendel]] ed [[Eric]] si tuffano nel portale ancora aperto all'inseguimento: trovano orme draconiche che entrano nel portale senza uscirne, e [[Eric]] percepisce che qualcosa di esterno ha interferito con il normale funzionamento del portale[^8]. Attraversare il portale causa ancora effetti collaterali: [[Bran Lapillo]] acquisisce un forte odore di pesce stantio, [[Hoot]] d'ora in avanti vedrà nello spettro blu-grigio[^8]. Il footnote [^6] della sessione 23 chiarisce che scegliendo la destinazione con la sola volontà è possibile selezionare dove uscire dal portale[^8].
 
+- **Sessione 25**: Il principe [[Ocecot Oven]] suggerisce di attivare l'ancora in una cella di contenimento sotterranea in modo controllato[^9]. Con la parola d'ordine "Merla Vulpercarico" l'ancora si attiva di luce rossastra[^9]. Hoot, Pagrax ed Eric attraversano senza ripercussioni[^9]. [[Ignemir]] rimane sospeso a metà percorso: i [[Geni del Fuoco]] lo intercettano con voce minacciosa, avvertendo che sanno che l'ancora è vicina alla sala del Toro ma "non è ancora sufficiente"[^9]. Ignemir mente loro, assicurandoli che il piano procede come previsto, poi riesce ad uscire[^9].
+
 ## Il Patto coi Geni
 
 I [[Geni del Fuoco]] hanno modificato l'ancora in cambio di un patto[^3]:
@@ -50,3 +52,4 @@ I [[Geni del Fuoco]] hanno modificato l'ancora in cambio di un patto[^3]:
 [^6]: [[Riepiloghi/Ignemir/Sessione 18]]
 [^7]: [[Riepiloghi/Ignemir/Sessione 22]]
 [^8]: [[Riepiloghi/Ignemir/Sessione 23]]
+[^9]: [[Riepiloghi/Ignemir/Sessione 25]]
