@@ -23,7 +23,9 @@ Quattro ponti/livelli:[^2]
 
 ## Luogotenenti
 
-- [[Uruan]] - "Il Satiro" (che nessuno ha mai visto)[^3]
+I tre luogotenenti di [[Tiriano il Saggio]] sono:[^3]
+- [[Uruan]] (Rimboldon) - Uomo ben curato con voce roboante e spada fiammeggiante[^8]
+- [[Il Satiro]] - Nessuno lo ha mai visto direttamente[^3]
 - [[Valente]] - Una delle migliori menti della Furia, elementale del fuoco[^3]
 
 ## Attività sul Litorale
@@ -39,6 +41,8 @@ Quattro ponti/livelli:[^2]
 - **Sessione 10**: [[Dordord]] rivela che [[Tiriano il Saggio]] è sempre al [[Megadon]] a studiare la [[Madre di tutte le vedove]][^5].
 - **Sessione 13**: Il gruppo trova casse della Furia piene di [[Nerivium]] nella fortezza dei Giganti[^6].
 - **Sessione 17**: All'interno della Furia ci sono attriti tra persone di alto lignaggio[^7]. Un gruppo non legato a [[Uruan]] né al gruppo altolocato sta organizzando spedizioni verso il [[Megadon]] o verso l'ultima posizione nota di [[Tiriano il Saggio|Tiriano]] e [[Valente]][^7]. L'unico orefice della Furia fa parte del gruppo altolocato[^7].
+- **Sessione 23**: Durante l'attacco della [[Caccia Selvaggia]] al villaggio, il gruppo si rifugia a bordo. Non si vede né [[Tiriano il Saggio|Tiriano]], né [[Valente]], né [[Uruan]]; è il centauro [[Ben]] a far entrare il gruppo e a ordinare di scendere sotto coperta[^9].
+- **Sessione 24**: Dopo l'attacco della Caccia Selvaggia, la nave è quella meno danneggiata ma le faide interne sfociano in conflitti aperti per la mancanza di viveri e per la prolungata assenza di [[Tiriano il Saggio|Tiriano]] e dei suoi luogotenenti ([[Valente]], [[Il Satiro]] e [[Uruan|Uruan Rimboldon]])[^10]. Tre fazioni si contendono il comando: il centauro [[Ben]] con la ciurma di più lungo corso vuole guidare un'ultima spedizione di ricerca; un trio cavalleresco composto da [[Bray Cantaconchiglia]] "Prentise dal Vallo Verdeggiante", il [[Cavaliere della Cenere]] e [[Valamonte]] vuole stabilire un nuovo comando; [[Endry l'Immenso]], pirata sovrappeso con un piccolo ariete da assedio, vuole spezzare il ghiaccio e riprendere il mare[^10].
 
 ---
 
@@ -46,8 +50,11 @@ Quattro ponti/livelli:[^2]
 
 [^1]: [[Timeline/Timeline|Sessione 04]]
 [^2]: [[Riepiloghi/Zamoraz/Sessione 6]]
-[^3]: [[Riepiloghi/Zamoraz/Sessione 6]]
+[^3]: [[Riepiloghi/Ignemir/Sessione 6]]
 [^4]: [[Riepiloghi/Zamoraz/Sessione 6]]
 [^5]: [[Riepiloghi/Zamoraz/Sessione 10]]
 [^6]: [[Riepiloghi/Zamoraz/Sessione 13]]
 [^7]: [[Riepiloghi/Ignemir/Sessione 17]]
+[^8]: [[Riepiloghi/Zamoraz/Sessione 4]]
+[^9]: [[Riepiloghi/Ignemir/Sessione 23]]
+[^10]: [[Riepiloghi/Ignemir/Sessione 24]]
