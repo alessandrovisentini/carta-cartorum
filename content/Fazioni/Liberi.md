@@ -27,6 +27,7 @@ Agiscono per conto di "LA VIA"[^1].
 
 ## Storia nelle Sessioni
 
+- **Sessione 24**: La lettera che [[Eric]] aveva con sé quando fu ricomposto da [[Awen Seife]] risulta firmata da un'incognita "[[Selise T.D.]]"[^9].
 - **Sessione 1**: [[Lil]], un cercatore ragno, incontra il gruppo nella laguna[^4].
 - **Sessione 5**: Il simbolo V viene notato sulle inferriate della foresta vicino alla [[Fontana]][^3].
 - **Sessione 8**: [[Rem]] rivela informazioni sui Liberi e i loro tre gruppi[^1].
@@ -52,3 +53,4 @@ I Tre Suoni (risata, lamento di dolore, ruggito) potrebbero essere collegati all
 [^6]: [[Riepiloghi/Ignemir/Sessione 17]]
 [^7]: [[Riepiloghi/Ignemir/Sessione 18]]
 [^8]: [[Riepiloghi/Pagrax/Sessione 19]]
+[^9]: [[Riepiloghi/Ignemir/Sessione 24]]

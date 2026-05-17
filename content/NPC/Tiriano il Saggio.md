@@ -24,8 +24,10 @@ Le Lance di Cernunnos sono coloro che non solo sono sopravvissuti alla Caccia Se
 - **Sessione 1**: Nominato come condottiero della [[Furia di Cernunnos]][^3].
 - **Sessione 4**: Descritto come "quello con l'orecchino della Furia" anche se non porta l'orecchino visibile[^4]. L'orecchino ha iniziato a dare segnali più si avvicinava a qualcosa che luccica[^4].
 - **Sessione 5**: [[Vanya]] cerca di attirare la sua attenzione con una danza dei fuochi ma fallisce[^5]. È molto difficile da avvicinare[^5].
-- **Sessione 6**: I suoi luogotenenti sono [[Uruan]] "il Satiro" e [[Valente]][^6]. [[Valente]] rappresenta una delle migliori menti della Furia[^6].
+- **Sessione 6**: Ha tre luogotenenti: [[Uruan]], [[Il Satiro]] (che nessuno ha mai visto) e [[Valente]] (una delle migliori menti della Furia)[^8].
 - **Sessione 10**: Secondo [[Dordord]], Tiriano è sempre al [[Megadon]] a cercare di capire qualcosa sulla bestia[^7].
+- **Sessione 23**: Non si vede a bordo della Furia durante l'[[Attacco della Caccia Selvaggia]][^9].
+- **Sessione 24**: Risulta scomparso da giorni insieme ai tre luogotenenti[^10]. Secondo [[Hoot]], durante le ricerche della [[Madre di tutte le vedove|Madre di Tutte le Vedove]] precedenti al naufragio, Tiriano, [[Valente]] e [[Uruan]] si assentavano spesso dall'equipaggio per compiere spedizioni solitarie, e la stessa cosa è accaduta su questo litorale[^10]. La sua prolungata assenza alimenta le faide interne tra le tre nuove fazioni della Furia[^10].
 
 ---
 
@@ -38,3 +40,6 @@ Le Lance di Cernunnos sono coloro che non solo sono sopravvissuti alla Caccia Se
 [^5]: [[Riepiloghi/Zamoraz/Sessione 5]]
 [^6]: [[Riepiloghi/Zamoraz/Sessione 6]]
 [^7]: [[Riepiloghi/Zamoraz/Sessione 10]]
+[^8]: [[Riepiloghi/Ignemir/Sessione 6]]
+[^9]: [[Riepiloghi/Ignemir/Sessione 23]]
+[^10]: [[Riepiloghi/Ignemir/Sessione 24]]

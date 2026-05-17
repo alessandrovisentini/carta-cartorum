@@ -27,6 +27,10 @@ Sulle rovine del Megadon c'è una città abitata dagli [[Uomini Serpente]][^2]. 
 - Un faro con [[Gemme del Vuoto]] come sistema di illuminazione[^6]
 - Templi della Luna (culto della Luna Nera)[^6]
 
+## Brugil
+
+[[Brugil]] è una città del Megadon in cui era presente un tempio di [[Elunaui]] e un'accademia[^7]. [[Eric]] è nato e cresciuto qui, e anche [[Pagrax]] ha studiato presso la "scuola di Megadon" insieme a [[Surprax]] e [[Lorcrax]][^7]. Il Megadon morto giacente su questo lato di Targea è lo stesso Megadon di Brugil[^7].
+
 ## Storia nelle Sessioni
 
 - **Sessione 1**: [[Lil]] menziona la carcassa a 2-3 giorni di cammino[^1].
@@ -45,3 +49,4 @@ Sulle rovine del Megadon c'è una città abitata dagli [[Uomini Serpente]][^2]. 
 [^4]: [[Riepiloghi/Zamoraz/Sessione 5]]
 [^5]: [[Riepiloghi/Zamoraz/Sessione 10]]
 [^6]: [[Riepiloghi/Zamoraz/Sessione 14]]
+[^7]: [[Riepiloghi/Ignemir/Sessione 24]]

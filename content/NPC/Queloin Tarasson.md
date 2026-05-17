@@ -21,6 +21,7 @@ Queloin Tarasson è una Attalwen (mezza elfa e mezza nana), capitana della [[Riv
 ## Storia nelle Sessioni
 
 - **Sessione 23**: Muore durante l'attacco della [[Caccia Selvaggia]] al villaggio[^5].
+- **Sessione 24**: [[Ignemir]] la cita come l'unica capitana caduta nell'attacco: il suo fratello gemello [[Loinque Tarasson]] è l'unico capitano della [[Rivalsa]] rimasto[^6].
 
 ---
 
@@ -31,3 +32,4 @@ Queloin Tarasson è una Attalwen (mezza elfa e mezza nana), capitana della [[Riv
 [^3]: [[Riepiloghi/Zamoraz/Sessione 5]]
 [^4]: [[Riepiloghi/Zamoraz/Sessione 17]]
 [^5]: [[Riepiloghi/Ignemir/Sessione 23]]
+[^6]: [[Riepiloghi/Ignemir/Sessione 24]]

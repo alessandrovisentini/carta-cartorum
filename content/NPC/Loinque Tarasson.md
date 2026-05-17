@@ -16,9 +16,14 @@ Loinque Tarasson è un Attalwen (mezzo elfo e mezzo nano), nostromo della [[Riva
 
 - Insieme alla sorella [[Queloin Tarasson]], ha regalato ad [[Awen Seife]] un piccolo martello in argento[^2].
 
+## Storia nelle Sessioni
+
+- **Sessione 24**: Unico capitano sopravvissuto della [[Rivalsa]] dopo l'[[Attacco della Caccia Selvaggia]] (la gemella [[Queloin Tarasson]] è caduta nello scontro)[^3]. Nei primi giorni dal disastro ha tentato più volte di buttarsi nelle pire funebri; successivamente è diventato il più assiduo frequentatore del bar[^3]. Porta alcol per tutti, beve, canta e grida con un sorriso larghissimo, finché a tarda notte non si rintana a piangere da solo in un angolo[^3].
+
 ---
 
 ## Fonti
 
 [^1]: [[Introduzione]]
 [^2]: [[Riepiloghi/Zamoraz/Sessione 17]]
+[^3]: [[Riepiloghi/Ignemir/Sessione 24]]

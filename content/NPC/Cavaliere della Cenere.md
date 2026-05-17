@@ -18,6 +18,7 @@ Il messaggio, firmato da "I.L'E", recita: "Preparatevi ad accogliere il Cavalier
 ## Storia nelle Sessioni
 
 - **Sessione 23**: Un Cavaliere su un cavallo in parte nero e in parte azzurro guida la [[Caccia Selvaggia]] nell'attacco al villaggio[^3]. Porta un vessillo con un "dente affilato" (un'elsa)[^3]. Il gruppo non è sicuro se si tratti del Cavaliere della Cenere[^3].
+- **Sessione 24**: Risulta come uno dei membri del trio cavalleresco sorto sulla [[Furia di Cernunnos]] dopo l'[[Attacco della Caccia Selvaggia]], insieme a [[Bray Cantaconchiglia]] e [[Valamonte]][^4]. Il trio vuole stabilire un nuovo comando della nave e del villaggio[^4].
 
 ---
 
@@ -26,3 +27,4 @@ Il messaggio, firmato da "I.L'E", recita: "Preparatevi ad accogliere il Cavalier
 [^1]: [[Riepiloghi/Ignemir/Sessione 20]]
 [^2]: [[Riepiloghi/Zamoraz/Sessione 20]]
 [^3]: [[Riepiloghi/Ignemir/Sessione 23]]
+[^4]: [[Riepiloghi/Ignemir/Sessione 24]]

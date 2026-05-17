@@ -38,6 +38,8 @@ Stavano trasportando team di scavo, recupero e restauro delle antichità sotterr
 - **Sessione 15**: [[Luciano]] rivela ad [[Awen Seife]] che una sua statua si è mossa e saltata in un pilastro[^6].
 - **Sessione 16**: [[Eric]] entra nella Rivalsa con l'aiuto di [[Gimbo]][^7]. L'entrata è uno dei grandi oblò, con tubi attraverso cui scorrono diversi tipi di energia e un ascensore con grate[^7]. Tutti i membri stanno facendo ricerca sul sangue di [[Megadon]] e non c'è possibilità di ottenerne altro[^7].
 - **Sessione 17**: Hanno mandato ad [[Awen Seife]] una lettera di scuse e gli attrezzi recuperati, tutti tranne un piccolo martello in argento[^8]. I fratelli capitani avevano regalato il martello ad Awen anni fa[^8]. [[Luciano]] ha rivelato a [[Vanya]] che sulla Rivalsa c'è un portale che inghiotte qualsiasi cosa, nel luogo dove i manovali vanno a pisciare[^9].
+- **Sessione 23**: Durante l'[[Attacco della Caccia Selvaggia]], le creature della Caccia si lanciano sulla struttura della Rivalsa con foga distruttiva; una parte della nave si incassa in dentro e crolla[^10]. Una grande quantità di personale scappa per rifugiarsi sulla Mefisto[^10]. [[Queloin Tarasson]] muore nello scontro[^10].
+- **Sessione 24**: La nave è la più colpita tra le tre[^11]. I caduti sono stati bruciati in pire a cielo aperto per vari giorni, anche usando il sangue di [[Megadon]][^11]. Il sistema di depurazione dell'acqua è inutilizzabile e dubbio se ci siano ancora le braccia e le menti necessarie a rimetterlo in moto[^11]. [[Loinque Tarasson]] è l'unico capitano rimasto e nei primi giorni ha cercato di buttarsi nelle pire; ora è il più assiduo frequentatore del bar[^11]. Molti se ne sono andati: classi di studenti con i loro insegnanti, manovali diventati cercatori di tesori fuggiti con segreti, ricerche e manufatti[^11]. Solo pochi cercano di mantenere attive le pompe di calore[^11].
 
 ---
 
@@ -52,3 +54,5 @@ Stavano trasportando team di scavo, recupero e restauro delle antichità sotterr
 [^7]: [[Riepiloghi/Ignemir/Sessione 16]]
 [^8]: [[Riepiloghi/Zamoraz/Sessione 17]]
 [^9]: [[Riepiloghi/Opalix/Sessione 17]]
+[^10]: [[Riepiloghi/Ignemir/Sessione 23]]
+[^11]: [[Riepiloghi/Ignemir/Sessione 24]]

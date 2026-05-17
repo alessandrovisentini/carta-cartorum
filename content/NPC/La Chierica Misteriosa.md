@@ -27,9 +27,11 @@ Può lanciare incantesimi di cura che ripristinano punti vita a tutti gli alleat
 ## Storia nelle Sessioni
 
 - **Sessione 16**: Emerge dalle fiamme che avvolgono Ignemir dopo che questi sente una voce sussurrare "Fidati..."[^1]. Combatte al fianco di [[Vailendel]] ed [[Eric]] contro i lupi della [[Caccia Originale]][^1]. Pone una mano sul braccio di Vailendel come a ribadire un'alleanza, senza parlare[^1]. Non risponde alle battute di Vailendel[^1]. Il giorno dopo la spedizione, al ritorno al villaggio, non c'è traccia di lei[^1].
+- **Sessione 24**: [[Ignemir]] rivela alla compagnia che la chierica misteriosa è [[Erelyth]], elfa chierica del dominio della vita appartenente all'[[Fazioni/Ordine Scarlatto|Ordine Scarlatto]], la cui anima è ancorata alla sua alabarda[^2].
 
 ---
 
 ## Fonti
 
 [^1]: [[Riepiloghi/Ignemir/Sessione 16]]
+[^2]: [[Riepiloghi/Ignemir/Sessione 24]]

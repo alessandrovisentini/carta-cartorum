@@ -15,8 +15,11 @@ Rappresenta una delle migliori menti della [[Furia di Cernunnos]] e supervisiona
 
 ## Storia nelle Sessioni
 
-- **Sessione 6**: Supervisiona la discesa nel fiordo con una piattaforma (80m circa)[^1]. Dà ordini all'avamposto del vulcano. Mette casse misteriose in una gabbia giù dal montacarichi[^1].
+- **Sessione 6**: Supervisiona la discesa nel fiordo con una piattaforma (80m circa)[^1]. Dà ordini all'avamposto del vulcano. Mette casse misteriose in una gabbia giù dal montacarichi[^1]. Nominato come uno dei tre luogotenenti di [[Tiriano il Saggio]] insieme a [[Uruan]] e [[Il Satiro]][^3].
 - **Sessione 10**: Non è presente durante una spedizione al vulcano, il carico parte senza di lui[^2].
+- **Sessione 17**: Una sua spedizione è stata localizzata insieme a [[Tiriano il Saggio|Tiriano]] in una zona da cui non sono tornati; gruppi della Furia stanno cercando l'ultima posizione nota dei due[^4].
+- **Sessione 23**: Non si vede a bordo della Furia durante l'[[Attacco della Caccia Selvaggia]][^5].
+- **Sessione 24**: Risulta scomparso insieme a [[Tiriano il Saggio|Tiriano]], [[Uruan]] e [[Il Satiro]][^6]. Secondo [[Hoot]], si assentava spesso con Tiriano e Uruan per spedizioni solitarie, sia prima del naufragio (durante le ricerche della [[Madre di tutte le vedove]]) sia su questo litorale[^6].
 
 ---
 
@@ -24,3 +27,7 @@ Rappresenta una delle migliori menti della [[Furia di Cernunnos]] e supervisiona
 
 [^1]: [[Riepiloghi/Zamoraz/Sessione 6]]
 [^2]: [[Riepiloghi/Zamoraz/Sessione 10]]
+[^3]: [[Riepiloghi/Ignemir/Sessione 6]]
+[^4]: [[Riepiloghi/Ignemir/Sessione 17]]
+[^5]: [[Riepiloghi/Ignemir/Sessione 23]]
+[^6]: [[Riepiloghi/Ignemir/Sessione 24]]
