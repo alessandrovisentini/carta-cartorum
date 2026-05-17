@@ -5,7 +5,7 @@
 | Specie            | Dragonide (animalesco)  |
 | Altezza           | 2,50 m                  |
 | Padrone           | [[Gareth]]              |
-| Prima Apparizione | [[Riepiloghi/Ignemir/Sessione 23]] |
+| Prima Apparizione | [[Riepiloghi/Ignemir/Sessione 23 Pt 2]] |
 
 ## Descrizione
 
@@ -28,4 +28,4 @@ Si è identificata come "La Spada" e alla domanda su chi serva ha risposto "[[Ga
 
 ## Fonti
 
-[^1]: [[Riepiloghi/Ignemir/Sessione 23]]
+[^1]: [[Riepiloghi/Ignemir/Sessione 23 Pt 2]]

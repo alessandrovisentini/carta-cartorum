@@ -41,5 +41,5 @@ Le Lance di Cernunnos sono coloro che non solo sono sopravvissuti alla Caccia Se
 [^6]: [[Riepiloghi/Zamoraz/Sessione 6]]
 [^7]: [[Riepiloghi/Zamoraz/Sessione 10]]
 [^8]: [[Riepiloghi/Ignemir/Sessione 6]]
-[^9]: [[Riepiloghi/Ignemir/Sessione 23]]
+[^9]: [[Riepiloghi/Ignemir/Sessione 23 Pt 2]]
 [^10]: [[Riepiloghi/Ignemir/Sessione 24]]

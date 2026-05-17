@@ -56,5 +56,5 @@ Ignemir Valmorath è un tiefling che era con la [[Furia di Cernunnos]] ma non si
 [^11]: [[Riepiloghi/Ignemir/Sessione 18]]
 [^12]: [[Riepiloghi/Ignemir/Sessione 20]]
 [^13]: [[Riepiloghi/Ignemir/Sessione 22]]
-[^14]: [[Riepiloghi/Ignemir/Sessione 23]]
+[^14]: [[Riepiloghi/Ignemir/Sessione 23 Pt 2]]
 [^15]: [[Riepiloghi/Ignemir/Sessione 24]]

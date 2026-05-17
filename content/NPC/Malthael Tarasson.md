@@ -4,7 +4,7 @@
 | ----------------- | --------------------------------- |
 | Affiliazione      | Casata [[Loinque Tarasson\|Tarasson]] |
 | Ruolo             | Grande predicatore di Pta         |
-| Prima Menzione    | [[Riepiloghi/Ignemir/Sessione 23]] |
+| Prima Menzione    | [[Riepiloghi/Ignemir/Sessione 23 Pt 2]] |
 
 ## Descrizione
 
@@ -16,4 +16,4 @@ Antenato della parte elfica della casata [[Loinque Tarasson|Tarasson]][^1]. Fu u
 
 ## Fonti
 
-[^1]: [[Riepiloghi/Ignemir/Sessione 23]]
+[^1]: [[Riepiloghi/Ignemir/Sessione 23 Pt 2]]

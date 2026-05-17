@@ -22,4 +22,4 @@ Ragazzo della [[Rivalsa]] che fa da intermediario per chi vuole parlare con il [
 ## Fonti
 
 [^1]: [[Riepiloghi/Ignemir/Sessione 16]]
-[^2]: [[Riepiloghi/Ignemir/Sessione 23]]
+[^2]: [[Riepiloghi/Ignemir/Sessione 23 Pt 2]]

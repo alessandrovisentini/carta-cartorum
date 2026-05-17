@@ -22,6 +22,7 @@ Rosanno è un guerriero del gruppo, esperto in combattimento[^1]. Ha una pistola
 - **Sessione 18**: Aiuta [[Ignemir]] a spostare i resti dell'ascensore sotto la [[Fontana]][^9]. Estrae la pistola contro il [[Lupercalico]][^9]. Spinge il Lupercalico mentre è in volo, facendo cadere una chiave dalla sua mano (recuperata da [[Hoot]])[^9]. Nota che le luci blu delle [[Gemme del Vuoto]] stanno diventando rosse[^9].
 - **Sessione 20**: Riceve una pozione rosa da [[Ignemir]] con l'indicazione di usarla "se le cose si mettono male"[^10]. Entra nello specchio insieme a [[Eric]][^10]. Tenta di aprire le serrature nel dungeon con la [[Chiave con Labirinto\|chiave del Lupercalico]], attivando trappole di aghi[^10]. Attacca di sorpresa una [[Creature del Dungeon Specchio\|creatura del dungeon]] sparandole in volto con la pistola[^10]. Durante il combattimento viene inghiottito da un mostro e subisce 17 danni da acido prima che [[Eric]] lo costringa a sputarlo[^10]. Si risveglia nella cucina del bar dopo la morte della creatura[^10].
 - **Sessione 22**: Rimane a guardia del passaggio dello [[Specchio dei Liberi]] al [[La Rocca dei Conflitti|bar]] mentre [[Zamoraz]], [[Vanya]], [[Ignemir]] e [[Bran Lapillo|Bran]] entrano nel [[Panopticon Carcerario|dungeon]][^11].
+- **Sessione 23 Pt 1**: Viene svegliato nel cuore della notte da [[Bran Lapillo|Bran]] per partecipare alla [[Caccia ai Dispersi]][^12]. Ha dei proiettili[^12]. Dopo l'uso dell'[[Ancora Spaziale|ancora]] per raggiungere la [[Fontana]], non ha freddo per la prima volta da molto tempo[^12]. Si riposa nel primo giorno mentre [[Vailendel]] e [[Vanya]] decidono cosa fare[^12]. Propone a [[Uruan]] di unirsi alla ricerca dei dispersi[^12]. Fa del fuoco/fumo nella nebbia per segnalare la propria presenza[^12]. Dice "Ciao" al dragonide ferito ([[Regrax]]) che risponde mostrando il dito medio[^12].
 
 ---
 
@@ -38,3 +39,4 @@ Rosanno è un guerriero del gruppo, esperto in combattimento[^1]. Ha una pistola
 [^9]: [[Riepiloghi/Ignemir/Sessione 18]]
 [^10]: [[Riepiloghi/Ignemir/Sessione 20]]
 [^11]: [[Riepiloghi/Ignemir/Sessione 22]]
+[^12]: [[Riepiloghi/Zamoraz/Sessione 23 Pt 1]]

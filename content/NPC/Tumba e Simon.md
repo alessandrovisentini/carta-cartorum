@@ -20,6 +20,7 @@ Simon può trasformarsi in cinghialoide: creatura nuda ricolma di peluria, volto
 - **Sessione 9**: [[Murr]] rivela che Tumba e Simon gli hanno chiesto 3 desideri a testa e hanno detto di avere già gli strumenti per liberarlo[^4].
 
 - **Sessione 11**: Il gruppo li incontra alla [[Fontana]] insieme a [[Emiliano]] e [[Regrax]][^5]. La chiave con gemma rosa apre il collare di Simon[^5]. Simon rivela la posizione delle gallerie sotto un grande argano nella foresta[^5].
+- **Sessione 23 Pt 1**: [[Pagrax]], dopo essere stato sputato fuori dal dungeon, si risveglia disteso sulla neve in uno spiazzo circondato da alberi vicino a una grande voragine/cava con un muretto e un argano; trova il **corpo di Tumba** circondato da strutture di cristalli di gelo[^7].
 
 ## L'Orecchino
 
@@ -42,4 +43,5 @@ Con loro ci sono [[Regrax]] la dragonide ed [[Emiliano]] il gigante[^2]. Tutti e
 [^3]: [[Riepiloghi/Zamoraz/Sessione 5]]
 [^4]: [[Riepiloghi/Zamoraz/Sessione 9]]
 [^5]: [[Riepiloghi/Zamoraz/Sessione 11]]
-[^6]: [[Riepiloghi/Ignemir/Sessione 23]]
+[^6]: [[Riepiloghi/Ignemir/Sessione 23 Pt 2]]
+[^7]: [[Riepiloghi/Zamoraz/Sessione 23 Pt 1]]

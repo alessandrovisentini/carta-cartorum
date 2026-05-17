@@ -276,7 +276,19 @@ Vanya convince Bran a unirsi nella seconda esplorazione del dungeon mentre Awen 
 
 ---
 
-## Sessione 23 - La Lunga Notte
+## Sessione 23 Pt 1 - Epilogo, Parte I
+
+|              |                |
+| ------------ | -------------- |
+| Data         | 10/04/2026     |
+
+Pagrax si risveglia disteso sulla neve vicino a una grande voragine con un argano, dove trova il corpo di Tumba circondato da strutture di cristalli di gelo. Awen percepisce con un incantesimo di divinazione la presenza di Pagrax e Zamoraz a sud, vicino alla foresta; Bran sveglia Rosanno, Vanya (ora in forma maschile, tarchiato e con i capelli scuri) e Vailendel per organizzare la spedizione di soccorso — gli altri membri della compagnia sono dispersi nel caos del villaggio. Il gruppo di soccorso usa l'ancora per raggiungere la fontana, riportando piccoli effetti collaterali (Vailendel sviluppa un monociglio a manubrio, Rosanno non sente freddo). Riconoscono orme umanoidi e bestiali in più direzioni e si incamminano verso SE. Trovano Uruan addormentato su un albero con la spada accoccolata: il luogotenente della Furia rivela di essere venuto a cercare Tiriano credendo che il problema fossero i nobili che ne questionavano l'autorità, e si unisce al gruppo. Pagrax, intanto, incontra un gruppetto di tizzoni della Furia mandati a cercare i dispersi: con amicizia li convince di essere uno di loro e li riporta verso il villaggio. Zamoraz, evocato Moli in versione mulo, incontra uno Yeti delle Nevi che lo saluta con "la via" dei Liberi e lo avverte: "Non incontrate Gareth". Il gruppo riunito trova un dragonide ferito che si rivela essere Regrax: Vanya tenta di curarla ma le infila inavvertitamente il pollice nel petto uccidendola, mentre risuona un corno della Caccia Selvaggia. Durante il primo turno di guardia il grosso pilastro sopra il Megadon esplode con un lampo di luce azzurra; una scheggia con sostanza giallognola cade vicino al gruppo e Vanya, su consiglio della propria dea, le dà fuoco — il pilastro diventa translucido e mostra ombre che si muovono al suo interno. Uruan e i tizzoni scompaiono senza lasciare traccia. Pagrax scrive in draconico "Ancóra Mur Corri" come messaggio per Zamoraz; il dragonide raggiunge la fontana al mattino con la zampa destra inutilizzabile e le scaglie ridotte, e tutti rientrano al villaggio attraverso l'ancora. Bran sta preparando la colazione con una padella di oblietite, cucinando la pancetta su se stesso.
+
+**Riepiloghi:** [[Riepiloghi/Zamoraz/Sessione 23 Pt 1|Sessione 23 Pt 1 (Zamoraz)]]
+
+---
+
+## Sessione 23 Pt 2 - La Lunga Notte
 
 |              |                |
 | ------------ | -------------- |
@@ -284,7 +296,7 @@ Vanya convince Bran a unirsi nella seconda esplorazione del dungeon mentre Awen 
 
 Durante il downtime le piume di Hoot tornano al loro colore originario, e alla mensa il gruppo interroga Awen sulla natura dell'oblietite: la scultrice rivela di non aver mai visto il materiale prima di riceverlo come regalo con l'incarico di scolpire una statua raffigurante Malthael Tarasson, antenato elfico dei Tarasson, come dono per i capitani della Rivalsa — lavoro mai completato. Solo il martello-cassa di Eric aveva scalfito l'oblietite per la prima volta; Awen comprende ora che il martello, il forziere di Eric e la cassa sono lo stesso oggetto. Mentre si avvicinano a un pilastro con la cassa, un corno risuona dalla palude: un drago con scaglie nere sfonda la Maledizione di Mefisto urlando "CASA!", spicca il volo verso il vulcano sprigionando fiamme bianche — anomalia rispetto alle scaglie nere, di norma associate all'acido. La Caccia Selvaggia emerge dalla nebbia con il suo Cavaliere su un cavallo bicolore; lupi, centauri e creature scaricano frecce sul villaggio mentre il gruppo si rifugia sulla Furia, dove Ben li fa entrare riconoscendo Hoot dalle ali. Dagli oblò assistono alla distruzione della Rivalsa: le persone catturate diventano blocchi di ghiaccio o polvere di neve. Dall'ancora portata da Bran emerge allora La Spada, un dragonide di 2,50 m con una scorza di ghiaccio che cresce a ogni colpo e un cristallo di gelatite al posto di un occhio: abbatte Hoot e poi Ignemir, estrae la chiave del Lupercalico dal corpo di quest'ultimo e fugge nel portale. Vailendel, Eric, Bran e Hoot lo inseguono fino alla fontana, trovando solo orme draconiche che entrano nel portale senza uscirne. Quando la nebbia si dirada, la Caccia si dirige verso il Megadon e la fiamma azzurra sopra di esso si spegne per sempre. Nei giorni successivi si apprende che il professor Nicholas Der Brughenriz, Gimbo e la capitana Queloin Tarasson sono morti; Luciano è sopravvissuto.
 
-**Riepiloghi:** [[Riepiloghi/Ignemir/Sessione 23|Sessione 23 (Ignemir)]]
+**Riepiloghi:** [[Riepiloghi/Ignemir/Sessione 23 Pt 2|Sessione 23 Pt 2 (Ignemir)]]
 
 ---
 

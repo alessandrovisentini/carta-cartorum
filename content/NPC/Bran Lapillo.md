@@ -21,6 +21,7 @@ Bran Lapillo è un genasi del fuoco, un omone raggomitolato in se stesso, ingobb
 - **Sessione 17**: Accorre dopo l'esplosione nella stanza di [[Awen Seife]][^7]. Si prende cura di Awen, le dà un buffetto sulla guancia e da bere[^7]. Rivela che lui e Awen erano stati ospiti alla [[I Regni Fatati|Corte Splendente]], dove la parola "catrador" provocò una reazione estrema nelle fate[^7]. Ha dovuto usare mezzi estremi per fuggire e non sono più i benvenuti[^7]. Porta Awen a dormire nella stanza di [[Zamoraz]][^7].
 - **Sessione 20**: Sta lentamente ricostruendo la porta della stanza di [[Awen Seife]] con materiali che ricrescono[^9]. Consegna un messaggio della [[Furia di Cernunnos]] al gruppo dopo il loro ritorno dal dungeon: "Preparatevi ad accogliere il [[Cavaliere della Cenere]] - I.L'E"[^9].
 - **Sessione 22**: Accetta di entrare nel dungeon con il gruppo mentre [[Awen Seife]] sta meglio[^10]. Consegna l'ultima ancora disponibile, non potenziata e rischiosa da attraversare[^10]. Nel dungeon riconosce l'architettura e l'odore: simile a celle nelle [[Corti Ancestrali|Corti Fatate]] dove venivano rinchiusi i condannati[^10]. Riconosce la sala circolare come un Panopticon[^10]. Durante il combattimento lancia fiammate contro i mostri[^10]. All'uscita dal dungeon le sue fiamme sono diventate bianche[^10].
+- **Sessione 23 Pt 1**: Sveglia [[Rosanno]], [[Vanya]] e [[Vailendel]] nel cuore della notte: [[Awen Seife|Awen]] ha avuto un segnale di [[Pagrax]] e [[Zamoraz]] a sud, vicino alla foresta[^11]. Avverte: "Penso che sarebbe importante riportarli qui"; spiega che la magia in questo posto sembra avere dei problemi[^11]. Al ritorno della spedizione, sta preparando la colazione con una **padella di oblietite**, cucinando la pancetta su se stesso[^11].
 
 ## Ziula (Zi')
 
@@ -44,3 +45,4 @@ Bran e [[Awen Seife]] sono stati ospiti alla [[I Regni Fatati|Corte Splendente]]
 [^8]: [[Riepiloghi/Ignemir/Sessione 17]]
 [^9]: [[Riepiloghi/Ignemir/Sessione 20]]
 [^10]: [[Riepiloghi/Ignemir/Sessione 22]]
+[^11]: [[Riepiloghi/Zamoraz/Sessione 23 Pt 1]]

@@ -38,6 +38,8 @@ Sulle rovine del Megadon c'è una città abitata dagli [[Uomini Serpente]][^2]. 
 - **Sessione 4**: Il gruppo esplora la città e combatte gli [[Uomini Serpente]][^2].
 - **Sessione 8**: [[Rem]] avverte del pilastro pericoloso[^3].
 - **Sessione 14**: Il gruppo esplora il faro e incontra [[Fannipa]][^6].
+- **Sessione 23 Pt 1**: [[Eventi/Esplosione del Pilastro del Megadon|Il pilastro principale esplode]] con un lampo di luce azzurra verso il cielo, facendo piovere schegge sulla foresta del litorale; una scheggia con sostanza giallognola, una volta bruciata, rivela ombre in movimento all'interno del pilastro translucido[^8].
+- **Sessione 23 Pt 2**: La fiamma azzurra sopra il Megadon si spegne per sempre dopo l'arrivo della [[Caccia Selvaggia]][^9].
 
 ---
 
@@ -50,3 +52,5 @@ Sulle rovine del Megadon c'è una città abitata dagli [[Uomini Serpente]][^2]. 
 [^5]: [[Riepiloghi/Zamoraz/Sessione 10]]
 [^6]: [[Riepiloghi/Zamoraz/Sessione 14]]
 [^7]: [[Riepiloghi/Ignemir/Sessione 24]]
+[^8]: [[Riepiloghi/Zamoraz/Sessione 23 Pt 1]]
+[^9]: [[Riepiloghi/Ignemir/Sessione 23 Pt 2]]

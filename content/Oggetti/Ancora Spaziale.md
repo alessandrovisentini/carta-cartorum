@@ -51,5 +51,5 @@ I [[Geni del Fuoco]] hanno modificato l'ancora in cambio di un patto[^3]:
 [^5]: [[Riepiloghi/Opalix/Sessione 17]]
 [^6]: [[Riepiloghi/Ignemir/Sessione 18]]
 [^7]: [[Riepiloghi/Ignemir/Sessione 22]]
-[^8]: [[Riepiloghi/Ignemir/Sessione 23]]
+[^8]: [[Riepiloghi/Ignemir/Sessione 23 Pt 2]]
 [^9]: [[Riepiloghi/Ignemir/Sessione 25]]

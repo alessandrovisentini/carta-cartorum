@@ -11,7 +11,7 @@ aliases:
 | Specie            | Drago Arcaico                     |
 | Colore scaglie    | Nero                              |
 | Provenienza       | [[Maledizione di Mefisto]]        |
-| Prima Apparizione | [[Riepiloghi/Ignemir/Sessione 23]] |
+| Prima Apparizione | [[Riepiloghi/Ignemir/Sessione 23 Pt 2]] |
 
 ## Descrizione
 
@@ -36,5 +36,5 @@ Cruellatrix è un drago arcaico: appartiene all'era delle dragonie, antecedente 
 
 ## Fonti
 
-[^1]: [[Riepiloghi/Ignemir/Sessione 23]]
+[^1]: [[Riepiloghi/Ignemir/Sessione 23 Pt 2]]
 [^2]: [[Riepiloghi/Ignemir/Sessione 25]]

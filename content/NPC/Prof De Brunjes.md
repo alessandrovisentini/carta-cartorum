@@ -40,4 +40,4 @@ Teorizza che sia una **città fantasma**: le persone potrebbero essere miraggi o
 
 [^1]: [[Timeline/Timeline|Sessione 04]]
 [^2]: [[Riepiloghi/Zamoraz/Sessione 14]]
-[^3]: [[Riepiloghi/Ignemir/Sessione 23]]
+[^3]: [[Riepiloghi/Ignemir/Sessione 23 Pt 2]]

@@ -54,5 +54,5 @@ Stavano trasportando team di scavo, recupero e restauro delle antichità sotterr
 [^7]: [[Riepiloghi/Ignemir/Sessione 16]]
 [^8]: [[Riepiloghi/Zamoraz/Sessione 17]]
 [^9]: [[Riepiloghi/Opalix/Sessione 17]]
-[^10]: [[Riepiloghi/Ignemir/Sessione 23]]
+[^10]: [[Riepiloghi/Ignemir/Sessione 23 Pt 2]]
 [^11]: [[Riepiloghi/Ignemir/Sessione 24]]

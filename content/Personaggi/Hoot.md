@@ -30,5 +30,5 @@ Hoot è un membro del gruppo con abilità di spionaggio e furtività. Tende a op
 [^6]: [[Riepiloghi/Zamoraz/Sessione 11]]
 [^7]: [[Riepiloghi/Ignemir/Sessione 18]]
 [^8]: [[Riepiloghi/Pagrax/Sessione 19]]
-[^9]: [[Riepiloghi/Ignemir/Sessione 23]]
+[^9]: [[Riepiloghi/Ignemir/Sessione 23 Pt 2]]
 [^10]: [[Riepiloghi/Ignemir/Sessione 24]]

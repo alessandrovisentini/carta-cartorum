@@ -63,5 +63,5 @@ L'attacco spinge [[Ignemir]] a redigere il manifesto della **Rinascita**, propon
 ## Fonti
 
 [^1]: [[Riepiloghi/Zamoraz/Sessione 12]]
-[^2]: [[Riepiloghi/Ignemir/Sessione 23]]
+[^2]: [[Riepiloghi/Ignemir/Sessione 23 Pt 2]]
 [^3]: [[Riepiloghi/Ignemir/Sessione 24]]

@@ -40,5 +40,5 @@ Durante l'impatto sul [[Il Litorale|Litorale]], alcuni carcerati sono evasi[^2]:
 [^3]: [[Timeline/Timeline|Sessione 01]]
 [^4]: [[Riepiloghi/Zamoraz/Sessione 11]]
 [^5]: [[Riepiloghi/Ignemir/Sessione 16]]
-[^6]: [[Riepiloghi/Ignemir/Sessione 23]]
+[^6]: [[Riepiloghi/Ignemir/Sessione 23 Pt 2]]
 [^7]: [[Riepiloghi/Ignemir/Sessione 24]]

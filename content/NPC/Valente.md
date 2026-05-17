@@ -29,5 +29,5 @@ Rappresenta una delle migliori menti della [[Furia di Cernunnos]] e supervisiona
 [^2]: [[Riepiloghi/Zamoraz/Sessione 10]]
 [^3]: [[Riepiloghi/Ignemir/Sessione 6]]
 [^4]: [[Riepiloghi/Ignemir/Sessione 17]]
-[^5]: [[Riepiloghi/Ignemir/Sessione 23]]
+[^5]: [[Riepiloghi/Ignemir/Sessione 23 Pt 2]]
 [^6]: [[Riepiloghi/Ignemir/Sessione 24]]

@@ -85,4 +85,4 @@ Secondo [[Odar Brandibirra]], in passato la gente lasciava offerte alle fate per
 [^6]: [[Riepiloghi/Zamoraz/Sessione 12]]
 [^7]: [[Riepiloghi/Ignemir/Sessione 16]]
 [^8]: [[Riepiloghi/Ignemir/Sessione 17]]
-[^9]: [[Riepiloghi/Ignemir/Sessione 23]]
+[^9]: [[Riepiloghi/Ignemir/Sessione 23 Pt 2]]

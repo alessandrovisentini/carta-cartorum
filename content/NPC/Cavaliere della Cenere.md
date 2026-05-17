@@ -26,5 +26,5 @@ Il messaggio, firmato da "I.L'E", recita: "Preparatevi ad accogliere il Cavalier
 
 [^1]: [[Riepiloghi/Ignemir/Sessione 20]]
 [^2]: [[Riepiloghi/Zamoraz/Sessione 20]]
-[^3]: [[Riepiloghi/Ignemir/Sessione 23]]
+[^3]: [[Riepiloghi/Ignemir/Sessione 23 Pt 2]]
 [^4]: [[Riepiloghi/Ignemir/Sessione 24]]

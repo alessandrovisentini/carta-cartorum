@@ -23,5 +23,5 @@ Ben è un centauro membro dell'equipaggio della [[Furia di Cernunnos]][^1].
 
 [^1]: [[Timeline/Timeline|Sessione 04]]
 [^2]: [[Riepiloghi/Zamoraz/Sessione 10]]
-[^3]: [[Riepiloghi/Ignemir/Sessione 23]]
+[^3]: [[Riepiloghi/Ignemir/Sessione 23 Pt 2]]
 [^4]: [[Riepiloghi/Ignemir/Sessione 24]]

@@ -33,5 +33,5 @@ Nato e cresciuto in una carovana/circo dove tutti erano genitori di tutti, ma no
 [^4]: [[Timeline/Timeline|Sessione 15]]
 [^5]: [[Riepiloghi/Zamoraz/Sessione 17]]
 [^6]: [[Riepiloghi/Opalix/Sessione 17]]
-[^7]: [[Riepiloghi/Ignemir/Sessione 23]]
+[^7]: [[Riepiloghi/Ignemir/Sessione 23 Pt 2]]
 [^8]: [[Riepiloghi/Ignemir/Sessione 24]]

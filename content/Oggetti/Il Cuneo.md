@@ -27,5 +27,5 @@ Per attivarlo è necessario che il nome dell'utilizzatore sia inciso sopra di es
 ## Fonti
 
 [^1]: [[Timeline/Timeline|Sessione 04]]
-[^2]: [[Riepiloghi/Ignemir/Sessione 23]]
+[^2]: [[Riepiloghi/Ignemir/Sessione 23 Pt 2]]
 [^3]: [[Timeline/Timeline|Sessione 07]]
