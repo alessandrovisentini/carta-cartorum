@@ -32,6 +32,7 @@ Ignemir Valmorath è un tiefling che era con la [[Furia di Cernunnos]] ma non si
 
 - **Sessione 23**: Abbattuto durante lo scontro con [[La Spada]], a cui viene sottratta la [[Chiave con Labirinto|chiave del Lupercalico]][^14].
 - **Sessione 24**: Redige un manifesto per la formazione di un **Gran Consiglio** democratico, firmato con la tradizione marinaresca del round robin, prendendo le distanze dal cognome Valmorath[^15]. Rivela alla compagnia la storia integrale di [[Erelyth]]: elfa, chierica del dominio della vita, appartenente all'[[Fazioni/Ordine Scarlatto|Ordine Scarlatto]], destinata a diventare l'ultima Custode ma uccisa durante la Notte della Custodia dagli aguzzini della casata Valmorath[^15]. La madre Valmira ancorò l'anima di Erelyth alla lama dell'alabarda come ultimo atto disperato[^15]. La notte dello scontro con la Caccia (S23), le anime di Ignemir ed Erelyth si sono scambiate: Ignemir ha ceduto energia vitale assumendo la forma di kanabo, temendo di rimanere prigioniero per sempre[^15].
+- **Sessione 25**: Guida designata della spedizione al [[Vulcano]] per trattare con i [[Clan Oven|giganti Oven]][^16]. Ottiene dal [[Lupercalico]] una catenina/pietra utile a uscire dal dungeon, in cambio di informazioni sui mutaforma[^16]. Tratta con il principe [[Ocecot Oven]] e ottiene indicazioni strategiche su Cruellatrix e sui rischi legati al [[Il Toro|Toro]][^16]. Durante il ritorno attraverso l'[[Ancora Spaziale]] viene intercettato dai [[Argan e Asvad|Geni del Fuoco]] e rassicura (mentendo) che il piano procede[^16].
 
 ## Equipaggiamento
 
@@ -58,3 +59,4 @@ Ignemir Valmorath è un tiefling che era con la [[Furia di Cernunnos]] ma non si
 [^13]: [[Riepiloghi/Ignemir/Sessione 22]]
 [^14]: [[Riepiloghi/Ignemir/Sessione 23 Pt 2]]
 [^15]: [[Riepiloghi/Ignemir/Sessione 24]]
+[^16]: [[Riepiloghi/Ignemir/Sessione 25]]

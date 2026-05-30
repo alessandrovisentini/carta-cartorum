@@ -11,6 +11,8 @@ Le Gemme del Vuoto sono gemme speciali che [[Ignemir]] conosce[^1]. Proprietà:
 - Acquisiscono facilmente la magia[^1]
 - Sono molto malleabili[^1]
 
+Secondo [[Awen Seife]], il colore della gemma è legato alla scuola di magia predominante e l'intensità indica il livello di carica[^6].
+
 ## Creazione
 
 Non sono una risorsa mineraria estratta, ma una sostanza amorfa generata da lavorazione (come il vetro)[^4]. Una struttura viene espansa per raccogliere al suo interno qualcosa[^4]. Per riempirle si possono usare capacità magiche o macchinari appositi[^4]. I maghi gioiellieri specializzati ne definiscono lo scopo al momento della creazione[^4]. Sono risorse preziose che denotano un certo livello di ricchezza; è insolito che vengano utilizzate come semplice fonte di illuminazione (come nei cunicoli sotto la [[Fontana]])[^4].
@@ -28,6 +30,17 @@ Non sono una risorsa mineraria estratta, ma una sostanza amorfa generata da lavo
 - **Gemma caricata di rosso** - Nel faro sul [[Megadon]], instabile[^2]
 - **Gemma del vuoto scarica** - Trovata tra gli strumenti distrutti nella stanza di [[Awen Seife]] dopo l'esplosione[^3]
 
+## Codifica Colori
+
+- Arancione: trasmutazione[^6]
+- Azzurro: invocazione[^6]
+- Rosso: evocazione[^6]
+- Verde: ammaliamento[^6]
+- Viola: illusione[^6]
+- Trasparente: abiurazione[^6]
+- Nero: necromanzia[^6]
+- Giallo: divinazione[^6]
+
 ---
 
 ## Fonti
@@ -37,3 +50,4 @@ Non sono una risorsa mineraria estratta, ma una sostanza amorfa generata da lavo
 [^3]: [[Riepiloghi/Zamoraz/Sessione 17]]
 [^4]: [[Riepiloghi/Ignemir/Sessione 18]]
 [^5]: [[Riepiloghi/Ignemir/Sessione 22]]
+[^6]: [[Riepiloghi/Ignemir/Sessione 27]]
