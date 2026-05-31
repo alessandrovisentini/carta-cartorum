@@ -23,6 +23,8 @@ Fu un ritrovamento archeologico durante una spedizione in un tempio della Corte 
 - Ha delle crepe simili a quelle sul volto di Eric[^3]
 - Quando unita all'anello di [[Vanya]] si trasforma in uno **specchio-porta** (lo [[Specchio dei Liberi]])[^4]
 - Eric sospetta che sia stata Tig a pietrificarlo[^1]
+- Può alternare forma di cassa e di anello in autonomia[^6]
+- Emettendo fumo argentato può restituire risorse magiche a [[Eric]][^6]
 
 ## L'Episodio del Novilunio
 
@@ -35,6 +37,12 @@ Eric si pente di aver celebrato un **novilunio** per un anziano chierico morente
 - Sulla famiglia di Eric: dice che alcuni familiari sono ancora vivi da qualche parte[^1]
 - Sulla [[Catrador]]: "È un titolo perso nel tempo. Un titolo che NOI abbiamo perso."[^2]
 - Sul nome stesso: rivelato come **Tig** in Sessione 24[^1]
+- Sul [[Lupercalico]]: lo definisce servitore del "Giullare" (un Arciduca) e avverte Eric di non fidarsi di lui[^6]
+- Sulla propria natura: "La forma è ininfluente"[^6]
+
+## Storia nelle Sessioni
+
+- **Sessione 25**: Il [[Lupercalico]] tenta di impadronirsi di Tig; al contatto, la cassa lo azzanna e lo ferisce[^6]. Poco dopo Tig assume forma di anello, causando una contesa tra Eric e il Lupercalico[^6]. In seguito torna cassa e conferma l'ostilità verso il Giullare e i suoi servitori[^6].
 
 ---
 
@@ -45,3 +53,4 @@ Eric si pente di aver celebrato un **novilunio** per un anziano chierico morente
 [^3]: [[Riepiloghi/Zamoraz/Sessione 17]]
 [^4]: [[Riepiloghi/Ignemir/Sessione 20]]
 [^5]: [[Riepiloghi/Ignemir/Sessione 18]]
+[^6]: [[Riepiloghi/Ignemir/Sessione 25]]

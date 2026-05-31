@@ -13,9 +13,13 @@ Membro del neonato trio cavalleresco sulla [[Furia di Cernunnos]] insieme a [[Br
 ## Storia nelle Sessioni
 
 - **Sessione 24**: Si propone come parte del nuovo comando della Furia, in contrasto con [[Ben]] e [[Endry l'Immenso]][^1].
+- **Sessione 26**: Truppe e servitori che accompagnano il [[Cavaliere della Cenere]] portano il simbolo della casata Valamonte (albero con stendardo)[^2].
+- **Sessione 27**: Il [[Cavaliere della Cenere]] appare nel bar in stato di forte ubriachezza mentre è seguito da [[Tricolin]] e [[Ildefonso L'Ercan]], entrambi legati al suo entourage[^3].
 
 ---
 
 ## Fonti
 
 [^1]: [[Riepiloghi/Ignemir/Sessione 24]]
+[^2]: [[Riepiloghi/Ignemir/Sessione 26]]
+[^3]: [[Riepiloghi/Ignemir/Sessione 27]]
