@@ -95,7 +95,6 @@
 
 ## Blocco 5 - I Nuovi Arrivati
 
-Sessione 24 assente dal foglio originale: presenze ricostruite dai diari.[^ricostr]
 
 | Personaggio | 24 (24/04) | 25 (26/04) | 26 (17/05) | 27 (24/05) | 28 (29/05) | 29 (06/06) | 30 (12/06) | Tot |
 | ----------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | --- |
