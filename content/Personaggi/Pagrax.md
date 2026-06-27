@@ -29,6 +29,7 @@ Pagrax è un membro del gruppo con conoscenze sulla [[Caccia Selvaggia]] e capac
 - **Sessione 25**: Guida la spedizione verso il [[Vulcano]] e i giganti[^31]. Durante il caos con [[Tig]] colpisce la cassa con la scimitarra e sulla lama compare una sostanza argentata tipo mercurio, poi consegnata ad [[Awen Seife]] per analisi[^31]. Tratta con i [[Clan Oven|giganti Oven]] insieme a [[Eric]] e riferisce le informazioni sul drago Cruellatrix[^31].
 - **Sessione 26**: Con [[Vailendel]] recupera dalla [[Furia di Cernunnos]] un contenitore in nerivium legato a [[Valente]] e un dente di [[Uruan]][^32]. In forma di mastino usa l'odore del dente per seguire una traccia oltre la palizzata, fino agli orti e alla zona di [[Manny]][^32].
 - **Sessione 28**: Dopo una notte di eccessi al bar (con perdita di denaro al gioco), parte con [[Zamoraz]], [[Hoot]], [[Tricolin]] e [[Akesi Tomo]] verso le gallerie[^33]. Prende il ruolo di guida designata lungo il litorale e verso la foresta[^33].
+- **Sessione 30**: Si conficca la scimitarra nell'orbita vuota per connettersi con [[L'Osservatore|Ignazio l'Osservatore]] e sprofonda in una cascata di visioni — una creatura grigia e informe con una corona, una "[[La V|V]]" in ottone, un cielo verde che si incrina, un leone verde con un'ascia sormontato da un uccello dorato di fiamme, pilastri, un sarcofago, due immensi occhi e una fornace di soli[^34]. Pone domande sull'isola e sulla "V", affronta il proprio riflesso (che ha entrambi gli occhi) e si risveglia in posizione fetale, illeso, con il patto rafforzato[^34]. Taglia un campione di [[Melma vivente|melma bianca]] con la scimitarra in [[Nerivium]], subendo danni da fuoco, e nasconde l'[[Ancora Spaziale|àncora]] su un albero[^34]. Con [[Eidelis]] parla di [[Lorcrax|Lorprax]] e dell'Osservatore[^34].
 
 ## Natura del Potere
 
@@ -77,3 +78,4 @@ L'origine del potere di Pagrax è mista (druido + warlock) e innaturale[^8]. Eri
 [^31]: [[Riepiloghi/Ignemir/Sessione 25]]
 [^32]: [[Riepiloghi/Ignemir/Sessione 26]]
 [^33]: [[Riepiloghi/Zamoraz/Sessione 28]]
+[^34]: [[Riepiloghi/Ignemir/Sessione 30]]

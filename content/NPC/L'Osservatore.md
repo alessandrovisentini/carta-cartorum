@@ -21,6 +21,8 @@ Secondo Eric, l'Osservatore è associato a culti religiosi di nicchia e società
 
 La visione di Pagrax mostra una mano con caratteristiche innaturali: dita molto lunghe con un numero di falangi superiore al normale[^1]. Questa apparizione è avvenuta mentre [[Eric]] aveva affidato la cassa a Pagrax[^1].
 
+In Sessione 30 [[Pagrax]] rafforza il patto conficcandosi di nuovo la scimitarra nell'orbita: l'Osservatore gli mostra una lunga cascata di visioni — una creatura grigia e informe con una corona e grandi lacrime nere, una "[[La V|V]]" in ottone su un palazzo sotto un cielo verde che si incrina, un leone verde con un'ascia sormontato da un uccello dorato di fiamme, pilastri, un sarcofago, due immensi occhi e una fornace di soli — e lo pone di fronte al proprio riflesso prima di lasciarlo risvegliare illeso[^5].
+
 ---
 
 ## Fonti
@@ -29,3 +31,4 @@ La visione di Pagrax mostra una mano con caratteristiche innaturali: dita molto 
 [^2]: [[Riepiloghi/Zamoraz/Sessione 20]]
 [^3]: [[Riepiloghi/Pagrax/Sessione 19]]
 [^4]: [[Riepiloghi/Ignemir/Sessione 24]]
+[^5]: [[Riepiloghi/Ignemir/Sessione 30]]

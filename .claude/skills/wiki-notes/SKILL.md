@@ -34,6 +34,7 @@ Usa `/wiki-notes` seguito dal tipo di operazione:
   - `Eventi/` - Eventi significativi
   - `Pantheon/` - Divinità e religioni
 - **Timeline:** `Timeline/Timeline.md` - Riepilogo cronologico di tutte le sessioni
+- **Presenze:** `Timeline/Presenze.md` - Tabella delle presenze dei personaggi giocanti per ogni sessione
 - **Nuove Destinazioni**
   - Puoi creare nuove destinazioni se inesistenti
 
@@ -187,6 +188,29 @@ Quando si processa una nuova sessione (non ancora presente in `Timeline/Timeline
 - Usa lo stesso stile narrativo delle altre sessioni (terza persona, tempo presente)
 - Collega i link alle sessioni di tutte le prospettive disponibili (es. Ignemir, Zamoraz, Opalix)
 - Se la sessione appartiene a un nuovo Blocco, aggiungi l'intestazione `# Blocco N` prima della sessione
+
+### Presenze
+
+**Ogni volta che si processa una nuova sessione**, dopo aver aggiornato la Timeline aggiorna anche `Timeline/Presenze.md`. Il file traccia, per ogni sessione, quali personaggi giocanti erano presenti (✓ = presente, cella vuota = assente). Numerazione e date devono coincidere con quelle dei diari/Timeline (fonte autorevole).
+
+**Procedura:**
+
+1. **Deduci le presenze dai Riepiloghi** della sessione. È presente un personaggio che:
+   - ha un proprio diario per quella sessione, oppure
+   - è la guida designata, oppure
+   - è nominato come partecipante attivo (agisce, parla, combatte).
+   Non considerare presente chi è solo citato di sfuggita o esplicitamente assente/disperso.
+2. **Chiedi conferma all'utente** dell'elenco dedotto (presenti/assenti) e correggilo secondo le sue indicazioni **prima di salvare**.
+3. Aggiungi alla tabella del Blocco corretto una colonna per la nuova sessione, con intestazione `N (GG/MM)`, mettendo `✓` per i presenti e lasciando vuote le celle degli assenti.
+4. Se la sessione apre un nuovo Blocco, crea una nuova sezione `## Blocco N - [Nome]` con la relativa tabella.
+5. Se compare un nuovo personaggio giocante, aggiungi una riga nella posizione alfabetica corretta (sia nella tabella del blocco sia nel Riepilogo); resta vuoto/assente nelle sessioni precedenti.
+6. Aggiorna i totali: la colonna `Tot` della tabella del blocco e, nel Riepilogo, la colonna del blocco e la colonna `Totale`.
+
+**Regole:**
+- Le presenze si ricavano dai diari + conferma dell'utente, mai inventate.
+- Non fidarti di eventuali fonti esterne (es. il vecchio foglio Excel) per numerazione e date: usa i diari.
+- Non modificare le presenze già registrate, salvo errori palesi confermati da un diario.
+- Mantieni i personaggi in ordine alfabetico in tutte le tabelle.
 
 ## Esempi di Formato
 

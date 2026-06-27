@@ -30,6 +30,7 @@ Possiede una stanza dedicata allo studio e all'arte, fredda, con un tavolo su cu
 - **Sessione 23 Pt 2**: Racconta alla mensa la storia dell'oblietite[^13]. Non aveva mai visto il materiale prima di riceverlo come regalo con l'incarico di scolpire una statua[^13]. Aveva usato la [[Cassa di Eric]] (in forma di martello) come strumento: fu il primo oggetto a scalfire l'oblietite[^13]. La statua raffigurava [[Malthael Tarasson]], antenato elfico dei fratelli Tarasson, come regalo per [[Queloin Tarasson]] e [[Loinque Tarasson]][^13]. Mentre ci lavorava percepì qualcosa di alieno e negativo[^13]. Comprende ora che il martello, il forziere di Eric e la cassa sono lo stesso oggetto[^13]. Posa la mano sul [[Il Cuneo|cuneo]] permettendo a [[Hoot]] di estrarne una porzione di oblietite[^13].
 - **Sessione 25**: Riprende a lavorare in officina e accetta di forgiare per [[Hoot]] un'arma/scimitarra partendo dal frammento di oblietite estratto col cuneo[^15]. Riceve da [[Pagrax]] una fiala con la sostanza argentata raccolta sulla scimitarra dopo il contatto con [[Tig]], per analizzarla[^15].
 - **Sessione 26**: Avverte il gruppo che qualcosa interferisce con la magia delle ancore e con le pratiche religiose, non solo nel suo caso[^16]. Mostra frammenti "recenti" e "dormienti" di oblietite: i nuovi tendono a ricomporsi e a muoversi verso quelli antichi[^16]. Si oppone con forza alla consegna delle gemme conservate nella custodia in nerivium, definendole estremamente pericolose[^16].
+- **Sessione 30**: Interrogata da [[Eidelis]] sulla "[[La V|V]]", ipotizza una correlazione con i fenomeni magici della zona[^17]. Vedendo la luce rossa dell'[[Ancora Spaziale|àncora]] si allarma: percepisce una terza presenza oltre ai due passaggi già aperti, qualcosa che tenta di aprire una faglia per giungere al villaggio; vuole tuffarsi nel passaggio ma viene fermata[^17]. Esamina con un monocolo runico il campione di sostanza bianca portato da [[Pagrax]] e lo identifica come una [[Melma vivente]][^17].
 
 ## La Statua Misteriosa
 
@@ -59,3 +60,4 @@ Awen sa che la parola "catrador" non piace alle fate[^11]. Ne aveva parlato da o
 [^14]: [[Riepiloghi/Zamoraz/Sessione 23 Pt 1]]
 [^15]: [[Riepiloghi/Ignemir/Sessione 25]]
 [^16]: [[Riepiloghi/Ignemir/Sessione 26]]
+[^17]: [[Riepiloghi/Ignemir/Sessione 30]]

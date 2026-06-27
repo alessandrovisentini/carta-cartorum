@@ -17,8 +17,10 @@ Viaggia con la barca **Okotelo** e con il paguro **Pipi**[^1]. Porta spesso bisc
 
 - **Sessione 27**: Compare nella foresta vicino alla costa e incontra [[Vanya]], [[Opalix]], [[Tricolin]] e [[Eidelis]][^1]. Spiega che le stelle viste da questo lato non coincidono con quelle note a Targea[^1]. Guida la traversata in barca verso il [[Megadon]] e prende parte alla fuga dalla faglia[^1].
 - **Sessione 28**: Si unisce alla spedizione verso le gallerie con [[Tricolin]], [[Pagrax]], [[Hoot]] e [[Zamoraz]][^2]. Parla con Hoot durante il turno di guardia su casa, viaggi e famiglie "trovate"[^2]. Mostra strumenti nautici e si offre di usare bussola e orientamento stellare per il gruppo[^2].
+- **Sessione 30**: Guida designata; punta a recuperare la propria nave arenata nella zampa inferiore del [[Megadon]][^3]. Prepara materiali per un riparo d'emergenza e conosce il firbolg [[Ianpeiro Rosen]], carpentiere navale, da cui ottiene chiodi, funi, placche e mastice in cambio di un giochino di conchiglia per il figlio[^3]. Si trasforma in lucertola gigante per guidare la compagnia lungo la morfologia del Megadon[^3]. Contro la [[Melma vivente|melma bianca]] crea un papavero, evoca un'onda di tsunami e infine la dissolve con dispel magic; cura [[Rosanno]] e manda [[Pipi]] a esplorarla[^3]. Sondando i pensieri della melma percepisce la sua disperata invocazione: "Mamma!"[^3].
 
 ## Fonti
 
 [^1]: [[Riepiloghi/Ignemir/Sessione 27]]
 [^2]: [[Riepiloghi/Zamoraz/Sessione 28]]
+[^3]: [[Riepiloghi/Ignemir/Sessione 30]]

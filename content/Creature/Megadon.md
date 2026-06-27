@@ -53,6 +53,8 @@ Nella città secondaria c'è un faro[^5]:
 - **Sessione 4**: Il gruppo esplora le città sul fianco del Megadon[^3]. [[Eric]] le riconosce come familiari[^3]. Incontrano gli [[Uomini Serpente]][^3].
 - **Sessione 8**: La [[Rivalsa]] organizza spedizioni per raccogliere il sangue[^6].
 - **Sessione 14**: [[Eric]], [[Zamoraz]] e [[Vanya]] esplorano la città[^5]. Incontrano [[Fannipa]] e [[Lili]][^5]. Nel faro trovano segni di combattimento e una [[Gemme del Vuoto|gemma del vuoto]][^5].
+- **Sessione 29**: Passando accanto al Megadon, la compagnia lo trova in uno stato anomalo: una grossa bolla biancastra si gonfia e si sgonfia sul suo fianco colando sul corpo, la vegetazione sulla zampa è avvizzita, la linfa degli alberi è più scura e gli stormi di uccelli si allontanano in massa[^7]. [[Tiriano il Saggio|Tiriano]] teme che la creatura sia stata contaminata dalla [[Madre di tutte le vedove]][^7]. [[Vanya]] raccoglie una fiala di sangue e campioni di vegetazione per [[Zamoraz]][^7].
+- **Sessione 30**: La compagnia attraversa il Megadon per recuperare la nave di [[Akesi Tomo]] arenata nella zampa inferiore[^8]. Un intero fianco è ormai ricoperto da una [[Melma vivente|sostanza bianca]] che riempie anche parte del lago sottostante, composto dai liquidi della creatura; i tronchi sono molli, la vegetazione avvizzita e alcuni frutti maturano fuori stagione, già macerati[^8]. Parte del fianco è sprofondata nel torace e sopra il Megadon si scorge una città storta dagli elementi d'argento[^8].
 
 ---
 
@@ -64,3 +66,5 @@ Nella città secondaria c'è un faro[^5]:
 [^4]: [[Riepiloghi/Zamoraz/Sessione 14]]
 [^5]: [[Riepiloghi/Zamoraz/Sessione 14]]
 [^6]: [[Riepiloghi/Zamoraz/Sessione 8]]
+[^7]: [[Riepiloghi/Ignemir/Sessione 29]]
+[^8]: [[Riepiloghi/Ignemir/Sessione 30]]

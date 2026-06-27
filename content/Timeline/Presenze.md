@@ -1,0 +1,119 @@
+# Presenze Sessioni
+
+Tracciamento delle presenze dei personaggi giocanti per ogni sessione della campagna Universe 2. Una spunta (✓) indica la presenza; cella vuota indica assenza.
+
+## Riepilogo
+
+| Personaggio | B1 | B2 | B3 | B4 | B5 | Totale |
+| ----------- | -- | -- | -- | -- | -- | ------ |
+| [[Akesi Tomo\|Akesi]] | 0 | 0 | 0 | 0 | 3 | 3 |
+| [[Eidelis]] | 0 | 0 | 0 | 0 | 2 | 2 |
+| [[Eric]] | 2 | 1 | 1 | 5 | 3 | 12 |
+| [[Fryolin]] | 0 | 0 | 1 | 3 | 0 | 4 |
+| [[Hoot]] | 0 | 0 | 1 | 3 | 3 | 7 |
+| [[Ignemir]] | 1 | 2 | 3 | 7 | 4 | 17 |
+| [[Merla]] | 4 | 1 | 1 | 4 | 2 | 12 |
+| [[Opalix]] | 0 | 2 | 1 | 4 | 2 | 9 |
+| [[Pagrax]] | 2 | 1 | 1 | 9 | 5 | 18 |
+| [[Rosanno]] | 2 | 3 | 2 | 5 | 1 | 13 |
+| [[Tricolin]] | 0 | 0 | 0 | 0 | 2 | 2 |
+| [[Vailendel]] | 1 | 4 | 3 | 5 | 2 | 15 |
+| [[Vanya]] | 2 | 3 | 3 | 5 | 3 | 16 |
+| [[Zamoraz]] | 4 | 2 | 3 | 7 | 2 | 18 |
+
+---
+
+## Blocco 1 - Il Naufragio
+
+| Personaggio | 1 (12/11) | 2 (19/11) | 3 (21/11) | 4 (04/12) | Tot |
+| ----------- | --------- | --------- | --------- | --------- | --- |
+| Eric |  |  | ✓ | ✓ | 2 |
+| Fryolin |  |  |  |  | 0 |
+| Hoot |  |  |  |  | 0 |
+| Ignemir |  | ✓ |  |  | 1 |
+| Merla | ✓ | ✓ | ✓ | ✓ | 4 |
+| Opalix |  |  |  |  | 0 |
+| Pagrax |  |  | ✓ | ✓ | 2 |
+| Rosanno |  |  | ✓ | ✓ | 2 |
+| Vailendel |  | ✓ |  |  | 1 |
+| Vanya | ✓ |  | ✓ |  | 2 |
+| Zamoraz | ✓ | ✓ | ✓ | ✓ | 4 |
+
+---
+
+## Blocco 2 - Prepararsi all'Inverno
+
+| Personaggio | 5 (09/12) | 6 (14/12) | 7 (17/12) | 8 (21/12) | Tot |
+| ----------- | --------- | --------- | --------- | --------- | --- |
+| Eric |  |  |  | ✓ | 1 |
+| Fryolin |  |  |  |  | 0 |
+| Hoot |  |  |  |  | 0 |
+| Ignemir | ✓ | ✓ |  |  | 2 |
+| Merla |  |  | ✓ |  | 1 |
+| Opalix | ✓ |  |  | ✓ | 2 |
+| Pagrax |  |  | ✓ |  | 1 |
+| Rosanno |  | ✓ | ✓ | ✓ | 3 |
+| Vailendel | ✓ | ✓ | ✓ | ✓ | 4 |
+| Vanya | ✓ |  | ✓ | ✓ | 3 |
+| Zamoraz |  | ✓ | ✓ |  | 2 |
+
+---
+
+## Blocco 3 - L'Inverno
+
+| Personaggio | 9 (28/12) | 10 (09/01) | 11 (17/01) | 12 (17/01) | Tot |
+| ----------- | --------- | ---------- | ---------- | ---------- | --- |
+| Eric | ✓ |  |  |  | 1 |
+| Fryolin |  |  |  | ✓ | 1 |
+| Hoot |  |  | ✓ |  | 1 |
+| Ignemir | ✓ | ✓ | ✓ |  | 3 |
+| Merla |  |  | ✓ |  | 1 |
+| Opalix |  |  | ✓ |  | 1 |
+| Pagrax |  |  |  | ✓ | 1 |
+| Rosanno |  | ✓ |  | ✓ | 2 |
+| Vailendel | ✓ | ✓ |  | ✓ | 3 |
+| Vanya | ✓ |  | ✓ | ✓ | 3 |
+| Zamoraz | ✓ | ✓ |  | ✓ | 3 |
+
+---
+
+## Blocco 4 - La Caccia Selvaggia
+
+| Personaggio | 13 (24/01) | 14 (25/01) | 15 (03/02) | 16 (08/02) | 17 (13/02) | 18 (25/02) | 19 (02/03) | 20 (08/03) | 21 (21/03) | 22 (29/03) | 23P1 (07/04) | 23P2 (10/04) | Tot |
+| ----------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ------------ | ------------ | --- |
+| Eric |  | ✓ |  | ✓ | ✓ |  |  | ✓ |  |  |  | ✓ | 5 |
+| Fryolin | ✓ |  | ✓ |  |  |  |  |  | ✓ |  |  |  | 3 |
+| Hoot |  |  |  |  |  | ✓ | ✓ |  |  |  |  | ✓ | 3 |
+| Ignemir | ✓ |  |  | ✓ | ✓ | ✓ |  | ✓ |  | ✓ |  | ✓ | 7 |
+| Merla | ✓ |  | ✓ |  |  |  | ✓ |  |  |  |  | ✓ | 4 |
+| Opalix |  |  | ✓ |  | ✓ | ✓ |  |  |  |  |  | ✓ | 4 |
+| Pagrax | ✓ |  | ✓ |  | ✓ |  | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | 9 |
+| Rosanno |  |  | ✓ |  | ✓ | ✓ |  | ✓ |  |  | ✓ |  | 5 |
+| Vailendel |  |  |  | ✓ | ✓ | ✓ |  |  |  |  | ✓ | ✓ | 5 |
+| Vanya |  | ✓ |  |  | ✓ |  | ✓ |  |  | ✓ | ✓ |  | 5 |
+| Zamoraz |  | ✓ | ✓ |  | ✓ |  |  | ✓ |  | ✓ | ✓ | ✓ | 7 |
+
+---
+
+## Blocco 5 - I Nuovi Arrivati
+
+Sessione 24 assente dal foglio originale: presenze ricostruite dai diari.[^ricostr]
+
+| Personaggio | 24 (24/04) | 25 (26/04) | 26 (17/05) | 27 (24/05) | 28 (29/05) | 29 (06/06) | 30 (12/06) | Tot |
+| ----------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | --- |
+| Akesi |  |  |  | ✓ | ✓ |  | ✓ | 3 |
+| Eidelis |  |  |  | ✓ |  |  | ✓ | 2 |
+| Eric | ✓ | ✓ |  |  |  | ✓ |  | 3 |
+| Fryolin |  |  |  |  |  |  |  | 0 |
+| Hoot | ✓ | ✓ |  |  | ✓ |  |  | 3 |
+| Ignemir | ✓ | ✓ | ✓ |  |  | ✓ |  | 4 |
+| Merla | ✓ |  |  |  |  |  | ✓ | 2 |
+| Opalix | ✓ |  |  | ✓ |  |  |  | 2 |
+| Pagrax | ✓ | ✓ | ✓ |  | ✓ |  | ✓ | 5 |
+| Rosanno |  |  |  |  |  |  | ✓ | 1 |
+| Tricolin |  |  |  | ✓ | ✓ |  |  | 2 |
+| Vailendel | ✓ |  | ✓ |  |  |  |  | 2 |
+| Vanya | ✓ |  |  | ✓ |  | ✓ |  | 3 |
+| Zamoraz | ✓ |  |  |  | ✓ |  |  | 2 |
+
+---

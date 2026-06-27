@@ -51,6 +51,7 @@ Creature della corte elementale del fuoco che abitano i cunicoli del vulcano[^5]
 - **Sessione 10**: [[Ignemir]] riconosce il nome "Clan Oven" come giganti del fuoco, clan dei fabbri[^1]. I [[Geni del Fuoco]] rivelano il segreto del toro imprigionato[^1].
 - **Sessione 13**: Il gruppo visita la fortezza dei giganti[^3]. Incontrano Re Tregron che rivela la vera storia della famiglia Roken[^2]. [[Pagrax]] cede l'[[Ancora Spaziale]] al re[^2]. I giganti decidono che è ora di agire contro i Geni[^2].
 - **Sessione 25**: La porta degli Oven (l'arco) è stata sradicata e semidistrutta dal drago; Eric e Pagrax tentano di volare verso il castello e vengono colpiti da arpioni sparati dalla lava[^5]. I giganti formano un passaggio attraverso la lava coi loro corpi per far entrare la compagnia[^5]. La fortezza appare più militarizzata: meno arazzi, molte più armi disposte[^5]. Un misterioso filo rosso sale dal centro del colonnato verso l'alto (significato ignoto)[^5]. Il numero di giganti sembra inferiore a quanto la fortezza potrebbe contenere, ma i giganti non vogliono scoprire le proprie carte[^5]. [[Re Tregron Oven]] si trova al di sotto del castello ad osservare il Toro[^5]. I giganti dichiarano di non voler lasciare il vulcano: sono lì come monito perché altri giganti non subiscano la stessa sorte dei Roken, e rimarranno fino a che tutto sarà "cancellato"[^5]. La compagnia si offre di eliminare le salamandre nei cunicoli in cambio di partecipare all'operazione di caccia del drago[^5].
+- **Sessione 30**: Attraverso l'[[Ancora Spaziale|àncora]], [[Rosanno]] e [[Pipi]] finiscono nella cella in cui i giganti tengono il Toro; un gigante con grossa armatura e mazza ferrata li intima di fermarsi e, dal varco, una voce profonda chiede dov'è [[Tiriano il Saggio|Tiriano]] e perché non siano tornati[^6].
 
 ---
 
@@ -61,3 +62,4 @@ Creature della corte elementale del fuoco che abitano i cunicoli del vulcano[^5]
 [^3]: [[Riepiloghi/Zamoraz/Sessione 13]]
 [^4]: [[Riepiloghi/Zamoraz/Sessione 6]]
 [^5]: [[Riepiloghi/Ignemir/Sessione 25]]
+[^6]: [[Riepiloghi/Ignemir/Sessione 30]]

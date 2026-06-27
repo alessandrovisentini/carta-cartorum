@@ -33,6 +33,10 @@ Nella Sessione 23, [[Bran Lapillo]] porta con sé un'ancora che si illumina di l
 
 - **Sessione 25**: Il principe [[Ocecot Oven]] suggerisce di attivare l'ancora in una cella di contenimento sotterranea in modo controllato[^9]. Con la parola d'ordine "Merla Vulpercarico" l'ancora si attiva di luce rossastra[^9]. Hoot, Pagrax ed Eric attraversano senza ripercussioni[^9]. [[Ignemir]] rimane sospeso a metà percorso: i [[Geni del Fuoco]] lo intercettano con voce minacciosa, avvertendo che sanno che l'ancora è vicina alla sala del Toro ma "non è ancora sufficiente"[^9]. Ignemir mente loro, assicurandoli che il piano procede come previsto, poi riesce ad uscire[^9].
 
+- **Sessione 29**: Durante la spedizione per rintracciare [[Tiriano il Saggio|Tiriano]], la compagnia porta con sé un'ancora e la posiziona nascosta sotto un albero sulla zampa del [[Megadon]], attivandola: la luce diventa rossa[^10].
+
+- **Sessione 30**: [[Awen Seife]], vedendo la luce rossa dell'ancora, avverte che qualcosa sta cercando di aprire una terza faglia verso il villaggio[^11]. [[Pipi]] e poi [[Rosanno]] vi entrano finendo nella cella dei Giganti, dove un gigante chiede attraverso il varco dov'è [[Tiriano il Saggio|Tiriano]] e perché non siano tornati[^11]. Rientrando, l'ancora conduce la compagnia alla zampa anteriore del [[Megadon]]; al termine del viaggio [[Eidelis]] la chiude e la porta con sé[^11].
+
 ## Il Patto coi Geni
 
 I [[Geni del Fuoco]] hanno modificato l'ancora in cambio di un patto[^3]:
@@ -53,3 +57,5 @@ I [[Geni del Fuoco]] hanno modificato l'ancora in cambio di un patto[^3]:
 [^7]: [[Riepiloghi/Ignemir/Sessione 22]]
 [^8]: [[Riepiloghi/Ignemir/Sessione 23 Pt 2]]
 [^9]: [[Riepiloghi/Ignemir/Sessione 25]]
+[^10]: [[Riepiloghi/Ignemir/Sessione 29]]
+[^11]: [[Riepiloghi/Ignemir/Sessione 30]]

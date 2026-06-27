@@ -40,6 +40,8 @@ Sulle rovine del Megadon c'è una città abitata dagli [[Uomini Serpente]][^2]. 
 - **Sessione 14**: Il gruppo esplora il faro e incontra [[Fannipa]][^6].
 - **Sessione 23 Pt 1**: [[Eventi/Esplosione del Pilastro del Megadon|Il pilastro principale esplode]] con un lampo di luce azzurra verso il cielo, facendo piovere schegge sulla foresta del litorale; una scheggia con sostanza giallognola, una volta bruciata, rivela ombre in movimento all'interno del pilastro translucido[^8].
 - **Sessione 23 Pt 2**: La fiamma azzurra sopra il Megadon si spegne per sempre dopo l'arrivo della [[Caccia Selvaggia]][^9].
+- **Sessione 29**: La compagnia approda sulla zampa superiore del Megadon, dove la vegetazione è avvizzita e la linfa scurita; nasconde e attiva un'[[Ancora Spaziale|ancora]] sotto un albero (la luce diventa rossa) prima di rientrare al villaggio[^10].
+- **Sessione 30**: Una spedizione percorre la morfologia del Megadon — risalendo l'avambraccio e la spalla fino alla scapola — per raggiungere la zampa inferiore (circa cinque giorni di cammino)[^11]. Un intero fianco è coperto da una [[Melma vivente|melma bianca]] e in cima si intravede una città storta con palazzi d'argento[^11].
 
 ---
 
@@ -54,3 +56,5 @@ Sulle rovine del Megadon c'è una città abitata dagli [[Uomini Serpente]][^2]. 
 [^7]: [[Riepiloghi/Ignemir/Sessione 24]]
 [^8]: [[Riepiloghi/Zamoraz/Sessione 23 Pt 1]]
 [^9]: [[Riepiloghi/Ignemir/Sessione 23 Pt 2]]
+[^10]: [[Riepiloghi/Ignemir/Sessione 29]]
+[^11]: [[Riepiloghi/Ignemir/Sessione 30]]
