@@ -16,4 +16,5 @@ socialImage: group.png
 - [Pantheon](./Pantheon/)
 - [Personaggi](./Personaggi/)
 - [Riepiloghi](./Riepiloghi/)
-- [Sessioni](./Sessioni/)
+- [Timeline](./Timeline/Timeline)
+- [Presenze](./Timeline/Presenze)
