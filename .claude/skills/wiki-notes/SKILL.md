@@ -34,7 +34,7 @@ Usa `/wiki-notes` seguito dal tipo di operazione:
   - `Eventi/` - Eventi significativi
   - `Pantheon/` - Divinità e religioni
 - **Timeline:** `Timeline/Timeline.md` - Riepilogo cronologico di tutte le sessioni
-- **Presenze:** `Timeline/Presenze.md` - Tabella delle presenze dei personaggi giocanti per ogni sessione
+- **Presenze:** `Presenze.md` - Tabella delle presenze dei personaggi giocanti per ogni sessione
 - **Nuove Destinazioni**
   - Puoi creare nuove destinazioni se inesistenti
 
@@ -191,7 +191,7 @@ Quando si processa una nuova sessione (non ancora presente in `Timeline/Timeline
 
 ### Presenze
 
-**Ogni volta che si processa una nuova sessione**, dopo aver aggiornato la Timeline aggiorna anche `Timeline/Presenze.md`. Il file traccia, per ogni sessione, quali personaggi giocanti erano presenti (✓ = presente, cella vuota = assente). Numerazione e date devono coincidere con quelle dei diari/Timeline (fonte autorevole).
+**Ogni volta che si processa una nuova sessione**, dopo aver aggiornato la Timeline aggiorna anche `Presenze.md`. Il file traccia, per ogni sessione, quali personaggi giocanti erano presenti (✓ = presente, cella vuota = assente). Numerazione e date devono coincidere con quelle dei diari/Timeline (fonte autorevole).
 
 **Procedura:**
 

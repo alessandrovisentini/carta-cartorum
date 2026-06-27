@@ -21,11 +21,17 @@ for dir in "$CONTENT_PATH"/*/; do
         folder_name=$(basename "$dir")
         # Skip the Images folder (used for assets only)
         [ "$folder_name" = "Images" ] && continue
+        # Skip Timeline: its pages are linked directly below, not as a folder
+        [ "$folder_name" = "Timeline" ] && continue
         # Convert folder name to URL format (spaces to hyphens)
         url_name=$(echo "$folder_name" | sed 's/ /-/g')
         # Use display name with spaces, URL with hyphens and trailing slash
         echo "- [$folder_name](./$url_name/)" >> "$CONTENT_PATH/index.md"
     fi
 done
+
+# Link the Timeline and Presenze pages explicitly (not auto-listed as folders)
+echo "- [Timeline](./Timeline/Timeline)" >> "$CONTENT_PATH/index.md"
+echo "- [Presenze](./Presenze)" >> "$CONTENT_PATH/index.md"
 
 echo "Done."
