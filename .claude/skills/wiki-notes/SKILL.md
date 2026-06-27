@@ -204,7 +204,8 @@ Quando si processa una nuova sessione (non ancora presente in `Timeline/Timeline
 3. Aggiungi alla tabella del Blocco corretto una colonna per la nuova sessione, con intestazione `N (GG/MM)`, mettendo `✓` per i presenti e lasciando vuote le celle degli assenti.
 4. Se la sessione apre un nuovo Blocco, crea una nuova sezione `## Blocco N - [Nome]` con la relativa tabella.
 5. Se compare un nuovo personaggio giocante, aggiungi una riga nella posizione alfabetica corretta (sia nella tabella del blocco sia nel Riepilogo); resta vuoto/assente nelle sessioni precedenti.
-6. Aggiorna i totali: la colonna `Tot` della tabella del blocco e, nel Riepilogo, la colonna del blocco e la colonna `Totale`.
+6. Aggiorna i totali: la colonna `Tot` della tabella del blocco e, nel Riepilogo, la colonna del blocco e la colonna `Totale`. Metti **in grassetto** tutti i valori delle colonne dei totali (`Tot` e `Totale`).
+7. **Medaglie (solo nel Riepilogo):** assegna le medaglie ai tre totali più alti della colonna `Totale` — 🥇 al valore più alto, 🥈 al secondo, 🥉 al terzo — accodandole al numero (es. `**18** 🥇`). In caso di parimerito tutti i personaggi con lo stesso totale ricevono la stessa medaglia e il valore distinto successivo prende la medaglia seguente. Le medaglie NON vanno nelle tabelle dei singoli blocchi. Ricalcolale a ogni aggiornamento dei totali.
 
 **Regole:**
 - Le presenze si ricavano dai diari + conferma dell'utente, mai inventate.
