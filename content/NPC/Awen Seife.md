@@ -31,6 +31,7 @@ Possiede una stanza dedicata allo studio e all'arte, fredda, con un tavolo su cu
 - **Sessione 25**: Riprende a lavorare in officina e accetta di forgiare per [[Hoot]] un'arma/scimitarra partendo dal frammento di oblietite estratto col cuneo[^15]. Riceve da [[Pagrax]] una fiala con la sostanza argentata raccolta sulla scimitarra dopo il contatto con [[Tig]], per analizzarla[^15].
 - **Sessione 26**: Avverte il gruppo che qualcosa interferisce con la magia delle ancore e con le pratiche religiose, non solo nel suo caso[^16]. Mostra frammenti "recenti" e "dormienti" di oblietite: i nuovi tendono a ricomporsi e a muoversi verso quelli antichi[^16]. Si oppone con forza alla consegna delle gemme conservate nella custodia in nerivium, definendole estremamente pericolose[^16].
 - **Sessione 30**: Interrogata da [[Eidelis]] sulla "[[La V|V]]", ipotizza una correlazione con i fenomeni magici della zona[^17]. Vedendo la luce rossa dell'[[Ancora Spaziale|àncora]] si allarma: percepisce una terza presenza oltre ai due passaggi già aperti, qualcosa che tenta di aprire una faglia per giungere al villaggio; vuole tuffarsi nel passaggio ma viene fermata[^17]. Esamina con un monocolo runico il campione di sostanza bianca portato da [[Pagrax]] e lo identifica come una [[Melma vivente]][^17].
+- **Sessione 32**: Una magia rivelatrice scopre un suo biglietto invisibile sul soffitto della casa: "Che questa casa sia serena, indisturbata, che porti sonni tranquilli a chi ci sta dentro", firmato con tante piccole ninna nanne che ne compongono il nome[^18]. [[Brottor]], che sa leggere l'elfico, riesce a decifrarlo[^18].
 
 ## La Statua Misteriosa
 
@@ -61,3 +62,4 @@ Awen sa che la parola "catrador" non piace alle fate[^11]. Ne aveva parlato da o
 [^15]: [[Riepiloghi/Ignemir/Sessione 25]]
 [^16]: [[Riepiloghi/Ignemir/Sessione 26]]
 [^17]: [[Riepiloghi/Ignemir/Sessione 30]]
+[^18]: [[Riepiloghi/Zamoraz/Sessione 32]]

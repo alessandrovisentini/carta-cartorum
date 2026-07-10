@@ -32,6 +32,7 @@ Zamoraz è un ranger del gruppo, spesso scelto come guida designata per le spedi
 - [[Scimitarra del Gelo Eterno]][^6]
 
 - **Sessione 24**: Rivela le origini: nato in una famiglia di dragonidi, fuggì nella foresta innevata sentendo di aver deluso i genitori per una responsabilità mancata (l'uscio dell'ovile)[^12]. Visse diversi anni con una strega anziana (umanoide), che lo accudì e gli insegnò tutto ciò che sapeva sulla magia[^12]. Si unì poi alle esplorazioni della [[Rivalsa]] per vedere il mondo[^12]. Rivela cosa accadde dopo il dungeon: rimasto intrappolato nel passaggio d'uscita, si trovò in un luogo con una grande creatura a forma di albero; lì incontrò **[[Buffolo]]**, un topo idraulico degli Studiosi dei [[Fazioni/Liberi|Liberi]], prigioniero come lui[^12]. Zamoraz fu espulso dall'albero da un getto d'acqua in pressione dalla parte inferiore della fontana — di Buffolo nessuna traccia[^12].
+- **Sessione 32**: Aiuta [[Akesi Tomo]] a vangare il nuovo orto[^15]. Trova sul proprio taccuino appunti sulle [[Uova di Megadon|uova di Megadon]], molti barrati come ipotesi scartate, e indaga l'uovo dal punto di vista anatomico[^15]. Guida il gruppo al passaggio segreto sopra il braciere e, nello scantinato sul [[Megadon]], nota nel camino un simbolo invisibile di due "G" ([[GG]])[^15]. Lancia detect magic su [[Brottor]] senza rilevare nulla, poi pass without trace per coprire la fuga del gruppo e nasconde l'[[Ancora Spaziale|àncora]][^15].
 
 ---
 
@@ -51,3 +52,4 @@ Zamoraz è un ranger del gruppo, spesso scelto come guida designata per le spedi
 [^12]: [[Riepiloghi/Ignemir/Sessione 24]]
 [^13]: [[Riepiloghi/Zamoraz/Sessione 23 Pt 1]]
 [^14]: [[Riepiloghi/Zamoraz/Sessione 28]]
+[^15]: [[Riepiloghi/Zamoraz/Sessione 32]]

@@ -24,6 +24,7 @@ Bran Lapillo è un genasi del fuoco, un omone raggomitolato in se stesso, ingobb
 - **Sessione 23 Pt 1**: Sveglia [[Rosanno]], [[Vanya]] e [[Vailendel]] nel cuore della notte: [[Awen Seife|Awen]] ha avuto un segnale di [[Pagrax]] e [[Zamoraz]] a sud, vicino alla foresta[^11]. Avverte: "Penso che sarebbe importante riportarli qui"; spiega che la magia in questo posto sembra avere dei problemi[^11]. Al ritorno della spedizione, sta preparando la colazione con una **padella di oblietite**, cucinando la pancetta su se stesso[^11].
 - **Sessione 25**: Intercetta [[Hoot]] mentre prova a sottrarre il guanto di Awen per usarlo nel lavoro sull'oblietite[^12].
 - **Sessione 26**: Al villaggio prepara una via di fuga e accumula razioni, cisterne e materiali sotto le assi del pavimento[^13]. Quando [[Pagrax]] e [[Vailendel]] portano il contenitore di [[Valente]], lo apre sciogliendo i rivetti e riconosce i cristalli al suo interno; la scoperta lo scuote profondamente[^13].
+- **Sessione 32**: È molto meno in casa del solito, e presta meno guardia e attenzione ad [[Awen Seife]][^14].
 
 ## Ziula (Zi')
 
@@ -50,3 +51,4 @@ Bran e [[Awen Seife]] sono stati ospiti alla [[I Regni Fatati|Corte Splendente]]
 [^11]: [[Riepiloghi/Zamoraz/Sessione 23 Pt 1]]
 [^12]: [[Riepiloghi/Ignemir/Sessione 25]]
 [^13]: [[Riepiloghi/Ignemir/Sessione 26]]
+[^14]: [[Riepiloghi/Zamoraz/Sessione 32]]

@@ -22,6 +22,7 @@ Nato e cresciuto in una carovana/circo dove tutti erano genitori di tutti, ma no
 - **Sessione 17**: Le sue rivelazioni sulla statua spingono [[Awen Seife]] a tentare un rituale di divinazione con [[Obietite]] per rintracciare la statua[^5]. Ha anche rivelato a [[Vanya]] che sulla [[Rivalsa]] c'è un portale che inghiotte qualsiasi cosa[^6].
 - **Sessione 23**: Sopravvive all'attacco della [[Caccia Selvaggia]] al villaggio[^7].
 - **Sessione 24**: A dodici giorni dall'attacco, sta bene, beve meno e ha perso un po' della sua verve[^8].
+- **Sessione 32**: [[Merla]] e [[Zamoraz]] si accorgono che è da un po' che non si fa vedere al bar[^9].
 
 ---
 
@@ -35,3 +36,4 @@ Nato e cresciuto in una carovana/circo dove tutti erano genitori di tutti, ma no
 [^6]: [[Riepiloghi/Opalix/Sessione 17]]
 [^7]: [[Riepiloghi/Ignemir/Sessione 23 Pt 2]]
 [^8]: [[Riepiloghi/Ignemir/Sessione 24]]
+[^9]: [[Riepiloghi/Zamoraz/Sessione 32]]

@@ -23,6 +23,7 @@ Merla è una halfling bardo del gruppo, dotata di grande carisma e abilità magi
 - **Sessione 19**: Spiega che la bottiglia di Nocivo era prenotata da [[Uruan]][^9].
 - **Sessione 24**: Rivela le origini: nata in una famiglia halfling, orfana a quattro anni, adottata da una coppia di nani chiusi verso le altre specie — non ha mai imparato gli usi halfling[^10]. Ha deciso di cercare la propria strada come guardia, arrivando sul litorale assieme a [[Vanya]] e [[Pagrax]] dopo l'incidente del portale[^10]. Durante il dibattito sul Gran Consiglio propone di unificare i senza-nave come gruppo autonomo e fa da portavoce scettica delle aspettative reali della popolazione[^10]. Sceglie il nome "Amigo" per il rospo estratto dal suo cappello[^9]. Chiede ai ragni informatori dei cinghiali giganti e dei pilastri[^9]. Chiede alla Y dei ragni se è un leone (loro ruggiscono) e alla V (i ragni si disperdono)[^9]. Colpisce le creaturine d'aglio con il pugnale durante il [[Eventi/Furto alla Rocca dei Conflitti|furto al bar]][^9]. Dà una galletta a [[NPC/37|37]], il topo studioso[^9].
 - **Sessione 30**: Con [[Rosanno]] gestisce il bar e interroga i commensali su pozioni e rimedi per curare la zampa di [[Zamoraz]], individuando nei guaritori della [[Maledizione di Mefisto]] e nella [[Rivalsa]] (per un arto meccanico) le persone più indicate[^11].
+- **Sessione 32**: Convince la clientela a fare colazione al bar con i biscotti di [[Akesi Tomo]], aggiungendo 50 monete d'oro alle casse[^12]. Ricorda vari miti sui Megadon mentre il gruppo esamina l'[[Uova di Megadon|uovo]][^12]. Diventa invisibile per esplorare lo scantinato sul [[Megadon]] e riconosce alcune orme come quelle dei compagni [[Vailendel]], [[Vanya]], [[Ignemir]] e [[Brottor]][^12]. Cura e ispira i compagni con le sue canzoni e abbraccia Brottor[^12].
 
 ## Equipaggiamento
 
@@ -48,3 +49,4 @@ Merla è una halfling bardo del gruppo, dotata di grande carisma e abilità magi
 [^9]: [[Riepiloghi/Pagrax/Sessione 19]]
 [^10]: [[Riepiloghi/Ignemir/Sessione 24]]
 [^11]: [[Riepiloghi/Ignemir/Sessione 30]]
+[^12]: [[Riepiloghi/Zamoraz/Sessione 32]]
