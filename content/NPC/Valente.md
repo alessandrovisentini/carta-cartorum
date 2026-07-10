@@ -22,6 +22,7 @@ Rappresenta una delle migliori menti della [[Furia di Cernunnos]] e supervisiona
 - **Sessione 24**: Risulta scomparso insieme a [[Tiriano il Saggio|Tiriano]], [[Uruan]] e [[Il Satiro]][^6]. Secondo [[Hoot]], si assentava spesso con Tiriano e Uruan per spedizioni solitarie, sia prima del naufragio (durante le ricerche della [[Madre di tutte le vedove]]) sia su questo litorale[^6].
 - **Sessione 26**: Dalla tenda del [[Cavaliere della Cenere]] viene recuperato un contenitore pesante in [[Nerivium]] appartenente a Valente, chiuso con rivetti[^7]. [[Bran Lapillo]] lo apre: all'interno ci sono nove cristalli rossi e azzurri, gli stessi usati da Bran nella foresta durante lo scontro con la Caccia Selvaggia[^7].
 - **Sessione 29**: [[Tiriano il Saggio|Tiriano]], incontrato nella palude, chiede alla compagnia di portargli soccorso: Valente si troverebbe ancora nelle viscere del [[Megadon]][^8].
+- **Sessione 31**: La compagnia organizza con la [[Furia di Cernunnos|Furia]] una spedizione per salvarlo dal [[Megadon]]: si uniscono dieci manovali e quattro persone di spicco[^9]. [[Ben]] rivela che Valente e [[Tiriano il Saggio|Tiriano]] erano partiti alla ricerca della [[Madre di tutte le vedove]][^9].
 
 ---
 
@@ -35,3 +36,4 @@ Rappresenta una delle migliori menti della [[Furia di Cernunnos]] e supervisiona
 [^6]: [[Riepiloghi/Ignemir/Sessione 24]]
 [^7]: [[Riepiloghi/Ignemir/Sessione 26]]
 [^8]: [[Riepiloghi/Ignemir/Sessione 29]]
+[^9]: [[Riepiloghi/Ignemir/Sessione 31]]

@@ -43,6 +43,7 @@ I tre luogotenenti di [[Tiriano il Saggio]] sono:[^3]
 - **Sessione 17**: All'interno della Furia ci sono attriti tra persone di alto lignaggio[^7]. Un gruppo non legato a [[Uruan]] né al gruppo altolocato sta organizzando spedizioni verso il [[Megadon]] o verso l'ultima posizione nota di [[Tiriano il Saggio|Tiriano]] e [[Valente]][^7]. L'unico orefice della Furia fa parte del gruppo altolocato[^7].
 - **Sessione 23**: Durante l'attacco della [[Caccia Selvaggia]] al villaggio, il gruppo si rifugia a bordo. Non si vede né [[Tiriano il Saggio|Tiriano]], né [[Valente]], né [[Uruan]]; è il centauro [[Ben]] a far entrare il gruppo e a ordinare di scendere sotto coperta[^9].
 - **Sessione 24**: Dopo l'attacco della Caccia Selvaggia, la nave è quella meno danneggiata ma le faide interne sfociano in conflitti aperti per la mancanza di viveri e per la prolungata assenza di [[Tiriano il Saggio|Tiriano]] e dei suoi luogotenenti ([[Valente]], [[Il Satiro]] e [[Uruan|Uruan Rimboldon]])[^10]. Tre fazioni si contendono il comando: il centauro [[Ben]] con la ciurma di più lungo corso vuole guidare un'ultima spedizione di ricerca; un trio cavalleresco composto da [[Bray Cantaconchiglia]] "Prentise dal Vallo Verdeggiante", il [[Cavaliere della Cenere]] e [[Valamonte]] vuole stabilire un nuovo comando; [[Endry l'Immenso]], pirata sovrappeso con un piccolo ariete da assedio, vuole spezzare il ghiaccio e riprendere il mare[^10].
+- **Sessione 31**: [[Tricolin]] torna alla Furia, sparge la voce e diffonde volantini animati all'uncinetto per organizzare una spedizione al [[Megadon]] a salvare [[Valente]][^11]. Aderiscono dieci manovali e quattro persone di spicco: il centauro [[Ben]], il cavaliere [[Valamonte]] ("Principe della Cenere"), il tabaxi [[Ildefonso L'Ercan]] ed [[Endry l'Immenso]] col portantino [[Hogog]][^11]. Ciascuno segue motivi propri e potrebbe ostacolare la missione; l'unico che vuole sinceramente aiutare è Ben[^11].
 
 ---
 
@@ -58,3 +59,4 @@ I tre luogotenenti di [[Tiriano il Saggio]] sono:[^3]
 [^8]: [[Riepiloghi/Zamoraz/Sessione 4]]
 [^9]: [[Riepiloghi/Ignemir/Sessione 23 Pt 2]]
 [^10]: [[Riepiloghi/Ignemir/Sessione 24]]
+[^11]: [[Riepiloghi/Ignemir/Sessione 31]]

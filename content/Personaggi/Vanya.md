@@ -33,6 +33,7 @@ Ha fatto un patto con **Ilev Saaj**, la dea delle frodi[^3]. Porta un anello che
 - **Sessione 24**: Mostra alla compagnia la grande ascia portata dall'inizio dell'avventura — sottratta alla propria madre prima di partire[^13]. Rivela le origini: appartiene a una famiglia nobile drow del sottosuolo, parte di una società matriarcale costretta a compiere scorribande in superficie[^13]. Il primo contatto con [[Ilev'saaj]] (dea delle frodi) avvenne tramite una sua sacerdotessa: Vanya chiese di poter diventare donna (in precedenza aveva un aspetto diverso)[^13]. La dea concesse il desiderio ma le impedì di tornare al villaggio natale[^13]. Vanya visse sola in superficie di Targea, poi si arruolò come guardia con [[Merla]] e [[Pagrax]][^13].
 - **Sessione 27**: Mentre [[Opalix]] distrae [[Awen Seife]], sottrae frammenti di oblietite (carica e scarica) e una sgorbia ricurva[^15]. Partecipa ai test notturni nella foresta e alla successiva traversata verso il [[Megadon]] con [[Tricolin]] e [[Akesi Tomo]][^15]. Nella faglia crea un'illusione di drago dorato per coprire la fuga e ordina a Opalix di trasformarsi in drago quando la situazione precipita[^15].
 - **Sessione 29**: Guida designata della spedizione per rintracciare [[Tiriano il Saggio|Tiriano]] nella palude[^16]. Intimidisce il capitano ubriaco [[Loinque Tarasson|Quelloin]] per farsi cedere una cartuccia di propellente[^16]. Colpisce con un mind spike la crepa del pilastro in cui si nasconde la [[Madre di tutte le vedove]] e viene esposta direttamente alla creatura: subisce 29 punti ferita, sanguina da naso, orecchie e occhio destro e va sotto shock[^16]. Lancia una palla di fuoco contro uno stormo di uccelli[^16].
+- **Sessione 31**: Nel downtime consegna a [[Zamoraz]] i tre campioni di vegetazione raccolti al [[Megadon]] per l'analisi[^17]. Muta con un'illusione la forma dell'[[Ancora Spaziale|àncora]] in una grossa scatola da scarpe, per non svelare la tecnologia ai membri della [[Furia di Cernunnos|Furia]][^17]. Durante la marcia si arrampica sul corpo di [[Endry l'Immenso|Endry]] per carpirne i piani, scoprendo che vuole rimettere in mare la nave[^17]. Aiuta a staccare un "uovo sbrilluccicoso" ([[Uova di Megadon]]) dalla parete dello scantinato[^17].
 
 ---
 
@@ -54,3 +55,4 @@ Ha fatto un patto con **Ilev Saaj**, la dea delle frodi[^3]. Porta un anello che
 [^14]: [[Riepiloghi/Zamoraz/Sessione 23 Pt 1]]
 [^15]: [[Riepiloghi/Ignemir/Sessione 27]]
 [^16]: [[Riepiloghi/Ignemir/Sessione 29]]
+[^17]: [[Riepiloghi/Ignemir/Sessione 31]]

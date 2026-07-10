@@ -42,6 +42,7 @@ Sulle rovine del Megadon c'è una città abitata dagli [[Uomini Serpente]][^2]. 
 - **Sessione 23 Pt 2**: La fiamma azzurra sopra il Megadon si spegne per sempre dopo l'arrivo della [[Caccia Selvaggia]][^9].
 - **Sessione 29**: La compagnia approda sulla zampa superiore del Megadon, dove la vegetazione è avvizzita e la linfa scurita; nasconde e attiva un'[[Ancora Spaziale|ancora]] sotto un albero (la luce diventa rossa) prima di rientrare al villaggio[^10].
 - **Sessione 30**: Una spedizione percorre la morfologia del Megadon — risalendo l'avambraccio e la spalla fino alla scapola — per raggiungere la zampa inferiore (circa cinque giorni di cammino)[^11]. Un intero fianco è coperto da una [[Melma vivente|melma bianca]] e in cima si intravede una città storta con palazzi d'argento[^11].
+- **Sessione 31**: Dove sorgeva il pilastro si è aperta un'unica grande gola profonda svariati chilometri, con la catena montuosa spezzata e franata lungo lo squarcio[^12]. Lungo il pendio, verso la faglia, la compagnia scopre un villaggio di medie dimensioni dall'architettura semplice[^12]. Dopo il crollo delle montagne, per la prima volta si vede oltre il Megadon: una vastissima prateria verde con, al centro, la [[Città Splendente]][^12].
 
 ---
 
@@ -58,3 +59,4 @@ Sulle rovine del Megadon c'è una città abitata dagli [[Uomini Serpente]][^2]. 
 [^9]: [[Riepiloghi/Ignemir/Sessione 23 Pt 2]]
 [^10]: [[Riepiloghi/Ignemir/Sessione 29]]
 [^11]: [[Riepiloghi/Ignemir/Sessione 30]]
+[^12]: [[Riepiloghi/Ignemir/Sessione 31]]

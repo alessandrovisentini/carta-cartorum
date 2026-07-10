@@ -32,6 +32,7 @@ Vailendel è un membro del gruppo con abilità magiche, inclusa la lettura del p
 
 - **Sessione 23 Pt 1**: Partecipa alla [[Caccia ai Dispersi]] con [[Vanya]] e [[Rosanno]] per cercare [[Pagrax]] e [[Zamoraz]][^14]. Dopo l'uso dell'[[Ancora Spaziale|ancora]] per raggiungere la [[Fontana]], sviluppa un monociglio a manubrio[^14]. Riconosce le impronte umanoidi che vanno verso SO, NE e in perpendicolare; le altre sono bestiali, feline o zoccoli[^14]. Riconosce sull'albero la figura familiare intabarrata con la lunga spada: [[Uruan]], il proprio vecchio capitano[^14]. Si avvicina al dragonide ferito (poi rivelatosi essere [[Regrax]]) e gli offre aiuto, ma viene allontanato con uno sputo[^14]. Quando il gruppo di soccorso vuole usare l'ancora per tornare a casa, fa notare che mancherebbero ancora di Zamoraz[^14]. Torna al villaggio con il monociglio ancora visibile[^14].
 - **Sessione 24**: Rivela che prima del naufragio ha servito per diversi anni come combattente nella compagnia di [[Uruan]] (luogotenente della [[Furia di Cernunnos]]), insieme a [[Emiliano]] il gigante[^13]. Ha scelto di lasciare la vecchia compagnia per tornare a casa; la nave su cui viaggiava con altri passeggeri è caduta nel naufragio, e si è risvegliato su questo litorale[^13].
+- **Sessione 31**: Con [[Eidelis]] indaga sul significato della "[[La V|V]]", scavando un'enorme V nel terreno al limite tra foresta e villaggio e osservandone per giorni il ciclo di germogli, rovi, piccole creature e fuoco[^15]. Sul [[Megadon]] fatica a forzare le assi di una casa sbarrata[^15]. Respinge lo [[Scheletro Dorato]] all'interno con un giavellotto e una spinta telecinetica[^15]. Prova a trasmettere la parola d'ordine dell'[[Ancora Spaziale|àncora]] per via telepatica, per non farsi sentire dall'equipaggio della Furia[^15].
 
 ---
 
@@ -51,3 +52,4 @@ Vailendel è un membro del gruppo con abilità magiche, inclusa la lettura del p
 [^12]: [[Riepiloghi/Ignemir/Sessione 18]]
 [^13]: [[Riepiloghi/Ignemir/Sessione 24]]
 [^14]: [[Riepiloghi/Zamoraz/Sessione 23 Pt 1]]
+[^15]: [[Riepiloghi/Ignemir/Sessione 31]]

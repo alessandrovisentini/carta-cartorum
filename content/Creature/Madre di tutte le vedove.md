@@ -29,6 +29,7 @@ Il suo passaggio è preannunciato da orme grandi e fumanti[^4]. Si manifesta con
 - **Sessione 13**: [[Fryolin]] la riconosce e rivela che è "nella lista nera della regina" per il modo in cui interagisce con il piano materiale di [[Targea]][^3].
 - **Sessione 29**: Durante la spedizione per rintracciare [[Tiriano il Saggio|Tiriano]], la sua mano tenta di salire sull'imbarcazione di notte e lascia un'orma fumante sulla prua[^4]. [[Eric]] percepisce tre energie distinte — l'orma, la lancia di Tiriano e il pilastro — e la respinge dall'imbarcazione con protezione dal bene e dal male[^4]. [[Vanya]], colpendo con un mind spike la crepa del pilastro in cui la creatura si è rifugiata, viene esposta direttamente a essa: subisce 29 punti ferita, sanguina da naso, orecchie e occhio destro e va sotto shock[^4].
 - **Sessione 30**: La [[Melma vivente|melma bianca]] che ricopre il [[Megadon]] cerca disperatamente una connessione invocando "Mamma!", legandosi a lei come una delle creature da lei generate[^5].
+- **Sessione 31**: [[Ben]] rivela che [[Tiriano il Saggio|Tiriano]] e [[Valente]] erano partiti alla sua ricerca; molti membri della [[Furia di Cernunnos|Furia]] estraggono le armi impauriti, come se fosse la prima volta che qualcuno conferma la sua esistenza[^6]. Secondo quanto se ne sa, gode nel procurare dolore e nefandezze, non ha obiettivi e si ciba della paura e del dolore che essa stessa arreca; non dovrebbe nemmeno avere una forma, e la Furia la immaginava simile a uno spirito da esorcizzare[^6].
 
 ---
 
@@ -39,3 +40,4 @@ Il suo passaggio è preannunciato da orme grandi e fumanti[^4]. Si manifesta con
 [^3]: [[Riepiloghi/Zamoraz/Sessione 13]]
 [^4]: [[Riepiloghi/Ignemir/Sessione 29]]
 [^5]: [[Riepiloghi/Ignemir/Sessione 30]]
+[^6]: [[Riepiloghi/Ignemir/Sessione 31]]

@@ -17,6 +17,14 @@ Una "V" ricorre come simbolo misterioso in luoghi e contesti scollegati tra loro
 - [[Eidelis]] ha trovato la stessa V all'interno della propria Corte[^4].
 - Nella visione di [[Pagrax]] connesso con [[L'Osservatore]], una grossa "V" in ottone svetta dentro una stanza e, più in alto, su un palazzo sotto un cielo verde[^4].
 
+## L'Esperimento di Eidelis e Vailendel
+
+Per indagare il significato della V, [[Eidelis]] e [[Vailendel]] scavano un'enorme "V" (30 metri) nel terreno al limite tra foresta e villaggio e la osservano per alcuni giorni[^5]. Ne emerge un lento ciclo che si ripete[^5]:
+- La terra si smuove, spuntano germogli e piccoli rovi che coprono la V dissestando il terreno.
+- Compaiono piccole creature — ragni e topolini — che si muovono tra i rovi, provenendo e allontanandosi da direzioni diverse.
+- Dopo circa due ore si accende una fiammella e i rovi bruciano rapidamente, senza produrre molto fumo.
+- La sostanza residua somiglia più a terriccio che a cenere; nei giorni seguenti l'erba ricresce nella stessa zona.
+
 ## Note
 
 [[Awen Seife]] ipotizza una correlazione tra la V e i fenomeni magici anomali della zona[^4].
@@ -29,3 +37,4 @@ Una "V" ricorre come simbolo misterioso in luoghi e contesti scollegati tra loro
 [^2]: [[Riepiloghi/Ignemir/Sessione 26]]
 [^3]: [[Riepiloghi/Zamoraz/Sessione 28]]
 [^4]: [[Riepiloghi/Ignemir/Sessione 30]]
+[^5]: [[Riepiloghi/Ignemir/Sessione 31]]

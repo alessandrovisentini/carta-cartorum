@@ -37,6 +37,8 @@ Nella Sessione 23, [[Bran Lapillo]] porta con sé un'ancora che si illumina di l
 
 - **Sessione 30**: [[Awen Seife]], vedendo la luce rossa dell'ancora, avverte che qualcosa sta cercando di aprire una terza faglia verso il villaggio[^11]. [[Pipi]] e poi [[Rosanno]] vi entrano finendo nella cella dei Giganti, dove un gigante chiede attraverso il varco dov'è [[Tiriano il Saggio|Tiriano]] e perché non siano tornati[^11]. Rientrando, l'ancora conduce la compagnia alla zampa anteriore del [[Megadon]]; al termine del viaggio [[Eidelis]] la chiude e la porta con sé[^11].
 
+- **Sessione 31**: Per trasportare l'equipaggio della [[Furia di Cernunnos|Furia]] verso il [[Megadon]] senza svelare la tecnologia, [[Vanya]] muta con un'illusione la forma del portale, che appare come una grossa scatola da scarpe[^12]. Una ventina di persone la attraversa fino al Megadon; [[Ignemir]], passando, sente ancora i [[Argan e Asvad|Geni del Fuoco]] spazientirsi e li rassicura[^12]. Al ritorno l'intera compagnia riattraversa fino al bar; [[Vailendel]] tenta di trasmettere la parola d'ordine per via telepatica, per non farsi sentire dall'equipaggio[^12]. I membri della Furia avevano già intravisto l'ancora durante l'[[Attacco della Caccia Selvaggia]], senza farvi troppo caso[^12].
+
 ## Il Patto coi Geni
 
 I [[Geni del Fuoco]] hanno modificato l'ancora in cambio di un patto[^3]:
@@ -59,3 +61,4 @@ I [[Geni del Fuoco]] hanno modificato l'ancora in cambio di un patto[^3]:
 [^9]: [[Riepiloghi/Ignemir/Sessione 25]]
 [^10]: [[Riepiloghi/Ignemir/Sessione 29]]
 [^11]: [[Riepiloghi/Ignemir/Sessione 30]]
+[^12]: [[Riepiloghi/Ignemir/Sessione 31]]

@@ -55,6 +55,7 @@ Nella città secondaria c'è un faro[^5]:
 - **Sessione 14**: [[Eric]], [[Zamoraz]] e [[Vanya]] esplorano la città[^5]. Incontrano [[Fannipa]] e [[Lili]][^5]. Nel faro trovano segni di combattimento e una [[Gemme del Vuoto|gemma del vuoto]][^5].
 - **Sessione 29**: Passando accanto al Megadon, la compagnia lo trova in uno stato anomalo: una grossa bolla biancastra si gonfia e si sgonfia sul suo fianco colando sul corpo, la vegetazione sulla zampa è avvizzita, la linfa degli alberi è più scura e gli stormi di uccelli si allontanano in massa[^7]. [[Tiriano il Saggio|Tiriano]] teme che la creatura sia stata contaminata dalla [[Madre di tutte le vedove]][^7]. [[Vanya]] raccoglie una fiala di sangue e campioni di vegetazione per [[Zamoraz]][^7].
 - **Sessione 30**: La compagnia attraversa il Megadon per recuperare la nave di [[Akesi Tomo]] arenata nella zampa inferiore[^8]. Un intero fianco è ormai ricoperto da una [[Melma vivente|sostanza bianca]] che riempie anche parte del lago sottostante, composto dai liquidi della creatura; i tronchi sono molli, la vegetazione avvizzita e alcuni frutti maturano fuori stagione, già macerati[^8]. Parte del fianco è sprofondata nel torace e sopra il Megadon si scorge una città storta dagli elementi d'argento[^8].
+- **Sessione 31**: Attraversando l'[[Ancora Spaziale|àncora]], la compagnia arriva dove sorgeva il pilastro: al suo posto si apre un'unica grande gola che sprofonda per svariati chilometri nel Megadon, con le montagne franate lungo lo squarcio e porzioni di viscere e la gabbia toracica colossale ormai esposte[^9]. La compagnia percepisce di nuovo che quella su cui cammina è una creatura morente, non un territorio[^9]. La [[Melma vivente|melma bianca]] si è avvicinata all'àncora e ha raggiunto la palude, inglobando rocce e alberi[^9]. Su un pendio sorge un villaggio dall'architettura semplice, con case sbarrate, un edificio religioso segnato da un simbolo "a sorriso" e uno scantinato pieno di [[Uova di Megadon|bozzoli]] custodito da uno [[Scheletro Dorato]]; oltre il Megadon si apre una prateria verde con la [[Città Splendente]][^9].
 
 ---
 
@@ -68,3 +69,4 @@ Nella città secondaria c'è un faro[^5]:
 [^6]: [[Riepiloghi/Zamoraz/Sessione 8]]
 [^7]: [[Riepiloghi/Ignemir/Sessione 29]]
 [^8]: [[Riepiloghi/Ignemir/Sessione 30]]
+[^9]: [[Riepiloghi/Ignemir/Sessione 31]]
