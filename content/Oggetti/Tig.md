@@ -43,6 +43,7 @@ Eric si pente di aver celebrato un **novilunio** per un anziano chierico morente
 ## Storia nelle Sessioni
 
 - **Sessione 25**: Il [[Lupercalico]] tenta di impadronirsi di Tig; al contatto, la cassa lo azzanna e lo ferisce[^6]. Poco dopo Tig assume forma di anello, causando una contesa tra Eric e il Lupercalico[^6]. In seguito torna cassa e conferma l'ostilità verso il Giullare e i suoi servitori[^6].
+- **Sessione 34**: Interrogata da [[Eric]] sulla macchia violacea della [[Biblioteca Magna]], la definisce uno spazio confinato sicuro[^7].
 
 ---
 
@@ -54,3 +55,4 @@ Eric si pente di aver celebrato un **novilunio** per un anziano chierico morente
 [^4]: [[Riepiloghi/Ignemir/Sessione 20]]
 [^5]: [[Riepiloghi/Ignemir/Sessione 18]]
 [^6]: [[Riepiloghi/Ignemir/Sessione 25]]
+[^7]: [[Riepiloghi/Eric/Sessione 34]]

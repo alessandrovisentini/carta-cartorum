@@ -34,6 +34,7 @@ Ha fatto un patto con **Ilev Saaj**, la dea delle frodi[^3]. Porta un anello che
 - **Sessione 27**: Mentre [[Opalix]] distrae [[Awen Seife]], sottrae frammenti di oblietite (carica e scarica) e una sgorbia ricurva[^15]. Partecipa ai test notturni nella foresta e alla successiva traversata verso il [[Megadon]] con [[Tricolin]] e [[Akesi Tomo]][^15]. Nella faglia crea un'illusione di drago dorato per coprire la fuga e ordina a Opalix di trasformarsi in drago quando la situazione precipita[^15].
 - **Sessione 29**: Guida designata della spedizione per rintracciare [[Tiriano il Saggio|Tiriano]] nella palude[^16]. Intimidisce il capitano ubriaco [[Loinque Tarasson|Quelloin]] per farsi cedere una cartuccia di propellente[^16]. Colpisce con un mind spike la crepa del pilastro in cui si nasconde la [[Madre di tutte le vedove]] e viene esposta direttamente alla creatura: subisce 29 punti ferita, sanguina da naso, orecchie e occhio destro e va sotto shock[^16]. Lancia una palla di fuoco contro uno stormo di uccelli[^16].
 - **Sessione 31**: Nel downtime consegna a [[Zamoraz]] i tre campioni di vegetazione raccolti al [[Megadon]] per l'analisi[^17]. Muta con un'illusione la forma dell'[[Ancora Spaziale|àncora]] in una grossa scatola da scarpe, per non svelare la tecnologia ai membri della [[Furia di Cernunnos|Furia]][^17]. Durante la marcia si arrampica sul corpo di [[Endry l'Immenso|Endry]] per carpirne i piani, scoprendo che vuole rimettere in mare la nave[^17]. Aiuta a staccare un "uovo sbrilluccicoso" ([[Uova di Megadon]]) dalla parete dello scantinato[^17].
+- **Sessione 34**: Usa un punto downtime per allenarsi con [[Rosanno]] e acquisire competenza nella sua Ascia Bipenne[^18]. Nell'infiltrazione alla [[Rivalsa]] assume con un'illusione l'aspetto di una studentessa, poi quello di [[Luciano]] ubriaco per farsi indicare la sua stanza, scassinando rapidamente porte e lucchetti[^18]. Nella stanza di Luciano recupera il libro, il cifrario, i fogli e gioielli per circa 150 monete d'oro[^18]. Nella [[Biblioteca Magna]] si teletrasporta dentro la macchia violacea, entrando per prima nella [[Biblioteca Proibita]][^18]. Contro [[Il Custode]] tenta un charme che fallisce, facendo comparire la "[[La V|V]]" di fuoco: deve superare un tiro salvezza su costituzione[^18].
 
 ---
 
@@ -56,3 +57,4 @@ Ha fatto un patto con **Ilev Saaj**, la dea delle frodi[^3]. Porta un anello che
 [^15]: [[Riepiloghi/Ignemir/Sessione 27]]
 [^16]: [[Riepiloghi/Ignemir/Sessione 29]]
 [^17]: [[Riepiloghi/Ignemir/Sessione 31]]
+[^18]: [[Riepiloghi/Eric/Sessione 34]]

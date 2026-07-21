@@ -16,6 +16,7 @@ Una "V" ricorre come simbolo misterioso in luoghi e contesti scollegati tra loro
 - Una grande palizzata segnata dalla V delimita la zona degli orti a sud, oltre la [[Fontana]][^2][^3].
 - [[Eidelis]] ha trovato la stessa V all'interno della propria Corte[^4].
 - Nella visione di [[Pagrax]] connesso con [[L'Osservatore]], una grossa "V" in ottone svetta dentro una stanza e, più in alto, su un palazzo sotto un cielo verde[^4].
+- Nella [[Biblioteca Proibita]], quando [[Vanya]] lancia un incantesimo contro [[Il Custode]], una "V" di fuoco compare e brucia tutti i presenti[^6].
 
 ## L'Esperimento di Eidelis e Vailendel
 
@@ -29,6 +30,8 @@ Per indagare il significato della V, [[Eidelis]] e [[Vailendel]] scavano un'enor
 
 [[Awen Seife]] ipotizza una correlazione tra la V e i fenomeni magici anomali della zona[^4].
 
+Non è solo il tipo di magia a far comparire la V: esiste un'ulteriore condizione, per la quale [[Vanya]] ha dovuto superare un tiro salvezza su costituzione[^6]. [[Eidelis]] usa due punti downtime per indagare sulla V[^6].
+
 ---
 
 ## Fonti
@@ -38,3 +41,4 @@ Per indagare il significato della V, [[Eidelis]] e [[Vailendel]] scavano un'enor
 [^3]: [[Riepiloghi/Zamoraz/Sessione 28]]
 [^4]: [[Riepiloghi/Ignemir/Sessione 30]]
 [^5]: [[Riepiloghi/Ignemir/Sessione 31]]
+[^6]: [[Riepiloghi/Eric/Sessione 34]]

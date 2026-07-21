@@ -21,6 +21,7 @@ Stavano trasportando team di scavo, recupero e restauro delle antichità sotterr
 - Jennifer Yen, Vito, Lorri, Stefi - Altri membri[^2]
 - [[Gimbo]] - Ragazzo di 14 anni che fa da intermediario[^7]
 - [[Il Vecchio]] - Orco che custodisce le scorte di sangue di Megadon[^7]
+- [[Anan'ya Murn]] - Sovraintendente del rettore, tiene le fila della nave dopo la sparizione di [[Luciano]][^12]
 
 ## Attività sul Litorale
 
@@ -29,7 +30,7 @@ Stavano trasportando team di scavo, recupero e restauro delle antichità sotterr
   - Ricerca sul perché il sangue sembri fresco dopo 20 anni
   - Separazione in parte liquida e solida per aumentare le performance
   - Potenziale uso come sostituto per componentistica magica
-- Possiedono una biblioteca con vari libri, anche proibiti[^4]
+- Possiedono la [[Biblioteca Magna]], con vari libri anche proibiti, e un accesso segreto alla [[Biblioteca Proibita]][^4][^12]
 
 ## Storia nelle Sessioni
 
@@ -40,6 +41,7 @@ Stavano trasportando team di scavo, recupero e restauro delle antichità sotterr
 - **Sessione 17**: Hanno mandato ad [[Awen Seife]] una lettera di scuse e gli attrezzi recuperati, tutti tranne un piccolo martello in argento[^8]. I fratelli capitani avevano regalato il martello ad Awen anni fa[^8]. [[Luciano]] ha rivelato a [[Vanya]] che sulla Rivalsa c'è un portale che inghiotte qualsiasi cosa, nel luogo dove i manovali vanno a pisciare[^9].
 - **Sessione 23**: Durante l'[[Attacco della Caccia Selvaggia]], le creature della Caccia si lanciano sulla struttura della Rivalsa con foga distruttiva; una parte della nave si incassa in dentro e crolla[^10]. Una grande quantità di personale scappa per rifugiarsi sulla Mefisto[^10]. [[Queloin Tarasson]] muore nello scontro[^10].
 - **Sessione 24**: La nave è la più colpita tra le tre[^11]. I caduti sono stati bruciati in pire a cielo aperto per vari giorni, anche usando il sangue di [[Megadon]][^11]. Il sistema di depurazione dell'acqua è inutilizzabile e dubbio se ci siano ancora le braccia e le menti necessarie a rimetterlo in moto[^11]. [[Loinque Tarasson]] è l'unico capitano rimasto e nei primi giorni ha cercato di buttarsi nelle pire; ora è il più assiduo frequentatore del bar[^11]. Molti se ne sono andati: classi di studenti con i loro insegnanti, manovali diventati cercatori di tesori fuggiti con segreti, ricerche e manufatti[^11]. Solo pochi cercano di mantenere attive le pompe di calore[^11].
+- **Sessione 34**: Oltre un mese dopo l'attacco, buona parte degli spazi interni è sigillata e i deceduti hanno lasciato molti alloggi vuoti; si lavora lentamente per rendere di nuovo vivibile la nave, ancora molto danneggiata, che all'interno odora di candeggina e ha ascensori sferraglianti[^12]. A tenere le fila è ora [[Anan'ya Murn]], sovraintendente del rettore[^12]. Il gruppo vi si infiltra sulle tracce di [[Luciano]], raggiungendo la sua stanza al secondo piano e poi la [[Biblioteca Magna]][^12].
 
 ---
 
@@ -56,3 +58,4 @@ Stavano trasportando team di scavo, recupero e restauro delle antichità sotterr
 [^9]: [[Riepiloghi/Opalix/Sessione 17]]
 [^10]: [[Riepiloghi/Ignemir/Sessione 23 Pt 2]]
 [^11]: [[Riepiloghi/Ignemir/Sessione 24]]
+[^12]: [[Riepiloghi/Eric/Sessione 34]]
