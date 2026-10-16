@@ -16,7 +16,7 @@ Obiettivo: proteggere i popoli più fragili, donare loro asilo e cura, custodire
 
 ## La Custodia
 
-La Custode è la guida spirituale dell'Ordine. Trattiene in sé la memoria di tutte le madri che l'hanno preceduta, conosce gli antichi incantesimi di protezione, i vincoli, i segreti del passato[^1]. Giunta l'ora propizia, sceglie la propria successore e, mediante un rito, tutta la sua conoscenza viene canalizzata attraverso l'alabarda sacra dell'Ordine e trasferita all'erede[^1]. Il legame tra Custodi non è necessariamente di sangue, ma nell'ultimo caso Valmira era la madre biologica di [[Erelyth]][^1].
+La Custode è la guida spirituale dell'Ordine. Trattiene in sé la memoria di tutte le madri che l'hanno preceduta, conosce gli antichi incantesimi di protezione, i vincoli, i segreti del passato[^1]. Giunta l'ora propizia, sceglie la propria successore e, mediante un rito, tutta la sua conoscenza viene canalizzata attraverso l'alabarda sacra dell'Ordine e trasferita all'erede[^1]. Il legame tra Custodi non è necessariamente di sangue, ma nell'ultimo caso Valmira era la madre biologica di [[Erelyth]][^1]. Erelyth è chiamata *principessa scarlatta*[^1].
 
 ## Dissoluzione
 

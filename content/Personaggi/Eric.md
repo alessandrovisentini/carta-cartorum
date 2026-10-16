@@ -12,7 +12,7 @@ Eric è un membro del gruppo che possiede una misteriosa cassa, una reliquia del
 
 ## L'Anello di Eric
 
-Eric possiede un anello simile a quello di [[Vanya]] ma con motivi geometrici (cerchi legati da un filo, punti concentrici) anziché floreali[^5]. Colore e forma sono identici a quello di Vanya[^5].
+Eric ricorda un anello, legato alla storia della cassa, simile a quello di [[Vanya]] ma con motivi geometrici (cerchi legati da un filo, punti concentrici) anziché floreali[^5]. Non lo mostra: sembra che sia dentro la cassa[^5]. Colore e forma sono identici a quello di Vanya[^5].
 
 ## La Cassa Misteriosa
 

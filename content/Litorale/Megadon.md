@@ -29,7 +29,7 @@ Sulle rovine del Megadon c'è una città abitata dagli [[Uomini Serpente]][^2]. 
 
 ## Brugil
 
-[[Brugil]] è una città del Megadon in cui era presente un tempio di [[Elunaui]] e un'accademia[^7]. [[Eric]] è nato e cresciuto qui, e anche [[Pagrax]] ha studiato presso la "scuola di Megadon" insieme a [[Surprax]] e [[Lorcrax]][^7]. Il Megadon morto giacente su questo lato di Targea è lo stesso Megadon di Brugil[^7].
+[[Brugil]] è una città del Megadon in cui era presente un tempio di [[Elunaui]] e un'accademia[^7]. [[Eric]] è nato e cresciuto qui, e anche [[Pagrax]] ha studiato presso la "scuola di Megadon" insieme a [[Surprax]] e [[Lorprax]][^7]. Il Megadon morto giacente su questo lato di Targea è lo stesso Megadon di Brugil[^7].
 
 ## Storia nelle Sessioni
 

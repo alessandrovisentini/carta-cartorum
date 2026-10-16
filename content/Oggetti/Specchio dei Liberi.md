@@ -14,13 +14,13 @@ Disco-specchio fluttuante di circa 70x170 cm con motivi floreali dal bordo infer
 
 Quando l'anello e la cassa vengono combinati, la cassa si trasforma in uno specchio che funge da porta verso i [[Fazioni/Liberi\|Liberi]][^1]. La cassa stessa ha confermato: "Voi avete aperto una connessione con i Liberi"[^1].
 
-In Sessione 20, [[Pagrax]] e [[Eric]] uniscono anello e cassa per aprire il passaggio[^2]. Attraversare lo specchio è come attraversare una pellicola[^2]. Da dentro il dungeon, lo specchio non è visibile[^2].
+In Sessione 20, [[Pagrax]] e [[Eric]] uniscono anello e cassa per aprire il passaggio[^2]. Attraversare lo specchio è come attraversare una pellicola[^4]. Da dentro il dungeon, lo specchio non è visibile[^2].
 
 ## Destinazione
 
 Oltre lo specchio si trova un dungeon buio con pareti nere rastremate, [[Gemme del Vuoto]] azzurre e scritte parziali in alfabeto dei [[Fazioni/Liberi\|Liberi]][^2]. L'ambiente è freddo, l'aria ferma, odore forte di muffa[^2].
 
-Scritta parzialmente leggibile: "ARRI..I" in alfabeto dei Liberi[^2]. Una seconda scritta di sei simboli in un alfabeto mai visto prima[^2].
+Scritta parzialmente leggibile: "ARRI..I" in alfabeto dei Liberi[^2]. Una seconda scritta di sei simboli in un alfabeto mai visto prima, in cui si alternano spirali, ovali e segmenti[^2].
 
 ## Storia nelle Sessioni
 
@@ -35,3 +35,4 @@ Scritta parzialmente leggibile: "ARRI..I" in alfabeto dei Liberi[^2]. Una second
 [^1]: [[Riepiloghi/Ignemir/Sessione 17]]
 [^2]: [[Riepiloghi/Ignemir/Sessione 20]]
 [^3]: [[Riepiloghi/Ignemir/Sessione 22]]
+[^4]: [[Riepiloghi/Zamoraz/Sessione 20]]

@@ -15,7 +15,7 @@ In sessione 25 si rivela essere uno dei tre ufficiali di rango militare che gest
 
 ## Storia nelle Sessioni
 
-- **Sessione 13**: Accoglie il gruppo come componenti della ciurma di [[Tiriano il Saggio]][^1]. Quando [[Pagrax]] menziona i [[Argan e Asvad|Geni del Fuoco]], si infuria: "Ancora loro! Cosa hanno chiesto?! Chi stanno mandando contro di noi?! Rivogliono le catene?!"[^1]. Accompagna il gruppo dal padre e risveglia l'alabarda **Erelyth** di [[Ignemir]] in [[Nerivium]][^1].
+- **Sessione 13**: Accoglie il gruppo come componenti della ciurma di [[Tiriano il Saggio]][^1]. Quando [[Pagrax]] menziona i [[Argan e Asbad|Geni del Fuoco]], si infuria: "Ancora loro! Cosa hanno chiesto?! Chi stanno mandando contro di noi?! Rivogliono le catene?!"[^1]. Accompagna il gruppo dal padre e risveglia l'alabarda **Erelyth** di [[Ignemir]] in [[Nerivium]][^1].
 - **Sessione 25**: Riceve la compagnia nel quartier generale (sala di un mausoleo) insieme ad altri due ufficiali giganti[^2]. Racconta che Cruellatrix ha dato ai giganti un ultimatum — diventare servitori entro la prossima luna[^2]. Spiega che il timore più grande non è il drago, ma che la sua presenza possa destabilizzare l'equilibrio e portare alla liberazione del [[Il Toro|Toro]][^2]. Ribadisce che i giganti non possono permettersi di scoprire le proprie carte[^2]. Condiziona il ritorno della compagnia alla presenza di "la più alta persona in carica" — [[Tiriano il Saggio]] — e chiede di portare il contratto stretto con lui per revisionarne le clausole[^2].
 
 ---

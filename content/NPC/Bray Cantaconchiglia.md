@@ -9,7 +9,7 @@
 
 ## Descrizione
 
-Membro del neonato trio cavalleresco sorto sulla [[Furia di Cernunnos]] dopo l'[[Attacco della Caccia Selvaggia]], insieme al [[Cavaliere della Cenere]] e a [[Valamonte]][^1]. Il trio vuole stabilire un nuovo comando della nave e del villaggio, sfruttando la prolungata assenza di [[Tiriano il Saggio]] e dei suoi luogotenenti[^1].
+Membro del neonato trio cavalleresco sorto sulla [[Furia di Cernunnos]] dopo l'[[Attacco della Caccia Selvaggia]], insieme a [[Valamonte]], il "Cavaliere della Cenere"[^1]. Il trio vuole stabilire un nuovo comando della nave e del villaggio, sfruttando la prolungata assenza di [[Tiriano il Saggio]] e dei suoi luogotenenti[^1].
 
 ## Storia nelle Sessioni
 

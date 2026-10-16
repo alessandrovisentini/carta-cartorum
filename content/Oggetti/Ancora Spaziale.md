@@ -15,7 +15,7 @@ Si attiva con la parola chiave "Merla Vulpercarico"[^2].
 
 ## Storia nelle Sessioni
 
-- **Sessione 10**: [[Awen Seife]] la consegna al gruppo per posizionarla nel [[Vulcano]] e portare tepore in casa[^1]. Al [[Palazzo dei Genii]], i geni [[Argan e Asvad]] rimuovono le restrizioni sull'ancora in cambio di un patto: devono attivarla vicino al "toro" imprigionato dai giganti[^3]. L'ancora viene posizionata a lato della porta del palazzo dei geni, dove fluttua[^3].
+- **Sessione 10**: [[Awen Seife]] la consegna al gruppo per posizionarla nel [[Vulcano]] e portare tepore in casa[^1]. Al [[Palazzo dei Genii]], i geni [[Argan e Asbad]] rimuovono le restrizioni sull'ancora in cambio di un patto: devono attivarla vicino al "toro" imprigionato dai giganti[^3]. L'ancora viene posizionata a lato della porta del palazzo dei geni, dove fluttua[^3].
 
 - **Sessione 13**: [[Ignemir]] la attiva con la parola segreta per teletrasportare il gruppo nel [[Vulcano]][^2]. Dopo aver confessato tutto al [[Clan Oven|Re Tregron Oven]], [[Pagrax]] cede l'ancora al re[^4].
 
@@ -37,14 +37,14 @@ Nella Sessione 23, [[Bran Lapillo]] porta con sé un'ancora che si illumina di l
 
 - **Sessione 30**: [[Awen Seife]], vedendo la luce rossa dell'ancora, avverte che qualcosa sta cercando di aprire una terza faglia verso il villaggio[^11]. [[Pipi]] e poi [[Rosanno]] vi entrano finendo nella cella dei Giganti, dove un gigante chiede attraverso il varco dov'è [[Tiriano il Saggio|Tiriano]] e perché non siano tornati[^11]. Rientrando, l'ancora conduce la compagnia alla zampa anteriore del [[Megadon]]; al termine del viaggio [[Eidelis]] la chiude e la porta con sé[^11].
 
-- **Sessione 31**: Per trasportare l'equipaggio della [[Furia di Cernunnos|Furia]] verso il [[Megadon]] senza svelare la tecnologia, [[Vanya]] muta con un'illusione la forma del portale, che appare come una grossa scatola da scarpe[^12]. Una ventina di persone la attraversa fino al Megadon; [[Ignemir]], passando, sente ancora i [[Argan e Asvad|Geni del Fuoco]] spazientirsi e li rassicura[^12]. Al ritorno l'intera compagnia riattraversa fino al bar; [[Vailendel]] tenta di trasmettere la parola d'ordine per via telepatica, per non farsi sentire dall'equipaggio[^12]. I membri della Furia avevano già intravisto l'ancora durante l'[[Attacco della Caccia Selvaggia]], senza farvi troppo caso[^12].
+- **Sessione 31**: Per trasportare l'equipaggio della [[Furia di Cernunnos|Furia]] verso il [[Megadon]] senza svelare la tecnologia, [[Vanya]] muta con un'illusione la forma del portale, che appare come una grossa scatola da scarpe[^12]. Una ventina di persone la attraversa fino al Megadon; [[Ignemir]], passando, sente ancora i [[Argan e Asbad|Geni del Fuoco]] spazientirsi e li rassicura[^12]. Al ritorno l'intera compagnia riattraversa fino al bar; [[Vailendel]] tenta di trasmettere la parola d'ordine per via telepatica, per non farsi sentire dall'equipaggio[^12]. I membri della Furia avevano già intravisto l'ancora durante l'[[Attacco della Caccia Selvaggia]], senza farvi troppo caso[^12].
 
 - **Sessione 32**: Il passaggio segreto è sopra il braciere e richiede di pensare all'ancora-destinazione giusta: [[Brottor]], che pensa costantemente ai Megadon, conduce il gruppo al villaggio sul [[Megadon]][^13]. Al ritorno la compagnia nasconde l'ancora in un punto molto riparato della valle, temendo che i cani e i cercatori [[GG]] possano scovarla[^13].
 
 ## Il Patto coi Geni
 
 I [[Geni del Fuoco]] hanno modificato l'ancora in cambio di un patto[^3]:
-- "Grazie allo status che tu hai [[Ignemir]] Valmorad e al vostro oggetto, vi chiediamo di arrivare dove i giganti hanno rinchiuso il toro."
+- "Grazie allo status che tu hai [[Ignemir]] Valmorath e al vostro oggetto, vi chiediamo di arrivare dove i giganti hanno rinchiuso il toro."
 - "Attivate l'ancora il più vicino possibile al toro."
 - "Se la attivate una volta, poi non saremo più collegati alla gemma, sarà la fine del nostro patto."
 

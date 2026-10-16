@@ -8,7 +8,7 @@
 
 ## Descrizione
 
-Felino dall'aria distinta, paggio del [[Cavaliere della Cenere]][^1]. Indossa vestiti da corte e porta il simbolo della casata [[Valamonte]][^1]. È il "I.L'E" che ha firmato la lettera ricevuta al termine della [[Timeline/Timeline|Sessione 20]]: "Preparatevi ad accogliere il Cavaliere della Cenere"[^1].
+Felino dall'aria distinta, paggio del [[Valamonte|Cavaliere della Cenere]][^1]. Indossa vestiti da corte e porta il simbolo della casata [[Valamonte]][^1]. È il "I.L'E" che ha firmato la lettera ricevuta al termine della [[Timeline/Timeline|Sessione 20]]: "Preparatevi ad accogliere il Cavaliere della Cenere"[^1].
 
 ## Storia nelle Sessioni
 

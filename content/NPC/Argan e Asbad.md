@@ -1,4 +1,4 @@
-# Argan e Asvad
+# Argan e Asbad
 
 |                   |                            |
 | ----------------- | -------------------------- |
@@ -8,7 +8,7 @@
 
 ## Descrizione
 
-Argan e Asvad sono due geni del fuoco che risiedono in un palazzo nascosto nelle caverne del [[Vulcano]][^1]. Il loro palazzo ha pavimento di piastrelle e oro, pareti con bassorilievi, una cupola di vetro viola che fa entrare luce simile al sole, e forte odore di incenso senza fonte visibile[^1]. Comunicano attraverso tende a forma di labbra che parlano[^1].
+Argan e Asbad sono due geni del fuoco che risiedono in un palazzo nascosto nelle caverne del [[Vulcano]][^1]. Il loro palazzo ha pavimento di piastrelle e oro, pareti con bassorilievi, una cupola di vetro viola che fa entrare luce simile al sole, e forte odore di incenso senza fonte visibile[^1]. Comunicano attraverso tende a forma di labbra che parlano[^1].
 
 ## Natura dei Geni del Fuoco
 
@@ -22,7 +22,7 @@ Secondo [[Awen Seife]]:[^2]
 
 ## Storia nelle Sessioni
 
-- **Sessione 10**: Il gruppo li incontra nel loro palazzo[^1]. Quando scoprono che [[Ignemir]] è un Valmorad, cercano inizialmente di intrappolarli[^1]. Dopo aver bevuto il sangue del gruppo, propongono un patto: in cambio del nome della famiglia di Ignemir e dell'[[Ancora Spaziale]], rimuoveranno le restrizioni sull'ancora[^1]. Chiedono che il gruppo attivi l'ancora vicino al toro imprigionato dai giganti[^1]. Il contratto appare in infernale sul pavimento e viene firmato col sangue di tutti[^1].
+- **Sessione 10**: Il gruppo li incontra nel loro palazzo[^1]. Quando scoprono che [[Ignemir]] è un Valmorath, cercano inizialmente di intrappolarli[^1]. Dopo aver bevuto il sangue del gruppo, propongono un patto: in cambio del nome della famiglia di Ignemir e dell'[[Ancora Spaziale]], rimuoveranno le restrizioni sull'ancora[^1]. Chiedono che il gruppo attivi l'ancora vicino al toro imprigionato dai giganti[^1]. Il contratto appare in infernale sul pavimento e viene firmato col sangue di tutti[^1].
 
 ## Teoria del Genio Unico
 

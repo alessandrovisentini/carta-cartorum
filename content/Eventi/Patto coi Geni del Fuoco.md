@@ -4,11 +4,11 @@
 | ----------------- | --------------------- |
 | Tipo              | Patto magico          |
 | Sessione          | [[Timeline/Timeline|Sessione 10]]       |
-| Parti coinvolte   | Gruppo, [[Argan e Asvad]] |
+| Parti coinvolte   | Gruppo, [[Argan e Asbad]] |
 
 ## Descrizione
 
-Durante l'esplorazione del vulcano, il gruppo ha stretto un patto con i geni del fuoco [[Argan e Asvad]] nel loro [[Palazzo dei Genii]][^1].
+Durante l'esplorazione del vulcano, il gruppo ha stretto un patto con i geni del fuoco [[Argan e Asbad]] nel loro [[Palazzo dei Genii]][^1].
 
 ## Termini del Patto[^1]
 
@@ -19,7 +19,7 @@ Durante l'esplorazione del vulcano, il gruppo ha stretto un patto con i geni del
 ### Cosa devono fare i giocatori:
 - Arrivare dove i giganti del [[Clan Oven]] hanno rinchiuso "il toro"
 - Attivare l'[[Ancora Spaziale]] il più vicino possibile al toro
-- Fornire il nome della famiglia di [[Ignemir]]: Valmorad
+- Fornire il nome della famiglia di [[Ignemir]]: Valmorath
 
 ### Clausole:
 - "Se la attivate una volta, poi non saremo più collegati alla gemma, sarà la fine del nostro patto"

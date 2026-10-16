@@ -20,7 +20,7 @@ Ignemir Valmorath è un tiefling che era con la [[Furia di Cernunnos]] ma non si
 - **Sessione 5**: Esplora la foresta e combatte contro [[Tumba e Simon|Simon]][^2].
 - **Sessione 6**: Spia la [[Furia di Cernunnos]] ma viene visto dal [[Lupercalico]][^3]. Scambia informazioni sulla foresta per una mappa del [[Vulcano]][^3].
 - **Sessione 9**: Rende [[Vanya]] invisibile per prendere erbe[^4]. Riconosce le [[Gemme del Vuoto]][^4]. Promette a [[Murr]] che tornerà[^4].
-- **Sessione 10**: La sua famiglia (Valmorath) viene riconosciuta dai geni [[Argan e Asvad]][^5]. Il suo nome e status vengono usati nel [[Patto coi Geni del Fuoco]][^5].
+- **Sessione 10**: La sua famiglia (Valmorath) viene riconosciuta dai geni [[Argan e Asbad]][^5]. Il suo nome e status vengono usati nel [[Patto coi Geni del Fuoco]][^5].
 - **Sessione 11**: Viene avvisato da [[Hoot]] con un biglietto: "Ignemir, ti stanno seguendo"[^6].
 - **Sessione 12**: Intrappolato nella [[Fontana]] durante l'[[Attacco della Caccia Selvaggia]][^7].
 - **Sessione 13**: Attiva l'[[Ancora Spaziale]] con la parola "Merla Vulpercarico"[^8]. Rivela di aver trovato la fiala (rotta) che i Giganti avevano creato per i Geni[^8]. La sua alabarda **Erelyth** viene risvegliata da [[Ocecot Oven]][^8].
@@ -32,15 +32,17 @@ Ignemir Valmorath è un tiefling che era con la [[Furia di Cernunnos]] ma non si
 
 - **Sessione 23**: Abbattuto durante lo scontro con [[La Spada]], a cui viene sottratta la [[Chiave con Labirinto|chiave del Lupercalico]][^14].
 - **Sessione 24**: Redige un manifesto per la formazione di un **Gran Consiglio** democratico, firmato con la tradizione marinaresca del round robin, prendendo le distanze dal cognome Valmorath[^15]. Rivela alla compagnia la storia integrale di [[Erelyth]]: elfa, chierica del dominio della vita, appartenente all'[[Fazioni/Ordine Scarlatto|Ordine Scarlatto]], destinata a diventare l'ultima Custode ma uccisa durante la Notte della Custodia dagli aguzzini della casata Valmorath[^15]. La madre Valmira ancorò l'anima di Erelyth alla lama dell'alabarda come ultimo atto disperato[^15]. La notte dello scontro con la Caccia (S23), le anime di Ignemir ed Erelyth si sono scambiate: Ignemir ha ceduto energia vitale assumendo la forma di kanabo, temendo di rimanere prigioniero per sempre[^15].
-- **Sessione 25**: Guida designata della spedizione al [[Vulcano]] per trattare con i [[Clan Oven|giganti Oven]][^16]. Ottiene dal [[Lupercalico]] una catenina/pietra utile a uscire dal dungeon, in cambio di informazioni sui mutaforma[^16]. Tratta con il principe [[Ocecot Oven]] e ottiene indicazioni strategiche su Cruellatrix e sui rischi legati al [[Il Toro|Toro]][^16]. Durante il ritorno attraverso l'[[Ancora Spaziale]] viene intercettato dai [[Argan e Asvad|Geni del Fuoco]] e rassicura (mentendo) che il piano procede[^16].
+- **Sessione 25**: Partecipa alla spedizione al [[Vulcano]], guidata da [[Pagrax]], per trattare con i [[Clan Oven|giganti Oven]][^16]. Ottiene dal [[Lupercalico]] una catenina/pietra utile a uscire dal dungeon, in cambio di informazioni sui mutaforma[^16]. Tratta con il principe [[Ocecot Oven]] e ottiene indicazioni strategiche su Cruellatrix e sui rischi legati al [[Il Toro|Toro]][^16]. Durante il ritorno attraverso l'[[Ancora Spaziale]] viene intercettato dai [[Argan e Asbad|Geni del Fuoco]] e rassicura (mentendo) che il piano procede[^16].
+- **Sessione 26**: Guida designata della spedizione negli orti del [[Megadon]] con [[Vailendel]] e [[Pagrax]][^19]. Descrive [[Tiriano il Saggio|Tiriano]] ai compagni[^19]. Sotto gli alberi degli orti riconosce un simbolo già visto nel dungeon dello specchio[^19]. Parla a lungo con [[Manny]] e, tra le figure spettrali, scorge il volto di [[Uruan]] che chiede aiuto[^19].
 - **Sessione 29**: Nel downtime ripara il potabilizzatore della [[Rivalsa]] e nota un'imbarcazione in disuso del defunto Alfonso Mestizzi; convince il manovale [[Tarracan]] a cederne l'uso per 5 monete d'oro e un pasto garantito alla [[La Rocca dei Conflitti|Rocca dei Conflitti]][^17]. Con mano magica sottrae due cartucce di propellente dalla tasca del capitano ubriaco [[Loinque Tarasson|Quelloin]][^17]. Riconosce l'orma fumante sull'imbarcazione come il segno della [[Madre di tutte le vedove]] dai racconti della Furia[^17]. Incontrato [[Tiriano il Saggio|Tiriano]] nella palude, nota che il suo collare è l'[[Orecchino del Tormento]] e riceve due bende arancioni inamovibili, una con un messaggio che gli conferisce l'autorità sul contratto con il [[Clan Oven]][^17]. Custodisce le due cartucce rimaste[^17].
-- **Sessione 31**: Nel downtime continua a collaborare con la [[Rivalsa]], riporta la barca a [[Tarracan]] e aiuta a riparare il potabilizzatore[^18]. Nella spedizione chiude le file del gruppo per sorvegliare i membri della Furia e porta con sé l'[[Ancora Spaziale|àncora]][^18]. Attraversando l'àncora sente ancora i [[Argan e Asvad|Geni del Fuoco]] spazientirsi e li rassicura che il piano procede[^18]. Davanti a un edificio religioso del villaggio riconosce nel simbolo "a sorriso" formato da pietre colorate una barca vista tempo addietro su un medaglione che conosce[^18]. Rassicura con disprezzo [[Valamonte]], contaminato dallo [[Scheletro Dorato]], promettendogli le cure di [[Eric]] al villaggio[^18].
+- **Sessione 31**: Nel downtime continua a collaborare con la [[Rivalsa]], riporta la barca a [[Tarracan]] e aiuta a riparare il potabilizzatore[^18]. Nella spedizione chiude le file del gruppo per sorvegliare i membri della Furia e porta con sé l'[[Ancora Spaziale|àncora]][^18]. Attraversando l'àncora sente ancora i [[Argan e Asbad|Geni del Fuoco]] spazientirsi e li rassicura che il piano procede[^18]. Davanti a un edificio religioso del villaggio riconosce nel simbolo "a sorriso" formato da pietre colorate una barca vista tempo addietro su un medaglione che conosce[^18]. Rassicura con disprezzo [[Valamonte]], contaminato dallo [[Scheletro Dorato]], promettendogli le cure di [[Eric]] al villaggio[^18].
 
 ## Equipaggiamento
 
 - **Erelyth** - Alabarda in [[Nerivium]] risvegliato (critici 19-20, +1d6 danni da fuoco)[^8]
 - Spada lunga in [[Nerivium]][^8]
 - Punta di freccia in [[Nerivium]][^8]
+- Amuleto a forma di occhio, preso dal bottino degli evasi[^20]
 
 ---
 
@@ -64,3 +66,5 @@ Ignemir Valmorath è un tiefling che era con la [[Furia di Cernunnos]] ma non si
 [^16]: [[Riepiloghi/Ignemir/Sessione 25]]
 [^17]: [[Riepiloghi/Ignemir/Sessione 29]]
 [^18]: [[Riepiloghi/Ignemir/Sessione 31]]
+[^19]: [[Riepiloghi/Ignemir/Sessione 26]]
+[^20]: [[Riepiloghi/Ignemir/Sessione 5]]

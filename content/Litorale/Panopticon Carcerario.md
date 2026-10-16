@@ -16,7 +16,11 @@ Dungeon buio con pareti nere rastremate, [[Gemme del Vuoto]] azzurre e odore for
 
 ### Corridoio d'Ingresso
 
-Dietro il punto di arrivo c'è una porta chiusa e dimenticata, senza serratura e senza apparenti possibilità di apertura[^2]. L'incisione in rovina "ARRI...I" è scritta nella lingua dei [[Fazioni/Liberi|Liberi]][^2]. Sei simboli sconosciuti sono incisi sotto[^2].
+Dietro il punto di arrivo c'è una porta chiusa e dimenticata, senza serratura e senza apparenti possibilità di apertura[^2]. L'incisione in rovina "ARRI...I" è scritta nella lingua dei [[Fazioni/Liberi|Liberi]][^2]. Sei simboli sconosciuti sono incisi sotto: si alternano spirali, ovali e segmenti[^1][^2].
+
+![[ignemir-sessione-20-1.png]]
+
+![[ignemir-sessione-20-2.png]]
 
 ### Corridoio Laterale
 
@@ -31,6 +35,8 @@ Piccola alcova con porta chiusa da due grossi chiavistelli[^2]. Sulla porta c'è
 ### Sala Circolare
 
 Sala molto alta a forma circolare[^2]. Oltre all'arco d'entrata ci sono 12 porte chiuse, sopra ciascuna c'è un simbolo[^2]. Alcuni di questi simboli sono gli stessi visti all'ingresso (i sei simboli ricorrenti)[^2]. In fondo alla sala un mostro glabro, pieno di tagli e suture, sembra deceduto[^2].
+
+![[ignemir-sessione-22.png]]
 
 In sommità c'è una scritta in silvano arcaico: "Sole"[^3].
 
@@ -52,6 +58,9 @@ Conduce a un corridoio dritto di 2.0m x 3.0m, senza luci, senza feritoie[^5]. Il
 
 - **Sessione 20**: Il gruppo attraversa lo [[Specchio dei Liberi]] ed entra nel dungeon[^1]. Combattono creature mostruose[^1]. [[Pagrax]] scompare dopo aver usato frantumare[^1].
 - **Sessione 22**: Seconda esplorazione con [[Zamoraz]], [[Vanya]], [[Ignemir]] e [[Bran Lapillo|Bran]][^2]. Trovano [[Pagrax]] addormentato al centro, ma si rivela un [[Doppelganger]][^2]. Uccidono due mostri ([[Doppelganger]] e [[Creature/Troll|Troll]])[^6]. Seguono le orme di [[Loskio Menenghio|Loskio]] fino alla porta 12, dove restano intrappolati in un loop[^5]. [[Ignemir]] squarcia la [[Porta con Pelle Mutaforma|porta con la pelle]], che urla come un allarme[^7]. Tentano di aprire la serratura con la [[Chiave con Labirinto]], ma la chiave viene respinta magneticamente[^7]. [[Ignemir]] prova a scassinarla e viene schiacciato contro il muro subendo 18 danni[^7]. Posizionano un'[[Ancora Spaziale]] vicino alla porta: si attiva a scatti[^8]. Ignemir è l'ultimo a uscire e sente un rumore simile a vetro che si infrange[^8].
+- **Sessione 26**: Negli orti del [[Megadon]], tra le targhette in silvano sotto gli alberi, [[Ignemir]] riconosce uno dei simboli già visti in questo dungeon[^9].
+
+![[ignemir-sessione-26.png]]
 
 ---
 
@@ -65,3 +74,4 @@ Conduce a un corridoio dritto di 2.0m x 3.0m, senza luci, senza feritoie[^5]. Il
 [^6]: [[Riepiloghi/Ignemir/Sessione 22]]
 [^7]: [[Riepiloghi/Ignemir/Sessione 22]]
 [^8]: [[Riepiloghi/Ignemir/Sessione 22]]
+[^9]: [[Riepiloghi/Ignemir/Sessione 26]]

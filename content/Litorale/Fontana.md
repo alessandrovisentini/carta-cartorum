@@ -16,7 +16,7 @@ Un muro a secco in rovina di materiale verde scuro con una lunga inferriata alta
 
 ## Il Palazzo Sotterraneo
 
-Sotto la fontana c'è un palazzo sotterraneo accessibile attraverso una porta di metallo nascosta in una delle vasche secondarie[^2]. L'ascensore principale si attiva con magia su una gemma arancione[^2].
+Sotto la fontana c'è un palazzo sotterraneo accessibile attraverso una porta di metallo nascosta in una delle vasche secondarie[^2]. L'ascensore principale si attiva con magia su una gemma arancione[^2]. Secondo il topo [[Miglio]], la fontana apparteneva ai padroni dei topi[^5].
 
 ### Struttura:[^2]
 - **Ingresso**: Scivolo a spirale che porta a una vasca d'acqua profonda

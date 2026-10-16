@@ -17,7 +17,7 @@ Possiede una stanza dedicata allo studio e all'arte, fredda, con un tavolo su cu
 
 - **Sessione 1**: Non esce dalla sua stanza dedicata allo studio[^1].
 - **Sessione 4**: Il suo nome viene trovato inciso su un regolo in pietra insieme ad altri nomi, incluso "[[Catrador]]" in una versione bizzarra di silvano[^3].
-- **Sessione 5**: Si scopre che stava svolgendo una ricerca sui pilastri[^4]. Ha litigato con uno dei due gemelli che conducono la [[Rivalsa]] e ha deciso di andarsene dalla nave[^4].
+- **Sessione 5**: Si scopre che stava svolgendo una ricerca sui pilastri[^4]. Quando la ricerca "è sparita" ha deciso di andarsene dalla [[Rivalsa]][^4]. Secondo alcune voci riferite da [[Opalix]], ha litigato con uno dei due gemelli che conducono la nave[^4].
 - **Sessione 7**: Ha perso il suo bastone/cuneo, strumento magico ottenuto con le persone della [[Rivalsa]] per la ricerca sui materiali dei pilastri[^2]. Solo il cuneo poteva scalfire la pietra dei pilastri[^2]. Vuole posizionarlo nel [[Vulcano]] per portare calore tramite la meridiana[^2]. Lancia Zona di Verità sul gruppo[^2]. Dona vestiti ai compagni: un abito a [[Vanya]], un panciotto a [[Merla]], un mantello di pelliccia a [[Pagrax]], un tabarro bluastro a [[Rosanno]][^2].
 - **Sessione 10**: Dà al gruppo un'[[Ancora Spaziale]] da collegare al suo passaggio segreto[^5].
 - **Sessione 12**: Sveglia il gruppo nel pieno della notte per salvare i compagni intrappolati nella [[Fontana]][^6]. Stringe un patto con [[Fryolin]][^6]. Si arrabbia con [[Bran Lapillo]] per aver utilizzato la sua riserva speciale[^6].

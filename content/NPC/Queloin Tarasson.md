@@ -15,7 +15,7 @@ Queloin Tarasson è una Attalwen (mezza elfa e mezza nana), capitana della [[Riv
 ## Relazioni
 
 - [[Awen Seife]] la chiama la sua "ex-capa"[^2]. Awen aspetta ancora scuse per l'attrezzatura persa "durante il furto"[^2].
-- Ha litigato con [[Awen Seife]], motivo per cui Awen ha lasciato la [[Rivalsa]][^3].
+- Secondo alcune voci, [[Awen Seife]] ha litigato con uno dei due gemelli che conducono la [[Rivalsa]][^3].
 - Insieme al fratello [[Loinque Tarasson]], ha regalato ad Awen un piccolo martello in argento[^4].
 
 ## Storia nelle Sessioni

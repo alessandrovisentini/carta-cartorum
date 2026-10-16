@@ -39,10 +39,11 @@ Eric si pente di aver celebrato un **novilunio** per un anziano chierico morente
 - Sul nome stesso: rivelato come **Tig** in Sessione 24[^1]
 - Sul [[Lupercalico]]: lo definisce servitore del "Giullare" (un Arciduca) e avverte Eric di non fidarsi di lui[^6]
 - Sulla propria natura: "La forma è ininfluente"[^6]
+- Secondo il [[Lupercalico]], la cassa non è una creazione dei mutaforma del dungeon dello specchio ma il loro "ospitante"[^6]
 
 ## Storia nelle Sessioni
 
-- **Sessione 25**: Il [[Lupercalico]] tenta di impadronirsi di Tig; al contatto, la cassa lo azzanna e lo ferisce[^6]. Poco dopo Tig assume forma di anello, causando una contesa tra Eric e il Lupercalico[^6]. In seguito torna cassa e conferma l'ostilità verso il Giullare e i suoi servitori[^6].
+- **Sessione 25**: Il [[Lupercalico]] tenta di impadronirsi di Tig; al contatto, la cassa lo azzanna e lo ferisce[^6]. Dalla cassa esce poi una mano gigante piena di anelli che prova ad afferrargli l'altra spalla; quel braccio non appartiene alle creature ospitate nella cassa[^6]. Poco dopo Tig assume forma di anello, causando una contesa tra Eric e il Lupercalico[^6]. In seguito torna cassa e conferma l'ostilità verso il Giullare e i suoi servitori[^6].
 - **Sessione 34**: Interrogata da [[Eric]] sulla macchia violacea della [[Biblioteca Magna]], la definisce uno spazio confinato sicuro[^7].
 
 ---

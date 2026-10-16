@@ -18,7 +18,7 @@ Emiliano è un gigante evaso dalla [[Maledizione di Mefisto]], alleato di [[Tumb
 
 ## Relazioni
 
-- [[Vailendel]] ha un amico gigante che è un evaso - potrebbe essere Emiliano[^3]
+- Caro amico di [[Vailendel]], che lo ha perso e ne conserva ancora le enormi carte da gioco[^3][^4]
 
 ---
 
@@ -27,3 +27,4 @@ Emiliano è un gigante evaso dalla [[Maledizione di Mefisto]], alleato di [[Tumb
 [^1]: [[Riepiloghi/Zamoraz/Sessione 5]]
 [^2]: [[Riepiloghi/Zamoraz/Sessione 11]]
 [^3]: [[Riepiloghi/Zamoraz/Sessione 6]]
+[^4]: [[Riepiloghi/Ignemir/Sessione 6]]

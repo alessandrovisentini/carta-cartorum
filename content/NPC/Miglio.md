@@ -14,7 +14,7 @@ Miglio è un topo che guida una squadra di pompieri assegnati al palazzo sotterr
 
 ## Storia nelle Sessioni
 
-- **Sessione 18**: [[Opalix]] e il gruppo lo incontrano nelle stanze adiacenti alla sala di [[Murr]], mentre lui e altri topi si tolgono le piccole [[Tute da Palombaro|tute da palombaro]][^1]. Si presenta come capo dei pompieri[^1]. Rivela che i topi sono parte dei [[Fazioni/Liberi|Liberi]] e spiega il saluto: alzare il braccio e chiedere "La via?"[^1]. Spiega che chi conosce il saluto completo è un Libero e chiede se il gruppo sia stato "bandito"[^1]. Conosce [[Rem]] ma dice che i ragni sono irraggiungibili da tempo perche' alcuni "banditi" in superficie impediscono la comunicazione[^1]. Dopo la distruzione della vasca di [[Murr]], cerca di contenere il panico tra i topi insieme a [[Orzo]][^1].
+- **Sessione 18**: [[Opalix]] e il gruppo lo incontrano nelle stanze adiacenti alla sala di [[Murr]], mentre lui e altri topi si tolgono le piccole [[Tute da Palombaro|tute da palombaro]][^1]. Si presenta come capo dei pompieri[^1]. Quando [[Opalix]] alza il braccio e chiede "La via?", Miglio capisce che il gruppo conosce i topi come [[Fazioni/Liberi|Liberi]], ma fa notare che quella è solo metà del saluto[^1]. Spiega che chi conosce il saluto completo è un Libero e chiede se il gruppo sia stato "bandito"[^1]. Conosce [[Rem]] ma dice che i ragni sono irraggiungibili da tempo perche' alcuni "banditi" in superficie impediscono la comunicazione[^1]. Dopo la distruzione della vasca di [[Murr]], cerca di contenere il panico tra i topi insieme a [[Orzo]][^1].
 
 ---
 

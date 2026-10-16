@@ -1,4 +1,4 @@
-# Agonet
+# Dagonet
 
 |                   |                                  |
 | ----------------- | -------------------------------- |
@@ -7,7 +7,7 @@
 
 ## Descrizione
 
-Membro della [[Furia di Cernunnos]][^1]. [[Tiriano il Saggio|Tiriano]] gli aveva promesso il ruolo di luogotenente[^1].
+Membro della [[Furia di Cernunnos]][^1]. Aveva promesso a [[Tiriano il Saggio|Tiriano]] di prendere il posto da luogotenente[^1].
 
 ## Storia nelle Sessioni
 

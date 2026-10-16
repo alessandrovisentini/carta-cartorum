@@ -8,7 +8,7 @@
 
 ## Descrizione
 
-Rosanno è un guerriero del gruppo, esperto in combattimento[^1]. Ha una pistola che fa un rumore caratteristico quando viene estratta ("paplomb")[^2]. Ora vuole meditare perché si sente in colpa per qualcosa[^1].
+Rosanno è un guerriero del gruppo, esperto in combattimento[^1]. Ha una pistola che fa un rumore caratteristico quando viene estratta ("paplomb")[^2]. Ora vuole meditare perché si sente in colpa per qualcosa[^1]: è un ex mercenario pentito, ritirato a meditare nella natura per espiare le proprie colpe[^16]. Teme il freddo e l'arrivo dell'inverno, al punto da avere un attacco di panico[^16].
 
 ## Storia nelle Sessioni
 
@@ -46,3 +46,4 @@ Rosanno è un guerriero del gruppo, esperto in combattimento[^1]. Ha una pistola
 [^13]: [[Riepiloghi/Ignemir/Sessione 30]]
 [^14]: [[Riepiloghi/Zamoraz/Sessione 32]]
 [^15]: [[Riepiloghi/Eric/Sessione 34]]
+[^16]: [[Riepiloghi/Ignemir/Sessione 6]]

@@ -3,7 +3,7 @@
 |                   |                            |
 | ----------------- | -------------------------- |
 | Tipo              | Creature elementali        |
-| Membri noti       | [[Argan e Asvad]]          |
+| Membri noti       | [[Argan e Asbad]]          |
 | Sede              | [[Palazzo dei Genii]]      |
 | Prima Menzione    | [[Timeline/Timeline|Sessione 10]]            |
 
@@ -23,7 +23,7 @@ I Geni del Fuoco hanno un antico conflitto con il [[Clan Oven]][^3]. In passato 
 
 ## Storia nelle Sessioni
 
-- **Sessione 10**: Il gruppo incontra [[Argan e Asvad]] nel [[Palazzo dei Genii]] e stringe il [[Patto coi Geni del Fuoco]][^1].
+- **Sessione 10**: Il gruppo incontra [[Argan e Asbad]] nel [[Palazzo dei Genii]] e stringe il [[Patto coi Geni del Fuoco]][^1].
 - **Sessione 13**: [[Awen Seife]] rivela che non è conveniente cercare scappatoie nei patti con i Geni[^2]. I giganti decidono di affrontarli dopo la confessione del gruppo[^4].
 - **Sessione 25**: Intercettano [[Ignemir]] durante il transito attraverso l'[[Ancora Spaziale]] dalla fortezza dei giganti[^6]. Con voce minacciosa avvertono che non gradirebbero una ritrattazione del patto; confermano di sapere che l'ancora è vicina alla sala del Toro, ma che "non è ancora sufficiente"[^6]. [[Ignemir]] mente loro, dicendo che il piano procede come previsto[^6]. Ignemir rivela anche ai giganti che la mappa donatagli dal [[Lupercalico]] mesi prima è in realtà la pianta del Palazzo dei due Geni del fuoco[^6].
 

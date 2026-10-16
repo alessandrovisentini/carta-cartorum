@@ -3,6 +3,7 @@
 |                   |                            |
 | ----------------- | -------------------------- |
 | Specie            | Elfa                       |
+| Titolo            | *Principessa scarlatta*    |
 | Ruolo             | Chierica del dominio della vita |
 | Affiliazione      | [[Fazioni/Ordine Scarlatto\|Ordine Scarlatto]] |
 | Madre             | [[Valmira]] (Custode)      |
@@ -12,7 +13,7 @@
 
 Figura esile e slanciata, lenta e leggera nelle movenze[^1]. Capelli con frangetta, lunghi e neri, lisci e pettinati dietro la schiena[^1]. Lunga tunica rosso porpora che giunge fino a terra, legata al petto sopra a un saio bianco — abito cerimoniale da chierica[^1]. Tratti da elfa d'alto lignaggio, carnagione turchese. Occhi vitrei senza pupille[^1].
 
-Il suo nome è inciso come una piccola cicatrice sul metallo dell'alabarda di [[Ignemir]][^2].
+Viene chiamata *principessa scarlatta*[^2]. Il suo nome è inciso come una piccola cicatrice sul metallo dell'alabarda di [[Ignemir]][^2].
 
 ## Storia
 

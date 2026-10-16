@@ -14,7 +14,7 @@ Si muovono chine su due gambe, con braccia lunghe e mani più grandi del normale
 
 ## Comportamento
 
-Parlano tra loro e possono creare bocche dal nulla per mangiare[^1]. Hanno una dentatura perfetta fatta di soli incisivi[^1][^2]. Odiano i "topi maledetti" (gli Studiosi dei [[Fazioni/Liberi\|Liberi]]) e vogliono "strappare loro gli organi"[^1].
+Parlano tra loro e possono creare bocche dal nulla per mangiare[^1]. Hanno una dentatura perfetta fatta di soli incisivi[^1][^2]. Odiano i "topi maledetti" (gli Studiosi dei [[Fazioni/Liberi\|Liberi]]) e vogliono "strappare loro gli organi"[^1]. Dicono di non conoscere una via di fuga: per [[Ignemir]] questi mutaforma sembrano prigionieri del luogo, forse la prigione di qualche corte fatata[^1].
 
 Quando attaccate, le ferite da proiettile e freccia rimangono, ma quelle da lama si rimarginano rapidamente[^1]. L'odore che emanano è nauseabondo, semi-inebriante e bizzarro (simile a benzina)[^1]. Durante il movimento hanno spasmi e tic nervosi[^1].
 

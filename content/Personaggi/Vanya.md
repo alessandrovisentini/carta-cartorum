@@ -19,7 +19,7 @@ Ha fatto un patto con **Ilev Saaj**, la dea delle frodi[^3]. Porta un anello che
 ## Storia nelle Sessioni
 
 - **Sessione 1**: Colpisce anguille e pesci con un fulmine sull'acqua, ma danneggia anche la barca[^1].
-- **Sessione 5**: Guida designata per la spedizione nella foresta[^4]. Cerca di attirare l'attenzione di [[Tiriano il Saggio]] con una danza dei fuochi[^4]. Tiene la chiave con labirinto data da [[Tumba e Simon|Simon]][^4].
+- **Sessione 5**: Guida designata per la spedizione nella foresta[^4]. Cerca di attirare l'attenzione di [[Tiriano il Saggio]] con *Fuochi danzanti*[^19]. Tiene la chiave con labirinto data da [[Tumba e Simon|Simon]][^4].
 - **Sessione 7**: Riceve un abito da [[Awen Seife]][^5]. La sua famiglia ha ricevuto [[Nerivium]] in dono da giganti[^5].
 - **Sessione 8**: Svela di avere fatto un patto con Ilev Saaj[^3]. Una voce suadente la convince quasi a far sanguinare la conca del pilastro[^3].
 - **Sessione 9**: Resa invisibile da [[Ignemir]], prende erbe [[Amuleto Scaccia Bestie|scaccia bestie]][^2]. Alla [[Fontana]], svuota la piscina e si tuffa per esplorare[^2]. Trova Bronsa per [[Zamoraz]][^2].
@@ -58,3 +58,4 @@ Ha fatto un patto con **Ilev Saaj**, la dea delle frodi[^3]. Porta un anello che
 [^16]: [[Riepiloghi/Ignemir/Sessione 29]]
 [^17]: [[Riepiloghi/Ignemir/Sessione 31]]
 [^18]: [[Riepiloghi/Eric/Sessione 34]]
+[^19]: [[Riepiloghi/Ignemir/Sessione 5]]

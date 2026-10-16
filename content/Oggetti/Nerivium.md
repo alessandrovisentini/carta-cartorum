@@ -7,7 +7,7 @@
 
 ## Descrizione
 
-Il Neridium è una lega metallica rara con molte proprietà speciali, la principale delle quali è la capacità di mantenere il calore[^1]. È essenziale per gli elementali di fuoco come [[Bran Lapillo]] e [[Valente]] per poter esplorare il mondo senza causare danni[^1].
+Il Nerivium è una lega metallica rara con molte proprietà speciali, la principale delle quali è la capacità di mantenere il calore[^1]. È essenziale per gli elementali di fuoco come [[Bran Lapillo]] e [[Valente]] per poter esplorare il mondo senza causare danni[^1].
 
 ## Proprietà
 
@@ -18,29 +18,29 @@ Il Neridium è una lega metallica rara con molte proprietà speciali, la princip
 
 ### Meccanica di Gioco
 
-**Armi in Neridium:**[^2]
+**Armi in Nerivium:**[^2]
 - Critici con 19 oltre che 20
 - +1d6 danni da fuoco
 
-**Armatura e Scudo in Neridium:**[^2]
+**Armatura e Scudo in Nerivium:**[^2]
 - +1 Armor Class
 - +1 Shield
 - Resistenza ai danni da fuoco
 
-**Focus Arcano in Neridium:**[^2]
+**Focus Arcano in Nerivium:**[^2]
 - Può trasformare le magie in 1d6 danni da fuoco
 
 ## Creazione
 
-Il Neridium viene creato, non estratto naturalmente[^1]. I Giganti del Fuoco sono i creatori di questo materiale[^2].
+Il Nerivium viene creato, non estratto naturalmente[^1]. I Giganti del Fuoco sono i creatori di questo materiale[^2].
 
-Secondo [[Vanya]], la sua famiglia ha ricevuto del Neridium in dono da dei giganti[^1].
+Secondo [[Vanya]], la sua famiglia ha ricevuto del Nerivium in dono da dei giganti[^1].
 
 ## Storia nelle Sessioni
 
-- **Sessione 7**: [[Bran Lapillo]] si toglie l'elmo rivelando la sua faccia di fuoco e spiega le proprietà del Neridium[^1]. L'armatura che indossa è fatta di questo materiale[^1].
-- **Sessione 13**: Il gruppo trova un carro della [[Furia di Cernunnos]] con casse piene di oggetti in Neridium nella fortezza dei Giganti[^2]. Contenuto: attrezzi da cucina, piatti, calderone, punte di freccia, 3 spade lunghe, 3 spade corte, una lancia lunga, una faretra[^2]. Valore equivalente: **40.000 monete d'oro**[^2]. L'alabarda **Erelyth** di [[Ignemir]] viene risvegliata da [[Ocecot Oven]][^2].
-- **Sessione 16**: [[Ignemir]] dona la spada lunga in Neridium a [[Vailendel]][^3]. Le armi in Neridium possono aumentare le probabilità che il ghiaccio si sciolga[^3]. Il Neridium dissolve le creature della [[Caccia Originale]] dove le trapassa[^3]. [[La Chierica Misteriosa]] porta un kanabo in Neridium[^3].
+- **Sessione 7**: [[Bran Lapillo]] si toglie l'elmo rivelando la sua faccia di fuoco e spiega le proprietà del Nerivium[^1]. L'armatura che indossa è fatta di questo materiale[^1].
+- **Sessione 13**: Il gruppo trova un carro della [[Furia di Cernunnos]] con casse piene di oggetti in Nerivium nella fortezza dei Giganti[^2]. Contenuto: attrezzi da cucina, piatti, calderone, punte di freccia, 3 spade lunghe, 3 spade corte, una lancia lunga, una faretra[^2]. Valore equivalente: **40.000 monete d'oro**[^2]. L'alabarda **Erelyth** di [[Ignemir]] viene risvegliata da [[Ocecot Oven]][^2].
+- **Sessione 16**: [[Ignemir]] dona la spada lunga in Nerivium a [[Vailendel]][^3]. Le armi in Nerivium possono aumentare le probabilità che il ghiaccio si sciolga[^3]. Il Nerivium dissolve le creature della [[Caccia Originale]] dove le trapassa[^3]. [[La Chierica Misteriosa]] porta un kanabo in Nerivium[^3].
 
 ## Possessori Conosciuti
 
