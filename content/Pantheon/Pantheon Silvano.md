@@ -10,11 +10,5 @@
 |                   |                        |
 | ----------------- | ---------------------- |
 | Nome arcaico      | Ilezeia (poco conosciuto) |
-| Natura            | Divinità unica silvana[^1] |
+| Natura            | Divinità unica silvana |
 | Dominio           | Totalità della natura  |
-
----
-
-## Fonti
-
-[^1]: [[Introduzione]]

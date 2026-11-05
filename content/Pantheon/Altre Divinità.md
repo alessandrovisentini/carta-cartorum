@@ -44,7 +44,7 @@
 | Titolo      | Il grande architetto   |
 | Dominio     | Signore degli inferi   |
 
-La [[Maledizione di Mefisto]] era originariamente la sua nave ammiraglia[^1].
+La [[Maledizione di Mefisto]] era originariamente la sua nave ammiraglia.
 
 ## Ranthaleon
 
@@ -60,20 +60,12 @@ La [[Maledizione di Mefisto]] era originariamente la sua nave ammiraglia[^1].
 | Tipo        | Divinità della luna    |
 | Status      | Culto semiscomparso    |
 
-Divinità della luna il cui culto è semiscomparso da secoli[^2]. I suoi compiti sono stati assunti da Solar e Nahil tra gli umani, e Ileteia tra gli elfi[^2]. [[Eric]] è un sacerdote di questa religione[^2].
+Divinità della luna il cui culto è semiscomparso da secoli. I suoi compiti sono stati assunti da Solar e Nahil tra gli umani, e Ileteia tra gli elfi. [[Eric]] è un sacerdote di questa religione.
 
 ## Altre Entità Venerabili
 
-- **Arciduchi e Arciduchesse delle corti fatate** (come Cernunnos, Oran il Lord Verde)[^3]
+- **Arciduchi e Arciduchesse delle corti fatate** (come Cernunnos, Oran il Lord Verde)
 - **Antichi e possenti Megadon**
 - **Esseri venuti da oltre le stelle**
 - **Giudici del Tribunale Ineffabile**
 - **Arci-Lich**, tra cui Drachilich
-
----
-
-## Fonti
-
-[^1]: [[Introduzione]]
-[^2]: [[Riepiloghi/Zamoraz/Sessione 14]]
-[^3]: [[Timeline/Timeline|Sessione 15]]

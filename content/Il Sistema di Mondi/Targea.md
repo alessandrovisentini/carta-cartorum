@@ -7,9 +7,9 @@
 
 ## Descrizione
 
-Targea è il mondo principale da cui la stragrande maggioranza dei personaggi proviene[^1]. È una terra di grandi continenti dominata dalle **rotte migratorie dei Megadon** - creature colossali grandi come montagne fino a intere catene montuose[^1].
+Targea è il mondo principale da cui la stragrande maggioranza dei personaggi proviene. È una terra di grandi continenti dominata dalle **rotte migratorie dei Megadon** - creature colossali grandi come montagne fino a intere catene montuose.
 
-## Strategie di Sopravvivenza[^1]
+## Strategie di Sopravvivenza
 
 Le civiltà di Targea hanno escogitato varie strategie:
 
@@ -19,11 +19,4 @@ Le civiltà di Targea hanno escogitato varie strategie:
 
 ## Relazione con i Regni Fatati
 
-Le stagioni sono gestite dalla [[I Regni Fatati|Corte Elementale]], quindi casini nelle stagioni significano casini nelle corti fatate[^2].
-
----
-
-## Fonti
-
-[^1]: [[Introduzione]]
-[^2]: [[Timeline/Timeline|Sessione 07]]
+Le stagioni sono gestite dalla [[I Regni Fatati|Corte Elementale]], quindi casini nelle stagioni significano casini nelle corti fatate.

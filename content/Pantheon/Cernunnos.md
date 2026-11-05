@@ -9,17 +9,10 @@
 
 ## Descrizione
 
-Cernunnos è l'arciduca della Corte Splendente e guida una delle tre manifestazioni della [[Caccia Selvaggia]][^1].
+Cernunnos è l'arciduca della Corte Splendente e guida una delle tre manifestazioni della [[Caccia Selvaggia]].
 
 ## La sua Caccia
 
-La Caccia Selvaggia di Cernunnos è la caccia alle anime dannate come purga di chi risiede ancora su Targea senza meritarlo[^2]. È la parte meno violenta della Caccia[^2]. Le "Lance di Cernunnos" sono coloro che non solo sono sopravvissuti, ma sono tornati e hanno raccontato della caccia[^2].
+La Caccia Selvaggia di Cernunnos è la caccia alle anime dannate come purga di chi risiede ancora su Targea senza meritarlo. È la parte meno violenta della Caccia. Le "Lance di Cernunnos" sono coloro che non solo sono sopravvissuti, ma sono tornati e hanno raccontato della caccia.
 
-[[Fryolin]] ha partecipato in passato alla Caccia Selvaggia guidata da Cernunnos[^1].
-
----
-
-## Fonti
-
-[^1]: [[Riepiloghi/Ignemir/Sessione 16]]
-[^2]: [[Timeline/Timeline|Sessione 04]]
+[[Fryolin]] ha partecipato in passato alla Caccia Selvaggia guidata da Cernunnos.

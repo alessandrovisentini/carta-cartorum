@@ -10,14 +10,8 @@
 
 ## Descrizione
 
-Creatura che fungeva da tramite tra la dea [[Elunaui]] e i mortali[^1]. Scomparso o ucciso durante l'evento chiamato [[Aphophtosis]], avvenimento che ha segnato una sorta di fine per il culto di Elunaui[^1].
+Creatura che fungeva da tramite tra la dea [[Elunaui]] e i mortali. Scomparso o ucciso durante l'evento chiamato [[Aphophtosis]], avvenimento che ha segnato una sorta di fine per il culto di Elunaui.
 
 ## Sostituzione
 
-Dopo la sua scomparsa, [[Hoursel]] è stato costretto a ricoprirne il ruolo[^1]. Hoursel si presenta come un gigantesco gufo a cinque occhi, ognuno dei quali contiene un frammento della luna[^1].
-
----
-
-## Fonti
-
-[^1]: [[Riepiloghi/Ignemir/Sessione 24]]
+Dopo la sua scomparsa, [[Hoursel]] è stato costretto a ricoprirne il ruolo. Hoursel si presenta come un gigantesco gufo a cinque occhi, ognuno dei quali contiene un frammento della luna.

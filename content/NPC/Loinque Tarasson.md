@@ -10,22 +10,13 @@
 
 ## Descrizione
 
-Loinque Tarasson è un Attalwen (mezzo elfo e mezzo nano), nostromo della [[Rivalsa]] insieme alla sorella gemella [[Queloin Tarasson]][^1]. Sono ricercatori delle profondità dell'Università magica delle [[Sentinelle Brune]][^1].
+Loinque Tarasson è un Attalwen (mezzo elfo e mezzo nano), nostromo della [[Rivalsa]] insieme alla sorella gemella [[Queloin Tarasson]]. Sono ricercatori delle profondità dell'Università magica delle [[Sentinelle Brune]].
 
 ## Relazioni
 
-- Insieme alla sorella [[Queloin Tarasson]], ha regalato ad [[Awen Seife]] un piccolo martello in argento[^2].
+- Insieme alla sorella [[Queloin Tarasson]], ha regalato ad [[Awen Seife]] un piccolo martello in argento.
 
 ## Storia nelle Sessioni
 
-- **Sessione 24**: Unico capitano sopravvissuto della [[Rivalsa]] dopo l'[[Attacco della Caccia Selvaggia]] (la gemella [[Queloin Tarasson]] è caduta nello scontro)[^3]. Nei primi giorni dal disastro ha tentato più volte di buttarsi nelle pire funebri; successivamente è diventato il più assiduo frequentatore del bar[^3]. Porta alcol per tutti, beve, canta e grida con un sorriso larghissimo, finché a tarda notte non si rintana a piangere da solo in un angolo[^3].
-- **Sessione 29**: Lo si trova al bar, ubriaco e addormentato sul tavolo; non reagisce ai tentativi della compagnia di parlargli[^4]. Sotto la minaccia di [[Vanya]] di non farsi più servire alcol, tira fuori una cartuccia di propellente; [[Ignemir]], con mano magica, gli sottrae dalla tasca altre due cartucce[^4].
-
----
-
-## Fonti
-
-[^1]: [[Introduzione]]
-[^2]: [[Riepiloghi/Zamoraz/Sessione 17]]
-[^3]: [[Riepiloghi/Ignemir/Sessione 24]]
-[^4]: [[Riepiloghi/Ignemir/Sessione 29]]
+- **Sessione 24**: Unico capitano sopravvissuto della [[Rivalsa]] dopo l'[[Attacco della Caccia Selvaggia]] (la gemella [[Queloin Tarasson]] è caduta nello scontro). Nei primi giorni dal disastro ha tentato più volte di buttarsi nelle pire funebri; successivamente è diventato il più assiduo frequentatore del bar. Porta alcol per tutti, beve, canta e grida con un sorriso larghissimo, finché a tarda notte non si rintana a piangere da solo in un angolo.
+- **Sessione 29**: Lo si trova al bar, ubriaco e addormentato sul tavolo; non reagisce ai tentativi della compagnia di parlargli. Sotto la minaccia di [[Vanya]] di non farsi più servire alcol, tira fuori una cartuccia di propellente; [[Ignemir]], con mano magica, gli sottrae dalla tasca altre due cartucce.

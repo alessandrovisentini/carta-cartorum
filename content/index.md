@@ -11,7 +11,6 @@ socialImage: group.png
 - [Fazioni](./Fazioni/)
 - [Il Sistema di Mondi](./Il-Sistema-di-Mondi/)
 - [Litorale](./Litorale/)
-- [Misteri](./Misteri/)
 - [NPC](./NPC/)
 - [Oggetti](./Oggetti/)
 - [Pantheon](./Pantheon/)

@@ -8,9 +8,9 @@
 
 ## Descrizione
 
-Durante l'esplorazione del vulcano, il gruppo ha stretto un patto con i geni del fuoco [[Argan e Asbad]] nel loro [[Palazzo dei Genii]][^1].
+Durante l'esplorazione del vulcano, il gruppo ha stretto un patto con i geni del fuoco [[Argan e Asbad]] nel loro [[Palazzo dei Genii]].
 
-## Termini del Patto[^1]
+## Termini del Patto
 
 ### Cosa hanno dato i geni:
 - Rimozione delle restrizioni sull'[[Ancora Spaziale]]
@@ -27,15 +27,8 @@ Durante l'esplorazione del vulcano, il gruppo ha stretto un patto con i geni del
 
 ## Firma
 
-Il contratto è apparso in infernale sul pavimento del palazzo[^1]. È stato firmato col sangue di tutti i membri del gruppo (uno spillo d'oro ha colpito [[Vailendel]] e [[Rosanno]])[^1].
+Il contratto è apparso in infernale sul pavimento del palazzo. È stato firmato col sangue di tutti i membri del gruppo (uno spillo d'oro ha colpito [[Vailendel]] e [[Rosanno]]).
 
 ## Sviluppi
 
-- **Sessione 13**: [[Pagrax]] confessa il patto al [[Clan Oven|Re Tregron Oven]] e cede l'[[Ancora Spaziale]][^2]. I giganti decidono di affrontare i Geni[^2].
-
----
-
-## Fonti
-
-[^1]: [[Riepiloghi/Zamoraz/Sessione 10]]
-[^2]: [[Riepiloghi/Zamoraz/Sessione 13]]
+- **Sessione 13**: [[Pagrax]] confessa il patto al [[Clan Oven|Re Tregron Oven]] e cede l'[[Ancora Spaziale]]. I giganti decidono di affrontare i Geni.

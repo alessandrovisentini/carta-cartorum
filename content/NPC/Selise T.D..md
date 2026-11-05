@@ -9,12 +9,6 @@
 
 ## Descrizione
 
-Incognita firmataria della lettera dei [[Fazioni/Liberi|Liberi]] che [[Eric]] aveva con sé quando è stato trovato e ricomposto da [[Awen Seife]][^1]. L'identità di Selise T.D. emerge a seguito dell'incontro con [[Rem]] il ragno[^1].
+Incognita firmataria della lettera dei [[Fazioni/Liberi|Liberi]] che [[Eric]] aveva con sé quando è stato trovato e ricomposto da [[Awen Seife]]. L'identità di Selise T.D. emerge a seguito dell'incontro con [[Rem]] il ragno.
 
-Eric non conosce il significato della lettera e non ha mai sentito parlare del suo mittente[^1].
-
----
-
-## Fonti
-
-[^1]: [[Riepiloghi/Ignemir/Sessione 24]]
+Eric non conosce il significato della lettera e non ha mai sentito parlare del suo mittente.

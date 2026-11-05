@@ -20,7 +20,7 @@
 | Domini      | Tradizioni, conoscenza   |
 | Note        | Venerato sulla [[Maledizione di Mefisto]] |
 
-La [[Setta dei Pazzi Vendicativi]] lo venera[^1].
+La [[Setta dei Pazzi Vendicativi]] lo venera.
 
 ## Duathal
 
@@ -62,9 +62,3 @@ La [[Setta dei Pazzi Vendicativi]] lo venera[^1].
 | ----------- | ---------------------------------- |
 | Titolo      | Signora dei campi e dei pascoli   |
 | Dominio     | Raccolti                           |
-
----
-
-## Fonti
-
-[^1]: [[Introduzione]]

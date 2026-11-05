@@ -9,19 +9,13 @@
 
 ## Descrizione
 
-Dordord, detto "Mano Monca", è un nano dalla barba rossa membro della [[Furia di Cernunnos]][^1]. È profondamente segnato dalla perdita di qualcuno di caro a causa della [[Madre di tutte le vedove]][^1].
+Dordord, detto "Mano Monca", è un nano dalla barba rossa membro della [[Furia di Cernunnos]]. È profondamente segnato dalla perdita di qualcuno di caro a causa della [[Madre di tutte le vedove]].
 
 ## Storia nelle Sessioni
 
-- **Sessione 10**: Durante il viaggio in nave verso il vulcano, rivela informazioni sulla missione della Furia[^1]:
+- **Sessione 10**: Durante il viaggio in nave verso il vulcano, rivela informazioni sulla missione della Furia:
   - "[[Tiriano il Saggio|Tiriano]] è sempre là al [[Megadon]] a cercare di capire per la bestia, per l'obiettivo."
   - "Noi abbiamo un obiettivo, la [[Madre di tutte le vedove]]. La vogliamo morta. E sembra sia vicina."
   - "Quella bestia manda cose orribili sui nostri villaggi, ruba le cose più importanti."
   - "Di lei si vede il passaggio, le orme, grandi e bruciate, dove la luce non arriva più."
-  - Tira fuori uno straccio rosa piangendo: "La troverò tesoro mio."[^1]
-
----
-
-## Fonti
-
-[^1]: [[Riepiloghi/Zamoraz/Sessione 10]]
+  - Tira fuori uno straccio rosa piangendo: "La troverò tesoro mio."

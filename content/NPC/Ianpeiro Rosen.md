@@ -9,14 +9,8 @@
 
 ## Descrizione
 
-Firbolg molto abile nella carpenteria navale, naufragato in questa zona insieme alla propria famiglia[^1].
+Firbolg molto abile nella carpenteria navale, naufragato in questa zona insieme alla propria famiglia.
 
 ## Storia nelle Sessioni
 
-- **Sessione 30**: [[Akesi Tomo]] lo incontra mentre cerca materiali per riparare la propria nave[^1]. Gli fornisce chiodi, funi, placche e mastice; in cambio riceve un giochino per il figlio, ricavato da una conchiglia[^1].
-
----
-
-## Fonti
-
-[^1]: [[Riepiloghi/Ignemir/Sessione 30]]
+- **Sessione 30**: [[Akesi Tomo]] lo incontra mentre cerca materiali per riparare la propria nave. Gli fornisce chiodi, funi, placche e mastice; in cambio riceve un giochino per il figlio, ricavato da una conchiglia.

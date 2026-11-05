@@ -50,7 +50,7 @@
 | Dominio     | Conoscenza             |
 | Note        | Venerata universalmente |
 
-Una seguace di Ptah sulla [[Rivalsa]] usa magia per "far dimenticare le cose" a [[Luciano]][^1].
+Una seguace di Ptah sulla [[Rivalsa]] usa magia per "far dimenticare le cose" a [[Luciano]].
 
 ## Majka
 
@@ -66,7 +66,7 @@ Una seguace di Ptah sulla [[Rivalsa]] usa magia per "far dimenticare le cose" a 
 | Titolo      | La dama sorridente |
 | Dominio     | Frodi              |
 
-[[Vanya]] ha fatto un patto con lei[^2].
+[[Vanya]] ha fatto un patto con lei.
 
 ## Daillques
 
@@ -74,10 +74,3 @@ Una seguace di Ptah sulla [[Rivalsa]] usa magia per "far dimenticare le cose" a 
 | ----------- | ------------------------ |
 | Titolo      | Il custode non dormiente |
 | Domini      | Combattimento, onore     |
-
----
-
-## Fonti
-
-[^1]: [[Timeline/Timeline|Sessione 15]]
-[^2]: [[Riepiloghi/Zamoraz/Sessione 8]]

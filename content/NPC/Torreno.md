@@ -8,14 +8,8 @@
 
 ## Descrizione
 
-Goliath legato alla [[Maledizione di Mefisto]][^1].
+Goliath legato alla [[Maledizione di Mefisto]].
 
 ## Storia nelle Sessioni
 
-- **Sessione 24**: Viene a chiedere come stiano i membri della compagnia e se [[Kesi]] sia al sicuro, e se abbia riacquistato la memoria[^1].
-
----
-
-## Fonti
-
-[^1]: [[Riepiloghi/Ignemir/Sessione 24]]
+- **Sessione 24**: Viene a chiedere come stiano i membri della compagnia e se [[Kesi]] sia al sicuro, e se abbia riacquistato la memoria.

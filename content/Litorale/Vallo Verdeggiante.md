@@ -8,10 +8,4 @@
 
 ## Descrizione
 
-Luogo da cui proviene [[Bray Cantaconchiglia]], che porta il soprannome "Prentise dal Vallo Verdeggiante"[^1].
-
----
-
-## Fonti
-
-[^1]: [[Riepiloghi/Ignemir/Sessione 24]]
+Luogo da cui proviene [[Bray Cantaconchiglia]], che porta il soprannome "Prentise dal Vallo Verdeggiante".

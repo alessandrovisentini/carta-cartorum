@@ -9,10 +9,4 @@
 
 ## Descrizione
 
-Nano appassionato di circo, sui quarant'anni, che di solito sta con gli studenti del primo anno della [[Rivalsa]][^1]. [[Luciano]] passava spesso del tempo con lui[^1].
-
----
-
-## Fonti
-
-[^1]: [[Riepiloghi/Eric/Sessione 34]]
+Nano appassionato di circo, sui quarant'anni, che di solito sta con gli studenti del primo anno della [[Rivalsa]]. [[Luciano]] passava spesso del tempo con lui.

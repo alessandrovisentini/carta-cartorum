@@ -9,9 +9,9 @@
 
 ## Descrizione
 
-L'Arco del Clan Oven è un'imponente struttura monumentale costruita dai giganti del fuoco del [[Clan Oven]], conficcata nel fianco sud del [[Vulcano]][^1]. È alto circa 40 metri[^1].
+L'Arco del Clan Oven è un'imponente struttura monumentale costruita dai giganti del fuoco del [[Clan Oven]], conficcata nel fianco sud del [[Vulcano]]. È alto circa 40 metri.
 
-### Architettura[^1]
+### Architettura
 - Portale costruito partendo dalla roccia del vulcano
 - Stemma araldico con volto di toro in cima
 - Scritta "Clan Oven" sotto alla faccia di toro in lingua dei giganti
@@ -21,20 +21,13 @@ L'Arco del Clan Oven è un'imponente struttura monumentale costruita dai giganti
 
 ## Funzione
 
-La [[Furia di Cernunnos]] estrae pietra nera dalle miniere e la porta all'arco[^1]. Insieme alle pietre laviche, vengono lasciate casse dalla terraferma - sembra un patto o un'offerta[^1].
+La [[Furia di Cernunnos]] estrae pietra nera dalle miniere e la porta all'arco. Insieme alle pietre laviche, vengono lasciate casse dalla terraferma - sembra un patto o un'offerta.
 
 ## La Replica dei Draconoidi
 
-I [[Draconoidi]] nelle caverne hanno costruito una replica dell'arco, alta circa 10 metri, fatta con materiali di recupero e con un volto putrido di gigante attaccato al centro[^2].
+I [[Draconoidi]] nelle caverne hanno costruito una replica dell'arco, alta circa 10 metri, fatta con materiali di recupero e con un volto putrido di gigante attaccato al centro.
 
 ## Storia nelle Sessioni
 
-- **Sessione 6**: Il gruppo vede l'arco per la prima volta[^1]. [[Ignemir]] legge "CLAN" in gigantico[^1].
-- **Sessione 10**: Il gruppo esplora le caverne vicine e trova l'entrata nascosta al [[Palazzo dei Genii]][^2].
-
----
-
-## Fonti
-
-[^1]: [[Riepiloghi/Zamoraz/Sessione 6]]
-[^2]: [[Riepiloghi/Zamoraz/Sessione 10]]
+- **Sessione 6**: Il gruppo vede l'arco per la prima volta. [[Ignemir]] legge "CLAN" in gigantico.
+- **Sessione 10**: Il gruppo esplora le caverne vicine e trova l'entrata nascosta al [[Palazzo dei Genii]].

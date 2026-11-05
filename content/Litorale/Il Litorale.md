@@ -9,21 +9,21 @@
 
 ## Descrizione
 
-Il Litorale è la regione misteriosa dove le tre navi si sono incagliate dopo [[Il Naufragio]][^1]. È un luogo da cui sembra impossibile fuggire[^2].
+Il Litorale è la regione misteriosa dove le tre navi si sono incagliate dopo [[Il Naufragio]]. È un luogo da cui sembra impossibile fuggire.
 
-### Il Mare Misterioso[^2]
+### Il Mare Misterioso
 
 Tutte le imbarcazioni sono lentamente affondate. Chi ha provato a nuotare è affogato lentamente, come se stesse nuotando nella melassa. I velivoli o non si alzano per la mancanza di vento, o sono tornati a riva come relitti.
 
 ### I Pilastri
 
-Grandi pilastri di varie tipologie rocciose che si stagliano verso il cielo[^3]. Secondo [[Prof De Brunjes]], sono tutti un pezzo unico, dello stesso materiale, e sembrano tutti collegati - "come se fossero scoppiati"[^3].
+Grandi pilastri di varie tipologie rocciose che si stagliano verso il cielo. Secondo [[Prof De Brunjes]], sono tutti un pezzo unico, dello stesso materiale, e sembrano tutti collegati - "come se fossero scoppiati".
 
-Il pilastro principale (la "Spina Centrale") si trova sul [[Megadon]] ed è alto circa 2 km con un diametro di 400m[^4]. [[Rem]] avverte: "Pilastro pericoloso, rotto, non stare vicini"[^4].
+Il pilastro principale (la "Spina Centrale") si trova sul [[Megadon]] ed è alto circa 2 km con un diametro di 400m. [[Rem]] avverte: "Pilastro pericoloso, rotto, non stare vicini".
 
-La pietra dei pilastri può essere scalfita solo dal cuneo di [[Awen Seife]][^5].
+La pietra dei pilastri può essere scalfita solo dal cuneo di [[Awen Seife]].
 
-### Geografia del Litorale[^1]
+### Geografia del Litorale
 
 **Ad ovest** - Larga laguna paludosa, prateria, foresta ai piedi di una catena montuosa. Nella foresta: [[Fontana]] e palazzo sotterraneo dei [[Fazioni/Liberi|Liberi]].
 
@@ -33,21 +33,9 @@ La pietra dei pilastri può essere scalfita solo dal cuneo di [[Awen Seife]][^5]
 
 **Sul [[Megadon]]** - Carcassa che forma colline e montagne. Città in rovina con [[Uomini Serpente]].
 
-## Anomalie[^6]
+## Anomalie
 
 - Materiali da costruzione trovati sull'isola si degradano e distorcono
 - I pezzi nativi delle navi rimangono stabili
 - Stelle strane e foschia perenne nel cielo
-- Persone non legate alle tre navi risultano scomparse: si sono mosse volontariamente nel mare di nebbia[^7]. Alcuni nella [[Furia di Cernunnos]] si sono spinti nella foresta e hanno trovato strani simboli[^7]
-
----
-
-## Fonti
-
-[^1]: [[Introduzione]]
-[^2]: [[Riepiloghi/Zamoraz/Sessione 2]]
-[^3]: [[Timeline/Timeline|Sessione 04]]
-[^4]: [[Riepiloghi/Zamoraz/Sessione 8]]
-[^5]: [[Timeline/Timeline|Sessione 07]]
-[^6]: [[Timeline/Timeline|Sessione 15]]
-[^7]: [[Riepiloghi/Ignemir/Sessione 17]]
+- Persone non legate alle tre navi risultano scomparse: si sono mosse volontariamente nel mare di nebbia. Alcuni nella [[Furia di Cernunnos]] si sono spinti nella foresta e hanno trovato strani simboli

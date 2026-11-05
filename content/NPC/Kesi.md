@@ -10,14 +10,8 @@
 
 ## Descrizione
 
-Kesi era una mezzorca sacerdotessa di Egleli sulla [[Maledizione di Mefisto]][^1]. Insieme a [[Zevon]], si preparava a cercare i fratelli evasi [[Tumba e Simon]][^1].
+Kesi era una mezzorca sacerdotessa di Egleli sulla [[Maledizione di Mefisto]]. Insieme a [[Zevon]], si preparava a cercare i fratelli evasi [[Tumba e Simon]].
 
 ## Storia nelle Sessioni
 
-- **Sessione 5**: [[Opalix]] lancia un incantesimo di amicizia per convincerla ad allearsi con il gruppo[^1]. Durante lo scontro con [[Tumba e Simon|Simon]] alla [[Fontana]], tradisce il gruppo insieme a Zevon[^1]. Tenta di catturare Simon con un collare magico ma fallisce; Simon la uccide con i suoi artigli[^1].
-
----
-
-## Fonti
-
-[^1]: [[Riepiloghi/Zamoraz/Sessione 5]]
+- **Sessione 5**: [[Opalix]] lancia un incantesimo di amicizia per convincerla ad allearsi con il gruppo. Durante lo scontro con [[Tumba e Simon|Simon]] alla [[Fontana]], tradisce il gruppo insieme a Zevon. Tenta di catturare Simon con un collare magico ma fallisce; Simon la uccide con i suoi artigli.

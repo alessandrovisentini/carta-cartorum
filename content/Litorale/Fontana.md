@@ -8,17 +8,17 @@
 
 ## Descrizione
 
-La Fontana è un grande complesso al centro della foresta, composto da una fontana principale e vasche secondarie[^1]. È costruita con una pietra verde particolare, la stessa del muro che la circonda[^1]. La geometria è tutta a cerchi, senza elementi religiosi[^1]. La scritta "Genio della Fonte" appare sulle pareti[^2].
+La Fontana è un grande complesso al centro della foresta, composto da una fontana principale e vasche secondarie. È costruita con una pietra verde particolare, la stessa del muro che la circonda. La geometria è tutta a cerchi, senza elementi religiosi. La scritta "Genio della Fonte" appare sulle pareti.
 
 ## La Barriera
 
-Un muro a secco in rovina di materiale verde scuro con una lunga inferriata alta circa 6 metri circonda la fontana[^1]. Alcuni punti sono divelti. Su alcune punte c'è l'incisione di una "V" - il simbolo dei [[Fazioni/Liberi|Liberi]][^1].
+Un muro a secco in rovina di materiale verde scuro con una lunga inferriata alta circa 6 metri circonda la fontana. Alcuni punti sono divelti. Su alcune punte c'è l'incisione di una "V" - il simbolo dei [[Fazioni/Liberi|Liberi]].
 
 ## Il Palazzo Sotterraneo
 
-Sotto la fontana c'è un palazzo sotterraneo accessibile attraverso una porta di metallo nascosta in una delle vasche secondarie[^2]. L'ascensore principale si attiva con magia su una gemma arancione[^2]. Secondo il topo [[Miglio]], la fontana apparteneva ai padroni dei topi[^5].
+Sotto la fontana c'è un palazzo sotterraneo accessibile attraverso una porta di metallo nascosta in una delle vasche secondarie. L'ascensore principale si attiva con magia su una gemma arancione. Secondo il topo [[Miglio]], la fontana apparteneva ai padroni dei topi.
 
-### Struttura:[^2]
+### Struttura:
 - **Ingresso**: Scivolo a spirale che porta a una vasca d'acqua profonda
 - **Pianerottolo**: Appendiabiti con [[Tute da Palombaro]] a tre altezze
 - **Mensa**: Stanzone con panche e tavole, scritte goliardiche in elfico e silvano
@@ -26,23 +26,13 @@ Sotto la fontana c'è un palazzo sotterraneo accessibile attraverso una porta di
 - **Corridoio crollato**: Coinvolto in un incendio, con fili d'argento
 - **Magazzino**: Scaffali distrutti, tessuti marci
 
-### Tesori:[^2]
+### Tesori:
 Una vasca profonda 60m contiene: anelli con pietre preziose, medaglioni con perle, monete d'oro con la V e una corona.
 
 ## Storia nelle Sessioni
 
-- **Sessione 5**: Il gruppo esplora la foresta e trova la fontana[^1]. Incontra [[Tumba e Simon|Simon]] in forma di cinghialoide[^1].
-- **Sessione 9**: Il gruppo esplora il palazzo sotterraneo e incontra [[Murr]][^2].
-- **Sessione 11**: Il gruppo incontra gli evasi alla fontana[^3]. Inizia l'[[Attacco della Caccia Selvaggia]][^3].
-- **Sessione 12**: Le [[Creature di Ghiaccio]] attaccano la fontana[^4]. L'ascensore viene distrutto durante il salvataggio[^4].
-- **Sessione 18**: Il gruppo ritorna alla fontana, che continua ad erogare acqua nonostante il ghiaccio[^5]. Si vedono le conseguenze della palla di fuoco di [[Vanya]][^5]. L'ascensore è distrutto: i resti vengono spostati per liberare la via[^5]. Il [[Lupercalico]] viene trovato nella sala di [[Murr]] e rompe la teca di vetro, liberando il genio[^5]. [[Murr]] esaudisce tre desideri e poi scompare, catturato dalla V[^5]. Le [[Gemme del Vuoto]] passano da luce blu a rossa, segnalando pericolo[^5]. In stanze adiacenti vengono scoperti i topi ([[Miglio]], [[Orzo]]), che sono gli Studiosi dei [[Fazioni/Liberi|Liberi]] e mantengono il flusso d'acqua[^5]. [[Vailendel]] posiziona un'[[Ancora Spaziale|ancora]] in un corridoio laterale barricato[^5].
-
----
-
-## Fonti
-
-[^1]: [[Riepiloghi/Zamoraz/Sessione 5]]
-[^2]: [[Riepiloghi/Zamoraz/Sessione 9]]
-[^3]: [[Riepiloghi/Zamoraz/Sessione 11]]
-[^4]: [[Riepiloghi/Zamoraz/Sessione 12]]
-[^5]: [[Riepiloghi/Ignemir/Sessione 18]]
+- **Sessione 5**: Il gruppo esplora la foresta e trova la fontana. Incontra [[Tumba e Simon|Simon]] in forma di cinghialoide.
+- **Sessione 9**: Il gruppo esplora il palazzo sotterraneo e incontra [[Murr]].
+- **Sessione 11**: Il gruppo incontra gli evasi alla fontana. Inizia l'[[Attacco della Caccia Selvaggia]].
+- **Sessione 12**: Le [[Creature di Ghiaccio]] attaccano la fontana. L'ascensore viene distrutto durante il salvataggio.
+- **Sessione 18**: Il gruppo ritorna alla fontana, che continua ad erogare acqua nonostante il ghiaccio. Si vedono le conseguenze della palla di fuoco di [[Vanya]]. L'ascensore è distrutto: i resti vengono spostati per liberare la via. Il [[Lupercalico]] viene trovato nella sala di [[Murr]] e rompe la teca di vetro, liberando il genio. [[Murr]] esaudisce tre desideri e poi scompare, catturato dalla V. Le [[Gemme del Vuoto]] passano da luce blu a rossa, segnalando pericolo. In stanze adiacenti vengono scoperti i topi ([[Miglio]], [[Orzo]]), che sono gli Studiosi dei [[Fazioni/Liberi|Liberi]] e mantengono il flusso d'acqua. [[Vailendel]] posiziona un'[[Ancora Spaziale|ancora]] in un corridoio laterale barricato.

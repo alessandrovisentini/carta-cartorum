@@ -8,9 +8,9 @@
 
 ## Descrizione
 
-La Rocca dei Conflitti è il bar costruito dal gruppo di avventurieri sul [[Il Litorale|Litorale]][^1]. Inaugurato durante la [[Timeline/Timeline|Sessione 15]][^1].
+La Rocca dei Conflitti è il bar costruito dal gruppo di avventurieri sul [[Il Litorale|Litorale]]. Inaugurato durante la [[Timeline/Timeline|Sessione 15]].
 
-## Struttura[^1]
+## Struttura
 
 - **Riscaldamento**: [[Nerivium]] sotto il pavimento
 - **Soppalco**: Scricchiolante, con legno che cresce (le sedie crescono attorno ai clienti seduti)
@@ -22,12 +22,12 @@ La Rocca dei Conflitti è il bar costruito dal gruppo di avventurieri sul [[Il L
 - **Guardaroba**: Per depositare le armi
 - **Insegna**: Cartello con disegni di tutti i contributori
 
-### Regole[^1]
+### Regole
 - Lista dei non-benvenuti
 - Cartello "giorni senza morti (nel bar)"
 - Regola del gossip per entrare nella lista VIP
 
-## Menu[^1]
+## Menu
 
 ### Bevande
 - Birra di radice (dalle radici delle sedie che crescono)
@@ -40,7 +40,7 @@ La Rocca dei Conflitti è il bar costruito dal gruppo di avventurieri sul [[Il L
 - Uovo sodo, uccelli, anguille, cinghiale
 - Piatto SPICY con funghi allucinogeni (molto costoso)
 
-## Personale[^1]
+## Personale
 
 | Ruolo | Personaggio |
 |-------|-------------|
@@ -54,22 +54,13 @@ La Rocca dei Conflitti è il bar costruito dal gruppo di avventurieri sul [[Il L
 
 ## Serata di Apertura
 
-- [[Luciano]] rivela informazioni sulla statua di [[Awen Seife]][^1]
-- [[Odar Brandibirra]] racconta storie sulla [[Caccia Selvaggia]][^1]
-- Un aasimar trasmette visioni inquietanti a [[Pagrax]][^1]
-- Ragni dei [[Fazioni/Liberi|Liberi]] cercano di comunicare con [[Fryolin]][^1]
+- [[Luciano]] rivela informazioni sulla statua di [[Awen Seife]]
+- [[Odar Brandibirra]] racconta storie sulla [[Caccia Selvaggia]]
+- Un aasimar trasmette visioni inquietanti a [[Pagrax]]
+- Ragni dei [[Fazioni/Liberi|Liberi]] cercano di comunicare con [[Fryolin]]
 
 ## Storia nelle Sessioni
 
-- **Sessione 16**: Il bar è aperto da un po'[^2]. [[Awen Seife]] è rimasta in camera sua per diversi giorni dopo l'inaugurazione[^2].
-- **Sessione 17**: Il gruppo si riunisce al bar per condividere informazioni[^3]. Un tè di fungo allucinogeno ed erbe invernali acuisce l'ingegno dei presenti[^3]. Esplosione nella stanza di [[Awen Seife]] causa danni a chi è nelle vicinanze[^3].
-- **Sessione 19**: Il gruppo lavora a [[La Rocca dei Conflitti]] di notte[^4]. Una figura misteriosa ruba i soldi dalla cassa e scappa attraverso una foglia di lattuga magica[^4]. Lascia nella cassa un ravanello infuso di magia[^4]. [[Bran Lapillo]] intima al gruppo di andare a dormire alle 5 del mattino[^4].
-
----
-
-## Fonti
-
-[^1]: [[Timeline/Timeline|Sessione 15]]
-[^2]: [[Riepiloghi/Ignemir/Sessione 16]]
-[^3]: [[Riepiloghi/Opalix/Sessione 17]]
-[^4]: [[Riepiloghi/Pagrax/Sessione 19]]
+- **Sessione 16**: Il bar è aperto da un po'. [[Awen Seife]] è rimasta in camera sua per diversi giorni dopo l'inaugurazione.
+- **Sessione 17**: Il gruppo si riunisce al bar per condividere informazioni. Un tè di fungo allucinogeno ed erbe invernali acuisce l'ingegno dei presenti. Esplosione nella stanza di [[Awen Seife]] causa danni a chi è nelle vicinanze.
+- **Sessione 19**: Il gruppo lavora a [[La Rocca dei Conflitti]] di notte. Una figura misteriosa ruba i soldi dalla cassa e scappa attraverso una foglia di lattuga magica. Lascia nella cassa un ravanello infuso di magia. [[Bran Lapillo]] intima al gruppo di andare a dormire alle 5 del mattino.

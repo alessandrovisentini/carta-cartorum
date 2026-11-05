@@ -14,7 +14,7 @@
 | Titolo      | L'unico dio, il benevolo           |
 | Dominio     | Protettore di tutti gli uomini     |
 
-Ha assunto alcuni compiti di [[Elunaui]][^1].
+Ha assunto alcuni compiti di [[Elunaui]].
 
 ### Resciani
 
@@ -31,7 +31,7 @@ Ha assunto alcuni compiti di [[Elunaui]][^1].
 | Dominio     | Morte                     |
 | Consorte    | Elmion (Pantheon Elfico)  |
 
-Ha assunto alcuni compiti di [[Elunaui]][^1].
+Ha assunto alcuni compiti di [[Elunaui]].
 
 ### Ptah
 
@@ -93,11 +93,4 @@ Ha assunto alcuni compiti di [[Elunaui]][^1].
 | Domini      | Famiglia, donne              |
 | Note        | Venerata sulla [[Maledizione di Mefisto]] |
 
-La [[Chiesa di Egleli]] guida i peccatori salvabili nel percorso di redenzione[^2].
-
----
-
-## Fonti
-
-[^1]: [[Riepiloghi/Zamoraz/Sessione 14]]
-[^2]: [[Introduzione]]
+La [[Chiesa di Egleli]] guida i peccatori salvabili nel percorso di redenzione.

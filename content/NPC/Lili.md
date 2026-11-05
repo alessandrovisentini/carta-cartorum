@@ -8,14 +8,8 @@
 
 ## Descrizione
 
-Lili è una bambina serpente, figlia di [[Fannipa]][^1].
+Lili è una bambina serpente, figlia di [[Fannipa]].
 
 ## Storia nelle Sessioni
 
-- **Sessione 14**: [[Eric]] le regala una moneta d'argento con incantesimo di luce[^1]. Il [[Prof De Brunjes]] rimane interdetto quando Eric conferma di aver sentito il suo tocco materiale, mettendo in dubbio la teoria che la città sia abitata da fantasmi[^1].
-
----
-
-## Fonti
-
-[^1]: [[Riepiloghi/Zamoraz/Sessione 14]]
+- **Sessione 14**: [[Eric]] le regala una moneta d'argento con incantesimo di luce. Il [[Prof De Brunjes]] rimane interdetto quando Eric conferma di aver sentito il suo tocco materiale, mettendo in dubbio la teoria che la città sia abitata da fantasmi.

@@ -9,14 +9,8 @@
 
 ## Descrizione
 
-Topo simile a quelli incontrati sotto la fontana[^1]. Idraulico al servizio degli Studiosi dei [[Fazioni/Liberi|Liberi]][^1].
+Topo simile a quelli incontrati sotto la fontana. Idraulico al servizio degli Studiosi dei [[Fazioni/Liberi|Liberi]].
 
 ## Storia
 
-Rapito e rinchiuso all'interno di una grande creatura a forma di albero, dove [[Zamoraz]] lo ha incontrato dopo essere rimasto intrappolato nel passaggio d'uscita del dungeon[^1]. Nessuna traccia di lui dopo che Zamoraz è riemerso dalla fontana[^1].
-
----
-
-## Fonti
-
-[^1]: [[Riepiloghi/Ignemir/Sessione 24]]
+Rapito e rinchiuso all'interno di una grande creatura a forma di albero, dove [[Zamoraz]] lo ha incontrato dopo essere rimasto intrappolato nel passaggio d'uscita del dungeon. Nessuna traccia di lui dopo che Zamoraz è riemerso dalla fontana.

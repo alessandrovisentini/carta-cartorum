@@ -7,55 +7,47 @@
 
 ## Descrizione
 
-Il Nerivium è una lega metallica rara con molte proprietà speciali, la principale delle quali è la capacità di mantenere il calore[^1]. È essenziale per gli elementali di fuoco come [[Bran Lapillo]] e [[Valente]] per poter esplorare il mondo senza causare danni[^1].
+Il Nerivium è una lega metallica rara con molte proprietà speciali, la principale delle quali è la capacità di mantenere il calore. È essenziale per gli elementali di fuoco come [[Bran Lapillo]] e [[Valente]] per poter esplorare il mondo senza causare danni.
 
 ## Proprietà
 
-- Mantiene il calore costante[^1]
-- Anche al freddo il calore non si attenua[^1]
-- Permette agli elementali di fuoco di esistere in sicurezza nel mondo materiale[^1]
-- Difficile da forgiare[^1]
+- Mantiene il calore costante
+- Anche al freddo il calore non si attenua
+- Permette agli elementali di fuoco di esistere in sicurezza nel mondo materiale
+- Difficile da forgiare
 
 ### Meccanica di Gioco
 
-**Armi in Nerivium:**[^2]
+**Armi in Nerivium:**
 - Critici con 19 oltre che 20
 - +1d6 danni da fuoco
 
-**Armatura e Scudo in Nerivium:**[^2]
+**Armatura e Scudo in Nerivium:**
 - +1 Armor Class
 - +1 Shield
 - Resistenza ai danni da fuoco
 
-**Focus Arcano in Nerivium:**[^2]
+**Focus Arcano in Nerivium:**
 - Può trasformare le magie in 1d6 danni da fuoco
 
 ## Creazione
 
-Il Nerivium viene creato, non estratto naturalmente[^1]. I Giganti del Fuoco sono i creatori di questo materiale[^2].
+Il Nerivium viene creato, non estratto naturalmente. I Giganti del Fuoco sono i creatori di questo materiale.
 
-Secondo [[Vanya]], la sua famiglia ha ricevuto del Nerivium in dono da dei giganti[^1].
+Secondo [[Vanya]], la sua famiglia ha ricevuto del Nerivium in dono da dei giganti.
 
 ## Storia nelle Sessioni
 
-- **Sessione 7**: [[Bran Lapillo]] si toglie l'elmo rivelando la sua faccia di fuoco e spiega le proprietà del Nerivium[^1]. L'armatura che indossa è fatta di questo materiale[^1].
-- **Sessione 13**: Il gruppo trova un carro della [[Furia di Cernunnos]] con casse piene di oggetti in Nerivium nella fortezza dei Giganti[^2]. Contenuto: attrezzi da cucina, piatti, calderone, punte di freccia, 3 spade lunghe, 3 spade corte, una lancia lunga, una faretra[^2]. Valore equivalente: **40.000 monete d'oro**[^2]. L'alabarda **Erelyth** di [[Ignemir]] viene risvegliata da [[Ocecot Oven]][^2].
-- **Sessione 16**: [[Ignemir]] dona la spada lunga in Nerivium a [[Vailendel]][^3]. Le armi in Nerivium possono aumentare le probabilità che il ghiaccio si sciolga[^3]. Il Nerivium dissolve le creature della [[Caccia Originale]] dove le trapassa[^3]. [[La Chierica Misteriosa]] porta un kanabo in Nerivium[^3].
+- **Sessione 7**: [[Bran Lapillo]] si toglie l'elmo rivelando la sua faccia di fuoco e spiega le proprietà del Nerivium. L'armatura che indossa è fatta di questo materiale.
+- **Sessione 13**: Il gruppo trova un carro della [[Furia di Cernunnos]] con casse piene di oggetti in Nerivium nella fortezza dei Giganti. Contenuto: attrezzi da cucina, piatti, calderone, punte di freccia, 3 spade lunghe, 3 spade corte, una lancia lunga, una faretra. Valore equivalente: **40.000 monete d'oro**. L'alabarda **Erelyth** di [[Ignemir]] viene risvegliata da [[Ocecot Oven]].
+- **Sessione 16**: [[Ignemir]] dona la spada lunga in Nerivium a [[Vailendel]]. Le armi in Nerivium possono aumentare le probabilità che il ghiaccio si sciolga. Il Nerivium dissolve le creature della [[Caccia Originale]] dove le trapassa. [[La Chierica Misteriosa]] porta un kanabo in Nerivium.
 
 ## Possessori Conosciuti
 
-- [[Bran Lapillo]] - Armatura completa[^1]
-- [[Ignemir]] - Alabarda Erelyth, punta di freccia[^2]
-- [[Vailendel]] - Spada lunga (ricevuta da Ignemir)[^3]
-- [[Fryolin]] - Spada corta (da adattare)[^2]
-- [[Pagrax]] - Spada assorbita nell'occhio, forchetta[^2]
-- [[Merla]] - Boccale[^2]
-- [[La Chierica Misteriosa]] - Kanabo[^3]
-
----
-
-## Fonti
-
-[^1]: [[Timeline/Timeline|Sessione 07]]
-[^2]: [[Riepiloghi/Zamoraz/Sessione 13]]
-[^3]: [[Riepiloghi/Ignemir/Sessione 16]]
+- [[Bran Lapillo]] - Armatura completa
+- [[Ignemir]] - Alabarda Erelyth, punta di freccia
+- [[Vailendel]] - Spada lunga (ricevuta da Ignemir)
+- [[Fryolin]] - Spada corta (da adattare)
+- [[Pagrax]] - Spada assorbita nell'occhio, forchetta
+- [[Merla]] - Boccale
+- [[La Chierica Misteriosa]] - Kanabo
