@@ -11,6 +11,8 @@
 
 Il Clan Oven è un clan di giganti del fuoco, conosciuti come fabbri. Sono i discendenti della **famiglia Roken**, la stirpe reale dei Giganti del Fuoco (il cui stemma è un'incudine). Furono banditi e costretti a cambiare cognome a causa della "Rovina di Roken".
 
+In Sessione 35 la fortezza è vuota e danneggiata, con [[Cruellatrix]] addormentata nella lava della Sala della Guerra. Dei giganti non c'è traccia.
+
 ## Membri Conosciuti
 
 - **Re Tregron Oven** - "Sua fiammità", l'ultimo figlio della casata Roken. Vecchio gigante in vestaglia che siede in trono nella carcassa di un drago.
@@ -52,3 +54,5 @@ Creature della corte elementale del fuoco che abitano i cunicoli del vulcano. So
 - **Sessione 13**: Il gruppo visita la fortezza dei giganti. Incontrano Re Tregron che rivela la vera storia della famiglia Roken. [[Pagrax]] cede l'[[Ancora Spaziale]] al re. I giganti decidono che è ora di agire contro i Geni.
 - **Sessione 25**: La porta degli Oven (l'arco) è stata sradicata e semidistrutta dal drago; Eric e Pagrax tentano di volare verso il castello e vengono colpiti da arpioni sparati dalla lava. I giganti formano un passaggio attraverso la lava coi loro corpi per far entrare la compagnia. La fortezza appare più militarizzata: meno arazzi, molte più armi disposte. Un misterioso filo rosso sale dal centro del colonnato verso l'alto (significato ignoto). Il numero di giganti sembra inferiore a quanto la fortezza potrebbe contenere, ma i giganti non vogliono scoprire le proprie carte. [[Re Tregron Oven]] si trova al di sotto del castello ad osservare il Toro. I giganti dichiarano di non voler lasciare il vulcano: sono lì come monito perché altri giganti non subiscano la stessa sorte dei Roken, e rimarranno fino a che tutto sarà "cancellato". La compagnia si offre di eliminare le salamandre nei cunicoli in cambio di partecipare all'operazione di caccia del drago.
 - **Sessione 30**: Attraverso l'[[Ancora Spaziale|àncora]], [[Rosanno]] e [[Pipi]] finiscono nella cella in cui i giganti tengono il Toro; un gigante con grossa armatura e mazza ferrata li intima di fermarsi e, dal varco, una voce profonda chiede dov'è [[Tiriano il Saggio|Tiriano]] e perché non siano tornati.
+- **Sessione 33 Pt 1**: Migliaia di salamandre assaltano la fortezza. Il [[Lupercalico]] rivela il patto con la [[Furia di Cernunnos]]: la Furia estrae pietra lavica per i giganti in cambio di [[Nerivium]], senza disturbare le salamandre.
+- **Sessione 35**: La compagnia trova la fortezza vuota e danneggiata da almeno un paio di giorni, con una grossa gemma rossa che sventra il mausoleo. [[Cruellatrix]] dorme nella lava della Sala della Guerra.

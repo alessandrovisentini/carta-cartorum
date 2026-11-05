@@ -41,6 +41,10 @@ Nella Sessione 23, [[Bran Lapillo]] porta con sé un'ancora che si illumina di l
 
 - **Sessione 32**: Il passaggio segreto è sopra il braciere e richiede di pensare all'ancora-destinazione giusta: [[Brottor]], che pensa costantemente ai Megadon, conduce il gruppo al villaggio sul [[Megadon]]. Al ritorno la compagnia nasconde l'ancora in un punto molto riparato della valle, temendo che i cani e i cercatori [[GG]] possano scovarla.
 
+- **Sessione 33 Pt 1**: Eric, Ignemir e Pagrax la usano per arrivare nella cella dei giganti; nessun segno dei Geni al passaggio.
+
+- **Sessione 35**: La compagnia di soccorso arriva nella cella dei giganti, chiude l'àncora e la porta via. Al ritorno la nasconde in un pozzo dell'avamposto minerario della Furia sul [[Vulcano]] e rientra al villaggio; Ignemir, attraversandola, sente grida disumane.
+
 ## Il Patto coi Geni
 
 I [[Geni del Fuoco]] hanno modificato l'ancora in cambio di un patto:

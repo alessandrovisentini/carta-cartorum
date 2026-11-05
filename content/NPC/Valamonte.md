@@ -15,7 +15,7 @@ aliases:
 
 ## Descrizione
 
-Cavaliere della casata Valamonte, conosciuto come il "Cavaliere della Cenere". Valamonte è sia il nome della casata sia il suo nome proprio. Uomo sulla sessantina, alto e tracotante, con barba e capelli ricci sui lati della testa, armatura un po' unta e pettorale con una montagna. È quasi sempre ubriaco. Lo chiamano anche "Principe della Cenere".
+Cavaliere della casata Valamonte, conosciuto come il "Cavaliere della Cenere". Valamonte è sia il nome della casata sia il suo nome proprio. Uomo sulla sessantina, alto e tracotante, con barba e capelli ricci sui lati della testa, armatura un po' unta e pettorale con una montagna. È quasi sempre ubriaco. È stato mutilato. Lo chiamano anche "Principe della Cenere".
 
 Il simbolo della casata è un albero con le radici e, al posto della chioma, uno stendardo araldico. [[Tricolin]] lo porta su una spilla.
 
@@ -33,3 +33,4 @@ Un messaggio firmato "I.L'E" ([[Ildefonso L'Ercan]]) recita: "Alla Rocca dei Con
 - **Sessione 26**: [[Vailendel]] e [[Pagrax]] lo trovano ubriaco in una tenda militare fuori dalla Furia. Dice che i dispersi sono dati per morti. Cede a Pagrax un dente di [[Uruan]], preso dopo una rissa, e un contenitore in [[Nerivium]] di [[Valente]].
 - **Sessione 27**: Crolla ubriaco nel bar della [[La Rocca dei Conflitti|Rocca dei Conflitti]] e chiama Pagrax "Zamoraz". Lo seguono, imbarazzati, [[Tricolin]] e il paggio [[Ildefonso L'Ercan]]. Secondo Tricolin, dopo il naufragio [[Uruan]] ha avuto una pessima influenza su di lui: si è perso nell'alcol e ha dimenticato che la priorità è ritrovare la principessa Lumira.
 - **Sessione 31**: Si unisce alla spedizione verso il [[Megadon]] insieme a [[Ben]], [[Ildefonso L'Ercan]] ed [[Endry l'Immenso]], ubriaco. Con Tricolin cerca la principessa Lumira della Corte del Primo Sole e si vanta che sconfiggerà la [[Madre di tutte le vedove]]. Ignorando gli avvertimenti, riapre di slancio la porta dello [[Scheletro Dorato]], che gli afferra il polso: l'armatura argentata e il braccio si ricoprono di una macchia scura che si espande lentamente. In preda al panico afferra Tricolin; [[Ignemir]] lo rassicura con disprezzo, promettendogli le cure di [[Eric]] al villaggio.
+- **Sessione 35**: La sua mutilazione inasprisce gli scontri dentro la [[Furia di Cernunnos]].

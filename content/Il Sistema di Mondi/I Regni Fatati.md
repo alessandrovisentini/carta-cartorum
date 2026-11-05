@@ -22,6 +22,14 @@ Le corti fatate ricoprono un ruolo importante nell'equilibrio di Targea. In cert
 - **Kallak** - Regina dell'Inverno, Corte Elementale
 - **Oran il Lord Verde** - Collegato agli insetti, non è né Cernunnos né la regina
 
+## I Cinque Cardini
+
+Secondo le *Cronache Antiche delle Fate* l'equilibrio di ogni corte è assicurato da cinque cardini:
+
+- **Corte Splendente** (*Nir Ta Nog*): la Regina Titania, la fata madrina; [[Cernunnos]], signore della caccia selvaggia; [[Oran il Lord Verde|Oran, Lord Silvano]]; Hyrsam, lo sciocco; Veranessa, la Principessa Quercia
+- **Corte Crepuscolare** (*Murg Ev Mel*): Dorghea, regina dell'oscurità, la fata matrigna; Neifion, Signore dei pipistrelli; Quivr, Principe della lunga notte; Sommo Scarabeo, il Sovrano d'Osso; Nintra Siotta, la Principessa Cristallo Offuscato
+- **Corte Elementale** (*Ann O Wuen*): Callach, Regina di ghiaccio; Ariel, signore dei venti; Kailenara, l'incendio vivo; Uryan, cuore della marea; Malai, il vuoto
+
 ## Relazione con la Caccia Selvaggia
 
 La [[Caccia Selvaggia]] ha tre aspetti diversi, uno per ogni corte. Le stagioni gestite dalla Corte Elementale significano che problemi nelle stagioni indicano problemi nelle corti.

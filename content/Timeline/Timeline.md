@@ -210,8 +210,28 @@ Con una barca dei [[Famiglia Mestizzi|Mestizzi]] la compagnia salpa verso la pal
 
 [[Brottor]] racconta la sua storia e conferma che è un [[Uova di Megadon|uovo di Megadon]]. Tornati nello scantinato sul Megadon, il gruppo trova una trappola di fuoco e undici uomini armati marchiati [[GG]] che cercano le uova, e si nasconde.
 
+## Sessione 33 Pt 1 - I Geni del Fuoco (1)
+
+**Data:** 17/07/2026 · **Riepiloghi:** [[Riepiloghi/Ignemir/Sessione 33 Pt 1|Ignemir]]
+
+Il [[Lupercalico]] si rivela essere [[Il Satiro]] della Furia e indica [[Elya]] come autrice della mappa del [[Palazzo dei Genii]]; [[Tig]] mostra a Eric una visione della sorella [[Luna]]. Nella fortezza del [[Clan Oven]], sotto l'assalto delle salamandre, [[Ocecot Oven]] affida il gruppo a Elya e [[Lydia Avinil]], che lo portano fino alla lampada dei Geni. Dentro, Eric finisce nella trappola del corridoio e la [[Sfinge]] si sveglia.
+
+## Sessione 33 Pt 2 - I Geni del Fuoco (2)
+
+**Data:** 09/10/2026 · **Riepiloghi:** [[Riepiloghi/Ignemir/Sessione 33 Pt 2|Ignemir]]
+
+La [[Sfinge]] mette alla prova il gruppo e chiama [[Argan e Asbad]], che non vogliono rinegoziare il patto e mentono sulla fiala del [[Vincolo Infernale]]. Un Genio mette fuori combattimento Eric e Pagrax; [[Tig]] cade, si apre e risucchia il palazzo, mentre Ignemir, trasformato in bestia, porta in salvo i compagni con la gemma del [[Lupercalico]]. [[Elya]] ruba la cassa e fugge; al villaggio sono passate due settimane.
+
 ## Sessione 34 - Dov'è Luciano?
 
 **Data:** 21/07/2026 · **Riepiloghi:** [[Riepiloghi/Eric/Sessione 34|Eric]]
 
 Ultima sessione del Blocco 5. Indagando sulla scomparsa di [[Luciano]], il gruppo assume [[Lubella]] e si infiltra nella [[Rivalsa]], dove trova l'atto del [[Circo El Fuente]] e una lettera che cita la [[Biblioteca Magna]]. Nella [[Biblioteca Proibita]], sorvegliata da [[Il Custode]], ritrovano Luciano che si nutre di libri.
+
+# Blocco 6
+
+## Sessione 35 - Soccorso al Vulcano
+
+**Data:** 23/10/2026 · **Riepiloghi:** [[Riepiloghi/Ignemir/Sessione 35|Ignemir]]
+
+Guidata da [[Vanya]], la compagnia attraversa l'[[Ancora Spaziale|àncora]] per cercare i dispersi e trova la fortezza del [[Clan Oven]] vuota, con [[Cruellatrix]] addormentata nella lava. Il drago si sveglia: [[Opalix]] si trasforma in drago, recupera Ignemir, Pagrax ed Eric alla base del vulcano e tutti fuggono con l'àncora. Opalix resta indietro, seguendo una voce che gli dice "Benvenuto a casa".

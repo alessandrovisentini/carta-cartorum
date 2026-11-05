@@ -27,3 +27,5 @@ Secondo [[Brottor]] è un vero uovo di Megadon: i Megadon vi restano due anni pr
 
 - **Sessione 31**: La compagnia scende nello scantinato seguendo orme grandi e umanoidi, libera [[Brottor]] da un bozzolo e stacca dalla parete un grande "uovo sbrilluccicoso" per portarlo al villaggio; la stessa luce verde e rossa pulsava dal caminetto e dallo scantinato ancor prima di scendere.
 - **Sessione 32**: Il gruppo esamina a fondo l'uovo alla casa, mentre [[Brottor]] lo osserva rapito. Deciso a capirne l'origine, torna allo scantinato sul Megadon e lo trova svuotato: le altre uova sono sparite, portate via dai cercatori marchiati [[GG]].
+- **Sessione 33 Pt 1**: [[Pagrax]] sente nel bozzolo l'energia di un Megadon; dalle lezioni del suo insegnante non risulta nulla sulla riproduzione dei Megadon.
+- **Sessione 33 Pt 2**: Dalla prova della [[Sfinge]] emerge che i Megadon sono infertili, ma l'uovo dimostra che possono covare.

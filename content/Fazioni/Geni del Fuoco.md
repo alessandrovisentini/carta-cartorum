@@ -11,6 +11,8 @@
 
 I Geni del Fuoco sono creature ibride della Corte Elementale, in contatto con angeli e demoni. Hanno un potere superiore rispetto agli altri geni e sono ancora più vincolati a leggi e patti. Perseguono una vocazione artistica e andare contro il loro concetto di bello/arte va immensamente contro le loro persone.
 
+Vengono dalle Corti Fatate: sono Fate o Elementali. Ogni Genio vincolato vive dentro una sua lampada.
+
 È molto raro vedere due geni assieme. [[Vailendel]] propone la teoria che Argan e Asbad siano in realtà un unico genio appassionato di teatro: la prima volta si sono manifestati come drappi rossi a forma di bocche parlanti, richiamando le tende rosse di un sipario.
 
 ## Regole dei Patti
@@ -26,3 +28,4 @@ I Geni del Fuoco hanno un antico conflitto con il [[Clan Oven]]. In passato hann
 - **Sessione 10**: Il gruppo incontra [[Argan e Asbad]] nel [[Palazzo dei Genii]] e stringe il [[Patto coi Geni del Fuoco]].
 - **Sessione 13**: [[Awen Seife]] rivela che non è conveniente cercare scappatoie nei patti con i Geni. I giganti decidono di affrontarli dopo la confessione del gruppo.
 - **Sessione 25**: Intercettano [[Ignemir]] durante il transito attraverso l'[[Ancora Spaziale]] dalla fortezza dei giganti. Con voce minacciosa avvertono che non gradirebbero una ritrattazione del patto; confermano di sapere che l'ancora è vicina alla sala del Toro, ma che "non è ancora sufficiente". [[Ignemir]] mente loro, dicendo che il piano procede come previsto. Ignemir rivela anche ai giganti che la mappa donatagli dal [[Lupercalico]] mesi prima è in realtà la pianta del Palazzo dei due Geni del fuoco.
+- **Sessione 33 Pt 2**: Il gruppo entra nella lampada di [[Argan e Asbad]] e tenta di rinegoziare il patto; lo scontro finisce con la distruzione del [[Palazzo dei Genii]] da parte di [[Tig]].

@@ -34,3 +34,5 @@ Nascosto nelle caverne c'è il [[Palazzo dei Genii]], dove risiedono [[Argan e A
 - **Sessione 6**: Il gruppo visita l'avamposto della Furia e esplora il vulcano.
 - **Sessione 10**: Il gruppo esplora le caverne e incontra i geni del fuoco.
 - **Sessione 13**: Il gruppo si teletrasporta qui tramite l'[[Ancora Spaziale]] e visita la fortezza del [[Clan Oven]].
+- **Sessione 33 Pt 2**: Il [[Palazzo dei Genii]] implode, risucchiato da [[Tig]].
+- **Sessione 35**: La fortezza del [[Clan Oven]] è vuota e occupata da [[Cruellatrix]]. Un'[[Ancora Spaziale|àncora]] resta nascosta in un pozzo dell'avamposto minerario della Furia.

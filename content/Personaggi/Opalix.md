@@ -10,6 +10,8 @@
 
 Opalix è un changeling del gruppo, con abilità magiche di incantamento. Può assumere l'aspetto di altre persone.
 
+È disperso dalla Sessione 35: è rimasto oltre l'[[Ancora Spaziale|àncora]] seguendo una voce che gli ha detto "Benvenuto a casa".
+
 ## Storia nelle Sessioni
 
 - **Sessione 5**: Lancia un incantesimo di amicizia su [[Kesi]] per convincerla ad allearsi. Viene colpito alle spalle durante il tradimento. Attacca con cubo di pugnali. Prende il pendente con foto di famiglia di [[Zevon]].
@@ -22,3 +24,4 @@ Opalix è un changeling del gruppo, con abilità magiche di incantamento. Può a
 
 - **Sessione 24**: Rivela alla compagnia la propria identità di changeling e la storia del maestro **[[Uvarax Fenkenkabradon]]** (dragonide), assassinato dal Consiglio di **Picco d'Ilezeia** — trovato avvelenato con dell'inchiostro — a causa delle ricerche segrete che conducevano insieme sui mutaforma. Opalix si incolpa per aver tenuto nascosta la ricerca. Svela la natura dei changeling: i genitori scambiano i propri figli alla nascita con neonati di altre creature; Opalix fu scambiato con una bambina mezzelfa lasciata di fronte al monastero. Uvarax trovò Opalix con le sembianze di una mezzelfa, mantenute per vent'anni. Dopo la morte di Uvarax e la lettura dei libri di ricerca da parte del Consiglio, Opalix assunse le sembianze di una genasi dell'acqua e lasciò Picco d'Ilezeia. Può assumere la forma di creature viste almeno una volta; ha visto il proprio vero volto una sola volta, a dodici anni. "La mia razza sta scontando una colpa solo esistendo."
 - **Sessione 27**: Interroga [[Awen Seife]] sulle [[Gemme del Vuoto]] e parte con [[Vanya]] e [[Tricolin]] verso la foresta. Evoca [[Eidelis]] dal proprio libro. In stato alterato da funghi interagisce con oblietite e biglietto dei Liberi. Sul [[Megadon]] assume una forma draconica improvvisata per permettere al gruppo di fuggire dalla faglia. Dopo la trasformazione rientra quasi del tutto in forma di genasi, ma metà volto resta grigio e rigido con un occhio vacuo.
+- **Sessione 35**: Assume le sembianze di Re Tregron senza averlo mai visto. Per fuggire da [[Cruellatrix]] mostra per un attimo la sua vera forma (grigia, amorfa, con mani simili a quelle dei [[Doppelganger]]) e diventa un drago; Cruellatrix gli parla ("Casa tua è qui"). Resta oltre l'àncora e segue una voce che gli dice "Benvenuto a casa".

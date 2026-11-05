@@ -24,3 +24,5 @@ I Geni del Fuoco vogliono che il gruppo attivi l'[[Ancora Spaziale]] vicino al T
 
 - **Sessione 10**: I [[Argan e Asbad|Geni del Fuoco]] menzionano "il toro imprigionato dai giganti" nel [[Patto coi Geni del Fuoco]].
 - **Sessione 13**: Il gruppo vede il Toro nella sala del trono di [[Re Tregron Oven]]. [[Ocecot Oven]] si infuria quando vengono nominati i Geni: "Rivogliono le catene?!"
+- **Sessione 33 Pt 1**: [[Ocecot Oven]] racconta che i giganti chiesero ai Geni come imprigionarlo e i Geni fornirono le catene.
+- **Sessione 33 Pt 2**: I Geni dicono che il Toro è nato per un solo scopo, la fine degli Oven. [[Eric]] intuisce che le catene non sono state fatte dai Geni.

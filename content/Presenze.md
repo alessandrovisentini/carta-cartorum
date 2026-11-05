@@ -35,4 +35,7 @@
 | 30 | 12/06/2026 | Akesi, Eidelis, Merla, Pagrax, Rosanno |
 | 31 | 05/07/2026 | Brottor, Eidelis, Ignemir, Tricolin, Vailendel, Vanya |
 | 32 | 09/07/2026 | Akesi, Brottor, Merla, Rosanno, Zamoraz |
+| 33 Pt 1 | 17/07/2026 | Eric, Ignemir, Pagrax |
+| 33 Pt 2 | 09/10/2026 | Eric, Ignemir, Pagrax |
 | 34 | 21/07/2026 | Eric, Merla, Rosanno, Vanya |
+| 35 | 23/10/2026 | Akesi, Eidelis, Hoot, Opalix, Tricolin, Vanya |

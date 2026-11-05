@@ -22,6 +22,7 @@ Originariamente il nome era "Benedizione di Mefisto" - la parola "Benedizione" �
 - **Sessione 16**: [[Vailendel]] cerca di ottenere un carretto e un collare. Viene cacciato dai "ramini" (equivalenti dei tizzoni per la parte penitenziaria) e quasi si fa arrestare. Una nana con basettoni lunghi e un dragonide con scaglie scarlatte del culto di Throrgran non sembrano conoscere Torreno.
 - **Sessione 23**: Durante l'[[Attacco della Caccia Selvaggia]], il drago fugge dalla prigionia della nave.
 - **Sessione 24**: Dodici giorni dopo l'attacco, la nave è in condizioni preoccupanti. Strani esseri di vetro e luce pattugliano l'esterno insieme agli [[Oditori di Ferro]]. [[Chiesa di Egleli|Tizzoni e Ramini]] avvolgono le aree danneggiate con pergamene piene di simboli. [[Zagres]] e le [[Chiesa di Egleli|Ravvivatrici]] del culto di [[Chiesa di Egleli|Egleli]] hanno fatto il possibile per salvare più vite, ma le loro preghiere si alzano nel silenzio della dea. Gira voce che [[Dork Lork]] sia quasi morto dopo un rituale fallito miseramente. [[Torreno]] è venuto a chiedere notizie della compagnia e di [[Kesi]].
+- **Sessione 35**: Finite le riparazioni d'emergenza, prepara un rastrellamento per ritrovare gli ospiti indesiderati. Le due fedi della nave sono in tensione su come affrontare il drago.
 
 ## Evasi
 

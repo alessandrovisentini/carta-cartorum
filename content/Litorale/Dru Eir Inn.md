@@ -14,3 +14,5 @@ Nome, in lingua fatata, dell'unico reame che esisteva prima della nascita delle 
 - La Corte Elementale — *Ann O Wuen*
 
 Nella [[Biblioteca Proibita]] [[Luciano]] scopre menzioni di questo scisma e del reame che lo precedette, "quando fosse tutto assieme all'inizio". [[Eric]] conserva memoria delle tre corti già da quando si trovava sul [[Megadon]], segno che la separazione è avvenuta ancora prima.
+
+Le *Cronache* raccontano la morte del Dru Eir Inn per mano di Fincullin e delle popolazioni libere, da cui nascono le tre corti. Secondo la raccolta di poesie *Prima Grande Foresta*, la fine del primo reame fatato coincide con la morte della foresta-albero Pando (vedi [[Iperuranio]]).

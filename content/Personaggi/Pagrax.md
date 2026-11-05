@@ -30,6 +30,9 @@ Pagrax è un membro del gruppo con conoscenze sulla [[Caccia Selvaggia]] e capac
 - **Sessione 26**: Con [[Vailendel]] recupera dalla [[Furia di Cernunnos]] un contenitore in nerivium legato a [[Valente]] e un dente di [[Uruan]]. In forma di mastino usa l'odore del dente per seguire una traccia oltre la palizzata, fino agli orti e alla zona di [[Manny]].
 - **Sessione 28**: Dopo una notte di eccessi al bar (con perdita di denaro al gioco), parte con [[Zamoraz]], [[Hoot]], [[Tricolin]] e [[Akesi Tomo]] verso le gallerie. Prende il ruolo di guida designata lungo il litorale e verso la foresta.
 - **Sessione 30**: Si conficca la scimitarra nell'orbita vuota per connettersi con [[L'Osservatore|Ignazio l'Osservatore]] e sprofonda in una cascata di visioni — una creatura grigia e informe con una corona, una "V" in ottone, un cielo verde che si incrina, un leone verde con un'ascia sormontato da un uccello dorato di fiamme, pilastri, un sarcofago, due immensi occhi e una fornace di soli. Pone domande sull'isola e sulla "V", affronta il proprio riflesso (che ha entrambi gli occhi) e si risveglia in posizione fetale, illeso, con il patto rafforzato. Taglia un campione di [[Melma vivente|melma bianca]] con la scimitarra in [[Nerivium]], subendo danni da fuoco, e nasconde l'[[Ancora Spaziale|àncora]] su un albero. Con [[Eidelis]] parla di [[Lorprax]] e dell'Osservatore.
+- **Sessione 33 Pt 1**: Sente nell'[[Uova di Megadon|uovo di Megadon]] l'energia di un Megadon e ricorda le lezioni del suo insegnante Sulprax. Soffre di claustrofobia nei cunicoli del vulcano.
+- **Sessione 33 Pt 2**: Accetta la prova della [[Sfinge]] e tenta di rinegoziare il patto con i Geni, offrendo loro "la vostra vita". Colpito dal fuoco del Genio, sviene.
+- **Sessione 35**: Esausto alla base del vulcano, saluta il drago di [[Opalix]] ("Arrivano i draghi!") e torna al villaggio.
 
 ## Natura del Potere
 

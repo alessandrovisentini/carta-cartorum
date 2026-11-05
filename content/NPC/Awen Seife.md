@@ -32,6 +32,7 @@ Possiede una stanza dedicata allo studio e all'arte, fredda, con un tavolo su cu
 - **Sessione 26**: Avverte il gruppo che qualcosa interferisce con la magia delle ancore e con le pratiche religiose, non solo nel suo caso. Mostra frammenti "recenti" e "dormienti" di oblietite: i nuovi tendono a ricomporsi e a muoversi verso quelli antichi. Si oppone con forza alla consegna delle gemme conservate nella custodia in nerivium, definendole estremamente pericolose.
 - **Sessione 30**: Interrogata da [[Eidelis]] sulla "V", ipotizza una correlazione con i fenomeni magici della zona. Vedendo la luce rossa dell'[[Ancora Spaziale|àncora]] si allarma: percepisce una terza presenza oltre ai due passaggi già aperti, qualcosa che tenta di aprire una faglia per giungere al villaggio; vuole tuffarsi nel passaggio ma viene fermata. Esamina con un monocolo runico il campione di sostanza bianca portato da [[Pagrax]] e lo identifica come una [[Melma vivente]].
 - **Sessione 32**: Una magia rivelatrice scopre un suo biglietto invisibile sul soffitto della casa: "Che questa casa sia serena, indisturbata, che porti sonni tranquilli a chi ci sta dentro", firmato con tante piccole ninna nanne che ne compongono il nome. [[Brottor]], che sa leggere l'elfico, riesce a decifrarlo.
+- **Sessione 35**: Viene chiamata dalla [[Maledizione di Mefisto]] a incontrare [[Zagres]]. Da quando Ignemir, Pagrax ed Eric sono partiti non sente più l'energia che interferiva con l'[[Ancora Spaziale|àncora]].
 
 ## La Statua Misteriosa
 

@@ -32,3 +32,4 @@ Il contratto è apparso in infernale sul pavimento del palazzo. È stato firmato
 ## Sviluppi
 
 - **Sessione 13**: [[Pagrax]] confessa il patto al [[Clan Oven|Re Tregron Oven]] e cede l'[[Ancora Spaziale]]. I giganti decidono di affrontare i Geni.
+- **Sessione 33 Pt 2**: [[Pagrax]] tenta di rinegoziare il patto ("Stupiteci, mettete un prezzo alla vostra libertà"); la trattativa finisce nello scontro e nella distruzione del [[Palazzo dei Genii]]. Lo stato del patto non è chiaro.
